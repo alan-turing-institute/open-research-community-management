@@ -1,0 +1,56 @@
+# Community Manager Induction at The Alan Turing Institute
+
+- [ ] Working from home equipment 
+    - [ ] Laptop
+    - [ ] Monitor 
+    - [ ] Peripherals (keyboard, mouse, camera, microphone) 
+    - [ ] Any other WFH equipment required (eligibility for expenses to check with HR)
+- [ ] HR induction
+- [ ] IT induction
+- [ ] Project manager induction (onboarding on the project and the research programme)
+- [ ] Setting expectation for when we meet
+    - [ ] 1:1 meeting
+        - [ ] Names of the key members
+    - [ ] Group meeting for Community Managers
+      - [ ] Purpose, resources, schedule 
+    - [ ] Whitaker lab
+      - [ ] Informal coffee chats
+      - [ ] Calendar invites
+    - [ ] Coffee Rotation 
+    - [ ] Introduce TPS
+      - [ ] Resources, events and projects - https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems
+      - [ ] TPS seminar, coffee chats, other events
+      - [ ] The Turing Way (BookDash, Collaboration Cafe, Coworking) - https://hackmd.io/@turingway/demo-intro
+      - [ ] Open Life Science - https://openlifesci.org/
+- [ ] Slack
+    - [ ] Add them to different channels and workspace
+    - [ ] Add them to The Turing Way Slack channel
+- [ ] Events
+    - [ ] Send calendar invite of Collaboration Cafe
+    - [ ] The Turing Way reading group <-- Let Aida know
+    - [ ] TPS coffee chats
+- [ ] Their projects
+    - [ ] Roche: Vicky
+    - [ ] ASG: Achintya
+    - [ ] EDoN: Arron
+    - [ ] ...
+- [ ] Email intro
+    - [ ] Ask for bio
+    - [ ] Make introductions with the following people
+        - [ ] Training team
+        - [ ] REG team: Rolly, Fede
+        - [ ] Whitaker lab
+        - [ ] TPS members on Slack
+        - [ ] Communications Team 
+        - [ ] Relevant Programme Management Team member (e.g. Harriet/Hannah)
+        - [ ] Relevant Partnerships Team member 
+        - [ ] Relevant Events 
+        - [ ] Project leads and team members
+- [ ] Documents/ locations to share with them? 
+	- [ ] Sharepoint
+	- [ ] Turing Complete
+	- [ ] GitHub
+	- [ ] HackMD
+	- [ ] Turing projects
+- [ ] Request for bio pages
+- [ ] Access to notion/shared pages
