@@ -8,3 +8,4 @@ This repository will collect information relevant to the team, and for the wider
 - Malvika Sharan, Senior Researcher - Open Research; Tools, Practices and Systems Research Programme)
 - Achintya Rao, Community Manager; AI for Science and Government Research Programme
 - Vicky Hellon, Community Manager; Turing-Roche Strategic Partnership
+- Arron Lacey, Senior Community Manager; Early Detection of Neurodegenerative Disease (EDoN)
