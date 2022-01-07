@@ -24,7 +24,9 @@ The overarching mission is to make research and innovation more efficient and ef
 - Emma Karoune, Senior Community Manager; RSS Lab and DECOVID
 - Vicky Hellon, Community Manager; Turing-Roche Strategic Partnership
 
-*Senior Researchers and  Senior Community Managers report to Kirstie Whitaker, Director of the Tools, Practices and Systems Research Programme.*
+**Note**:
+- All team members are also onboarded as the core members of [*The Turing Way* project](https://the-turing-way.netlify.app/welcome). See the [Ways of Working](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) for details.
+- Senior Researchers and  Senior Community Managers report to [Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), Director of the Tools, Practices and Systems Research Programme.
 
 ### Members from the Collaborating Projects
 
