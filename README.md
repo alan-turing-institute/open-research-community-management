@@ -5,7 +5,7 @@
 Community managers at the Turing invest in engaging, training and empowering a diverse group of researchers, research engineers, programme management, and business team members by fostering diverse Communities of Practice. 
 The Turing community managers are assigned to specific projects where they collaborate closely with others and identify where they can surface implicit knowledge and make information explicitly available so that everyone who wants to can participate. 
 
-With other community managers at the institute, they join the [Tools, Practices and Systems Research Programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems)'s [Open Research Community Building](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) project.
+With other community managers at the institute, they join the [Tools, Practices and Systems](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) (TPS) Research Programme's [Open Research Community Building](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) project.
 As a team, we ensure that the research that happens at the Institute is created to be maintained, sustained, remixed and reused.
 
 Through the active adoption of open research, reproducibility and collaborative approaches in data science projects, they contribute toward building interconnected systems of open source software, datasets, communities and processes.
@@ -15,7 +15,7 @@ The overarching mission is to make research and innovation more efficient and ef
 
 ### Organiser and Lead
 
-- Malvika Sharan, Senior Researcher - Open Research; Tools, Practices and Systems Research Programme
+- Malvika Sharan, TPS Senior Researcher - Open Research
 
 ### Team Members
 
@@ -24,14 +24,12 @@ The overarching mission is to make research and innovation more efficient and ef
 - Emma Karoune, Senior Community Manager; RSS Lab and DECOVID
 - Vicky Hellon, Community Manager; Turing-Roche Strategic Partnership
 
-**Note**:
-- All team members are also onboarded as the core members of [*The Turing Way* project](https://the-turing-way.netlify.app/welcome). See the [Ways of Working](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) for details.
-- Senior Researchers and  Senior Community Managers report to [Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), Director of the Tools, Practices and Systems Research Programme.
-
 ### Members from the Collaborating Projects
 
 - Ayesha Dunk, AI and Data Science Educators Programme, The Alan Turing Institute
 - Sarah Gibson, JupyterHub Community Development Lead, 2i2c and JupyterHub
+
+*Please read [ways of working](./ways_of_working.md) document to navigate your role in the Open Research Community Building Team*.
 
 ## New members and Collaborators
 
