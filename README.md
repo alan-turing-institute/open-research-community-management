@@ -36,4 +36,6 @@ The overarching mission is to make research and innovation more efficient and ef
 ## New members and Collaborators
 
 New members or collaborators of the Open Research Community Building team will be onboarded by the project lead and added as a contributor to this project repository.
+Please [create an issue for your induction](https://github.com/alan-turing-institute/community-manager-team/issues/new?assignees=&labels=onboarding&template=NEW_MEMBERS.md&title=%5BINDUCTION%5D) (if not already created by the project lead).
+
 If you would like to collaborate or connect your project with our work, please contact [Malvika Sharan](mailto:msharan@turing.ac.uk).
