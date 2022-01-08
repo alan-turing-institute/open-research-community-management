@@ -56,11 +56,11 @@ If you would like to collaborate or connect your project with our work, please c
 ## Guiding Principles
 
 - Maintain respect, empathy and integrity within the team.
-- Actively identify opportunities for collaboration and practicing openness (applying open science/research principles).
+- Actively identify opportunities for collaboration and practising open research principles.
 - Prioritise diversity, equity and inclusion in all our work.
-- Contribute to the ongoing professional development of team members for the purpose of maximising their contribution to the team's work, their careers, and open research at large.
+- Contribute to the ongoing professional development of team members to maximise their contribution to the team's work, their careers, and open research at large.
 - Provide access to resources that empower and enable each other to discover, display and directly use their knowledge and skills.
-- Create a safe and non-judgemental environment to admit mistakes, show vulnerability and draw learning from our failure.
+- Create a safe and non-judgemental environment to admit errors and draw learnings from our mistakes.
 - Collaborate with individuals and institutions beyond the team that expand and extend our mission for open research and community building.
 - Be willing to work through conflicts to resolution.
 
