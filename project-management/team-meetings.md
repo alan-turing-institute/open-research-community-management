@@ -54,15 +54,14 @@ You can leave comments, reactions, recommendations or feedback (when asked) or r
 Please also read the **Agenda** section at the end of the HackMD for particular theme for the respective week's discussion.
 
 ```
-# TEMPLATE: Open Research Community Building team Meeting | `DATE`
+# Open Research Community Building team Meeting | YYYY-MM-DD
 
-Time: TBA
-
-Zoom: TBA
+* Time: TBA
+* Zoom: TBA  
 
 [TOC]
 
-### Useful Notes and Links
+### Useful Notes and Links  
 
 * We will use Zoom for this call, unless stated otherwise
 * You can put the 📢 emoji next to your bullet point if you would like that update to be shared publicly.
@@ -71,66 +70,76 @@ Zoom: TBA
 * Shared calendar with meeting times: https://calendar.google.com/calendar/u/0?cid=cGtlazVnc2xkcjlwYWRhNjc4MTJyaGtiaW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 * GitHub for the project repo: https://github.com/alan-turing-institute/community-manager-team
 
-### Attendees
+### Attendees  
 
-> *Please add your name below*
-
+> *Please add your name below* 
+* 
+*  
 * 
 * 
 * 
 * 
-* 
-* 
-
 
 ### Apologies
+* 
+*   
 
 > *Please add your name below if you are not able to attend the meeting.
-
+* 
+*   
 * 
 * 
 * 
+*   
 
 ### Personal and project highlights (celebration, success, failures and everything in between)
 
-> *Please add a bullet point with something you'd like the team members to know about*.
+> *Please add a bullet point with something you'd like the team members to know about\*.
 > You may respond to any of the points before or after the team meeting
-
 * 
+*   
 * 
-* 
+*   
 * 
 * 
 
 ### Community related things you are currently working on
 
-> *Please share any interesting technical, social or community building skills and practices that you have recently learned or applied in your work*.
+> *Please share any interesting technical, social or community building skills and practices that you have recently learned or applied in your work\*.
+* 
+*   
+* 
+*   
+* 
+* 
 
-* 
-* 
-* 
-* 
-* 
+### What would you like team members' opinion(s) on?**
 
-###  What would you like team members' opinion(s) on?**
-
-> *Please share questions, problems or challenge where you would like opinions, succestions, recommendations and feedback from team members*.
-
+> *Please share questions, problems or challenge where you would like opinions, succestions, recommendations and feedback from team members\*.
 * 
+*   
 * 
-* 
+*   
 * 
 * 
 
 ### Agenda & Notes
 
-This meeting is an open agenda.
-The discussion points will be curated from the "things you’d like team members' opinions on" section above.
+* **This week**
+    * Chair: [name]
+    * Theme: [theme]
+    * Speaker: [name]
 
+* **Next week**
+    * Chair: [name]
+    * Theme: [theme]
+    * Speaker: [name]
+
+**Notes**
 * 
+*   
 * 
-* 
-* 
+*   
 * 
 * 
 

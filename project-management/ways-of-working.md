@@ -23,18 +23,15 @@ Please make sure you have been added to the [shared calendar for the community m
 - Malvika Sharan, along with other TPS senior researchers report directly to Kirstie Whitaker.
 - Members from collaborating projects report to their respective line managers
 
-## Working as a *The Turing Way* Member
+## Working as a *The Turing Way* Core Member
 
-*The Turing Way* is a handbook to reproducible, ethical and collaborative data science.
-The project lead is Kirstie Whitaker and Malvika Sharan is the co-lead investigator.
-You can read the book online ([the-turing-way.netlify.app/welcome](https://the-turing-way.netlify.app/welcome)) and contribute via *The Turing Way* GitHub reporsitory ([alan-turing-institute/the-turing-way/](https://github.com/alan-turing-institute/the-turing-way/)).
-As an open source, open collaboration and community developed project, we involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone. 
-Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need at the start of their projects to ensure that they are easy to reproduce at the end.
-
-Drawing from our work in *The Turing Way*, the Turing Community Managers facilitate the integration of reproducible, interoperable and collaborative processes in technical as well as the social infrastructure of our research projects.
+*The Turing Way* ([the-turing-way.netlify.app/welcome](https://the-turing-way.netlify.app/welcome)) is a handbook to reproducible, ethical and collaborative data science.
 
 Everyone interested in the project is welcome to use and contribute to the project as described in [*The Turing Way* contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md).
-All team members are also onboarded as the core members of [*The Turing Way* project](https://the-turing-way.netlify.app/welcome). See the [Ways of Working](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) for details.
+All team members are also onboarded as the core members of *The Turing Way* project.
+Please see [*The Turing Way* documents for core members](../the-turing-way-core) for details.
+Also, see the [Ways of Working](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) in *The Turing Way*.
+
 Members from collaborating projects can request to be added as a core member of *The Turing Way* upon approval from their line managers.
 Please contact Malvika for details.
 
