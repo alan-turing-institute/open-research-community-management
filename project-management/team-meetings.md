@@ -1,11 +1,11 @@
 # Team Meetings
 
-As a team, we commit to colteamorate, support and interconnect our projects with each other.
+As a team, we commit to collaborate, support and interconnect our projects with each other.
 As we continue to grow in our roles as community builders, technical skills, domain expertise and tips and tricks for working effectively in community and research spaces grows with it.
 Team meetings are a space for all members of the group to come together and learn from each other.
 
-The meetings are held online every week.
-Remote participation is cosidered default, but when possible and safe to travel, in-person meetings will be organised at The Alan Turing Institute.
+Team meetings are held online every week.
+Meetings will be conducted online and remote participation will be considered by default, but when possible and safe to travel, in-person meetings will be organised at The Alan Turing Institute.
 Our [shared calendar](https://calendar.google.com/calendar/u/0?cid=cGtlazVnc2xkcjlwYWRhNjc4MTJyaGtiaW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) will be updated with the times of the meetings, and when meetings are cancelled because they conflict with a relevant event that multiple team members may wish to attend.
 
 **Every team member is expected to participate in the team meetings.**
