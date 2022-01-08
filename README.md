@@ -69,7 +69,7 @@ If you would like to collaborate or connect your project with our work, please c
 All content in this repository is [openly licensed](./LICENSE.md) with a CC BY 4.0, which means you're free to use the materials and remix them so long as you ***credit the source***.
 More on CC BY 4.0 license can be found at [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
-The project management of this repository is partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0.
+The project management of this repository is partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr Kirstie Whitaker and the Whitaker Lab reporsitory used under CC BY 4.0.
 
 Our [code of conduct](./CODE_OF_CONDUCT.md) applies to all activities, documents and communication platforms used by the Open Research Community Building team and related work.
 Please familiarise yourself with the [code of conduct](./CODE_OF_CONDUCT.md), enforcement procedure and help us create a welcoming and safe space for everyone who contributes to the team and this project repository.
