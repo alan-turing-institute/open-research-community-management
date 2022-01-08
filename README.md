@@ -51,6 +51,16 @@ Please [create an issue for your induction](https://github.com/alan-turing-insti
 
 If you would like to collaborate or connect your project with our work, please contact [Malvika Sharan](mailto:msharan@turing.ac.uk).
 
+## Guiding Principles
+
+- Maintain respect, empathy and integrity within the team.
+- Actively identify opportunities for collaboration and prioritise diversity, equity and inclusion in all our work.
+- Be willing to work through conflicts to resolution.
+- Contribute to the ongoing professional development of team members for the purpose of maximising their contribution to the team's work, their careers, and open research at large.
+- Provide access to resources that empower and enable each other to discover, display and directly use their knowledge and skills.
+- Create a safe and non-judgemental environment to admit mistakes, show vulnerability and draw learning from our failure.
+- Collaborate with individuals and institutions beyond the team that expand and extend our mission for open research and community building.
+
 ## License and code of conduct
 
 All content in this repository is [openly licensed](./LICENSE.md) with a CC BY 4.0, which means you're free to use the materials and remix them so long as you ***credit the source***.
