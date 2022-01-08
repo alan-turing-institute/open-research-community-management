@@ -72,6 +72,6 @@ More on CC BY 4.0 license can be found at [Creative Commons](https://creativecom
 The project management of this repository is partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0.
 
 Our [code of conduct](./CODE_OF_CONDUCT.md) applies to all activities, documents and communication platforms used by the Open Research Community Building team and related work.
-Please familiarise yourself with the [code of conduct](./CODE_OF_CONDUCT.md), enforcement procedure and help us create a welcoming and safe space for everyone who contributes to this repository.
+Please familiarise yourself with the [code of conduct](./CODE_OF_CONDUCT.md), enforcement procedure and help us create a welcoming and safe space for everyone who contributes to the team and this project repository.
 
 The Turing members should also check the [Governance](https://www.turing.ac.uk/about-us/governance) to understand the organisation's structure and policies that apply to them.
