@@ -23,7 +23,7 @@ Please make sure you have been added to the [shared calendar for the community m
 - Malvika Sharan, along with other TPS senior researchers report directly to Kirstie Whitaker.
 - Members from collaborating projects report to their respective line managers.
 
-## Working as a *The Turing Way* Member
+## Working with *The Turing Way*
 
 *The Turing Way* is a handbook to reproducible, ethical and collaborative data science.
 The project lead is Kirstie Whitaker and Malvika Sharan is the co-lead investigator.
