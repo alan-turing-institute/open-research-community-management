@@ -6,8 +6,10 @@
 
 Community building is a rewarding experience as we get to see our community members grow and move from the position of spectators or users to developers and leaders in the project.
 Community managers help others in finding ways to engage with the project, enabling access to the skills and resources they need to participate and taking care of the 'hidden background work' required to make visible works effective.
+
 Among other projects specific and technical tasks, these background works involve collaboration, acknowledgement and celebration for their community members' work.
 But, working in community building can be a lonely and overwhelming experience if a similar support system and acknowledgement pathway for the community managers are not available.
+
 The **Open Research Community Building** team provides such a space for connection, support and skill-building for the community managers and members in similar but differently-named roles.
 
 ## Open Research Community Building Team
