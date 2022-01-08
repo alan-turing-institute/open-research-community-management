@@ -19,9 +19,9 @@ Please make sure you have been added to the [shared calendar for the community m
 ## Reporting
 
 - Community Managers report to [Malvika Sharan](https://www.turing.ac.uk/people/researchers/malvika-sharan).
-- TPS Senior Researcher and Senior Community Managers report to [Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), TPS Director.
+- Senior Community Managers report to [Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), TPS Director.
 - Malvika Sharan, along with other TPS senior researchers report directly to Kirstie Whitaker.
-- Members from collaborating projects report to their respective line managers
+- Members from collaborating projects report to their respective line managers.
 
 ## Working as a *The Turing Way* Member
 
