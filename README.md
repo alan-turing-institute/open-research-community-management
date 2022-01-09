@@ -19,20 +19,20 @@ Members of the Open Research Community Building team invest in engaging, trainin
 Through the active adoption of open research, reproducibility and collaborative approaches primarily drawn from [*The Turing Way*](https://github.com/alan-turing-institute/the-turing-way/), they contribute toward building interconnected systems of open source software, datasets, communities and processes.
 The overarching mission is to make research and innovation more efficient and effective across the national and international data science ecosystem for commercial and public interest technologies alike.
 
-## Community Managers at Turing
+### Community Managers at Turing
 
 The Turing community managers join the [Tools, Practices and Systems](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) (TPS) Research Programme's [Open Research Community Building](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) project.
 
 They are assigned to specific projects where they collaborate closely with others and identify where they can surface implicit knowledge and make information explicitly available so that everyone who wants to can participate. 
 As a team, we ensure that the research that happens at the Institute is created to be maintained, sustained, remixed and reused.
 
-## Members
+### Members
 
-### Organiser and Lead
+#### Organiser and Lead
 
 - Malvika Sharan, TPS Senior Researcher - Open Research
 
-### Team Members
+#### Team Members
 
 - Achintya Rao, Community Manager; AI for Science and Government Research Programme
 - Arron Lacey, Senior Community Manager; Early Detection of Neurodegenerative Diseases (EDoN)
@@ -44,7 +44,23 @@ As a team, we ensure that the research that happens at the Institute is created 
 - Ayesha Dunk, AI and Data Science Educators Programme, The Alan Turing Institute
 - Sarah Gibson, JupyterHub Community Development Lead, 2i2c and JupyterHub
 
-*Please read [ways of working](./project-management/ways-of-working.md) document to navigate your role in the Open Research Community Building Team*.
+## Guiding Principles
+
+- Maintain respect, empathy and integrity within the team.
+- Actively identify opportunities for collaboration and applying open research practices.
+- Prioritise diversity, equity and inclusion in all our work.
+- Contribute to the ongoing professional development of team members to maximise their contribution to the team's work, their careers, and open research at large.
+- Provide access to resources that empower and enable each other to discover, display and directly use their knowledge and skills.
+- Create a safe and non-judgemental environment to admit errors and draw learnings from our mistakes.
+- Collaborate with individuals and institutions beyond the team that expand and extend our mission for open research and community building.
+- Be willing to work through conflicts to resolution.
+
+## Important Documents for the Team Members
+
+- [Code of Conduct](./CODE_OF_CONDUCT.md): Our Code of Conduct applies to all activities, documents and communication platforms used by the Open Research Community Building team and related work. Please familiarise yourself with the Code of Conduct, enforcement procedure and help us create a welcoming and safe space for everyone who contributes to the team and this project repository.
+- [Project Management](./project-management): Please find details about how we manage the Open Research Community Building team.
+- [Ways of Working](./project-management/ways-of-working.md): This document describes the structure and organisation of the Open Research Community Building Team, clarifying expectations and support structure to help enable your work. The Turing members should also check the [Governance](https://www.turing.ac.uk/about-us/governance) to understand the organisation's structure and policies that apply to them.
+- [Working with *The Turing Way* Core Team]: All community managers are onboarded as the core members of The *Turing Way*. In [*The Turing Way* Core directory](.//the-turing-way-core) Please find details about the project and your roles as a core team member.
 
 ## New members and Collaborators
 
@@ -53,25 +69,11 @@ Please [create an issue for your induction](https://github.com/alan-turing-insti
 
 If you would like to collaborate or connect your project with our work, please contact [Malvika Sharan](mailto:msharan@turing.ac.uk).
 
-## Guiding Principles
-
-- Maintain respect, empathy and integrity within the team.
-- Actively identify opportunities for collaboration and practising open research principles.
-- Prioritise diversity, equity and inclusion in all our work.
-- Contribute to the ongoing professional development of team members to maximise their contribution to the team's work, their careers, and open research at large.
-- Provide access to resources that empower and enable each other to discover, display and directly use their knowledge and skills.
-- Create a safe and non-judgemental environment to admit errors and draw learnings from our mistakes.
-- Collaborate with individuals and institutions beyond the team that expand and extend our mission for open research and community building.
-- Be willing to work through conflicts to resolution.
-
-## License and code of conduct
+## License 
 
 All content in this repository is [openly licensed](./LICENSE.md) with a CC BY 4.0, which means you're free to use the materials and remix them so long as you ***credit the source***.
 More on CC BY 4.0 license can be found at [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
-The project management of this repository is partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr Kirstie Whitaker and the Whitaker Lab reporsitory used under CC BY 4.0.
+## Acknowledgement
 
-Our [code of conduct](./CODE_OF_CONDUCT.md) applies to all activities, documents and communication platforms used by the Open Research Community Building team and related work.
-Please familiarise yourself with the [code of conduct](./CODE_OF_CONDUCT.md), enforcement procedure and help us create a welcoming and safe space for everyone who contributes to the team and this project repository.
-
-The Turing members should also check the [Governance](https://www.turing.ac.uk/about-us/governance) to understand the organisation's structure and policies that apply to them.
+Our project management documentation and processes are partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr Kirstie Whitaker and the Whitaker Lab repository used under CC BY 4.0.
