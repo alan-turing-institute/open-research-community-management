@@ -13,4 +13,4 @@ In the [Asks and Offers](./asks-and-offers.md) document, we will share ideas for
 Under the 'Asks' table, please add what you would like to learn from others and under the 'Offers' table, please list what you would like to teach and share with others.
 These 'asks' and 'offers' will also help us find themes for our weekly [team meetings](./team-meetings.md).
 
-Malvika will meet with each community manager individually once per week (if possible) to touch base and keep track of where they are, details for which is provided in the [1:1 meeting folder](./1-1-meetings) directory.
+Malvika will meet with each community manager individually once per week (if possible) to touch base and keep track of where they are, details for which is provided in the [1:1 meeting directory](./1-1-meetings).
