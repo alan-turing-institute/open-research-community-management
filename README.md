@@ -68,7 +68,7 @@ As a team, we ensure that the research that happens at the Institute is created 
 - [Code of Conduct](./CODE_OF_CONDUCT.md): Our Code of Conduct applies to all activities, documents and communication platforms used by the Open Research Community Building team and related work. Please familiarise yourself with the Code of Conduct, enforcement procedure and help us create a welcoming and safe space for everyone who contributes to the team and this project repository.
 - [Project Management](./project-management): Please find details about how we manage the Open Research Community Building team.
 - [Ways of Working](./project-management/ways-of-working.md): This document describes the structure and organisation of the Open Research Community Building Team, clarifying expectations and support structure to help enable your work. The Turing members should also check the [Governance](https://www.turing.ac.uk/about-us/governance) to understand the organisation's structure and policies that apply to them.
-- [Working with *The Turing Way* Core](./the-turing-way-core): All community managers are onboarded as the core members of The *Turing Way*. Please find details about the project and your roles as a core team member.
+- [Working with *The Turing Way*](./the-turing-way-core): All community managers are onboarded as the core members of The *Turing Way*. In [*The Turing Way* core directory](./the-turing-way-core), please find details about the project and your roles as a core team member.
 
 ## New members and Collaborators
 
