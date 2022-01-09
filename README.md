@@ -10,7 +10,7 @@ Among other project-specific and technical tasks, they take care of background w
 These background works involve approaches for collaboration, acknowledgement and celebration of community members' work.
 As the word 'background' suggests, such work often stay hidden and unsupported, especially if only one person is making them happen.
 
-Working in community spaces can be overwhelming experience for individuals if they don't have access to a similar support system and acknowledgement pathways for their work.
+Working in community spaces can be an overwhelming experience for individuals if they don't have access to a network of people who can support them in their work or opportunities to exchange best practices for community development.
 The **Open Research Community Building** team provides such a space for connection, support and skill-building for the community managers and members in similar but differently-named roles, working in participatory and community-oriented projects.
 
 ![the illustration shows three siloed groups of users, researchers and developers, who are connecing with each other based on commonly useful projects.](https://zenodo.org/api/iiif/v2/867e0f11-b7cb-460e-9c3b-487ac75ada36:1794300f-5dd7-47ac-af5a-007cc1b52bee:community-managers.jpg/full/750,/0/default.jpg)
