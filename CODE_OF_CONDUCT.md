@@ -96,13 +96,13 @@ The most critical function of restorative practices is restoring and building re
 People in charge must meet with those they have wronged, explore what happened, 
 and make necessary amends.
 
-### Restorative Practice (RP) Principles
+### Restorative Practice Principles
 
-1. RP focuses on harms rather than rules or persons and the consequent needs of victims, offenders and communities.
-2. RP addresses obligations of the offender resulting from those harms, as well as the team/community’s obligations to both victims and offenders.
-3. RP uses inclusive, collaborative processes.
-4. RP involves all individuals (victims, offenders, parents, students, staff, and faculty) who have a legitimate stake in a given situation.
-5. RP seeks to put right the wrongs that have been done so that victims feel safe and valued, and offenders feel restored to the team/community
+1. focuse on harms rather than rules or persons and the consequent needs of victims, offenders and communities.
+2. address obligations of the offender resulting from those harms, as well as the team/community’s obligations to both victims and offenders.
+3. use inclusive, collaborative processes.
+4. involve all individuals (victims, offenders, parents, students, staff, and faculty) who have a legitimate stake in a given situation.
+5. seek to right the wrongs that have been done so that victims feel safe and valued, and offenders feel restored to the team/community
 
 ### Restorative Disciplines
 
