@@ -84,7 +84,7 @@ Please also read the **Agenda** section at the end of the HackMD for particular 
 * 
 *   
 
-> *Please add your name below if you are not able to attend the meeting.
+> *Please add your name below if you are not able to attend the meeting.*
 * 
 *   
 * 
@@ -105,7 +105,7 @@ Please also read the **Agenda** section at the end of the HackMD for particular 
 
 ### Community related things you are currently working on
 
-> *Please share any interesting technical, social or community building skills and practices that you have recently learned or applied in your work\*.
+> *Please share any interesting technical, social or community building skills and practices that you have recently learned or applied in your work*.
 * 
 *   
 * 
@@ -115,7 +115,7 @@ Please also read the **Agenda** section at the end of the HackMD for particular 
 
 ### What would you like team members' opinion(s) on?**
 
-> *Please share questions, problems or challenge where you would like opinions, succestions, recommendations and feedback from team members\*.
+> *Please share questions, problems or challenge where you would like opinions, succestions, recommendations and feedback from team members*.
 * 
 *   
 * 
@@ -160,7 +160,7 @@ Everyone is encouraged to add links and resources as "sub-bullet points" (bullet
 
 #### Specific agenda
 
-The meeting will have a specific theme, please suggest themes in the [ask and offer](./ask-and-offer.md) document.
+The meeting will have a specific theme, please suggest themes in the [asks and offers](./asks-and-offers.md) document.
 After the chair has gone through the week's HackMD notes, remaining time (**approx 45 minutes**) will be used for that discussion or presentation.
 
 #### Open agenda
@@ -170,8 +170,9 @@ If the meeting is "open agenda" then the chair, in colteamoration with all prese
 ### After team meeting
 
 After the team meeting, the chair is asked to provide a few sentences summarising the discussions and provide any useful resource to share on the project reporsitory in the [resources for reference](./resources-for-reference.md) file.
+This is also an opportunity to update the [Asks and Offers](./asks-and-offers.md) document for the future reference.
 
-Remember to include any points that have the speaker emoji next to them.
+Remember to include any points that have the loudspeaker emoji next to them.
 Use your best judgement when publicly sharing questions and comments that show particular vulnerability of the team members participating in the conversation.
 
 Everyone who participated in the meeting is encouraged to [review the pull request](https://help.github.com/en/articles/about-pull-request-reviews), specifically when assigned/requested by the chair and approve before the next team meeting.
