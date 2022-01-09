@@ -1,25 +1,26 @@
 # Code of Conduct for the Open Research Community Building Team
 
-This code of conduct outlines our expectations for participants within the
-team, online repository (project) as well as steps to reporting any concern, situation or uncomfortable/
-unacceptable behaviour by others participating in the project. 
+This Code of Conduct document outlines our expectations for 
+participants within the team as well as this online repository (project).
+We also provide steps to reporting any concern, uncomfortable situation 
+or unacceptable behaviour by other participants. 
 We are committed to providing a welcoming, collaborative and inspiring experience 
 for all and expect our code of conduct to be honoured.
 
 ## Scope
 
-Code of Conduct applies to all members participating in platforms, events and 
-processes taking place within the Open Research Community Building Team. 
-Specifically, this Code of Conduct apply to any conduct:
+This Code of Conduct applies to all members participating in the activities, 
+events and processes taking place within the Open Research Community Building Team. 
+Specifically, our Code of Conduct applies to any conduct:
 - in interactions within the Open Research Community Building Team
 - at any team activity, communication or event
 - outside the team activity when a team member is representing projects associated with the team
-- members outside the team engaging on the Open Community Building GitHub repository
+- by members outside the team engaging on the Open Community Building GitHub repository.
 
 ## Restorative Practice
 
-We want to apply the Code of Conduct that focuses on creating a welcoming and safe environment for
-everyone involved, not on penalising or excluding individuals but supporting those who are harmed.
+We want to establish Code of Conduct that focuses on creating a welcoming and safe environment for
+everyone involved -- supporting those who are harmed, not on penalising or excluding individuals.
 In the event that a participant does not abide by the Code of Conduct, we will use the 
 “restorative practices” approach to handle the situation. Restorative Practices has 
 their roots in “restorative justice,” a way of looking at wrongdoing that focuses on 
@@ -113,7 +114,9 @@ and make necessary amends.
 6. Empowers change and growth for all involved.
 7. Enhances responsibility for actions and attitudes for all involved
 
-The goals of these restorative practices are that Open Research Community Building Team would create a safe, friendly and enjoyable space for collaboration and support, and foster an environment where everyone feels valued, respected, and included.
+The goals of these restorative practices are that Open Research Community Building Team 
+would create a safe, friendly and enjoyable space for collaboration and support.
+Together we strive to foster an environment where everyone feels valued, respected, and included.
 
 ### Reporting Incident
 
@@ -171,7 +174,7 @@ Possible resolutions to an incident include:
 
 - apology to the person harmed or team as a whole
 - an action plan for the reportee to improve their awareness and correct future behaviours
-- if requested by the person reporting, the reportee will avoid any interaction with the reporter or individual harmed by the incident until they are ready to interact. This can be communicated via the personal handling the report.
+- if requested by the person reporting, the reportee will avoid any interaction with the reporter or individual harmed by the incident until they are ready to interact. This can be communicated via the person handling the report.
 - not publishing the content that violated the Code of Conduct, until necessary changes have been made and agreed upon by the person handling the report.
 - requiring that the reportee not participate in any synchronous meetings for the time period determined by the person handling the report.
 - An imposed suspension, such as asking reportee to “take a week off” from the GitHub repo or team activity).
@@ -183,13 +186,15 @@ The reportee will be contacted via email informing them of the resolution. A fin
 
 ### Conflict of Interest
 
-All reports will be kept confidential with details shared only with people involved in report handling. If a person handling the report (team lead or programme director) is linked with the ongoing issue, they will declare their Conflict of Interest and remove themselves from any discussion related to the report handling. Resolution action may also include identifying appropriate members from within the Open Research Community Building Team if more support for the person handling the report is needed.
+All reports will be kept confidential with details shared only with people involved in report handling. 
+If a person handling the report (team lead or programme director) is linked with the ongoing issue, they will declare their Conflict of Interest and remove themselves from any discussion related to the report handling.
+Resolution action may also include identifying appropriate members from within the Open Research Community Building Team if more support for the person handling the report is needed.
 
 ### Attribution & Acknowledgements
 
 This code of conduct is based on the Open Code of Conduct from the [TODO Group](https://github.com/todogroup/opencodeofconduct/) and [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html).
 
-Statement and report handling process has been derived from the Eastern University 
+Restorative practice statement  and report handling process has been derived from the Eastern University 
 Academic Charter School (EUACS) Student Code of Conduct derived from the work of Ted Wachtel
 at International Institute for Restorative Practices (IIRP).
 
