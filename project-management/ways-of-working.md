@@ -1,4 +1,4 @@
-# Way of Working
+# Ways of Working
 
 This document provides the structure and organisation of the Open Research Community Building Team, clarifying expectations and support structure enabling their work.
 
