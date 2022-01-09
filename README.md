@@ -5,8 +5,9 @@
 ## Background
 
 Community building is a process of enabling members in our communities to move from the position of spectators or users to developers and leaders in the project.
-Community managers and people is similar roles identify and build meaningful pathways for everyone to gain access to the skills and resources they need to participate in the community without worrying about the background work needed to make their tangible and visible work effective.
-Among other project-specific and technical tasks, these background works involve approaches for collaboration, acknowledgement and celebration of community members' work.
+Community managers and people in similar roles identify and build meaningful pathways for everyone to gain access to the skills and resources they need to participate in the community.
+Among other project-specific and technical tasks, they take care of background work needed to make tangible and visible work of their communities effective. 
+These background works involve approaches for collaboration, acknowledgement and celebration of community members' work.
 
 As the word 'background' suggests, such work often stay hidden and unsupported, especially if only one person is making them happen.
 Working in community spaces can be overwhelming experience for individuals if they don't have access to a similar support system and acknowledgement pathways for their work
