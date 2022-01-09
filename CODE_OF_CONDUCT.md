@@ -98,11 +98,11 @@ and make necessary amends.
 
 ### Restorative Practice Principles
 
-1. focuse on harms rather than rules or persons and the consequent needs of victims, offenders and communities.
-2. address obligations of the offender resulting from those harms, as well as the team/community’s obligations to both victims and offenders.
-3. use inclusive, collaborative processes.
-4. involve all individuals (victims, offenders, parents, students, staff, and faculty) who have a legitimate stake in a given situation.
-5. seek to right the wrongs that have been done so that victims feel safe and valued, and offenders feel restored to the team/community
+1. focuses on harms rather than rules or persons and the consequent needs of victims, offenders and communities.
+2. addresses obligations of the offender resulting from those harms, as well as the team/community’s obligations to both victims and offenders.
+3. uses inclusive, collaborative processes.
+4. involves all individuals (victims, offenders, parents, students, staff, and faculty) who have a legitimate stake in a given situation.
+5. seeks to right the wrongs that have been done so that victims feel safe and valued, and offenders feel restored to the team/community
 
 ### Restorative Disciplines
 
