@@ -4,13 +4,14 @@
 
 ## Background
 
-Community building is a rewarding experience as we get to see our community members grow and move from the position of spectators or users to developers and leaders in the project.
-Community managers help others in finding ways to engage with the project, enabling access to the skills and resources they need to participate and taking care of the 'hidden background work' required to make visible works effective.
+Community building is a process of enabling members in our communities to move from the position of spectators or users to developers and leaders in the project.
+Community managers and people is similar roles identify and build meaningful pathways for everyone to gain access to the skills and resources they need to participate in the community without worrying about the background work needed to make their tangible and visible work effective.
+Among other project-specific and technical tasks, these background works involve approaches for collaboration, acknowledgement and celebration of community members' work.
 
-Among other projects specific and technical tasks, these background works involve collaboration, acknowledgement and celebration for their community members' work.
-But, working in community building can be a lonely and overwhelming experience if a similar support system and acknowledgement pathway for the community managers are not available.
+As the word 'background' suggests, such work often stay hidden and unsupported, especially if only one person is making them happen.
+Working in community spaces can be overwhelming experience for individuals if they don't have access to a similar support system and acknowledgement pathways for their work
 
-The **Open Research Community Building** team provides such a space for connection, support and skill-building for the community managers and members in similar but differently-named roles.
+The **Open Research Community Building** team provides such a space for connection, support and skill-building for the community managers and members in similar but differently-named roles, working in participatory and community-oriented projects.
 
 ![the illustration shows three siloed groups of users, researchers and developers, who are connecing with each other based on commonly useful projects.](https://zenodo.org/api/iiif/v2/867e0f11-b7cb-460e-9c3b-487ac75ada36:1794300f-5dd7-47ac-af5a-007cc1b52bee:community-managers.jpg/full/750,/0/default.jpg)
 
