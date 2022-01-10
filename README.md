@@ -6,11 +6,12 @@
 
 Community building is a process of enabling members in our communities to move from the position of spectators or users to developers and leaders in the project.
 Community managers and people in similar roles identify and build meaningful pathways for everyone to gain access to the skills and resources they need to participate in the community.
-Among other project-specific and technical responsibilities, they take care of background work needed to make tangible and visible work of their communities effective. 
-These background works involve approaches for collaboration, maintenance and acknowledgment of community members' work.
-As the word 'background' suggests, such work often stay hidden and unsupported, especially if only one person is making them happen.
+Among other project-specific and technical responsibilities, community managers take care of background work needed to make tangible and visible work of their communities effective. 
+These background works involve approaches for collaboration, maintenance, acknowledgement and capturing the impact of community members' work.
 
-Working in community spaces can be challenging if we don't have appropriate opportunities to seek support in our work and exchange best practices with other community developers.
+As the word 'background' suggests, such work stays hidden and hence, often unsupported.
+This is especially challenging when community managers don't have access to an appropriate support system or opportunities to exchange best practices with other community developers.
+
 The **Open Research Community Building** team at The Alan Turing Institute provides such a space for connection, support and skill-building for the community managers and members working in participatory and community-oriented projects.
 
 ![the illustration shows three siloed groups of users, researchers and developers, who are connecing with each other based on commonly useful projects.](https://zenodo.org/api/iiif/v2/867e0f11-b7cb-460e-9c3b-487ac75ada36:1794300f-5dd7-47ac-af5a-007cc1b52bee:community-managers.jpg/full/750,/0/default.jpg)
