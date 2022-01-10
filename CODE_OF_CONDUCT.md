@@ -176,7 +176,6 @@ Possible resolutions to an incident include:
 - an action plan for the reportee to improve their awareness and correct future behaviours
 - if requested by the person reporting, the reportee will avoid any interaction with the reporter or individual harmed by the incident until communicated by the person handling the report.
 - not publishing the content that violated the Code of Conduct, until necessary changes have been made and agreed upon by the person handling the report.
-- requiring that the reportee not participate in any synchronous meetings for the time period determined by the person handling the report.
 - An imposed suspension, such as asking reportee to “take a week off” from the GitHub repo or team activity).
   
 The person handling the report will maintain records of all reports so that they may be reviewed if stronger measures are required when repeated violations occur by the same individual as well as to improve our Code of Conduct for future participation.
