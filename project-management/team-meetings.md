@@ -49,7 +49,7 @@ Each point should be on a bullet pointed line with your name at the start of it 
 For ideas about what to write (and most importantly, to make sure you know _why_ we ask these questions) see the [motivation](#motivation) section below.
 
 You can put the 📢 emoji next to your bullet point if you would like that update to be shared publicly.
-You can leave comments, reactions, recommendations or feedback (when asked) or reply below ehat others have shared.
+You can leave comments, reactions, recommendations or feedback (when asked) or reply below what others have shared.
 
 Please also read the **Agenda** section at the end of the HackMD for particular theme for the respective week's discussion.
 
@@ -148,12 +148,12 @@ Please also read the **Agenda** section at the end of the HackMD for particular 
 ### Participation during team meeting
 
 Our team meetings are one hour long.
-Please arrive on time or let the session chair know if you'd be delayed.
+Please arrive on time or let the session chair know if you will be delayed.
 
 #### Review of celebrations, shared resources, and questions
 
 The chair will read through that week's HackMD, starting with the topics you've shared and then covering the questions and points you'd like the group's thoughts on.
-They will go quite fast through each of these points, but also encourage members of the team to eteamorate on their updates and questions if they would like to.
+They will go quite fast through each of these points, but also encourage members of the team to expand on their updates and questions if they would like to.
 
 This part of team meeting should take **around 10-15 minutes**.
 Everyone is encouraged to add links and resources as "sub-bullet points" (bullet points that are rendered as falling within the original point) before, during and after the meeting.
@@ -165,7 +165,7 @@ After the chair has gone through the week's HackMD notes, remaining time (**appr
 
 #### Open agenda
 
-If the meeting is "open agenda" then the chair, in colteamoration with all present team members, will select key points from the review of the bullet points in the HackMD to discuss in more depth for the remaining **45 minutes**.
+If the meeting is "open agenda" then the chair, in collaboration with all present team members, will select key points from the review of the bullet points in the HackMD to discuss in more depth for the remaining **45 minutes**.
 
 ### After team meeting
 
