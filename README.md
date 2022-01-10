@@ -69,7 +69,19 @@ As a team, we ensure that the research that happens at the Institute is created 
 - Code of Conduct (link will be updated - document currently under review in [Pull Request #3](https://github.com/alan-turing-institute/open-community-building/pull/3)): Our Code of Conduct will apply to all activities, documents and communication platforms used by the Open Research Community Building team and related work. Please familiarise yourself with the Code of Conduct, enforcement procedure and help us create a welcoming and safe space for everyone who contributes to the team and this project repository.
 - [Project Management](./project-management): Please find details about how we manage the Open Research Community Building team.
 - [Ways of Working](./project-management/ways-of-working.md): This document describes the structure and organisation of the Open Research Community Building Team, clarifying expectations and support structure to help enable your work. The Turing members should also check the [Governance](https://www.turing.ac.uk/about-us/governance) to understand the organisation's structure and policies that apply to them.
-- [*The Turing Way* resources](./the-turing-way-core): All community managers are onboarded as the core members of The *Turing Way*. In [*The Turing Way* core directory](./the-turing-way-core), please find details about the project and your roles as a core team member.
+
+### Working with *The Turing Way*
+
+All community managers are onboarded as the core members of The *Turing Way*. 
+All members of the Open Research Community Building team should take time to learn details in [*The Turing Way* core documents](./the-turing-way-core).
+
+Their engagement with *The Turing Way* project and community should help them understand how they can:
+- enable reproducibility, open communication and ethical research in their projects and Communities of Practice they build.
+- identify people, projects and resources that are crucial for the development, maintenance and sustainability of their projects.
+- interconnect their work with other projects and communities in the wider landscape of data science and open research.
+- facilitate openness, collaboration and transparent reporting, even when not all components from their projects can be made public.
+- find support for their community work and in exchange support others' work, especially when it is closely aligned with their projects.
+- enhance their technical understanding required in their work and share them more widely via The Turing Way (chapters, tutorials, templates or events).
 
 ## New members and Collaborators
 
