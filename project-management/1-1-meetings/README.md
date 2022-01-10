@@ -11,8 +11,6 @@ Please let me know if there are any changes that you'd like to make!
 
 Create a called Weekly-Meetings.md under a folder with your name.
 
-You can see an example for Isla Staden here: https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Isla-Staden/Weekly-Meetings.md
-
 Inside that file, copy the template below in Markdown format.
 
 When filling the document, please keep in mind that the the intention is to guide our conversation and hence you don't need to provide complete context and full names of people (you can use initials).
