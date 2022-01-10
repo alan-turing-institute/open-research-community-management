@@ -17,12 +17,12 @@ When filling the document, please keep in mind that the the intention is to guid
 
 ## TEMPLATE: Date: YYYY-MM-DD
 
-- Check-in ritual
+Check-in ritual
 (Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
 
 ### Project specific Reflection
 
-*Review your current projects, relation and skill-building that you are working on. *
+*Review your current projects, relation and skill-building that you are working on.*
 (Since last week, review the progress you’ve made towards your goals. Any challenges to mention? Review if we can attract any attention or help highlight your work.)
 
 ### Notes to discuss during 1:1
