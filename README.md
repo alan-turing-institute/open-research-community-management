@@ -8,8 +8,7 @@ Community building is a process of enabling members in our communities to move f
 Community managers and people in similar roles identify and build meaningful pathways for everyone to gain access to the skills and resources they need to participate in the community.
 Among other project-specific and technical responsibilities, community managers take care of background work needed to make tangible and visible work of their communities effective. 
 These background works involve approaches for collaboration, maintenance, acknowledgement and capturing the impact of community members' work.
-
-As the word 'background' suggests, such work stays hidden and hence, often unsupported.
+As the word 'background' suggests, working in community space often stay hidden and hence, can feel unsupported.
 This is especially challenging when community managers don't have access to an appropriate support system or opportunities to exchange best practices with other community developers.
 
 The **Open Research Community Building** team at The Alan Turing Institute provides such a space for connection, support and skill-building for the community managers and members working in participatory and community-oriented projects.
