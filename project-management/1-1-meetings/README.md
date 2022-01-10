@@ -15,6 +15,8 @@ You can see an example for Isla Staden here: https://github.com/WhitakerLab/Whit
 
 Inside that file, copy the template below in Markdown format.
 
+When filling the document, please keep in mind that the the intention is to guide our conversation and hence you don't need to provide complete context and full names of people (you can use initials).
+
 ## TEMPLATE: Date: YYYY-MM-DD
 
 - Check-in ritual
