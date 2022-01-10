@@ -20,7 +20,7 @@ Specifically, our Code of Conduct applies to any conduct:
 ## Restorative Practice
 
 We want to establish Code of Conduct that focuses on creating a welcoming and safe environment for
-everyone involved -- supporting those who are harmed, not on penalising or excluding individuals.
+everyone involved.
 In the event that a participant does not abide by the Code of Conduct, we will use the 
 “restorative practices” approach to handle the situation. Restorative Practices has 
 their roots in “restorative justice,” a way of looking at wrongdoing that focuses on 
