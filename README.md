@@ -15,7 +15,7 @@ The **Open Research Community Building** team at The Alan Turing Institute provi
 
 ![the illustration shows three siloed groups of users, researchers and developers, who are connecing with each other based on commonly useful projects.](https://zenodo.org/api/iiif/v2/867e0f11-b7cb-460e-9c3b-487ac75ada36:1794300f-5dd7-47ac-af5a-007cc1b52bee:community-managers.jpg/full/750,/0/default.jpg)
 
-*This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence. [DOI: 10.5281/zenodo.5706310](https://doi.org/10.5281/zenodo.5706310)*
+*This image was created by Scriberia for The Turing Way community and is used under CC-BY 4.0 licence. [DOI: 10.5281/zenodo.5706310](https://doi.org/10.5281/zenodo.5706310)*
 
 ## Open Research Community Building Team
 
@@ -33,7 +33,7 @@ As a team, we ensure that the research that happens at the Institute is created 
 
 ![People across different communities act as physical bridges between two separate projects and find solutions that are mutually beneficial. There is no replacement of people in technology.](https://zenodo.org/api/iiif/v2/867e0f11-b7cb-460e-9c3b-487ac75ada36:849be739-8880-41cc-a487-215fb325d91f:people-find-solutions.jpg/full/750,/0/default.jpg)
 
-*This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence. [DOI: 10.5281/zenodo.5706310](https://doi.org/10.5281/zenodo.5706310)*
+*This image was created by Scriberia for The Turing Way community and is used under CC-BY 4.0 licence. [DOI: 10.5281/zenodo.5706310](https://doi.org/10.5281/zenodo.5706310)*
 
 ### Members
 
