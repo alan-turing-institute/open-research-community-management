@@ -98,11 +98,11 @@ and make necessary amends.
 
 ### Restorative Practice Principles
 
-1. focuses on harms rather than rules or persons and the consequent needs of victims, offenders and communities.
-2. addresses obligations of the offender resulting from those harms, as well as the team/community’s obligations to both victims and offenders.
-3. uses inclusive, collaborative processes.
-4. involves all individuals (victims, offenders, parents, students, staff, and faculty) who have a legitimate stake in a given situation.
-5. seeks to right the wrongs that have been done so that victims feel safe and valued, and offenders feel restored to the team/community
+1. Focuses on harms rather than rules or persons and the consequent needs of victims, offenders and communities.
+2. Addresses obligations of the offender resulting from those harms, as well as the team/community’s obligations to both victims and offenders.
+3. Uses inclusive, collaborative processes.
+4. Involves all individuals (victims, offenders, parents, students, staff, and faculty) who have a legitimate stake in a given situation.
+5. Seeks to right the wrongs that have been done so that victims feel safe and valued, and offenders feel restored to the team/community
 
 ### Restorative Disciplines
 
@@ -150,21 +150,21 @@ We will respect confidentiality requests all the time for the purpose of protect
 ### Report Handling
 
 After receiving a report, the person handling the report (team lead or programme director) 
-will review the incident, set a meeting with the reported individual to discuss four restorative questions:
+will review the incident, set a meeting with the reportee to discuss four restorative questions:
 - What happened?
 - What were you thinking at the time?
 - Who has been affected by what you have done? In what way?
 - What do you think you need to do to make things right?
 
 When the incident in question inflicted harm on another person, four additional 
-questions will be asked on behalf of the person(s) harmed
+questions will be asked on behalf of the person(s) harmed:
 - What did you think when you realized what had happened?
 - What impact has this incident had on you and others?
 - What has been the hardest thing for you?
 - What do you think needs to happen to make things right?
 
-The person handling the report may follow up after this discussion with any additional questions to 
-help them reach a resolution.
+The person handling the report may follow up with reportee or reporter after this discussion 
+with any additional questions to help them reach a resolution.
 
 ### Resolutions
 
@@ -182,6 +182,7 @@ Possible resolutions to an incident include:
 The person handling the report will maintain records of all reports so that they may be reviewed if stronger measures are required when repeated violations occur by the same individual as well as to improve our Code of Conduct for future participation.
 
 Once a resolution is agreed upon, but before it is enacted, the person handling the report will contact the reporter and any other affected parties to explain the proposed resolution. They will ask if this resolution is acceptable and must note feedback for the record. However, they are not required to act on this feedback.
+
 The reportee will be contacted via email informing them of the resolution. A final meeting may be conducted if necessary.
 
 ### Conflict of Interest
