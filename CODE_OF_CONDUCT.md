@@ -118,7 +118,7 @@ The goals of these restorative practices are that Open Research Community Buildi
 would create a safe, friendly and enjoyable space for collaboration and support.
 Together we strive to foster an environment where everyone feels valued, respected, and included.
 
-### Reporting Incident
+## Reporting Incident
 
 If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
 by contacting the Team Lead, Malvika Sharan (email: msharan@turing.ac.uk). Malvika may involve
@@ -166,7 +166,7 @@ questions will be asked on behalf of the person(s) harmed:
 The person handling the report may follow up with reportee or reporter after this discussion 
 with any additional questions to help them reach a resolution.
 
-### Resolutions
+## Resolutions
 
 Here are examples of possible resolutions to a report. 
 This list is not comprehensive, and any action necessary to reach a fair resolution will be taken as needed. 
@@ -191,7 +191,7 @@ All reports will be kept confidential with details shared only with people invol
 If a person handling the report (team lead or programme director) is linked with the ongoing issue, they will declare their Conflict of Interest and remove themselves from any discussion related to the report handling.
 Resolution action may also include identifying appropriate members from within the Open Research Community Building Team if more support for the person handling the report is needed.
 
-### Attribution & Acknowledgements
+## Attribution & Acknowledgements
 
 This code of conduct is based on the Open Code of Conduct from the [TODO Group](https://github.com/todogroup/opencodeofconduct/) and [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html).
 
