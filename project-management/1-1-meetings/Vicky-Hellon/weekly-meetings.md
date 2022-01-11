@@ -46,8 +46,6 @@ Comms/CRM team were very helpful and responsive in helping get the newsletter si
 #### Any other topics
 
 * Open life sci application ready to go- shall I submit or do you need to look at?
-* How do I do the table of contents in this doc!
-
 
 ## Date: 14 December 2021
 
