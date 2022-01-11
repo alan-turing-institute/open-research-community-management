@@ -1,6 +1,55 @@
 # Vicky + Malvika 1:1 Catch-up Minutes
 
-## Date: 14th December 2021
+* [11 January 2022](#date-11-january-2022)
+* [14 December 2021](#date-14-december-2021)
+* [30 November 2021](#date-30-november-2021)
+* [23 November 2021](#date-23-november-2021)
+
+## Date: 11 January 2022
+
+### Check-in ritual
+Nice to be back! Feeling more settled and like I know a bit more what I'm doing now. 
+
+### Project specific reflection
+All going well so far this year. Happy to have got the newsletter out this morning. Got a funding call Q&A session on weds which will be a good opportunity to engage with the community and then should have some breathing space to finalise team charter etc with MG and HM before funding call closes and expert panel meeting at end of Jan.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+Helped expert panel with their COI forms and getting them added to the turing site so they're represented on the Turing-Roche webpage.
+
+#### Who helped you this week?
+
+Comms/CRM team were very helpful and responsive in helping get the newsletter sign up form set up and working for Roche colleagues (bit of troubleshooting needed). HM helping with small project queries as always.
+
+#### What did you achieve?
+
+* Sent out newsletter!
+* Made start on Genomics England doc
+* Team charter doc basic draft in place
+
+#### What did you struggle with?
+
+* Was lots of fiddly bits to make the newsletter work but now template in place will be much easier next month
+
+#### What would you like to work on next week?
+
+* First time lab goatherding
+* Getting team charter to a more finished state
+* Start planning expert panel meeting
+
+#### Where do you need help?
+
+* How to approach RM and AD to write genomics england piece 
+
+#### Any other topics
+
+* Open life sci application ready to go- shall I submit or do you need to look at?
+* How do I do the table of contents in this doc!
+
+
+## Date: 14 December 2021
 
 ### Check-in ritual
 Really enjoyed the chat with you and Kirstie last week about careers and the future!
@@ -47,7 +96,7 @@ Really enjoyed the chat with you and Kirstie last week about careers and the fut
 - N/A
 
 
-## Date: 30-11-2021
+## Date: 30 November 2021
 
 ### Check-in ritual
 Meeting everyone yesterday 
@@ -106,7 +155,7 @@ Meeting everyone yesterday
 - Data Study Group
 
 
-## Date: 23-11-2021
+## Date: 23 November 2021
 
 ### Check-in ritual
 
