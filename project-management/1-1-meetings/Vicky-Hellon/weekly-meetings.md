@@ -48,7 +48,7 @@ Comms/CRM team were very helpful and responsive in helping get the newsletter si
 * Getting team charter to a more finished state
   * MS: Really great to see you, HM and MOG are working so well. Looking forward to seeing these documents online.
 * Start planning expert panel meeting
-  * MS: Consider thinking about the ever series with the members. 
+  * MS: Consider thinking about the event series with the members. 
 
 #### Where do you need help?
 
