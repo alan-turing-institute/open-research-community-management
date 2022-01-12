@@ -9,48 +9,61 @@
 
 ### Check-in ritual
 Nice to be back! Feeling more settled and like I know a bit more what I'm doing now. 
+- MS: Loving the new energy!
 
 ### Project specific reflection
-All going well so far this year. Happy to have got the newsletter out this morning. Got a funding call Q&A session on weds which will be a good opportunity to engage with the community and then should have some breathing space to finalise team charter etc with MG and HM before funding call closes and expert panel meeting at end of Jan.
+All going well so far this year. Happy to have got the newsletter out this morning. Got a funding call Q&A session on Weds which will be a good opportunity to engage with the community and then should have some breathing space to finalise team charter etc with MG and HM before funding call closes and expert panel meeting at end of Jan.
+- MS: Lots of applications are in the draft version. So amazing!
 
 ### Notes to discuss during 1:1
 
 #### Who did you help this week?
 
-Helped expert panel with their COI forms and getting them added to the turing site so they're represented on the Turing-Roche webpage.
+Helped expert panel with their COI forms and getting them added to the Turing site so they're represented on the Turing-Roche webpage.
+- MS: It's been a quiet week! The expert panel seems like a proactive and interesting bunch of people.
 
 #### Who helped you this week?
 
-Comms/CRM team were very helpful and responsive in helping get the newsletter sign up form set up and working for Roche colleagues (bit of troubleshooting needed). HM helping with small project queries as always.
+Comms/CRM team were very helpful and responsive in helping get the newsletter sign up form set up and working for Roche colleagues (a bit of troubleshooting needed). HM helping with small project queries as always.
+- MS: Good job!
 
 #### What did you achieve?
 
-* Sent out newsletter!
+* Sent out a newsletter!
+  * MS: super exciting to see the newsletter out!
 * Made start on Genomics England doc
+  * MS:  Notes below!
 * Team charter doc basic draft in place
+  * MS: Good job! Considering switching to GitHub is a good idea. Also really appreciate that you are already thinking about the expert panel's input on the roadmap.
 
 #### What did you struggle with?
 
-* Was lots of fiddly bits to make the newsletter work but now template in place will be much easier next month
+* Was lots of fiddly bits to make the newsletter work but now the template in place will be much easier next month.
+  * MS: I have never used this before. Great work getting this sorted. I have signed up - maybe sign up for anyone from the leadership team. 
 
 #### What would you like to work on next week?
 
 * First time lab goatherding
+  * MS: Amazing! Looking forward to hearing your take on Slack on CM.
 * Getting team charter to a more finished state
+  * MS: Really great to see you, HM and MOG are working so well. Looking forward to seeing these documents online.
 * Start planning expert panel meeting
+  * MS: Consider thinking about the ever series with the members. 
 
 #### Where do you need help?
 
-* How to approach RM and AD to write genomics england piece 
+* How to approach RM and AD to write genomics England piece 
+  - MS: structure, timeline, allocate people to a topic, curate good examples from the portal
 
 #### Any other topics
 
-* Open life sci application ready to go- shall I submit or do you need to look at?
+* Open life sci application ready to go- shall I submit or do you need to look at it?
+  * MS: please go ahead and submit it, happy to review it directly there. 
 
 ## Date: 14 December 2021
 
 ### Check-in ritual
-Really enjoyed the chat with you and Kirstie last week about careers and the future!
+Enjoyed the chat with you and Kirstie last week about careers and the future!
 
 ### Project specific notes
 
