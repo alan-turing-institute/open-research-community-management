@@ -1,9 +1,57 @@
 # Vicky + Malvika 1:1 Catch-up Minutes
 
+* [18 January 2022](#date-18-january-2022)
 * [11 January 2022](#date-11-january-2022)
 * [14 December 2021](#date-14-december-2021)
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
+
+
+## Date: 18 January 2022
+
+### Check-in ritual
+Feeling good to be on the same page as MOG and HM this week- definite push for us to start putting together roadmap type docs with the scientific leads of the partnership so we can plan for the year. 
+
+### Project specific Reflection
+
+Started off feeling on top of things this week and now slightly less! Putting together the expert panel agenda has made it clear that we're not quite aligned as a group with what we want out of the panel so need to work through this.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+Helped the research leads with a letter to the editor they want to submit for a potential journal submission, helped HM with some funding call queries.
+
+#### Who helped you this week?
+
+AR helped me with what I needed to do for goatherding. HM helped me think about what other documents I need to put together for the partnership such as a comms plan.
+
+#### What did you achieve?
+
+* Have put together a presentation on slack for community management for this week's lab meeting
+* Have started the expert panel agenda- needs sending out asap 
+* Team charter should be finalised-ish by Friday
+
+#### What did you struggle with?
+
+* Expert panel agenda- need consensus by the end of the week!
+
+#### What would you like to work on next week?
+
+* Expert panel meeting is on Monday
+* Once thats out the way, hoping to have time to start other documents- potentially a comms plan, stakeholder mapping.
+* Also need to think about how to keep workshop community engaged, have dropped off a bit
+
+#### Where do you need help?
+
+* Have a meeting with EK next week on community Githubs and will also pick her brain on comms stuff as suggested by HM
+* Perhaps some advice on how to keep workshop community engaged- am struggling for ideas at the moment
+
+#### Any other topics
+
+- Need to move next week's catchup! Will slack you
+
+
 
 ## Date: 11 January 2022
 
