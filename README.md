@@ -19,7 +19,8 @@ The **Open Research Community Building** team at The Alan Turing Institute provi
 
 ## Open Research Community Building Team
 
-Members of the Open Research Community Building team invest in engaging, training and empowering a diverse group of researchers, research engineers, programme management, and business team members by fostering diverse Communities of Practice through their projects. 
+Members of the Open Research Community Building team invest in engaging, training and empowering a diverse group of members such as researchers, research engineers, programme/project management and business team.
+They foster diverse Communities of Practice within and outside the Turing through community building and engagement roles in their respective projects. 
 
 Through the active adoption of open research, reproducibility and collaborative approaches primarily drawn from [*The Turing Way*](https://github.com/alan-turing-institute/the-turing-way/), they contribute toward building interconnected systems of open source software, datasets, communities and processes.
 The overarching mission is to make research and innovation more efficient and effective across the national and international data science ecosystem for commercial and public interest technologies alike.
