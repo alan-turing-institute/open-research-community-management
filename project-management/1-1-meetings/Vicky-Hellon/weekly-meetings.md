@@ -11,46 +11,56 @@
 
 ### Check-in ritual
 Feeling good to be on the same page as MOG and HM this week- definite push for us to start putting together roadmap type docs with the scientific leads of the partnership so we can plan for the year. 
+- That would be really helpful in getting some timeline added to leads' calendar. All the best!
 
 ### Project specific Reflection
 
 Started off feeling on top of things this week and now slightly less! Putting together the expert panel agenda has made it clear that we're not quite aligned as a group with what we want out of the panel so need to work through this.
+- Have experts been consulted for their interest in what they want to bring to the panel? 
 
 ### Notes to discuss during 1:1
 
 #### Who did you help this week?
 
 Helped the research leads with a letter to the editor they want to submit for a potential journal submission, helped HM with some funding call queries.
+- 🙌
 
 #### Who helped you this week?
 
-AR helped me with what I needed to do for goatherding. HM helped me think about what other documents I need to put together for the partnership such as a comms plan.
+* AR helped me with what I needed to do for goatherding. 
+ * You did a pretty solid goadtherding. I need to keep up with that next week :D 
+* HM helped me think about what other documents I need to put together for the partnership such as a comms plan.
+ * Comm strategy doc will definitely be useful especially to align what is announced by you and what needs to be aligned with the Turing comms team. I would love to see how this develops and if I can help with that. I suggest adding some internal engagement aspect in there too.
 
 #### What did you achieve?
 
 * Have put together a presentation on slack for community management for this week's lab meeting
+ * Amazing! Do upload them on Zenodo if you feel that could be generally useful. You can cite that in a chapter that you are planning to write for the TTW. 
 * Have started the expert panel agenda- needs sending out asap 
 * Team charter should be finalised-ish by Friday
+ * This is amazing! Looking forward to reading that. 
 
 #### What did you struggle with?
 
-* Expert panel agenda- need consensus by the end of the week!
+* Expert panel agenda- need consensus by the end of the week!]
+ *  Keeping my fingers crossed. Looks like this is a lot of back and forth planning.
 
 #### What would you like to work on next week?
 
-* Expert panel meeting is on Monday
-* Once thats out the way, hoping to have time to start other documents- potentially a comms plan, stakeholder mapping.
+* Expert panel meeting is on Monday. Once thats out the way, hoping to have time to start other documents- potentially a comms plan, stakeholder mapping.
 * Also need to think about how to keep workshop community engaged, have dropped off a bit
+ * Happy to cowork on some of these with you and see where we can align you work with TPS.
 
 #### Where do you need help?
 
 * Have a meeting with EK next week on community Githubs and will also pick her brain on comms stuff as suggested by HM
 * Perhaps some advice on how to keep workshop community engaged- am struggling for ideas at the moment
+ * Let's chat about it in our 1:1 
 
 #### Any other topics
 
 - Need to move next week's catchup! Will slack you
-
+ - Moved to Monday.  
 
 
 ## Date: 11 January 2022
