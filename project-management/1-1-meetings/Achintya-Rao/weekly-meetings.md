@@ -10,17 +10,21 @@
 
 ## 2022-01-11
 
-- Check-in ritual
-    - Reflected on finding my voice as CM over the break
-    - Grateful to KW for help with goals
+**Check-in ritual**
+- Reflected on finding my voice as CM over the break
+    - I am glad to see that you could make some time on reflecting this. Looking forward to discussing this and see where I can support this iterative process. 
+- Grateful to KW for help with goals
+    - 🌸   
 
 ### Project-specific reflection
 
 - Need to meet individual members of ASG to understand the community
+    - Who among the core stakeholders you have not yet managed to meet? 
 - Can identify connections once I speak to individual members
-- “Nobody knows how this community-building looks like.”
-  - What are the needs? What are the connections that exist between teams?
+- “Nobody knows how this community-building looks like.” What are the needs? What are the connections that exist between teams?
+  - I think many of us have the vision for ASG community and overview of how building them would look like. I hope discussion earlier in the week was useful, howeever, we should block a day to work on sketching out some concrete strategy and timeline to share them with others. This will help in communicating what we want to achieve and where we might be misaligned - which would be a place to further feedback and iteration, and especially for engagement.
 - Documenting queries, create pathways
+    - How can we work towards making them visible? 
 - “Have I let the ASG PDRAs know what my agenda is beyond the white papers?”
 
 #### Anything else
@@ -31,6 +35,7 @@
   - Look at JD
   - Personal-professional goals
 - ASG goal-setting workshop?
+
 
 #### After meeting
 
