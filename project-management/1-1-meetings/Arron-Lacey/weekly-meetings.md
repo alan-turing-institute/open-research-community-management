@@ -1,6 +1,65 @@
 # 1:1 Arron and Kirstie catch up and notes
 
+* [25 January 2022](#date-25-january-2022)
 * [18 January 2022](#date-18-january-2022)
+
+## Date: 25 January 2022
+
+### Check-in ritual
+
+* Back from annual leave!
+
+### Project specific Reflection
+
+* We now have a draft 2022 plan for the hub. Need to review and add actions.
+  * KW: I'm hopeful the co-working session tomorrow can get us to the end of this doc 🤞
+* We have the advisory board meeting on the 14th Feb. Lisa needs materials mid-next week.
+  * KW: 🙀
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+* NA (annual leave)
+
+#### Who helped you this week?
+
+* KW has kept me in the loop!
+
+#### What did you achieve?
+
+* NA (annual leave)
+
+#### What did you struggle with?
+
+* Lifting heavy furniture!
+  * KW: 😅 💪
+
+#### What would you like to work on next week?
+
+* Need to get AB meeting materials circulated to Analytics Hub by end of this week.
+  Can draw attention to this at Hub meeting on Friday
+* Find out how we can help the PPIE group.
+  * KW: One angle is the ethics application
+    * Stakeholder mapping, and stakeholder engagement - who are they planning to engage with? Whose voices will be represented?
+    * Looking forwards: how do "we" (Analytics Hub) stay in touch with the patience & members of the public?
+      * How often connect? In what form?
+    * On the current ethics form we ask about the "societal benefits and harms" and it would be great if they were patient led rather than analyst / clinican defined.
+  * KW: Another angle is openness and reproducibility - we're going to need to communicate why we're using lots of data from lots of sources.
+    * Would be really helpful if members of the public cared about generalisability - having data from various backgrounds.
+    * Might need to set up explainers for open research components (open source, metadata vs managed access to data etc)
+  * KW: I'd also be really keen for you to take forward the 2x2 risk matrix with members of the public!!!
+    * What happens if the ML doesn't add anything? How weak a signal is too weak to continue?!
+
+#### Where do you need help?
+
+* If I get initial draft of AB docs by Thursday if KW could have a quick glance before
+  going to Analytics Hub.
+
+#### Any other topics
+
+- Not this week - focussed 🎧
+
 
 ## Date: 18 January 2022
 
