@@ -1,6 +1,52 @@
 # 1:1 Arron and Kirstie catch up and notes
 
+* [25 January 2022](#date-25-january-2022)
 * [18 January 2022](#date-18-january-2022)
+
+## Date: 25 January 2022
+
+### Check-in ritual
+
+* Back from annual leave!
+
+### Project specific Reflection
+
+* We now have a draft 2022 plan for the hub. Need to review and add actions.
+* We have the advisory board meeting on the 14th Feb. Lisa needs materials mid-next week.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+* NA (annual leave)
+
+#### Who helped you this week?
+
+* KW has kept me in the loop!
+
+#### What did you achieve?
+
+* NA (annual leave)
+
+#### What did you struggle with?
+
+* Lifting heavy furniture!
+
+#### What would you like to work on next week?
+
+* Need to get AB meeting materials circulated to Analytics Hub by end of this week.
+  Can draw attention to this at Hub meeting on Friday
+* Find out how we can help the PPEI group.
+
+#### Where do you need help?
+
+* If I get initial draft of AB docs by Thursday if KW could have a quick glance before
+  going to Analytics Hub.
+
+#### Any other topics
+
+- Not this week - focussed 🎧
+
 
 ## Date: 18 January 2022
 
