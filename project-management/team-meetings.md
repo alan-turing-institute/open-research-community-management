@@ -95,8 +95,7 @@ Please also read the **Agenda** section at the end of the HackMD for particular 
 
 ### Personal and project related highlights (celebration, success, failures and everything in between)
 
-> *Please add a bullet point with something you'd like the team members to know about\*.
-> You may respond to any of the points before or after the team meeting
+> *Please add a bullet point with something you'd like the team members to know about. You may respond to any of the points before or after the team meeting.*
 * 
 *   
 * 
@@ -104,9 +103,9 @@ Please also read the **Agenda** section at the end of the HackMD for particular 
 * 
 * 
 
-### Is there a community related stuff (ideas/tasks/research/plans) you are working on? Anything surprising, challenging or exciting you would like to share with us?
+### Is there a community related stuff (ideas/tasks/research/plans) you are working on? 
 
-> *Please share any interesting technical, social or community building skills and practices that you have recently learned or applied in your work*.
+> *Please share any technical, social or community building skills and practices that you have recently learned or applied in your work. Anything surprising, challenging or exciting you would like to share with us?*
 * 
 *   
 * 
@@ -114,9 +113,9 @@ Please also read the **Agenda** section at the end of the HackMD for particular 
 * 
 * 
 
-### What would you like team members' opinion(s) on? This can be related to your project, or something in general where you hope others can help/support/collaborate.
+### What would you like team members' opinion(s) on? 
 
-> *Please share questions, problems or challenge where you would like opinions, succestions, recommendations and feedback from team members*.
+> *Please share questions, problems or challenge where you would like opinions, succestions, recommendations and feedback from team members. This can be related to your project, or something in general where you hope others can help/support/collaborate.*
 * 
 *   
 * 
@@ -238,7 +237,7 @@ I believe that **building connections between individual people are the magic th
 
 ### Something to share
 
-> *Please add a bullet point with something you'd like the team members to know about. You may respond to any of the points before or after the team meeting, no need to wait until the 1 hour time slot! Please add your initials and use the* 🤫 *emoji if you would like the bullet point removed from the GitHub record.*
+> *Personal and project related highlights (celebration, success, failures and everything in between).*
 
 If five people come to team meeting, every week for four weeks, and each time they share something interesting, we'll curate 20 content recommendations in just one month.
 I'm willing to bet that at least 1 in those 20 will be useful for the team.
@@ -258,7 +257,7 @@ This third goals is to help us all see the progress along a career that is gener
 
 ### Asking questions
 
-> *Please add a bullet point with something you'd like team members' opinion on. You may respond to any of the points before or after the team meeting, no need to wait until the 1 hour time slot! Please add your initials and use the* 🤫 *emoji if you would like the bullet point removed from the GitHub record.*
+> *What would you like team members' opinion(s) on?*
 
 Asking questions is the first step in finding the answers.
 If team members do not ask for help in the first place, then the communities will not be able to support them.
