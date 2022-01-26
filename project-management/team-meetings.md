@@ -93,7 +93,7 @@ Please also read the **Agenda** section at the end of the HackMD for particular 
 * 
 *   
 
-### Personal and project highlights (celebration, success, failures and everything in between)
+### Personal and project related highlights (celebration, success, failures and everything in between)
 
 > *Please add a bullet point with something you'd like the team members to know about\*.
 > You may respond to any of the points before or after the team meeting
@@ -104,7 +104,7 @@ Please also read the **Agenda** section at the end of the HackMD for particular 
 * 
 * 
 
-### Community related things you are currently working on
+### Is there a community related stuff (ideas/tasks/research/plans) you are working on? Anything surprising, challenging or exciting you would like to share with us?
 
 > *Please share any interesting technical, social or community building skills and practices that you have recently learned or applied in your work*.
 * 
@@ -114,7 +114,7 @@ Please also read the **Agenda** section at the end of the HackMD for particular 
 * 
 * 
 
-### What would you like team members' opinion(s) on?**
+### What would you like team members' opinion(s) on? This can be related to your project, or something in general where you hope others can help/support/collaborate.
 
 > *Please share questions, problems or challenge where you would like opinions, succestions, recommendations and feedback from team members*.
 * 
