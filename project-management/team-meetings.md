@@ -4,7 +4,8 @@ As a team, we commit to collaborate, support and interconnect our projects with 
 As we continue to grow in our roles as community builders, technical skills, domain expertise and tips and tricks for working effectively in community and research spaces grows with it.
 Team meetings are a space for all members of the group to come together and learn from each other.
 
-Team meetings are held online every week.
+Team meetings are held every week.
+Members from collaborating project can choose to attend the meeting each week or biweekly, however they should maintain regular participation for consistency.
 Meetings will be conducted online and remote participation will be considered by default, but when possible and safe to travel, in-person meetings will be organised at The Alan Turing Institute.
 Our [shared calendar](https://calendar.google.com/calendar/u/0?cid=cGtlazVnc2xkcjlwYWRhNjc4MTJyaGtiaW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) will be updated with the times of the meetings, and when meetings are cancelled because they conflict with a relevant event that multiple team members may wish to attend.
 
@@ -33,7 +34,7 @@ Team meeting will only be cancelled if there is another event that multiple team
 
 In advance of each week's team meeting, the chair will send a notification with a link to a HackMD note.
 
-HackMD is a realtime, multi-platform colteamorative markdown note editor.
+HackMD is a realtime, multi-platform collaborative markdown note editor.
 Everyone is able to edit the text in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) when you click the the `edit` page, and HackMD renders the raw input as a nicely formatted website in the `view` rendering.
 You can see the raw markdown and the rendered page side by side by clicking the `both` button.
 You can read more about HackMD at [https://hackmd.io/s/features](https://hackmd.io/s/features).
@@ -190,7 +191,7 @@ Your responsibilities as chair are to:
 
 **The prospect of chairing team meeting might feel really overwhelming!**
 Being in charge of managing the time, coordinating everyone's participation and facilitating a productive conversation is a lot of responsibility :grimacing:
-It is also a really important skill that will serve you well in future colteamorations and as you advance through your career (inside of academia and beyond).
+It is also a really important skill that will serve you well in future collaborations and as you advance through your career (inside of academia and beyond).
 
 The first few times that you chair team meeting, please be in touch with Malvika, so she can answer any questions and mentor you though the experience.
 
@@ -294,7 +295,7 @@ Many of us are not co-located and so it is important to find ways to share exper
 The HackMD and Zoom links allows team members to contribute without being physically in the room.
 
 The HackMD also allows team members to contribute **even if they are not able to join the meeting**.
-That way, we can hear updates from them and get answers to our questions, even if our colteamorators are not able to join the conversation in real time.
+That way, we can hear updates from them and get answers to our questions, even if our collaborators are not able to join the conversation in real time.
 
 Finally, the HackMD lets **everyone talk at once**.
 You can find links and add comments as the conversation in the room is ongoing, which allows parallel participation rather than waiting to speak in a serial timeline.
