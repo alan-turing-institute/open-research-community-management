@@ -3,10 +3,66 @@
 
 **TOC**
 
+- [2022-02-01](#2022-02-01)
+- [2022-01-25](#2022-01-25)
 - [2022-01-11](#2022-01-11)
 - [2021-12-09](#2021-12-09)
 - [2021-11-30](#2021-11-30)
 - [2021-11-23](#2021-11-23)
+
+## 2022-02-01
+
+## 01-02-2022
+
+- Check-in ritual
+    - EK for demonstrating an internal GitHub repo as an example for project management, and then sharing notes following a meeting with DC about measuring impact
+        - Excellent! EK has so much experience managing restricted access project.
+    - HM for recognising my workload and offering to cut me out of some planning meetings
+        - That's so great to hear.
+    - KH for speaking with me about an ASG CTP and introducing me to half a dozen people by e-mail
+    - AL for helping set up co-working schedule
+    - KW, AB, SB, RH for joining co-working Huddles
+    - AC for just being all-round awesome with open science
+        - So true!!
+    - RW for joining lunchtime call with PDRAs, and JD and AC for supporting
+    - LM for testing Overleaf with me
+
+### Agenda and Notes
+
+- Review your current projects, relation and skill-building that you are working on.
+    - The white papers project is now live and open: https://github.com/alan-turing-institute/asg-white-papers
+    - I have spoken with several PIs, PDRAs, REGs, and have more lined up this week and next
+        - This is fantastic!!
+        - Cookie cutter template repo for the white papers (reusable) will be amazing to get out of this.
+        - Maybe reconsider the repo names to be more understandable
+
+- Since last week, review progress you’ve made towards your goals. Any challenges to mention?
+    - I’m pleased that I set up all the mundane working materials for the white papers
+    - Just finding focused time can be a challenge on _some_ days, but I’ve now set aside Fridays as meeting-free in as much as I can control them
+        - I completely support this! I have been doing this since 2017 and intend to keep it that way.
+
+### Reflection
+
+#### What would you like to work on next week?
+
+* Make a cookie-cutter template for white papers (possibly longer time scales than next week)
+* Look into GitHub Discussion feature for white papers
+
+## 2022-01-25
+
+[N.B.: Didn’t actively take notes in this meeting.]
+
+- ASG-meeting went well!
+- Set up a repo, created Slack channels, OverLeaf
+
+**Recording processes, ideas, stories**
+
+- Publishing them in TTW…
+- e.g. SPARRA sensitive data: case study?
+    - What are the exceptions for openness?
+- Drive the writing of the processes, but don’t have to be the primary writer
+    - Involve PIs and PDRAs
+
 
 ## 2022-01-11
 
