@@ -15,8 +15,6 @@
 
 ## 2022-02-01
 
-## 01-02-2022
-
 - Check-in ritual
     - EK for demonstrating an internal GitHub repo as an example for project management, and then sharing notes following a meeting with DC about measuring impact
         - Excellent! EK has so much experience managing restricted access project.
