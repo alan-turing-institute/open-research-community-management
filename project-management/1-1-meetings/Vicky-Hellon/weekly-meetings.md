@@ -1,10 +1,56 @@
 # Vicky + Malvika 1:1 Catch-up Minutes
 
+* [1 Feburary 2022](#date-1-february-2022)
 * [18 January 2022](#date-18-january-2022)
 * [11 January 2022](#date-11-january-2022)
 * [14 December 2021](#date-14-december-2021)
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
+
+## Date: 1 February 2022
+
+### Check-in ritual
+A good but busy week! Feel like some of the pieces of the partnership are starting to come together more and was nice to find a link into the Turing Way via the Code Review group, especially after discussions at last week's lab meeting. 
+
+### Project specific Reflection
+
+Funding call and senior research associate advert closing is a reminder that we the community of the partnership will be growing very soon. Reflecting on what I need to prepare to ensue onboarding is as soon as necessary. Also expert panel meeting went well, am keen to captialise and plan for the next meetings.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+* Helped AM with interviewing 3 candidates for RPM role
+* Reviewed peer review chapter in TTW for Lena
+* Helped answer application queries for SM funding call
+
+#### Who helped you this week?
+
+* EK helped me and AR- showed us Github repo and helped show examples of documentation I could utilise
+* MOG helped with partnership planning
+
+#### What did you achieve?
+
+* Chaired expert panel meeting 
+* Almost finished Github public v private and comms strategy document 
+
+#### What did you struggle with?
+
+* Found it difficult to put together documentation from scratch- definitely find it easier to work collaboratively with someone on this
+
+#### What would you like to work on next week?
+
+* Finalise comms and github document
+* Make a start on stakeholder mapping
+* Chase up RM on GE piece
+
+#### Where do you need help?
+
+* Lots of the funding applications have mentioned Github for sharing their code/data. HM mentioned I'll need to set this up so will likely need support here.
+* Any feedback on comms/github docs
+
+#### Any other topics
+
 
 
 ## Date: 18 January 2022
