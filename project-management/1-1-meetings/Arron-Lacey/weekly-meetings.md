@@ -1,7 +1,66 @@
 # 1:1 Arron and Kirstie catch up and notes
 
+* [4 February 2022](#date-4-february-2022)
 * [25 January 2022](#date-25-january-2022)
 * [18 January 2022](#date-18-january-2022)
+
+## Date: 4 February 2022
+
+### Check-in ritual
+
+* Productive week, not hampered by COVID 💪
+
+### Project specific Reflection
+
+* PIE becoming a good focus - all hubs can work really well together
+* OK'd to look at supervised analysis 
+
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+* FM with the Newsletter
+* PIE group to start thinking about a steering committee
+* SG testing PR [test-autocompress-image](https://github.com/arronlacey/the-turing-way/tree/arron-test-autocompress-image)
+
+#### Who helped you this week?
+
+* DB and KW with Advisory Board doc
+* AR with tips for my first co-working session
+
+#### What did you achieve?
+
+* Advisory Board doc submitted
+* Two items on EDoN Newsletter
+* Helped with Analytics Hub 2022 plan
+* Tested docker rootless - going into Turing Way
+* Read around student's topic on Enrichment Scheme
+
+#### What did you struggle with?
+
+* Ran out of puff with Advisory Board doc towards the end...
+
+#### What would you like to work on next week?
+
+* Get ball rolling on Ethics Doc in colab with PIE group
+* Include supervised classification methods in analysis plan
+    * Can we answer "how long until I decline into dementia?" with supervised techniques?
+    * The GLMVQ paper projects trajectories of ADNI-MEM score vs distance to mean profile of MCI
+    * Doesn't project using time
+    * RE mentioned SVM hinge-loss - will be similar to above^
+* Pick back up on Stochatic Differential Equations with stan
+* Hopefully meeting with DD and Turing REG on SRE T2
+* Modify and PR to https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/reproducible-research/renv/renv-containers.md
+
+#### Where do you need help?
+
+* Ethics draft from KW
+
+#### Any other topics
+
+- Not this week
+
 
 ## Date: 25 January 2022
 
