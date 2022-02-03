@@ -9,37 +9,54 @@
 ### Check-in ritual
 
 * Productive week, not hampered by COVID 💪
+  * KW: So glad you're feeling ok!
 
 ### Project specific Reflection
 
 * PIE becoming a good focus - all hubs can work really well together
+  * KW: LOVE THIS
 * OK'd to look at supervised analysis 
-
+  * KW: Also great
 
 ### Notes to discuss during 1:1
 
 #### Who did you help this week?
 
 * FM with the Newsletter
+  * KW: 🙏 Awesome!! 
+  * Work with PIE and SRE 🚀
 * PIE group to start thinking about a steering committee
+  * KW: LOVE THIS - Please can you let DC & EB know so the AIM RSF work in this space is aligned
 * SG testing PR [test-autocompress-image](https://github.com/arronlacey/the-turing-way/tree/arron-test-autocompress-image)
+  * KW: 🙌 Super helpful
 
 #### Who helped you this week?
 
-* DB and KW with Advisory Board doc
+* DD and KW with Advisory Board doc
+  * KW: Looking SO GOOD - thank you!
 * AR with tips for my first co-working session
+  * KW: YAAY!
 
 #### What did you achieve?
 
 * Advisory Board doc submitted
+  * KW: 🙌 GREAT JOB!
 * Two items on EDoN Newsletter
+  * KW: Also really great - thank you! 
 * Helped with Analytics Hub 2022 plan
+  * KW: Yes! I'm feeling more hopeful here
 * Tested docker rootless - going into Turing Way
+  * KW: Oooooooh - 🤯 - how cool is THAT?!
+  * REALLY keen for you to explore that with some of the secure research environment admins??
+  * Let me know when you have a chapter update that could be shared for their feedback.
 * Read around student's topic on Enrichment Scheme
+  * KW: AAAAAH THANK YOU for doing this!! 🙏
+  * I'm so glad that you were able to give them some feedback
 
 #### What did you struggle with?
 
 * Ran out of puff with Advisory Board doc towards the end...
+  * KW: Feel you on this - but it looked fantastic!! Well done.
 
 #### What would you like to work on next week?
 
@@ -53,9 +70,12 @@
 * Hopefully meeting with DD and Turing REG on SRE T2
 * Modify and PR to https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/reproducible-research/renv/renv-containers.md
 
+KW: The plans look great - thank you!
+
 #### Where do you need help?
 
 * Ethics draft from KW
+  * KW: Send the template docs... should have some time next week to start brainstorming the content with you!
 
 #### Any other topics
 
