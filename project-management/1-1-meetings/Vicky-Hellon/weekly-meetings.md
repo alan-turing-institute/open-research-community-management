@@ -1,11 +1,60 @@
 # Vicky + Malvika 1:1 Catch-up Minutes
 
+* [08 Feburary 2022](#date-08-february-2022)
 * [01 Feburary 2022](#date-01-february-2022)
 * [18 January 2022](#date-18-january-2022)
 * [11 January 2022](#date-11-january-2022)
 * [14 December 2021](#date-14-december-2021)
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
+
+
+## Date: 08 February 2022
+
+### Check-in ritual
+Good week so far- good mix of having tangible things to do and enough time to some broader/blue-sky thinking.
+
+### Project specific Reflection
+Expert panel discussion went well, got more of an idea of what we want the panel to provide and have a plan in place to engage them up to the meeting in April. Have sorted February's newsletter and almost there with the Genomics England piece. Looking forward to co-working on the project this week!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+* RM and AD with pulling together their text for the GE piece
+* Partnership team with expert panel planning
+
+#### Who helped you this week?
+
+* CM agreed to come talk at code review meeting
+* Attended a talk on causal inference which gave some useful background
+
+#### What did you achieve?
+
+* Attended public engagement training 
+* Prepped February's newsletter
+* Pulled together GE piece
+* Sent follow up email to expert panel
+* Prepared rejection email for SM funding call
+
+#### What did you struggle with?
+
+* Planning still lacking a bit, waiting for feedback on docs
+
+#### What would you like to work on next week?
+
+* Sorting out Google Drive and Github
+* Planning for funded project onboarding
+* Think about seminar series
+
+#### Where do you need help?
+
+* Stakeholder mapping and Github planning- looking forward to doing this on Thursday :)
+
+#### Any other topics
+
+N/A
+
 
 ## Date: 01 February 2022
 
