@@ -21,7 +21,7 @@
     - Also to HM and AY for help with refining the ASG event agenda
     - Huge thanks to MS for assorted advice, guidance and patience during community-related meetings, and for taking the whole of Friday to co-work with me on growing the ASG community and getting over my GitHub-related fears
     - Slowly but surely I feel I’m growing into the role
-
+- MS: So delighted to see you make these connections! Well done. <3
 ### Project specific Reflection
 
 - Started to put together notes and ideas into the GitHub repo for the ASG community
@@ -30,6 +30,9 @@
     - Also involving RAMs
 - Didn’t manage to find the time to look too closely into GitHub Discussions but have started to use it anyway
     - <https://github.com/alan-turing-institute/asg-community/discussions/27>
+- MS: Lots of stuff!
+  - Really nice to see RAMs involvement in your work.
+  - Here is an example from REG handbook on discussion feature: https://github.com/alan-turing-institute/REG-handbook/discussions/8
 
 ### Notes to discuss during 1:1
 
@@ -37,22 +40,26 @@
 
 - AC with an application for Enrichment Project Collaborations
 - SG with assorted Binder-related stuff
+- MS: 🎊 
 
 #### Who helped you this week?
 
 - Those who joined the agenda-building call last week and helped refine the agenda (in check-in ritual, above)
 - MS for some much-needed 1:1 virtual hand-holding with community building
+- MS: Useful community involvements! Thank you.
 
 #### What did you achieve?
 
 - Was able to take on board feedback/input from community members to define an agenda for the ASG meeting in March that are happy with!
 - Refactored the various ASG-community-related repos and issues into a single one, with Malvika’s advice
 - Closed one long TTW PR that I had been in the process of reviewing for ages
+- MS: Looking forward to seeing all these work develop.
 
 #### What did you struggle with?
 
 - Getting over my “put things on GitHub!” anxiety
 - Some personal stuff for private discussion
+- MS: 🌻 You are doing the best you can.
 
 #### What would you like to work on next week?
 
@@ -64,6 +71,7 @@
     - Probably a good chunk of the day (scheduled for Friday)
 - Some reading into community-building, especially the research on the concept of a “Community of Practice”
     - Intermittent
+- MS: I love reading theories of community - currently reading Rekindling Democracy that I love love. Kirstie got me to read AM Brown that I will recommend Emergent Strategy.
 
 #### Where do you need help?
 
