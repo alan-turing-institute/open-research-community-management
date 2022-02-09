@@ -1,8 +1,58 @@
 # 1:1 Arron and Kirstie catch up and notes
 
+* [11 February 2022](#date-11-february-2022)
 * [4 February 2022](#date-4-february-2022)
 * [25 January 2022](#date-25-january-2022)
 * [18 January 2022](#date-18-january-2022)
+
+## Date: 11 February 2022
+
+### Check-in ritual
+
+* Bit of a reactive week helping out with EDoN Co-ordination Hub
+  and juggling having my son at home from school
+
+### Project specific Reflection
+
+* Ball appears to be rolling with scientific questions.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+* LF with amendments to AB doc
+* EK on Enrichment Scheme prep
+* SS on conversations about PPIE Steering Committee
+* AM on Analytics Hub Project Initialization form
+
+#### Who helped you this week?
+
+* CM on prep for AB meeting
+* FM on co-orindation with PPIE workstream
+* LF and RE on AB doc amendments.
+
+#### What did you achieve?
+
+* AB doc amendments - LF has seen and everything looks ok for them now
+* EDoN update presentation for lab meeting
+* WIP - presentation slides for AB meeting (it only needs to be placeholders for paper)
+
+#### What did you struggle with?
+
+* Nothing too much this week.
+
+#### What would you like to work on next week?
+
+* Finish AB presentation slides
+* Return to points from last week (AB got in the way this week)
+
+#### Where do you need help?
+
+* PPIE and CH on continuing to set up Steering Group.
+
+#### Any other topics
+
+- Not this week.
 
 ## Date: 4 February 2022
 
