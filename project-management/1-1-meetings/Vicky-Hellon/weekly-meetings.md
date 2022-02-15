@@ -1,5 +1,6 @@
 # Vicky + Malvika 1:1 Catch-up Minutes
 
+* [15 Feburary 2022](#date-15-february-2022)
 * [08 Feburary 2022](#date-08-february-2022)
 * [01 Feburary 2022](#date-01-february-2022)
 * [18 January 2022](#date-18-january-2022)
@@ -8,6 +9,50 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 
+## Date: 15 February 2022
+
+### Check-in ritual
+Nice to be getting into a bit of a routine with office stuff and excited for lab social plans tonight!
+
+### Project specific Reflection
+
+Finding this week a bit of a challenge so far in terms of coming up with ideas on how to keep unsucessful funding applicants involved in the partnership. On the other hand documentation stuff coming along nicely- feel happy that the comms doc is done and GitHub finally set up!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+* Helped LK with hopefully final round of review of TTW peer review chapter
+
+#### Who helped you this week?
+
+* EK with GitHub training on how to set up the repository!
+* MS with co-working- so grateful for your input and the progress we made with stakeholder mapping
+
+#### What did you achieve?
+
+* Comms document finalised, feeling really happy with it 
+* Stakeholder map started
+* GitHub set up
+* Attended SM funding panel
+
+#### What did you struggle with?
+
+* Ideas on how to keep the unsucessful SM applicants involved in the partnership- would like your thoughts!
+
+#### What would you like to work on next week?
+
+* Finalise stakeholder mapping
+* Sort out expert panel whiteboarding on our side
+* Start to plan seminar series
+
+#### Where do you need help?
+
+* As above discussion on unsucessful SM applicants!
+
+#### Any other topics
+
+- N/A
 
 ## Date: 08 February 2022
 
