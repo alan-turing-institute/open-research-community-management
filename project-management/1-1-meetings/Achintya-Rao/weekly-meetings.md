@@ -4,6 +4,7 @@
 <details>
     <summary><strong>TOC</strong></summary>
 
+- [2022-02-15](#2022-02-15)
 - [2022-02-08](#2022-02-08)
 - [2022-02-01](#2022-02-01)
 - [2022-01-25](#2022-01-25)
@@ -14,6 +15,70 @@
 
 </details>
 
+## 2022-02-15
+
+### Check-in ritual
+
+Overall doing well but a tad overwhelmed with wrapping up my PhD.
+It’s affecting work a little and will for the next ten days or so, unfortunately.
+
+The ASG event is shaping up well!
+Comms have gone out and a few more have registered.
+Reached out to some individuals from the community to test the waters of the proposed sessions and got positive feedback.
+
+Thanks in particular to HM for help with the ASG event, to DC for an insightful discussion on measuring the health of communities and to KW for advice on how to conduct lightning talks.
+
+### Project specific Reflection
+
+**Good**
+
+- Using GitHub as a single-store for all community aspects is a going well
+- Spoke with Scivision community about presenting at third session of ASG event (they’re interested)
+- Made possible connection between health and Digital Twins (see below)
+
+**Challenging**
+
+- White papers are a little behind the (optimistic) schedule because the ASG event is taking up more of my time than I had anticipated
+- For the event, we are still lacking lightning talks at the moment
+
+### Notes to discuss during 1:1
+
+#### Whom did you help this week?
+
+- Put AD and AF in touch re. potential for health-related Digital Twins
+- DC said he found our conversation about community health useful :)
+- Another member of the Lab with some personal stuff
+
+#### Who helped you this week?
+
+- HM and AY with ASG event logistics
+- DC on measuring health of communities
+- KW on how to conduct lightning talks
+
+#### What did you achieve?
+
+- Contacted all external PDRAs about Slack, and at least two have asked to join
+- Did some tidying of the ASG Community repo
+- Spoke with Scivision team during their coworking calls to discuss ASG event participation following suggestion from BM and JR
+- Spoke with another core contributor to the white papers
+
+#### What did you struggle with?
+
+- Started with _Community Management_ worksheets, but haven’t finished
+- Overall, I’m operating at less than full capacity because of the thesis-submission deadline and a lack of sleep
+
+#### What would you like to work on next week?
+
+- Finalise ASG event sessions and speakers
+    - Thursday/Friday
+- Review (with BM) the lightning-talk applications
+    - Part of Thursday morning
+- Catch up and follow up on white papers
+
+#### Where do you need help?
+
+- Can’t think of anything specific at the moment!
+
 ## 2022-02-08
 
 - Check-in ritual
@@ -22,6 +87,7 @@
     - Huge thanks to MS for assorted advice, guidance and patience during community-related meetings, and for taking the whole of Friday to co-work with me on growing the ASG community and getting over my GitHub-related fears
     - Slowly but surely I feel I’m growing into the role
 - MS: So delighted to see you make these connections! Well done. <3
+
 ### Project specific Reflection
 
 - Started to put together notes and ideas into the GitHub repo for the ASG community
