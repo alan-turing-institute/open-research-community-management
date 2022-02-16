@@ -1,20 +1,19 @@
 # 1:1 Arron and Kirstie catch up and notes
 
-* [11 February 2022](#date-11-february-2022)
+* [17 February 2022](#date-17-february-2022)
 * [4 February 2022](#date-4-february-2022)
 * [25 January 2022](#date-25-january-2022)
 * [18 January 2022](#date-18-january-2022)
 
-## Date: 11 February 2022
+## Date: 17 February 2022
 
 ### Check-in ritual
 
-* Bit of a reactive week helping out with EDoN Co-ordination Hub
-  and juggling having my son at home from school
+* Advisory Board done, can get back to work on-hold.
 
 ### Project specific Reflection
 
-* Ball appears to be rolling with scientific questions.
+* Scientific questions coming into focus - should be a good month
 
 ### Notes to discuss during 1:1
 
@@ -33,9 +32,10 @@
 
 #### What did you achieve?
 
-* AB doc amendments - LF has seen and everything looks ok for them now
-* EDoN update presentation for lab meeting
-* WIP - presentation slides for AB meeting (it only needs to be placeholders for paper)
+* AB presentation
+* EDoN lab presentation
+* First Turing Way Cafe
+* Discovered and tested GitLens plugin for VSCode!
 
 #### What did you struggle with?
 
@@ -43,12 +43,14 @@
 
 #### What would you like to work on next week?
 
-* Finish AB presentation slides
-* Return to points from last week (AB got in the way this week)
+* Variational Recurrent Autoencoders
+* Think about collecting analysis approaches for the Hub (where? format? repro MWE?)
+* EDoN Ethics Form
+* Interviews for AIM Community Manager
 
 #### Where do you need help?
 
-* PPIE and CH on continuing to set up Steering Group.
+* If Ethics Form gets done this week then KW to review
 
 #### Any other topics
 
