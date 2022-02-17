@@ -1,8 +1,81 @@
 # 1:1 Arron and Kirstie catch up and notes
 
+* [17 February 2022](#date-17-february-2022)
 * [4 February 2022](#date-4-february-2022)
 * [25 January 2022](#date-25-january-2022)
 * [18 January 2022](#date-18-january-2022)
+
+## Date: 17 February 2022
+
+### Check-in ritual
+
+* Advisory Board done, can get back to work on-hold.
+  * KW: "Unobjectionable" High praise indeed 😉
+  * More seriously - really great that you got this paper written, edited, presented!! THANK YOU! 🙌 
+
+### Project specific Reflection
+
+* Scientific questions coming into focus - should be a good month
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+* LF with amendments to AB doc
+  * KW: 🙌
+* EK on Enrichment Scheme prep
+  * KW: Thank you so much for helping her out!
+* SS on conversations about PPIE Steering Committee
+  * KW: Combination with HSEG - acceptability
+  * One thing to ask is whether ARUK have consent forms for focus groups that we can use or if we'd want to use / adapt Turing ones.
+* AM on Analytics Hub Project Initialization form
+  * KW: YAY! So so helpful! Well done to you both!
+
+#### Who helped you this week?
+
+* CM on prep for AB meeting
+  * KW: Ah GREAT!
+* FM on co-orindation with PPIE workstream
+  * KW: ALSO GREAT! 🙏
+* LF and RE on AB doc amendments.
+  * KW: 🌠
+
+#### What did you achieve?
+
+* AB presentation
+* EDoN lab presentation
+  * KW: Thank you for presenting!!
+* First Turing Way Cafe
+  * KW: ☕☕☕
+* Discovered and tested GitLens plugin for VSCode!
+  * KW: NICE!
+
+#### What did you struggle with?
+
+* Nothing too much this week.
+
+#### What would you like to work on next week?
+
+* Variational Recurrent Autoencoders
+* Think about collecting analysis approaches for the Hub (where? format? repro MWE?)
+  * KW: I think this is a great idea - a resource that can serve as inspiration for research questions
+    * "A bottom up approach to setting the scientific questions" - what can be done, what has been done in related fields etc.
+  * I think if we can make this interoperable with the PID that would be really helpful.
+    * Some sort of template of what information should be included - citations that have done something similar, sample code, types of data that would be fed in?
+  * GitLab (private) repository for the "bag of models" 👜
+* EDoN Ethics Form
+  * KW: That's great - really easy to build on from the scientific questions discussion and the advisory board document.
+* Interviews for AIM Community Manager
+  * KW: Thank you for changing working days around
+
+#### Where do you need help?
+
+* If Ethics Form gets done this week then KW to review
+  * KW: :100:
+
+#### Any other topics
+
+- Not this week.
 
 ## Date: 4 February 2022
 
