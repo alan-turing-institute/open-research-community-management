@@ -1,9 +1,62 @@
 # 1:1 Arron and Kirstie catch up and notes
 
+* [3 March 2022](#date-3-march-2022)
 * [17 February 2022](#date-17-february-2022)
 * [4 February 2022](#date-4-february-2022)
 * [25 January 2022](#date-25-january-2022)
 * [18 January 2022](#date-18-january-2022)
+
+## Date: 3 March 2022
+
+### Check-in ritual
+
+* Half term is over 🍷
+
+### Project specific Reflection
+
+* EDoN Gitlab now set up - looking forward to getting everyone onboarded and how we will use it
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+* Indirectly helped FM by providing updates the EDoN monthly meeting - will now go into Newsletter
+* KW and MS on AIM CM interview panel
+* EK on Enrichment submission - all done now
+* MS - chairing TPS CM bi-weekly meeting
+* NS,ZK,RE - provided comments on retrospective analysis document going to steering board
+
+#### Who helped you this week?
+
+* CM on creating gitlab@edon-initiative.com email address
+* AM on getting me into a few meetings
+
+#### What did you achieve?
+
+* EDoN Gitlab setup - LCMM demo deployed at https://edon-initiative.gitlab.io/propsective-analysis/latentclassmixturemodel/
+* First draft of ethics application 
+* Hopefully left some constructive suggestions on retorspective analysis proposal
+* Helped appoint AIM CM
+* Found some awesome literature on the harm of deploying models in population distributions not reflected during training
+
+#### What did you struggle with?
+
+* getting bookdown::gitbook to behave with equation numbering (it still isn't)
+
+#### What would you like to work on next week?
+
+* Get everyone on the EDoN Gitlab, present at 9th March Analytics Hub meeting
+* Explore monotonic decline penalization term for https://gitlab.com/edon-initiative/propsective-analysis/latentclassmixturemodel/-/issues/1
+* Submit Ethics application
+* CM is potentially looking at moving the Confluence/JIRA which can inegrate nicely with Gitlab - will have a chat
+
+#### Where do you need help?
+
+* KW to review ethics draft
+
+#### Any other topics
+
+- Not this week.
 
 ## Date: 17 February 2022
 
