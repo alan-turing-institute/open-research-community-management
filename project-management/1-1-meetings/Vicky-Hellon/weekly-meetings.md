@@ -1,5 +1,6 @@
 # Vicky + Malvika 1:1 Catch-up Minutes
 
+* [04 March 2022](#data-4-march-2022)
 * [15 Feburary 2022](#date-15-february-2022)
 * [08 Feburary 2022](#date-08-february-2022)
 * [01 Feburary 2022](#date-01-february-2022)
@@ -8,6 +9,52 @@
 * [14 December 2021](#date-14-december-2021)
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
+
+
+## Date 4 March 2022
+
+### Check-in ritual
+Feel like I accomplished a lot this week! Sparkling moments- really excited for HM and AB with their promotions, feel like it will bring a positive steer to both Health and TPS.
+
+### Project specific Reflection
+Very close to getting a lot of things done! MOG still sorting out Google Drive but once done I'll move some stuff to GitHub and the rest to there. Whiteboarding for the expert panel this afternoon and seminar series planning gtting there.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+Helped a potential enrichment student with advice about potentially collaborating with the partnership. 
+
+#### Who helped you this week?
+EK's talk on Knowledge Shares was incredibly helpful! MS with input at operational meeting about how best to do face to face. 
+
+#### What did you achieve?
+
+* Recorded my talk for AI UK
+* Made a start on my Lunch and Learn Slides
+* Met with Roche to discuss Seminar Series
+* Wrote some thoughts on hybrid workshops for later in the year
+
+#### What did you struggle with?
+
+* Still struggling with how we can get people involved in the partnership in a non 'formal' way
+* Need to do some thinking around the agenda for the f2f meeting
+
+#### What would you like to work on next week?
+
+* Finalise-ish seminar series planning- invite speakers!?
+* Expert Panel whiteboarding- finalise
+* Finish off lunch and learn slides
+
+#### Where do you need help?
+
+* Planning f2f meeting- looking forward to doing this with you next week
+* Advice on seminar series/knowledge share
+
+#### Any other topics
+
+- N/A
+
+
 
 ## Date: 15 February 2022
 
