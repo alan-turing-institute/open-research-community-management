@@ -4,6 +4,7 @@
 <details>
     <summary><strong>TOC</strong></summary>
 
+- [2022-03-10](#2022-03-10)
 - [2022-02-15](#2022-02-15)
 - [2022-02-08](#2022-02-08)
 - [2022-02-01](#2022-02-01)
@@ -14,6 +15,73 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-03-10
+
+### Check-in ritual
+
+Have been good since submitting the thesis.
+Been getting lots of sleep and have been able to bring more energy to work.
+The ASG event went quite well, based on the feedback from many of the participants, so I’m feeling quite motivated.
+
+- Special thanks to HM and AY for all their behind-the-scenes help with organising the event
+- MS and KW gave me lots of advice on how to run the various sessions
+- Met JS and BC at 1:1 networking and discussed collaborating with them
+- Social lunch was _really good_ with so many sharing their hobbies and interests
+
+### Project specific Reflection
+
+- ASG community building got a boost from last week’s event
+  - Planning with HS on organising regular “meet-up” sessions for ASG PDRAs
+  - HS was told by some PDRAs that they felt isolated with their projects from the rest of ASG, and we want to address that
+  - Will investigate whether we can get budgets for reimbursed meals for monthly/quarterly social lunches
+- JL is unavailable to help with SPARRA glossy so HS asked if I could help: realised that we can recycle lightning talk that other JL gave at ASG event
+- Started but didn’t advance with repurposing the sessions content for notes for white papers
+- Had meeting with MC about impact measurement, spoke with JS and HR about their projects
+
+### Notes to discuss during 1:1
+
+#### Whom did you help these past few weeks?
+
+- Quite a few people, I hope, but can’t recall all instances at the moment.
+
+#### Who helped you these past few weeks?
+
+- HM and AY with organising ASG event
+- MS and KW with tremendous advice and support for planning the sessions
+- BM and JR for introducing me to the community at the ASG event
+- All of panellists, chairs and speakers for making the event a success
+- Everyone who joined the social lunch and shared their hobbies and interests
+
+Replace this text with a one/two-sentence description of who helped you this week and how.
+
+#### What did you achieve?
+
+- Quite a bit that I’m pleased with
+  - The ASG event itself went well from a logistics PoV (with one tiny hiccup)
+  - I got feedback from a couple of the speakers that they enjoyed the panels they were on
+  - The lightning talks went smooooothly and speakers got to discuss their work in longer breakout sessions
+- Following the event, I’ve had some discussions with people I met for the first time (including one longer conversation that will hopefully feed into the E&S white paper that came entirely from the 1:1 networking)
+
+#### What did you struggle with?
+
+- Staying on top of the E&S white paper itself
+
+#### What would you like to work on next week?
+
+- Resume work on the E&S white paper: need to restructure the schedule for one
+  - Tomorrow morning
+- Go over all the recordings of the ASG event sessions and make proper notes to put on GitHub
+  - Sometime next week; should take a day in total
+- Follow up with speakers who have not replied to ask about putting their talks on Zenodo
+  - Reminders tomorrow morning
+- Discuss ASGardian podcASG with BC
+  - Sometime next week, if BC is available
+- Will be attending the DT:UA meeting at the office on Tuesday
+
+#### Where do you need help?
+
+- I can’t think of anything specific at the moment: things seem to be moving along well
 
 ## 2022-02-15
 
