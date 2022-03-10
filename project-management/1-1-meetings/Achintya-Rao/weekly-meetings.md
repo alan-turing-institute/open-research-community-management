@@ -29,15 +29,36 @@ The ASG event went quite well, based on the feedback from many of the participan
 - Met JS and BC at 1:1 networking and discussed collaborating with them
 - Social lunch was _really good_ with so many sharing their hobbies and interests
 
+---
+MS: What was challenging?
+AR: Took some time to understand how much I had to be involved in shaping of the event. Lots of connections and learning experiences. HM was great support. AY helped so much behind the scene.
+MS: Any plan to create a debrief document?
+AR: Need to schedule a debrief event. AY has also shared a document to add details. 
+MS: Connect with VH to have a chat about her F2F event planning, and also reuse a debrief document format she used for her workshops.
+
+Amazing work!!
+
+---
+
 ### Project specific Reflection
 
 - ASG community building got a boost from last week’s event
   - Planning with HS on organising regular “meet-up” sessions for ASG PDRAs
   - HS was told by some PDRAs that they felt isolated with their projects from the rest of ASG, and we want to address that
   - Will investigate whether we can get budgets for reimbursed meals for monthly/quarterly social lunches
-- JL is unavailable to help with SPARRA glossy so HS asked if I could help: realised that we can recycle lightning talk that other JL gave at ASG event
+- JL is unavailable to help with SPARRA glossy so HS asked if I could help: realised that we can recycle lightning talk that other JLy gave at ASG event
 - Started but didn’t advance with repurposing the sessions content for notes for white papers
 - Had meeting with MC about impact measurement, spoke with JS and HR about their projects
+
+---
+- MS: Mar-Dec planning for community events and opportunities.
+ - Firechat as external engagement and promotion of your work.
+- Useful to create template for allowing different projects to create their glossy
+- Request a community page via topdesk and ask for edit access from Kim.
+- All these connections sound fantastic! Great work.
+- A to Z for ASG!???
+
+---
 
 ### Notes to discuss during 1:1
 
@@ -53,7 +74,7 @@ The ASG event went quite well, based on the feedback from many of the participan
 - All of panellists, chairs and speakers for making the event a success
 - Everyone who joined the social lunch and shared their hobbies and interests
 
-Replace this text with a one/two-sentence description of who helped you this week and how.
+MS: 🎊 Brilliant updates.
 
 #### What did you achieve?
 
@@ -63,9 +84,13 @@ Replace this text with a one/two-sentence description of who helped you this wee
   - The lightning talks went smooooothly and speakers got to discuss their work in longer breakout sessions
 - Following the event, I’ve had some discussions with people I met for the first time (including one longer conversation that will hopefully feed into the E&S white paper that came entirely from the 1:1 networking)
 
+MS: All great feedback! So much to follow up on.
+
 #### What did you struggle with?
 
 - Staying on top of the E&S white paper itself
+
+MS: Great! Put the templates online. 
 
 #### What would you like to work on next week?
 
@@ -79,9 +104,11 @@ Replace this text with a one/two-sentence description of who helped you this wee
   - Sometime next week, if BC is available
 - Will be attending the DT:UA meeting at the office on Tuesday
 
-#### Where do you need help?
+#### Where do you need feedback (where can I engage)?
 
-- I can’t think of anything specific at the moment: things seem to be moving along well
+- I can’t think of anything specific at the moment: things seem to be moving along well.
+
+MS: Think about what help you can ask for people to be engaged in the project.
 
 ## 2022-02-15
 
