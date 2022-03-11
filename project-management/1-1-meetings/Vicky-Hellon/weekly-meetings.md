@@ -1,6 +1,7 @@
 # Vicky + Malvika 1:1 Catch-up Minutes
 
-* [04 March 2022](#data-4-march-2022)
+* [11 March 2022](#date-11-march-2022)
+* [04 March 2022](#date-4-march-2022)
 * [15 Feburary 2022](#date-15-february-2022)
 * [08 Feburary 2022](#date-08-february-2022)
 * [01 Feburary 2022](#date-01-february-2022)
@@ -9,6 +10,49 @@
 * [14 December 2021](#date-14-december-2021)
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
+
+## Date 11 March 2022
+
+### Check-in ritual
+Really enjoyed the lab meeting yesterday- good feedback on the talk gave me a bit of a boost! ✨
+
+### Project specific Reflection
+
+Definitely feel busy and like there is more to do partnership activity wise (but in a good way!)
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+Moved all the docs to the new Google Drive so feel like this has helped MOG and HM!
+
+#### Who helped you this week?
+
+Lab with feedback on the talk. YZ has been great with inputting on the Seminar Series doc. 
+
+#### What did you achieve?
+
+* Seminar/knowledge share series planned out- will try and invite speakers next week
+* Lunch and Learn Slides
+* Sent off final expert panel whiteboarding exercise
+
+#### What did you struggle with?
+
+* Input on activities from the Turing side
+
+#### What would you like to work on next week?
+
+* Invite speakers and hopefully set up Zoom link/comms for seminar series
+* Put some more docs on GitHub
+
+#### Where do you need help?
+
+* Check Collaborations Workshop Abstract
+* Input on face to face meeting agenda 
+
+
+#### Any other topics
+
 
 
 ## Date 4 March 2022
