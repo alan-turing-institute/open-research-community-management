@@ -2,8 +2,9 @@
 
 
 <details>
-    <summary><strong>TOC</strong></summary>
+<summary><strong>TOC</strong></summary>
 
+- [2022-03-16](#2022-03-16)
 - [2022-03-10](#2022-03-10)
 - [2022-02-15](#2022-02-15)
 - [2022-02-08](#2022-02-08)
@@ -15,6 +16,18 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-03-10
+
+- Cancel meetings till April that you don't need
+- Away from 12 - 27 April
+- Piecing together white paper plans and July events 
+- Guideline for white paper 
+    - Miro board or some sort of visual aid for what forms the ASG community
+    - Maybe a workshop for preparing research objects to share with white paper
+- Visual representation of ASG community and outcomes
+    - Example from stakeholder mapping: https://app.mural.co/invitation/mural/turingrochemapping3184/1644491751192?sender=u9bd79b8433bbff7b44831689&key=894dc697-7b47-45c2-a689-0960452100cb
+
 
 ## 2022-03-10
 
