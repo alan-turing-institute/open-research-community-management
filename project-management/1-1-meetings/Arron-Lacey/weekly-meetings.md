@@ -1,10 +1,68 @@
 # 1:1 Arron and Kirstie catch up and notes
 
+* [17 March 2022](#date-17-march-2022)
 * [3 March 2022](#date-3-march-2022)
 * [17 February 2022](#date-17-february-2022)
 * [4 February 2022](#date-4-february-2022)
 * [25 January 2022](#date-25-january-2022)
 * [18 January 2022](#date-18-january-2022)
+
+## Date: 17 March 2022
+
+### Check-in ritual
+
+* All good from out here in Wales.
+
+### Project specific Reflection
+
+* FHS dominating talks at the moment
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+* CM - walked through Gitlab
+* Folks from clinical hub getting onto Gitlab
+* Hopefully the labbos with first week Goatherding!
+* Some folks on a Julia-related PR for TTW
+* FM with EDoN newsletter
+
+#### Who helped you this week?
+
+* CH and SB on brainstorming toy data for the analytics hub to use
+* KW on ethics form
+
+#### What did you achieve?
+
+* Got ADNI sorted for ethics - consent forms are very good for the patients
+* NACC is eluding me. Have emailed asking for a bit of help pointing in right direction.
+    * There is even a [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7266429/#APP1title) interviewing
+      recruiters experience of running through the 22 page form with patients but no link to form
+* Hopefully left some constructive suggestions on retorspective analysis proposal - they are going for manifold learning in the PID 
+* Started up a new TTW issue on motiviations for package development
+* Went through a few TTW PRs - may have a Swansea colleague to help with Polish translation PR
+* Found a nice ADNI Cog-decline [paper](https://www.frontiersin.org/articles/10.3389/fdata.2020.00024/full) and accomanying [R-package](https://github.com/larslau/progmod/blob/master/README.md)
+
+
+#### What did you struggle with?
+
+* finding NACC consent forms
+
+#### What would you like to work on next week?
+
+* Scope out all use cases for EDoN external gitlab and present to hub
+* Submit Ethics application
+* Look for some Open / Kaggle data that might approximate some of the data we are expecting (to help prototype prospective analyses)
+* New TTW issue on package development
+* Review Enrichment applications
+
+#### Where do you need help?
+
+* KW to review ethics draft (when NACC consent is less of a mystery)
+
+#### Any other topics
+
+- Not this week.
 
 ## Date: 3 March 2022
 
