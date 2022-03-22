@@ -1,5 +1,6 @@
 # Vicky + Malvika 1:1 Catch-up Minutes
 
+* [22 March 2022](#date-22-march-2022)
 * [11 March 2022](#date-11-march-2022)
 * [04 March 2022](#date-4-march-2022)
 * [15 Feburary 2022](#date-15-february-2022)
@@ -10,6 +11,44 @@
 * [14 December 2021](#date-14-december-2021)
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
+
+## Date 22 March 2022
+
+### Check-in ritual
+Excited to have AS on board, had a good catchup with her on Friday! Looking forward to AI UK to break up the week a bit :)
+
+### Project specific Reflection
+
+Getting there with the seminar series. Hoping the f2f meeting this week will be productive!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Helped HM and MOG to finalise the agenda for the f2f meeting
+* Helped SM get onboarded to the project for when she starts in May
+* Gave my lunch and learn which I hope helped people!
+
+#### Who helped you this week?
+* YZ and CH with seminar series
+
+#### What did you achieve?
+* Gave lunch and learn talk
+* Invited speakers for seminar series 
+
+#### What did you struggle with?
+* Future of PM in the partnership!
+
+#### What would you like to work on next week?
+* Get the comms out for the seminar series and set that all up
+* Try and put some docs on GitHub!
+
+#### Where do you need help?
+* Spreading the word about the seminar series! 
+* Thinking about funded project onboarding- need to get on this, have neglected for a while.
+
+#### Any other topics
+N/A
+
 
 ## Date 11 March 2022
 
