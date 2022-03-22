@@ -27,31 +27,42 @@
 - Thanks to VH for making time to hang out at Turing last week
 - Was good to attend a day-long meeting in person last week, with lots of opportunities for conversation outside of the presentations themselves
 
+---
+MS: really lovely to see all these fantastic connections!
+
 ### Project specific Reflection
 
 *Review your current projects, relation and skill-building that you are working on.*
 (Since last week, review the progress you’ve made towards your goals. Any challenges to mention? Review if we can attract any attention or help highlight your work.)
 
 - Been making notes in a notebook to gather various snippets into one place before putting it online into the `asg-community` repo
-- Wrote down vision for project as part of OLS5 mentorship
+- Wrote down vision for project as part of OLS-5 mentorship
 - Started working on Open Canvas (almost done) and using input from Roadmaps exercise to update schedule for white papers
 - Got good feedback on the use of GitHub issues at ASG Management Board, but was told I could provide more clarity: need to make proper labels
+
+---
+MS: great work!
 
 ### Notes to discuss during 1:1
 
 #### Whom did you help this week?
 
 - AL with content for TTW chapter
+  - MS: :tada:
 
 #### Who helped you this week?
 
 - YY in particular on 1:1 call
+  - MS: YY is precious! 
 
 #### What did you achieve?
 
 - Cleared some (not a lot) of my e-mail backlog, which feels like a bigger achievement than it is
 - Started consolidating notes for the white papers from various sources
 - Drafted the vision for the project, made headway with the Open Canvas, and started with the Roadmap
+
+---
+MS: Emails are so much work!!!
 
 #### What did you struggle with?
 
@@ -65,12 +76,19 @@ Will be following up with AY after AIUK
 - Move notes from notebook to repo
 - Send out e-mail with update on E&S white paper
 
+---
+MS: I hope the hopin video issue get sorted. All the best in getting the paper work started.
+
 #### Where do you need feedback?
 
 - Feedback on the Open Canvas and the Roadmap once they’re ready would be good (independent of the feedback from OLS5 of course)
 - Thanks for penciling the co-working slot next week, that’ll be useful too, and I’ll bring more actionable requests to that
 - When I make changes to the `asg-community` repo for the community contributions to the white papers and the updated schedule for the E&S one, I’ll submit a PR that you can review
 
+---
+MS: updated schedule will be really helpful! Looking forward to looking into all these community documents.
+
+---
 ## 2022-03-16
 
 - Cancel meetings till April that you don't need
