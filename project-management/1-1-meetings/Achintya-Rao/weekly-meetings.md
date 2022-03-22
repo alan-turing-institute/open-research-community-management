@@ -32,9 +32,6 @@ MS: really lovely to see all these fantastic connections!
 
 ### Project specific Reflection
 
-*Review your current projects, relation and skill-building that you are working on.*
-(Since last week, review the progress you’ve made towards your goals. Any challenges to mention? Review if we can attract any attention or help highlight your work.)
-
 - Been making notes in a notebook to gather various snippets into one place before putting it online into the `asg-community` repo
 - Wrote down vision for project as part of OLS-5 mentorship
 - Started working on Open Canvas (almost done) and using input from Roadmaps exercise to update schedule for white papers
