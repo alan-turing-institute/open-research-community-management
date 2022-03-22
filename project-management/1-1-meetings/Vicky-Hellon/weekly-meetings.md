@@ -16,39 +16,47 @@
 
 ### Check-in ritual
 Excited to have AS on board, had a good catchup with her on Friday! Looking forward to AI UK to break up the week a bit :)
+- MS: Thank you for meeting AS, and all the notes for AI-UK!!
 
 ### Project specific Reflection
 
-Getting there with the seminar series. Hoping the f2f meeting this week will be productive!
+- Getting there with the seminar series. 
+- Hoping the f2f meeting this week will be productive!
+  - MS: All the best with the in person!
 
 ### Notes to discuss during 1:1
 
 #### Who did you help this week?
-* Helped HM and MOG to finalise the agenda for the f2f meeting
-* Helped SM get onboarded to the project for when she starts in May
-* Gave my lunch and learn which I hope helped people!
+- Helped HM and MOG to finalise the agenda for the f2f meeting
+- Helped SM get onboarded to the project for when she starts in May
+- Gave my lunch and learn which I hope helped people
+  - MS: great work! 
 
 #### Who helped you this week?
-* YZ and CH with seminar series
+- YZ and CH with seminar series 
 
 #### What did you achieve?
-* Gave lunch and learn talk
-* Invited speakers for seminar series 
+- Gave lunch and learn talk
+- Invited speakers for seminar series 
+  - MS: Well done! on both accounts. I would love to give a shout out for your Lunch and Learn - please share a Zenodo link (DOI)! :tada:
 
 #### What did you struggle with?
-* Future of PM in the partnership!
+- Future of PM in the partnership!
+  - MS: I would like to sit down to have a chat about where we can support you and your work going forward. 
 
 #### What would you like to work on next week?
-* Get the comms out for the seminar series and set that all up
-* Try and put some docs on GitHub!
+- Get the comms out for the seminar series and set that all up
+- Try and put some docs on GitHub!
+  - MS: 💪
 
 #### Where do you need help?
-* Spreading the word about the seminar series! 
-* Thinking about funded project onboarding- need to get on this, have neglected for a while.
+- Spreading the word about the seminar series! 
+- Thinking about funded project onboarding - need to get on this, have neglected for a while.
+  - Happy to look over in April and review/edit as needed. Let's find a common availability. 
 
 #### Any other topics
-N/A
-
+- Funded project onboarding process: Handbook (HM prepared)
+  - MS: This is massive work.
 
 ## Date 11 March 2022
 
