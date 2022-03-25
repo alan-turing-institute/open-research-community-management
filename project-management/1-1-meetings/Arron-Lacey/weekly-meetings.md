@@ -22,31 +22,46 @@
 #### Who did you help this week?
 
 * CM - walked through Gitlab
+  * KW: Really excited about this!! 🚀
 * Folks from clinical hub getting onto Gitlab
+  * KW: YAAAAY!
 * Hopefully the labbos with first week Goatherding!
+  * KW: Absolutely 🐐
 * Some folks on a Julia-related PR for TTW
+  * KW: Nice!
 * FM with EDoN newsletter
+  * KW: Also great 💌
 
 #### Who helped you this week?
 
 * CH and SB on brainstorming toy data for the analytics hub to use
+  * KW: NICE
 * KW on ethics form
+  * KW: Only lightly - thank you for doing the leg work!
 
 #### What did you achieve?
 
 * Got ADNI sorted for ethics - consent forms are very good for the patients
+  * KW: GREAT! 🌠
 * NACC is eluding me. Have emailed asking for a bit of help pointing in right direction.
     * There is even a [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7266429/#APP1title) interviewing
       recruiters experience of running through the 22 page form with patients but no link to form
-* Hopefully left some constructive suggestions on retorspective analysis proposal - they are going for manifold learning in the PID 
+         * KW: Super intereting paper.
+      * KW: Discussed in meeting - lets try NACC one more time and then just pull some quotes from published papers to evidence that there was informed consent 🙂
+* Hopefully left some constructive suggestions on retrospective analysis proposal - they are going for manifold learning in the PID 
+  * KW: Iiiiinteresting - thank you for adding the suggestions.
 * Started up a new TTW issue on motiviations for package development
+  * KW: GREAT!
 * Went through a few TTW PRs - may have a Swansea colleague to help with Polish translation PR
+  * KW: Oh how lovely! 🇵🇱
 * Found a nice ADNI Cog-decline [paper](https://www.frontiersin.org/articles/10.3389/fdata.2020.00024/full) and accomanying [R-package](https://github.com/larslau/progmod/blob/master/README.md)
-
+  * KW: WHAT A VISUALISATION! Love it! (although definitely too fast for my tiny brain!
+  * Awesome catch on the penalty term!
 
 #### What did you struggle with?
 
 * finding NACC consent forms
+  * KW: Discussed and noted above - frustrating but we'll find a way through with the ethics form.
 
 #### What would you like to work on next week?
 
@@ -55,6 +70,7 @@
 * Look for some Open / Kaggle data that might approximate some of the data we are expecting (to help prototype prospective analyses)
 * New TTW issue on package development
 * Review Enrichment applications
+  * KW: Thank you for doing that!
 
 #### Where do you need help?
 
