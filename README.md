@@ -6,7 +6,7 @@
 
 Community building is a process of enabling members in our communities to move from the position of spectators or users to developers and leaders in the project.
 Community managers and people in similar roles identify and build meaningful pathways for everyone to gain access to the skills and resources they need to participate in the community.
-Among other project-specific and technical responsibilities, community managers take care of background work needed to make tangible and visible work of their communities effective. 
+Among other project-specific and technical responsibilities, community managers take care of background work needed to make tangible and visible work of their communities effective.
 These background works involve approaches for collaboration, maintenance, acknowledgement and capturing the impact of community members' work.
 As the word 'background' suggests, working in community space often stay hidden and hence, can feel unsupported.
 This is especially challenging when community managers don't have access to an appropriate support system or opportunities to exchange best practices with other community developers.
@@ -20,7 +20,7 @@ The **Open Research Community Building** team at The Alan Turing Institute provi
 ## Open Research Community Building Team
 
 Members of the Open Research Community Building team invest in engaging, training and empowering a diverse group of members such as researchers, research engineers, programme/project management and business team.
-They foster diverse Communities of Practice within and outside the Turing through community building and engagement roles in their respective projects. 
+They foster diverse Communities of Practice within and outside the Turing through community building and engagement roles in their respective projects.
 
 Through the active adoption of open research, reproducibility and collaborative approaches primarily drawn from [*The Turing Way*](https://github.com/alan-turing-institute/the-turing-way/), they contribute toward building interconnected systems of open source software, datasets, communities and processes.
 The overarching mission is to make research and innovation more efficient and effective across the national and international data science ecosystem for commercial and public interest technologies alike.
@@ -29,7 +29,7 @@ The overarching mission is to make research and innovation more efficient and ef
 
 The Turing community managers join the [Tools, Practices and Systems](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) (TPS) Research Programme's [Open Research Community Building](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) project.
 
-They are assigned to specific projects where they collaborate closely with others and identify where they can surface implicit knowledge and make information explicitly available so that everyone who wants to can participate. 
+They are assigned to specific projects where they collaborate closely with others and identify where they can surface implicit knowledge and make information explicitly available so that everyone who wants to can participate.
 As a team, we ensure that the research that happens at the Institute is created to be maintained, sustained, remixed and reused.
 
 ![People across different communities act as physical bridges between two separate projects and find solutions that are mutually beneficial. There is no replacement of people in technology.](https://zenodo.org/api/iiif/v2/867e0f11-b7cb-460e-9c3b-487ac75ada36:849be739-8880-41cc-a487-215fb325d91f:people-find-solutions.jpg/full/750,/0/default.jpg)
@@ -45,6 +45,7 @@ As a team, we ensure that the research that happens at the Institute is created 
 #### Team Members
 
 - Achintya Rao, Community Manager; AI for Science and Government Research Programme
+- Anne Lee Steele, Community Manager; The Turing Way
 - Arron Lacey, Senior Community Manager; Early Detection of Neurodegenerative Diseases (EDoN)
 - Emma Karoune, Senior Community Manager; RSS Lab and DECOVID
 - Vicky Hellon, Community Manager; Turing-Roche Strategic Partnership
@@ -73,7 +74,7 @@ As a team, we ensure that the research that happens at the Institute is created 
 
 ### Working with *The Turing Way*
 
-All community managers are onboarded as the core members of The *Turing Way*. 
+All community managers are onboarded as the core members of The *Turing Way*.
 All members of the Open Research Community Building team should take time to learn details in [*The Turing Way* core documents](./the-turing-way-core).
 
 Their engagement with *The Turing Way* project and community should help them understand how they can:
@@ -91,7 +92,7 @@ Please [create an issue for your induction](https://github.com/alan-turing-insti
 
 If you would like to collaborate or connect your project with our work, please contact [Malvika Sharan](mailto:msharan@turing.ac.uk).
 
-## License 
+## License
 
 All content in this repository is [openly licensed](./LICENSE.md) with a CC BY 4.0, which means you're free to use the materials and remix them so long as you ***credit the source***.
 More on CC BY 4.0 license can be found at [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
