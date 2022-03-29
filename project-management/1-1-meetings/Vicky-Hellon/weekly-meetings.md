@@ -1,5 +1,6 @@
 # Vicky + Malvika 1:1 Catch-up Minutes
 
+* [29 March 2022](#date-29-march-2022)
 * [22 March 2022](#date-22-march-2022)
 * [11 March 2022](#date-11-march-2022)
 * [04 March 2022](#date-4-march-2022)
@@ -11,6 +12,43 @@
 * [14 December 2021](#date-14-december-2021)
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
+
+
+## Date 29 March 2022
+
+### Check-in ritual
+Looking forward to lab lunch!
+
+### Project specific Reflection
+
+Feeling ok after the f2f, lots of new ideas but still need to do some thinking around the community aspects. Seminar series comms should go out today, all fingers crossed!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+- Helped shape discussions at f2f
+
+#### Who helped you this week?
+- Whole partnership team with new community ideas!
+- Events team to finalise the seminar series
+- KL with Open Canvas
+
+#### What did you achieve?
+- Gave a 15 min talk on publishing to project manager team
+- Set up seminar series Zoom 
+
+#### What did you struggle with?
+- Still some vagueness on upcoming partnership activities, roadmap should help visualise 
+
+#### What would you like to work on next week?
+- Same as last week ha.... get the seminar series comms out and finally put some docs on GitHub!
+- Also working on roadmap with MOG and HM tomorrow
+
+#### Where do you need help?
+- Sketching out fellows programme in the next month or so
+
+#### Any other topics
+- Can you delete my holiday!?
 
 ## Date 22 March 2022
 
