@@ -1,11 +1,65 @@
 # 1:1 Arron and Kirstie catch up and notes
 
+* [31 March 2022](#date-31-march-2022)
 * [17 March 2022](#date-17-march-2022)
 * [3 March 2022](#date-3-march-2022)
 * [17 February 2022](#date-17-february-2022)
 * [4 February 2022](#date-4-february-2022)
 * [25 January 2022](#date-25-january-2022)
 * [18 January 2022](#date-18-january-2022)
+
+## Date: 31 March 2022
+
+### Check-in ritual
+
+* All good - how about you?
+
+### Project specific Reflection
+
+* Some good, practical conversations about data collection are happening
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+* SW & KW at Leicester NHS Ethics Committee Approval Panel
+* KW with clearing up sample proportions
+* MO with DELCODE retrospective data access application
+* Reviewed MB's PID
+
+#### Who helped you this week?
+
+* Hopefully the Program Manager at Wisonsin Alzheimer's Disease Research Center with an up to date consent form 🤞
+* AR with a PR review
+* MS has provided a great starter repo for reproducible projects [here](https://github.com/alan-turing-institute/reproducible-project-template)
+
+#### What did you achieve?
+
+* Drafted up PID #3
+* Reviewed some Enrichment applications
+* Reviewed and merged some TTW PRs
+* Introduced a polish colleague from Swansea Uni to TTW who wants to help with an old PR regarding polish trnalsiation of the README.md
+* Found an ADRC consent form, and thus udnerstood more about the NACC model
+* 
+
+#### What did you struggle with?
+
+* mostly ok this time round
+
+#### What would you like to work on next week?
+
+* Find SOTA signal processing techniques and share with the Informatics Working group
+* Meet with the DELCODE cohort research group to offer analytic support
+* Build on this cool rstan [implementation](https://gitlab.com/edon-initiative/propsective-analysis/i-splines-rstan-monotonic) of cognitive decline 
+* Finish Aspiring Leadership application
+
+#### Where do you need help?
+
+* KW to review ethics draft as it's not pretty much final
+
+#### Any other topics
+
+- Not this week.
 
 ## Date: 17 March 2022
 
