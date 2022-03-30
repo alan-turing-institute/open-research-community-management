@@ -7,29 +7,40 @@
 
 #### Who did you help this week?
 * No help just yet. Setting the foundation for a helpful resource, but just need time to sort through initial interviews and information.
-* Sent VK info about CCSE.
+* Sent VK info about CSCCE.
 * Sent AR info about the iLab.
+--
+MS: Thank You Anne for already connecting folks with different projects.
 
 #### Who helped you this week?
 * Getting invited to TTW translation systems by BA.
 * MS, SG, AR for looking at the netlify issues on TTW.
 * Having chats with BA, AD, AR and many more this week that are helping to do think about TTW.
-* MK helping me to plan the fireside
+* MK, ABS helping me to plan the fireside
+--
+- MS: So many exciting connections. Thank you for taking the time to get to know the community. Also, delighted to see you take the lead on the Fireside Chat.
 
 #### What did you achieve?
 * System set up + research. Same as last week.
 * Will be setting up a folder in 'community building' to hold methodology, while putting TTW-issues with findings and aims directly into the TTW.
 * Starting to get up to speed on internal Turing partnerships, and upcoming projects.
+--
+- MS: I am so impressed by your process documentation skills. We are so delighted that you are taking your community mapping in open and sharing them in TTW.
 
 #### What did you struggle with?
 * Struggling to balance speed with efficacy. Keep needing to remind myself that speed isn't the most important, and that I should just focus on people.
+--
+- MS: We are giving you a lot of information and that is in some ways unavoidable, but there is no expectation that you will know how they fit together immediately. Please take your time to learn about the project, people and ways of working. This is a huge investment that will pay off, and especially through your notes we will gain insights on what opportunities for engagement and support we can create. Please use this time to explore - speed and efficacy is not priorities here - observing and recording is extremely valuable already.
 
 #### What would you like to work on next week?
 * More of the same!
+--
+- MS: THANK YOU! :) Please do take a break from meetings to decompress as needed.
 
 #### Where do you need help?
 * Hopefully to review my study findings/info so far at TTW visioning!
-
+--
+MS: Booked some coworking sessions. Talk to you soon!
 
 ## 2022-03-25
 
