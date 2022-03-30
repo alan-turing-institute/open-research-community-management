@@ -45,6 +45,7 @@ As a team, we ensure that the research that happens at the Institute is created 
 #### Team Members
 
 - Achintya Rao, Community Manager; AI for Science and Government Research Programme
+- Anne Lee Steele, Community Manager; The Turing Way
 - Arron Lacey, Senior Community Manager; Early Detection of Neurodegenerative Diseases (EDoN)
 - Emma Karoune, Senior Community Manager; RSS Lab and DECOVID
 - Vicky Hellon, Community Manager; Turing-Roche Strategic Partnership
