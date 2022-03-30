@@ -6,16 +6,20 @@
 ## 2022-03-29
 
 #### Who did you help this week?
-* No help just yet. Setting the foundation for a helpful resource, but just need time to sort through initital interviews and information.
+* No help just yet. Setting the foundation for a helpful resource, but just need time to sort through initial interviews and information.
+* Sent VK info about CCSE.
+* Sent AR info about the iLab.
 
 #### Who helped you this week?
-* Getting invited to translation systems by BA
+* Getting invited to TTW translation systems by BA.
 * MS, SG, AR for looking at the netlify issues on TTW.
 * Having chats with BA, AD, AR and many more this week that are helping to do think about TTW.
+* MK helping me to plan the fireside
 
 #### What did you achieve?
 * System set up + research. Same as last week.
 * Will be setting up a folder in 'community building' to hold methodology, while putting TTW-issues with findings and aims directly into the TTW.
+* Starting to get up to speed on internal Turing partnerships, and upcoming projects.
 
 #### What did you struggle with?
 * Struggling to balance speed with efficacy. Keep needing to remind myself that speed isn't the most important, and that I should just focus on people.
