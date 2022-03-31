@@ -35,7 +35,7 @@ Helped shape discussions at f2f
 - Events team to finalise the seminar series
 - KL with Open Canvas
 ---
-MS: Open Canvas are aamzing. So glad to see your work with KL. Love to see that you are prioritising your work. Lots of great ideas there! 
+MS: Open Canvas are aamzing. So glad to see your work with KL. Love to see that how you are prioritising your tasks (starting with seminar series, PDRA support, expert panel, fellowship plan). Lots of great ideas there! 
 
 #### What did you achieve?
 - Gave a 15 min talk on publishing to project manager team
