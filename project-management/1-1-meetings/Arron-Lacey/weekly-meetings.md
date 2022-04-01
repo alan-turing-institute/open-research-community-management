@@ -13,34 +13,47 @@
 ### Check-in ritual
 
 * All good - how about you?
+  * KW: Lovely lab catch up yesterday, you were missed. Loving the sunny weather 🌞
 
 ### Project specific Reflection
 
 * Some good, practical conversations about data collection are happening
+  * KW: 💯
 
 ### Notes to discuss during 1:1
 
 #### Who did you help this week?
 
-* SW & KW at Leicester NHS Ethics Committee Approval Panel
-* KW with clearing up sample proportions
+* SW & KWi at Leicester NHS Ethics Committee Approval Panel
+  * KWh: Oh good to know!
+* KWi with clearing up sample proportions
+  * KWh: Discussed in meeting.
 * MO with DELCODE retrospective data access application
+  * KWh: Super interest 
 * Reviewed MB's PID
+  * KWh: Great to have these building up!
 
 #### Who helped you this week?
 
 * Hopefully the Program Manager at Wisonsin Alzheimer's Disease Research Center with an up to date consent form 🤞
+  * KW: HA! YES!
 * AR with a PR review
+  * KW: Great!
 * MS has provided a great starter repo for reproducible projects [here](https://github.com/alan-turing-institute/reproducible-project-template)
+  * KW: Really interested to see how we can incorporate these into EDoN working!
 
 #### What did you achieve?
 
 * Drafted up PID #3
+  * KW: Very cool!
 * Reviewed some Enrichment applications
+  * KW: Fun!
 * Reviewed and merged some TTW PRs
-* Introduced a polish colleague from Swansea Uni to TTW who wants to help with an old PR regarding polish trnalsiation of the README.md
+  * KW: Very cool
+* Introduced a polish colleague from Swansea Uni to TTW who wants to help with an old PR regarding polish translation of the README.md
+  * KW: Super fun!
 * Found an ADRC consent form, and thus udnerstood more about the NACC model
-* 
+  * KW: 🙌
 
 #### What did you struggle with?
 
@@ -49,13 +62,15 @@
 #### What would you like to work on next week?
 
 * Find SOTA signal processing techniques and share with the Informatics Working group
-* Meet with the DELCODE cohort research group to offer analytic support
+* Meet with the DELCODE cohort research group to offer analytic explanations for EDoN data request
+  * KW: Exciting
 * Build on this cool rstan [implementation](https://gitlab.com/edon-initiative/propsective-analysis/i-splines-rstan-monotonic) of cognitive decline 
 * Finish Aspiring Leadership application
 
 #### Where do you need help?
 
-* KW to review ethics draft as it's not pretty much final
+* KW to review ethics draft as it's pretty much final
+  * KW: Caaaaaan do ✔️
 
 #### Any other topics
 
