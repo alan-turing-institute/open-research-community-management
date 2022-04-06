@@ -6,6 +6,35 @@
 
 ## 2022-04-05
 
+### Project-specific Reflection
+Started to feel a bit more grounded after conversations with people! Beginning to see trends, and carving out some time during the week to digest notes, and sort through some initial findings. Going to do another round of outreach today (and maybe try to reach into the archives of the project).
+
+#### Who did you help this week?
+* Spoke to YB about the Fireside. We shared notes & made plans for outreach and meeting people. She's reaching out to people about co-facilitating, and we're going to send out a collective email by the end of the week.
+* Gave an idea at CollabW22 that seemed to be well-received!
+
+#### Who helped you this week?
+* So many people! Many people in TTW. I think I'm learning about the collaborative nature of the slack workspace in particular, and how much of a group effort it really is.
+* Thank you for emailing S about the Fireside!
+* Spoke to ACC about translation late last week - truly amazing! Similar to the Turing - I was wondering if we should make an 'appreciations' channel where maybe we can do shoutouts to people within the project? Or I (and others) can start posting interesting things I'm learning about the project?
+* Everyone at CollabW22!! Learning so much it's unbelievable!
+* Thinking about the Slack - and how much I'm learning from the shear number of resources and things that people are sharing.
+
+#### What did you achieve?
+* Finally released the issue describing community research in TTW. Positive reactions so far - now to embed documentation throughout the whole process!
+* Learning a lot from CW22, and will be releasing another 'community learning' update to the issue this week.
+
+#### What did you struggle with?
+* I was struggling last week with wanting/trying to do everything at the same time... But this week I've tried to take breaks and stop (with a little humor) when it gets too much. It helped! Slow & steady.
+
+#### What would you like to work on next week?
+* I really need to reserve all of next week to work on more of the technical side of the project. There's so much important work and labor there that I need time to dig into.
+* Learn about the Fireside workflow
+
+#### Where do you need help?
+* I was thinking that it could be great to get a transcription software, where I can record the chats I'm having with people, and upload the audio to a service (like Amberscript) so I can categorise findings more easily (instead of taking notes during the call - which can be distracting). What do you think?
+* I've been drafting a twitter thread to post, relating back to the fireside chat. Wasn't able to post this week - so I was thinking this Friday, it could be posted?
+*
 
 ## 2022-03-29
 
