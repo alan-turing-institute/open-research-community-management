@@ -30,6 +30,7 @@ Started to feel a bit more grounded after conversations with people! Beginning t
 #### What would you like to work on next week?
 * I really need to reserve all of next week to work on more of the technical side of the project. There's so much important work and labor there that I need time to dig into.
 * Learn about the Fireside workflow
+* Start working on the project update from AB
 
 #### Where do you need help?
 * I was thinking that it could be great to get a transcription software, where I can record the chats I'm having with people, and upload the audio to a service (like Amberscript) so I can categorise findings more easily (instead of taking notes during the call - which can be distracting). What do you think?
