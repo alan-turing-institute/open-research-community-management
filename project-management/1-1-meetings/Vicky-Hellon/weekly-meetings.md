@@ -1,5 +1,6 @@
 # Vicky + Malvika 1:1 Catch-up Minutes
 
+* [29 March 2022](#date-29-march-2022)
 * [22 March 2022](#date-22-march-2022)
 * [11 March 2022](#date-11-march-2022)
 * [04 March 2022](#date-4-march-2022)
@@ -11,6 +12,57 @@
 * [14 December 2021](#date-14-december-2021)
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
+-----
+
+## Date 29 March 2022
+
+### Check-in ritual
+Looking forward to lab lunch!
+- MS: Ahh! I will miss it.
+
+### Project specific Reflection
+
+Feeling ok after the f2f, lots of new ideas but still need to do some thinking around the community aspects. Seminar series comms should go out today, all fingers crossed!
+- MS: Great work with running and capturing work from the f2f.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+Helped shape discussions at f2f
+
+#### Who helped you this week?
+- Whole partnership team with new community ideas!
+- Events team to finalise the seminar series
+- KL with Open Canvas
+---
+MS: Open Canvas is a brilliant tool. So glad to see your work with KL. Love to see that how you are prioritising your tasks (starting with seminar series, PDRA support, expert panel, fellowship plan). Lots of great ideas there! 
+
+#### What did you achieve?
+- Gave a 15 min talk on publishing to project manager team
+- Set up seminar series Zoom 
+---
+MS: Great work!
+
+#### What did you struggle with?
+- Still some vagueness on upcoming partnership activities, roadmap should help visualise
+---
+MS: We just have to fix forward. In all these, please find opportunities to advocate for your community to enable research and collaboration. Project management and what was agreed on contracts are important to consider, but this partnership has a CM position so that we can enable chanced interactions and collaborations through community building with different members at the Turing and Roche - NOT just with those who are already involved.
+
+#### What would you like to work on next week?
+- Same as last week ha.... get the seminar series comms out and finally put some docs on GitHub!
+- Also working on roadmap with MOG and HM tomorrow
+---
+MS: Exciting! Looking forward to seeing how you use Theory of Change for roadmap (impact based I assume!).
+
+#### Where do you need help?
+- Sketching out fellows programme in the next month or so
+---
+MS: Amazing! Please connect with RA for SSI, AD for her educators program. This is going to be amazing!
+
+#### Any other topics
+- Can you delete my holiday!?
+---
+MS: Done!
 
 ## Date 22 March 2022
 
