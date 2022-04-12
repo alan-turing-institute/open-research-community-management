@@ -34,7 +34,7 @@
 * Post about translation work in github+community channel
 * Posting CM team work
 * Sending JD info about OSM
-* Newsletter: make PR to keep track of events
+* Newsletter: make PR to keep track of events (Tuesday/Wednesday)
 
 #### Where do you need help?
 * Should I follow up with Chris?
