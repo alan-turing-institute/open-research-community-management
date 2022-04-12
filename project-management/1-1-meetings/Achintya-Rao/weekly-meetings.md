@@ -4,6 +4,7 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-04-11](#2022-04-11)
 - [2022-03-22](#2022-03-22)
 - [2022-03-16](#2022-03-16)
 - [2022-03-10](#2022-03-10)
@@ -17,6 +18,59 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-04-11
+
+### Check-in ritual
+
+- Just in case it wasn’t obvious from my messages elsewhere, I’m blown away by AS’s weekly updates and want to implement something similar for my own work.
+- Had a good time at CW22 and made some new connections.
+Was also pleased that I managed to contribute to some core R community work on the hackday.
+- Launched the drafting phase for the first ASG white paper, which felt a bit overwhelming to get out of the docks.
+- Had a good chat with BC about the potential for ASG podcast episodes/mini-series; see <https://github.com/alan-turing-institute/asg-community/issues/53>.
+---
+- MS: So glad that you could attend the CW22! Congrats for winning the hack day prize! 🎉
+- MS: ASG plan looks good, so glad that BC is onboard. Agree on the observation of communicating how these by-product connect in the context of the main papers. I suggest planning a post-it note exercise with all the folks who are helping deliver different outputs.
+- MS: Thank you fo sharing notes in open.
+
+### Project specific Reflection
+
+- Finally launched the E&S white paper.
+Felt like a weight off my shoulder, as I hadn’t managed to move forward with it for some time.
+- Haven’t really had any proper _community_ time lately, but that should change in May once we move to the July hybrid event.
+---
+- MS: Drop private email to people who are contributing tosend reminder.
+
+### Notes to discuss during 1:1
+
+#### Whom did you help this week?
+
+- In the end, I wasn’t _really_ needed at the session, but I helped SG run a workshop at CW22.
+  - MS: I am sure SG appreciated your support. 🌼 
+
+#### Who helped you this week?
+
+- KW took over my Enrichment applications as I was struggling to find time to do it before leaving for India.
+  - MS: KW mentioned the enrichment application, will check if I can help.   
+- AS by inspiring me with updates to the TTW community-building issue!
+- (From previous week, but…) MS with giving structure to our chat about community outputs: <https://github.com/alan-turing-institute/asg-community/issues/52>
+
+#### What did you achieve?
+
+- At the risk of sounding like a broken record, moving to the white-paper drafting phase was pretty important.
+
+#### What did you struggle with?
+
+- A particularly severe bout of decision paralysis.
+
+#### What would you like to work on next week?
+
+- On leave until 27 April!
+  - MS: let's rephrase this for when you return to "What are you working on this week? Let's review last week's task and prioritise them?" 
+
+#### Where do you need help/feedback?
+
+- Will have to think about this when I get back from holiday.
 
 ## 2022-03-22
 
