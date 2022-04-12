@@ -7,7 +7,6 @@
 
 ## 2022-04-12
 ### Project-specific Reflection
-* T:
 
 #### Who did you help this week?
 * Helped LK to get her PR over the finish line! Super exciting to be a part of that.
@@ -35,6 +34,8 @@
 * Posting CM team work
 * Sending JD info about OSM
 * Newsletter: make PR to keep track of events (Tuesday/Wednesday)
+* Catch up on Newcastle workshop information
+* Finish up contact list
 
 #### Where do you need help?
 * Should I follow up with Chris?
