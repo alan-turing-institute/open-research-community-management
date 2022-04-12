@@ -16,6 +16,7 @@
 #### Who helped you this week?
 * YB, DHP with Fireside chat planning
 * MS as always!
+* LW on CSCCE opportunities!
 
 #### What did you achieve?
 * Having lots of talks this week with people, 30 minutes are a bit short.
