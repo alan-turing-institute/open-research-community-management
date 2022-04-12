@@ -32,6 +32,7 @@
 * Finishing compiling
 * Send welcome note to BA and Outreachy team!
 * Post about translation work in github+community channel
+* Sending JD info about OSM
 
 #### Where do you need help?
 * Should I follow up with Chris?
