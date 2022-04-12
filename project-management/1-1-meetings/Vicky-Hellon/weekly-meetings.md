@@ -20,9 +20,13 @@
 ### Check-in ritual
 Feeling ok- a lot on and slightly worried about HM leaving but looking forward to building a new relationship with the new PM! Really enjoyed CCW and the DSxHE events last week :sparkles:
 
+MS: so glad that you were able to join these in person!
+
 ### Project specific Reflection
 - Feels like a few balls in the air! 
 - Balancing scoping for new activities with a few events coming up soon (e.g knowledge share series and expert panel meeting)
+
+MS: It sounds like a lot! Let's prioritise and see what we can do later.
 
 ### Notes to discuss during 1:1
 
@@ -30,9 +34,13 @@ Feeling ok- a lot on and slightly worried about HM leaving but looking forward t
 - EB with AIM planning around community building
 - AD with Stakeholder mapping for Health Programme
 
+MS: 🎉
+
 #### Who helped you this week?
 - KL with connecting me up with FAIRPlus fellowship organisers for advice 
 - MS and AB with initial fellowship scoping
+
+MS: Well done!!
 
 #### What did you achieve?
 - Put together the [one pager](https://docs.google.com/document/d/1NCaJ7FTn8znONf8_Cx2A7SeCuSzbxIuQ6kaLJ5Tbdac/edit) to scope out the Fellows programme
@@ -41,6 +49,8 @@ Feeling ok- a lot on and slightly worried about HM leaving but looking forward t
 - Drafted slides for my visit to Roche 
 - Put lots of docs up on GitHub and organised all the documentation on the Google Drive
 - 100 people have registered for the Knowledge Share series 🎉
+
+MS: Well done on all these!!
 
 #### What did you struggle with?
 - Haven't managed to get round to planning the June meeting or any funded project planning yet... definitely a priorty for May
@@ -55,6 +65,8 @@ Feeling ok- a lot on and slightly worried about HM leaving but looking forward t
 
 #### Any other topics
 - BookDash- do I need to register (have not had a chance to think about yet 😞)
+
+MS: please send an application, it can be specific but you can join the planning committee.
 
 ## Date 29 March 2022
 
