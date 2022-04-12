@@ -1,8 +1,37 @@
 ## ALS + MS check-ins
 
+* [2022-04-12](#2022-04-12)
 * [2022-04-05](#2022-04-05)
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
+
+## 2022-04-12
+### Project-specific Reflection
+* T:
+
+#### Who did you help this week?
+* Helped LK to get her PR over the finish line! Super exciting to be a part of that.
+* JD on thinking through OSM.
+
+#### Who helped you this week?
+* YB, DHP with Fireside chat planning
+* MS as always!
+
+#### What did you achieve?
+* Having lots of talks this week with people, 30 minutes are a bit short.
+
+#### What did you struggle with?
+* Need to be better with making time for deep work
+
+#### What would you like to work on next week?
+* Sending info to fireside panelists today. Promotion starts by Wednesday.
+* Finish subtitles for last fireside! Finally!
+* Sending email to new UCL role today. CC'ing MS & KW
+* Second round of community outreach going out today (Monday is too full of meetings)
+* Finishing compiling
+
+#### Where do you need help?
+* Should I follow up with Chris?
 
 ## 2022-04-05
 
@@ -35,7 +64,6 @@ Started to feel a bit more grounded after conversations with people! Beginning t
 #### Where do you need help?
 * I was thinking that it could be great to get a transcription software, where I can record the chats I'm having with people, and upload the audio to a service (like Amberscript) so I can categorise findings more easily (instead of taking notes during the call - which can be distracting). What do you think?
 * I've been drafting a twitter thread to post, relating back to the fireside chat. Wasn't able to post this week - so I was thinking this Friday, it could be posted?
-*
 
 ## 2022-03-29
 
