@@ -34,35 +34,29 @@ Helped shape discussions at f2f
 - Whole partnership team with new community ideas!
 - Events team to finalise the seminar series
 - KL with Open Canvas
----
 MS: Open Canvas is a brilliant tool. So glad to see your work with KL. Love to see that how you are prioritising your tasks (starting with seminar series, PDRA support, expert panel, fellowship plan). Lots of great ideas there! 
 
 #### What did you achieve?
 - Gave a 15 min talk on publishing to project manager team
 - Set up seminar series Zoom 
----
 MS: Great work!
 
 #### What did you struggle with?
 - Still some vagueness on upcoming partnership activities, roadmap should help visualise
----
-MS: We just have to fix forward. In all these, please find opportunities to advocate for your community to enable research and collaboration. Project management and what was agreed on contracts are important to consider, but this partnership has a CM position so that we can enable chanced interactions and collaborations through community building with different members at the Turing and Roche - NOT just with those who are already involved.
+- MS: We just have to fix forward. In all these, please find opportunities to advocate for your community to enable research and collaboration. Project management and what was agreed on contracts are important to consider, but this partnership has a CM position so that we can enable chanced interactions and collaborations through community building with different members at the Turing and Roche - NOT just with those who are already involved.
 
 #### What would you like to work on next week?
 - Same as last week ha.... get the seminar series comms out and finally put some docs on GitHub!
 - Also working on roadmap with MOG and HM tomorrow
----
-MS: Exciting! Looking forward to seeing how you use Theory of Change for roadmap (impact based I assume!).
+- MS: Exciting! Looking forward to seeing how you use Theory of Change for roadmap (impact based I assume!).
 
 #### Where do you need help?
 - Sketching out fellows programme in the next month or so
----
-MS: Amazing! Please connect with RA for SSI, AD for her educators program. This is going to be amazing!
+- MS: Amazing! Please connect with RA for SSI, AD for her educators program. This is going to be amazing!
 
 #### Any other topics
 - Can you delete my holiday!?
----
-MS: Done!
+-MS: Done!
 
 ## Date 22 March 2022
 
