@@ -30,6 +30,8 @@
 * Sending email to new UCL role today. CC'ing MS & KW
 * Second round of community outreach going out today (Monday is too full of meetings)
 * Finishing compiling
+* Send welcome note to BA and Outreachy team!
+* Post about translation work in github+community channel
 
 #### Where do you need help?
 * Should I follow up with Chris?
