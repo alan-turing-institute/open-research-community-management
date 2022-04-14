@@ -1,5 +1,6 @@
 # 1:1 Arron and Kirstie catch up and notes
 
+* [14 April 2022](#date-14-april-2022)
 * [31 March 2022](#date-31-march-2022)
 * [17 March 2022](#date-17-march-2022)
 * [3 March 2022](#date-3-march-2022)
@@ -7,6 +8,75 @@
 * [4 February 2022](#date-4-february-2022)
 * [25 January 2022](#date-25-january-2022)
 * [18 January 2022](#date-18-january-2022)
+
+## Date: 14 April 2022
+
+### Check-in ritual
+
+* Nice to take some annual leave over easter. How excited must you be!
+  * KW: SO SOON! 🐇
+
+### Project specific Reflection
+
+* Some good conversations about how best the hubs can work together, lead by LF.
+  A good time to really plug running a lot of what we do through the gitlab. CH seemed on board.
+  * KW: Really great conversation in our meeting today - thank you!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+* CM introduction meeting with AM
+  * KW: SO GREAT!
+* SF & SB feedback on PPIE workshop. Issue [here](https://gitlab.com/edon-initiative/backlog/-/issues/10)
+  * KW: Really excited about this 🙌
+* LF on defining a pathway for other hubs to request help from Analytics Hub
+  * KW: Very very cool
+* MS - I'll be helping with the content for [https://github.com/carpentries-incubator/data-science-ai-senior-researchers](https://github.com/carpentries-incubator/data-science-ai-senior-researchers)
+  * KW: I'm so grateful for this - thank you 🙏
+
+#### Who helped you this week?
+
+* JV on looking over the PPIE workshop document
+  * KW: Great!
+* DD and RE looking into NACC followup data [https://gitlab.com/edon-initiative/backlog/-/issues/7](https://gitlab.com/edon-initiative/backlog/-/issues/7)
+  * KW: Exciiiiiting.
+* KW reviewing Aspiring Leadership application - was successful. Thanks for your help!
+  * KW: 😊
+
+#### What did you achieve?
+
+* Halfway through first draft of TTW [issue](https://github.com/alan-turing-institute/the-turing-way/issues/2297)
+  * KW: Very very cool!
+* Quick literature search of using Dreem data. Dreem themselves have the most cited work, all reproducible!
+    * [https://github.com/Dreem-Organization](https://github.com/Dreem-Organization)
+    * related to this [issue](https://gitlab.com/edon-initiative/cohort-data/signal-processing-sota/-/issues/1)
+    * KW: VERY COOL!! 🧠💤
+* Trying to gather thoughts on requirements for SRE [here](https://gitlab.com/edon-initiative/software-reqs-turng-sre)
+* Wrote up Aspiring Leadership Programme application
+  * KW: So delighted that there are so many TPS folks in the cohort
+
+#### What did you struggle with?
+
+* keeping the kids entertained during half-term!
+
+#### What would you like to work on next week?
+
+* Onboard CM to the Gitlab and decide how best we can use it to oragnize the Hub.
+* Complete AI senior researchers course issues - ready in time for the sprint
+* Finish first draft of TTW issue on package development.
+* A final cohort graph with DD - need RE and CH to agree on numbers.
+* [https://gitlab.com/edon-initiative/propsective-analysis/latentclassmixturemodel/-/issues/1](https://gitlab.com/edon-initiative/propsective-analysis/latentclassmixturemodel/-/issues/1)
+
+KW: EXCIIIIITING! ✨
+
+#### Where do you need help?
+
+* KW to review ethics draft as it's pretty much final
+
+#### Any other topics
+
+- Not this week.
 
 ## Date: 31 March 2022
 
