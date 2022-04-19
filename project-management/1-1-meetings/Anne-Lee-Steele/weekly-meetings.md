@@ -1,9 +1,64 @@
 ## ALS + MS check-ins
 
+* [2022-04-19](#2022-04-19)
 * [2022-04-12](#2022-04-12)
 * [2022-04-05](#2022-04-05)
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
+
+## 2022-04-19
+
+#### Who did you help this week?
+* Helping to compile events - made PR & Issue for newsletter.
+* Sent various resources to TTW and TI people, related to their projects & interests.
+* talked with AL about project - traded resources on community building.
+* Hopefully the community research updates are helping...someone! They've helped me to think more deeply about TTW for sure.
+
+#### Who helped you this week?
+* Learning from the CM meeting last week about templating
+* Always learning from community research
+
+#### What did you achieve?
+Using last week's list as a model:
+* Sending info to April fireside panelists today. Promotion starts by Wednesday. // Running a bit late on beginning promotion due to the holidays. Should begin tonight.
+* Finish subtitles for March fireside! Finally! // This has taken much longer than I thought it would. Hoping to finish by tomorrow, so video can go online around promotional period.
+* Second round of community outreach going out today (Monday is too full of meetings) // Scheduling is happening gradually.
+* Send welcome note to BA and Outreachy team! // Done!
+* Post about translation work in github+community channel // Done!
+* Posting CM team work // Need some time to dig - put a pin on this until more community research has occurred.
+* Sending JD info about OSM // Done!
+* Newsletter: make PR to keep track of events (Tuesday/Wednesday) // both are online. Draft is being made in HackMD.
+* Upcoming events:
+  * Newcastle workshop // Waiting on reply.
+  * King's college workshop
+  * SSI RSCamp: questions about using TTW template
+* Finish up contact list // Available on google sheets.
+
+#### What did you struggle with?
+* I'm having a bit of trouble predicting how long certain actions will take (i.e. reviewing a PR or preparing the mailing list). Will get better with time, but wanted to flag that here.
+
+#### What would you like to work on next week?
+* Documenting TTW workflow (HackMds for events, newsletter)
+* Prepping questions and promotional materials for fireside
+* Start promotion for Fireside & Book Dash
+* Community research update, as usual
+* Following up with Turing Commons Team
+* Sending email re: new UCL role 
+
+#### Where do you need help?
+* SSI RSCamp: questions about using TTW template for presentations, citations as needed, uploading to Zenodo
+* Review newsletter
+* Should I follow up w/ the Turing Commons team?
+* Confirm timeline + promotion needed for April Fireside
+* Will there be a extension to the application for the Book Dash?
+* Can I alter this note-taking format for 1:1's?
+* Confirm upcoming events for TTW:
+  - frictionless community call: 28 April
+  - fireside chat: 29 April
+  - newcastle: 9 may
+  - book dash 16-20 may
+  - king’s college: 18 may (need to re-schedule?)
+  - talk @ ssi: 19 may (pre-recorded)
 
 ## 2022-04-12
 ### Project-specific Reflection
