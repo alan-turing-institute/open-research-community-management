@@ -43,7 +43,7 @@ Using last week's list as a model:
 * Start promotion for Fireside & Book Dash
 * Community research update, as usual
 * Following up with Turing Commons Team
-* Sending email re: new UCL role 
+* Sending email re: new UCL role
 
 #### Where do you need help?
 * SSI RSCamp: questions about using TTW template for presentations, citations as needed, uploading to Zenodo
@@ -59,6 +59,7 @@ Using last week's list as a model:
   - book dash 16-20 may
   - king’s college: 18 may (need to re-schedule?)
   - talk @ ssi: 19 may (pre-recorded)
+  - ordnance survey: 16 june
 
 ## 2022-04-12
 ### Project-specific Reflection
