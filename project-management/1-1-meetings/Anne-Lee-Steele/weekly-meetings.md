@@ -29,7 +29,7 @@ Trying a new format today to keep it more
 
 **MS:** thanks for the timeline and overview.
 # Next week
-- More outreach to individuals
+- More outreach to individuals. - MS: 💪🏽 
 - Compile upcoming conferences to post on PR + start asking people if they'd like to rep TTW :) (would be super excited if possible!) - MS: we have generally aimed for at least 50% talks by community members. Keeping that or increasing that will be a good target. Do take some time to look at the previous reports and promotion pack to think about what can be updated.
 - Had a couple of ideas for engagement with TTW (wondering about the timeline for implementing them - can I start experimenting with one of these next week more concretely?):
   - Turing Way coffee hours
