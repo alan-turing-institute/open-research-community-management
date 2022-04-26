@@ -27,6 +27,7 @@ Trying a new format today to keep it more
 - ordnance survey: 16 june (planning for early may follow up - waiting for follow-up)
 - connections turing course: late june-early july (following convo)
 
+**MS:** thanks for the timeline and overview.
 # Next week
 - More outreach to individuals
 - Compile upcoming conferences to post on PR + start asking people if they'd like to rep TTW :) (would be super excited if possible!) - MS: we have generally aimed for at least 50% talks by community members. Keeping that or increasing that will be a good target. Do take some time to look at the previous reports and promotion pack to think about what can be updated.
