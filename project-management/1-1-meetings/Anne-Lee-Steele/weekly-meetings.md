@@ -32,10 +32,10 @@ Trying a new format today to keep it more
 - More outreach to individuals. - MS: 💪🏽 
 - Compile upcoming conferences to post on PR + start asking people if they'd like to rep TTW :) (would be super excited if possible!) - MS: we have generally aimed for at least 50% talks by community members. Keeping that or increasing that will be a good target. Do take some time to look at the previous reports and promotion pack to think about what can be updated.
 - Had a couple of ideas for engagement with TTW (wondering about the timeline for implementing them - can I start experimenting with one of these next week more concretely?):
-  - Turing Way coffee hours
-  - Turing Way reading group (read 1 section a week?)
-  - Slack automated welcoming message? (would love to co-create this, maybe in the community share out?)
-  - Github Issue templates  
+  - Turing Way coffee hours. - **MS:** Sounds great! 🎉  Maybe something to think about when your 1:1 meetings start to reduce in number.
+  - Turing Way reading group (read 1 section a week?) - **MS:** KW and I were discussing this with AR to co-lead this with you. Can you discuss this with AR and involve him in designing your plans in May?
+  - Slack automated welcoming message? (would love to co-create this, maybe in the community share out?) - **MS**: sent you some info on Slack for configuring Greetbot.
+  - Github Issue templates  - **MS**: This will be fantastic! Maybe a low hanging fruit to lead on get some interested folkd invlolved. You can proposee this for the Book Dash collab idea too.
 
 # Long term ideas
 - Review onboarding process - **MS**: Sounds fantastic. We should definitely create a process to be shared in the Community Handbook. So far it has happened through Coworking, Collab Cafe and workshops. As you know, I have used this doc in the past for onboarding calls: https://hackmd.io/@turingway/demo-intro (which is an overview of the GitHub and book). We can get people involved in understanding what was helpful and what be improved -- some of these can go to a chapter.
