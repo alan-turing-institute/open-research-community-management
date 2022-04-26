@@ -1,7 +1,172 @@
 ## ALS + MS check-ins
 
+* [2022-04-19](#2022-04-19)
+* [2022-04-12](#2022-04-12)
+* [2022-04-05](#2022-04-05)
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
+
+## 2022-04-26
+Trying a new format today to keep it more
+
+### Task updates
+- Getting reading for the fireside chat on friday! (thank you to all the speakers for being incredibly thoughtful - the event )
+- Community research forges on! (thank you to everyone I've spoken to, and will continue to speak to!)
+- Finally getting to work on some PRs this week (or at least understand themes in how people contribute for the community research update)
+- Community research will have more concrete tactics on slack engagement, onboarding, github
+
+**MS:** Fantastic set of work. Thank you for carefully leading these.
+### Upcoming event updates
+- frictionless data: 28 April (all set - really excited to see if there are ways of bringing in frictionless expertise to the project) - **MS:** All the best! This is exciting!
+- fireside chat: 29 April (need to send some planning docs to LW - but should be all set to go) - **MS:** Amazing! Looking forward to the discussions.
+- newcastle: 9 may (postponed to September)
+- talk @ ssi: 19 may (sent recording, just waiting on planning)
+- book dash 16-20 may (reviewing applications this week.)
+- open gov week: 16-20 may (talking to someone from open heroines tomorrow - maybe good to get connected with them for this event?)
+- king’s college: 31 may (will send abstract by 29 april, reviewing MS templates, will chat with VK)
+- ordnance survey: 16 june (planning for early may follow up - waiting for follow-up)
+- connections turing course: late june-early july (following convo)
+
+**MS:** thanks for the timeline and overview.
+# Next week
+- More outreach to individuals. - MS: 💪🏽 
+- Compile upcoming conferences to post on PR + start asking people if they'd like to rep TTW :) (would be super excited if possible!) - MS: we have generally aimed for at least 50% talks by community members. Keeping that or increasing that will be a good target. Do take some time to look at the previous reports and promotion pack to think about what can be updated.
+- Had a couple of ideas for engagement with TTW (wondering about the timeline for implementing them - can I start experimenting with one of these next week more concretely?):
+  - Turing Way coffee hours. - **MS:** Sounds great! 🎉  Maybe something to think about when your 1:1 meetings start to reduce in number.
+  - Turing Way reading group (read 1 section a week?) - **MS:** KW and I were discussing this with AR to co-lead this with you. Can you discuss this with AR and involve him in designing your plans in May?
+  - Slack automated welcoming message? (would love to co-create this, maybe in the community share out?) - **MS**: sent you some info on Slack for configuring Greetbot.
+  - Github Issue templates  - **MS**: This will be fantastic! Maybe a low hanging fruit to lead on get some interested folkd invlolved. You can proposee this for the Book Dash collab idea too.
+
+# Long term ideas
+- Review onboarding process - **MS**: Sounds fantastic. We should definitely create a process to be shared in the Community Handbook. So far it has happened through Coworking, Collab Cafe and workshops. As you know, I have used this doc in the past for onboarding calls: https://hackmd.io/@turingway/demo-intro (which is an overview of the GitHub and book). We can get people involved in understanding what was helpful and what be improved -- some of these can go to a chapter.
+- Shared slack channels with other open science / related open source projects? (I've seen this happen on OSM) - **MS:** This is a Slack pro feature. We may not have funding for the pro account (as Turing institute has already a fully paid account and they will likely not approve extra workspace request) - but we can explore this with ABL if you can assess the pros and cons carefully.
+- UX/UI design sprint for section naming & organisation
+(just to keep my pie in the sky brain awake!) - **MS**: not sure what this means, happy to discuss! We probably need to have a UX/UI plan for the entire project (as well as merge the recent UX work by REG team.
+
+# Where I need help
+- Maybe planning a timeline of things listed above, & prioritisation? - **MS**: great! let's spend some time next week on this.
+
+## 2022-04-19
+
+#### Who did you help this week?
+* Helping to compile events - made PR & Issue for newsletter.
+* Sent various resources to TTW and TI people, related to their projects & interests.
+* talked with AL about project - traded resources on community building.
+* Hopefully the community research updates are helping...someone! They've helped me to think more deeply about TTW for sure.
+
+#### Who helped you this week?
+* Learning from the CM meeting last week about templating
+* Always learning from community research
+
+#### What did you achieve?
+Using last week's list as a model:
+* Sending info to April fireside panelists today. Promotion starts by Wednesday. // Running a bit late on beginning promotion due to the holidays. Should begin tonight.
+* Finish subtitles for March fireside! Finally! // This has taken much longer than I thought it would. Hoping to finish by tomorrow, so video can go online around promotional period.
+* Second round of community outreach going out today (Monday is too full of meetings) // Scheduling is happening gradually.
+* Send welcome note to BA and Outreachy team! // Done!
+* Post about translation work in github+community channel // Done!
+* Posting CM team work // Need some time to dig - put a pin on this until more community research has occurred.
+* Sending JD info about OSM // Done!
+* Newsletter: make PR to keep track of events (Tuesday/Wednesday) // both are online. Draft is being made in HackMD.
+* Upcoming events:
+  * Newcastle workshop // Waiting on reply.
+  * King's college workshop
+  * SSI RSCamp: questions about using TTW template
+* Finish up contact list // Available on google sheets.
+
+#### What did you struggle with?
+* I'm having a bit of trouble predicting how long certain actions will take (i.e. reviewing a PR or preparing the mailing list). Will get better with time, but wanted to flag that here.
+
+#### What would you like to work on next week?
+* Documenting TTW workflow (HackMds for events, newsletter)
+* Prepping questions and promotional materials for fireside
+* Start promotion for Fireside & Book Dash
+* Community research update, as usual
+* Following up with Turing Commons Team
+* Sending email re: new UCL role
+
+#### Where do you need help?
+* SSI RSCamp: questions about using TTW template for presentations, citations as needed, uploading to Zenodo
+* Review newsletter
+* Should I follow up w/ the Turing Commons team?
+* Confirm timeline + promotion needed for April Fireside
+* Will there be a extension to the application for the Book Dash?
+* Can I alter this note-taking format for 1:1's?
+* Confirm upcoming events for TTW:
+  - frictionless community call: 28 April
+  - fireside chat: 29 April
+  - newcastle: 9 may
+  - book dash 16-20 may
+  - king’s college: 18 may (need to re-schedule?)
+  - talk @ ssi: 19 may (pre-recorded)
+  - ordnance survey: 16 june
+
+## 2022-04-12
+### Project-specific Reflection
+
+#### Who did you help this week?
+* Helped LK to get her PR over the finish line! Super exciting to be a part of that.
+* JD on thinking through OSM.
+
+#### Who helped you this week?
+* YB, DHP with Fireside chat planning
+* MS as always!
+* LW on CSCCE opportunities!
+
+#### What did you achieve?
+* Having lots of talks this week with people, 30 minutes are a bit short.
+
+#### What did you struggle with?
+* Need to be better with making time for deep work
+
+#### What would you like to work on next week?
+* Sending info to fireside panelists today. Promotion starts by Wednesday.
+* Finish subtitles for last fireside! Finally!
+* Sending email to new UCL role today. CC'ing MS & KW
+* Second round of community outreach going out today (Monday is too full of meetings)
+* Finishing compiling
+* Send welcome note to BA and Outreachy team!
+* Post about translation work in github+community channel
+* Posting CM team work
+* Sending JD info about OSM
+* Newsletter: make PR to keep track of events (Tuesday/Wednesday)
+* Catch up on Newcastle workshop information
+* Finish up contact list
+
+#### Where do you need help?
+* Should I follow up with Chris?
+
+## 2022-04-05
+
+### Project-specific Reflection
+Started to feel a bit more grounded after conversations with people! Beginning to see trends, and carving out some time during the week to digest notes, and sort through some initial findings. Going to do another round of outreach today (and maybe try to reach into the archives of the project).
+
+#### Who did you help this week?
+* Spoke to YB about the Fireside. We shared notes & made plans for outreach and meeting people. She's reaching out to people about co-facilitating, and we're going to send out a collective email by the end of the week.
+* Gave an idea at CollabW22 that seemed to be well-received!
+
+#### Who helped you this week?
+* So many people! Many people in TTW. I think I'm learning about the collaborative nature of the slack workspace in particular, and how much of a group effort it really is.
+* Thank you for emailing S about the Fireside!
+* Spoke to ACC about translation late last week - truly amazing! Similar to the Turing - I was wondering if we should make an 'appreciations' channel where maybe we can do shoutouts to people within the project? Or I (and others) can start posting interesting things I'm learning about the project?
+* Everyone at CollabW22!! Learning so much it's unbelievable!
+* Thinking about the Slack - and how much I'm learning from the shear number of resources and things that people are sharing.
+
+#### What did you achieve?
+* Finally released the issue describing community research in TTW. Positive reactions so far - now to embed documentation throughout the whole process!
+* Learning a lot from CW22, and will be releasing another 'community learning' update to the issue this week.
+
+#### What did you struggle with?
+* I was struggling last week with wanting/trying to do everything at the same time... But this week I've tried to take breaks and stop (with a little humor) when it gets too much. It helped! Slow & steady.
+
+#### What would you like to work on next week?
+* I really need to reserve all of next week to work on more of the technical side of the project. There's so much important work and labor there that I need time to dig into.
+* Learn about the Fireside workflow
+* Start working on the project update from AB w/ MS
+
+#### Where do you need help?
+* I was thinking that it could be great to get a transcription software, where I can record the chats I'm having with people, and upload the audio to a service (like Amberscript) so I can categorise findings more easily (instead of taking notes during the call - which can be distracting). What do you think?
+* I've been drafting a twitter thread to post, relating back to the fireside chat. Wasn't able to post this week - so I was thinking this Friday, it could be posted?
 
 ## 2022-03-29
 
