@@ -6,6 +6,44 @@
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
 
+## 2022-04-26
+Trying a new format today to keep it more
+
+### Task updates
+- Getting reading for the fireside chat on friday! (thank you to all the speakers for being incredibly thoughtful - the event )
+- Community research forges on! (thank you to everyone I've spoken to, and will continue to speak to!)
+- Finally getting to work on some PRs this week (or at least understand themes in how people contribute for the community research update)
+- Community research will have more concrete tactics on slack engagement, onboarding, github
+
+### Upcoming event updates
+- frictionless data: 28 April (all set - really excited to see if there are ways of bringing in frictionless expertise to the project)
+- fireside chat: 29 April (need to send some planning docs to LW - but should be all set to go)
+- newcastle: 9 may (postponed to September)
+- talk @ ssi: 19 may (sent recording, just waiting on planning)
+- book dash 16-20 may (reviewing applications this week.)
+- open gov week: 16-20 may (talking to someone from open heroines tomorrow - maybe good to get connected with them for this event?)
+- king’s college: 31 may (will send abstract by 29 april, reviewing MS templates, will chat with VK)
+- ordnance survey: 16 june (planning for early may follow up - waiting for follow-up)
+- connections turing course: late june-early july (following convo)
+
+# Next week
+- More outreach to individuals
+- Compile upcoming conferences to post on PR + start asking people if they'd like to rep TTW :) (would be super excited if possible!)
+- Had a couple of ideas for engagement with TTW (wondering about the timeline for implementing them - can I start experimenting with one of these next week more concretely?):
+  - Turing Way coffee hours
+  - Turing Way reading group (read 1 section a week?)
+  - Slack automated welcoming message? (would love to co-create this, maybe in the community share out?)
+  - Github Issue templates  
+
+# Long term ideas
+- Review onboarding process 
+- Shared slack channels with other open science / related open source projects? (I've seen this happen on OSM)
+- UX/UI design sprint for section naming & organisation
+(just to keep my pie in the sky brain awake!)
+
+# Where I need help
+- Maybe planning a timeline of things listed above, & prioritisation?
+
 ## 2022-04-19
 
 #### Who did you help this week?
