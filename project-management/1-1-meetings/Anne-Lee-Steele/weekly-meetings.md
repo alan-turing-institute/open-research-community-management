@@ -17,7 +17,7 @@ Trying a new format today to keep it more
 
 **MS:** Fantastic set of work. Thank you for carefully leading these.
 ### Upcoming event updates
-- frictionless data: 28 April (all set - really excited to see if there are ways of bringing in frictionless expertise to the project)
+- frictionless data: 28 April (all set - really excited to see if there are ways of bringing in frictionless expertise to the project) - **MS:** All the best! This is exciting!
 - fireside chat: 29 April (need to send some planning docs to LW - but should be all set to go) - **MS:** Amazing! Looking forward to the discussions.
 - newcastle: 9 may (postponed to September)
 - talk @ ssi: 19 may (sent recording, just waiting on planning)
