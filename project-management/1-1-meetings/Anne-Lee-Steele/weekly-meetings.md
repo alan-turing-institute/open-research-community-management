@@ -36,10 +36,10 @@ Trying a new format today to keep it more
   - Github Issue templates  
 
 # Long term ideas
-- Review onboarding process 
-- Shared slack channels with other open science / related open source projects? (I've seen this happen on OSM)
+- Review onboarding process - **MS**: Sounds fantastic. We should definitely create a process to be shared in the Community Handbook. So far it has happened through Coworking, Collab Cafe and workshops. As you know, I have used this doc in the past for onboarding calls: https://hackmd.io/@turingway/demo-intro (which is an overview of the GitHub and book). We can get people involved in understanding what was helpful and what be improved -- some of these can go to a chapter.
+- Shared slack channels with other open science / related open source projects? (I've seen this happen on OSM) - **MS:** This is a Slack pro feature. We may not have funding for the pro account (as Turing institute has already a fully paid account and they will likely not approve extra workspace request) - but we can explore this with ABL if you can assess the pros and cons carefully.
 - UX/UI design sprint for section naming & organisation
-(just to keep my pie in the sky brain awake!)
+(just to keep my pie in the sky brain awake!) - **MS**: not sure what this means, happy to discuss! We probably need to have a UX/UI plan for the entire project (as well as merge the recent UX work by REG team.
 
 # Where I need help
 - Maybe planning a timeline of things listed above, & prioritisation?
