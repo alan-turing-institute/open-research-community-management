@@ -42,7 +42,7 @@ Trying a new format today to keep it more
 (just to keep my pie in the sky brain awake!) - **MS**: not sure what this means, happy to discuss! We probably need to have a UX/UI plan for the entire project (as well as merge the recent UX work by REG team.
 
 # Where I need help
-- Maybe planning a timeline of things listed above, & prioritisation?
+- Maybe planning a timeline of things listed above, & prioritisation? - **MS**: great! let's spend some time next week on this.
 
 ## 2022-04-19
 
