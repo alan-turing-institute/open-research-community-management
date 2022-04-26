@@ -15,6 +15,7 @@ Trying a new format today to keep it more
 - Finally getting to work on some PRs this week (or at least understand themes in how people contribute for the community research update)
 - Community research will have more concrete tactics on slack engagement, onboarding, github
 
+**MS:** Fantastic set of work. Thank you for carefully leading these.
 ### Upcoming event updates
 - frictionless data: 28 April (all set - really excited to see if there are ways of bringing in frictionless expertise to the project)
 - fireside chat: 29 April (need to send some planning docs to LW - but should be all set to go) - **MS:** Amazing! Looking forward to the discussions.
