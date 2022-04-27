@@ -1,5 +1,6 @@
 # Vicky + Malvika 1:1 Catch-up Minutes
 
+* [27 April 2022](#date-27-april-2022)
 * [12 April 2022](#date-12-april-2022)
 * [29 March 2022](#date-29-march-2022)
 * [22 March 2022](#date-22-march-2022)
@@ -14,6 +15,43 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 27 April 2022
+
+### Check-in ritual
+Slightly calmer this week! New PM seems great so excited to build that relationship. 
+
+### Project specific Reflection
+Feels good to have the knowledge share out the way, got expert panel today and Roche visit next Weds then should have some more time! 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+- Partnership team with making sure all PM bits picked up
+
+#### Who helped you this week?
+- MS with Knowledge Share hosting!
+- AM has been great with picking up PM stuff and checking in on me
+
+#### What did you achieve?
+- Finalised slides for my visit to Roche (has been a lot of back and forth on these!)
+- Sent out Expert Panel Agenda
+- Ran Knowledge Share!
+- Got the onboarding handbook pretty much finished
+
+#### What did you struggle with?
+- Discussion around open reporting
+- No response from video team...
+
+#### What would you like to work on next week?
+- Help onboard new PM
+- Start inviting people to join June meeting 
+
+#### Where do you need help?
+- Have a quick skim over the handbook and check what if anything missing? https://docs.google.com/document/d/1NxkqOWuecy9JQVibN3DYniUCJ_0K7lxI/edit
+- Advice on REG
+
+#### Any other topics
+- MM sent me across a proposal to get involved in Genomic Data Diversity Initative- probably worth sharing with the other community managers?
 
 ## Date 12 April 2022
 
