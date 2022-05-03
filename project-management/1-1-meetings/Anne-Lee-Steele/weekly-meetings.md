@@ -1,13 +1,48 @@
 ## ALS + MS check-ins
 
+* [2022-05-03](#2022-05-03)
 * [2022-04-19](#2022-04-19)
 * [2022-04-12](#2022-04-12)
 * [2022-04-05](#2022-04-05)
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
 
+## 2022-05-06
+
+### Task updates
+- Working on drafting messages for book dash applicants
+- Cloud recording + subtitles ready for Youtube upload
+- Community research is continuing, but with more specificity as to tools/workflows
+- Thanks yous for: all the fireside speakers, frictionless meetup organisers, book dash reviewers! To EM for chairing, MS for shouldering my share of bookdash applications
+
+### Event updates
+- frictionless data (all went well! I somewhat regretted not having a presentation, but I think it allowed for more informal interaction. really confirmed the new)
+- fireside chat: 29 April (would love to hear feedback about how you think it went! also, will be going through the recording subtitles, hope to finish by the end of the month)
+- ~~newcastle: 9 may (postponed to September)~~
+- talk @ ssi: 19 may (1 hour long event, will overlap with bookdash)
+- book dash 16-20 may (draft)
+- ~~open gov week: 16-20 may~~
+- king’s college: 31 may (will plan event with VK, buying tickets + filing reimbursement)
+- ordnance survey: 16 june (will sent email confirmation + cal invite)
+- connections turing course: late june-early july (will respond to HM)
+
+# Next week
+- Start to prepare mailing list for release: release date TBD
+-
+
+# Where I need help?
+- Anything to know know about NHS presentation invitation?
+- Internet infrastructure chapter: How should I go about planning this contribution with different collaborators? Can this be used as a testing ground for governance?
+- What are the Data Study Groups?
+- Should we submit to RSE Conf? Other upcoming conferences?
+- Where to log upcoming events/invite speakers from the core team to?
+- Can I plan a session during the community share out or book dash for receiving feedback on usability and UX/UI/design?
+
+# Ideas corner
+- Not a lot of idea generation happening today, I must admit... More about tasks this week, due to the holiday.
+
 ## 2022-04-26
-Trying a new format today to keep it more
+Trying a new format today!
 
 ### Task updates
 - Getting reading for the fireside chat on friday! (thank you to all the speakers for being incredibly thoughtful - the event )
@@ -29,7 +64,7 @@ Trying a new format today to keep it more
 
 **MS:** thanks for the timeline and overview.
 # Next week
-- More outreach to individuals. - MS: 💪🏽 
+- More outreach to individuals. - MS: 💪🏽
 - Compile upcoming conferences to post on PR + start asking people if they'd like to rep TTW :) (would be super excited if possible!) - MS: we have generally aimed for at least 50% talks by community members. Keeping that or increasing that will be a good target. Do take some time to look at the previous reports and promotion pack to think about what can be updated.
 - Had a couple of ideas for engagement with TTW (wondering about the timeline for implementing them - can I start experimenting with one of these next week more concretely?):
   - Turing Way coffee hours. - **MS:** Sounds great! 🎉  Maybe something to think about when your 1:1 meetings start to reduce in number.
