@@ -16,6 +16,7 @@ Trying a new format today to keep it more
 - Community research will have more concrete tactics on slack engagement, onboarding, github
 
 **MS:** Fantastic set of work. Thank you for carefully leading these.
+
 ### Upcoming event updates
 - frictionless data: 28 April (all set - really excited to see if there are ways of bringing in frictionless expertise to the project) - **MS:** All the best! This is exciting!
 - fireside chat: 29 April (need to send some planning docs to LW - but should be all set to go) - **MS:** Amazing! Looking forward to the discussions.
@@ -28,6 +29,7 @@ Trying a new format today to keep it more
 - connections turing course: late june-early july (following convo)
 
 **MS:** thanks for the timeline and overview.
+
 # Next week
 - More outreach to individuals. - MS: 💪🏽 
 - Compile upcoming conferences to post on PR + start asking people if they'd like to rep TTW :) (would be super excited if possible!) - MS: we have generally aimed for at least 50% talks by community members. Keeping that or increasing that will be a good target. Do take some time to look at the previous reports and promotion pack to think about what can be updated.
@@ -35,13 +37,13 @@ Trying a new format today to keep it more
   - Turing Way coffee hours. - **MS:** Sounds great! 🎉  Maybe something to think about when your 1:1 meetings start to reduce in number.
   - Turing Way reading group (read 1 section a week?) - **MS:** KW and I were discussing this with AR to co-lead this with you. Can you discuss this with AR and involve him in designing your plans in May?
   - Slack automated welcoming message? (would love to co-create this, maybe in the community share out?) - **MS**: sent you some info on Slack for configuring Greetbot.
-  - Github Issue templates  - **MS**: This will be fantastic! Maybe a low hanging fruit to lead on get some interested folkd invlolved. You can proposee this for the Book Dash collab idea too.
+  - Github Issue templates  - **MS**: This will be fantastic! Maybe a low hanging fruit to lead on and get some interested folks invlolved. You can proposee this for the Book Dash collab idea too.
 
 # Long term ideas
 - Review onboarding process - **MS**: Sounds fantastic. We should definitely create a process to be shared in the Community Handbook. So far it has happened through Coworking, Collab Cafe and workshops. As you know, I have used this doc in the past for onboarding calls: https://hackmd.io/@turingway/demo-intro (which is an overview of the GitHub and book). We can get people involved in understanding what was helpful and what be improved -- some of these can go to a chapter.
 - Shared slack channels with other open science / related open source projects? (I've seen this happen on OSM) - **MS:** This is a Slack pro feature. We may not have funding for the pro account (as Turing institute has already a fully paid account and they will likely not approve extra workspace request) - but we can explore this with ABL if you can assess the pros and cons carefully.
 - UX/UI design sprint for section naming & organisation
-(just to keep my pie in the sky brain awake!) - **MS**: not sure what this means, happy to discuss! We probably need to have a UX/UI plan for the entire project (as well as merge the recent UX work by REG team.
+(just to keep my pie in the sky brain awake!) - **MS**: not sure what this means, happy to discuss! We probably need to have a UX/UI plan for the entire project (as well as merge the recent UX work by REG team).
 
 # Where I need help
 - Maybe planning a timeline of things listed above, & prioritisation? - **MS**: great! let's spend some time next week on this.
@@ -54,9 +56,13 @@ Trying a new format today to keep it more
 * talked with AL about project - traded resources on community building.
 * Hopefully the community research updates are helping...someone! They've helped me to think more deeply about TTW for sure.
 
+MS: Well done of the newsletter! Such an important (massive) work!
+
 #### Who helped you this week?
 * Learning from the CM meeting last week about templating
 * Always learning from community research
+
+MS: 🎉
 
 #### What did you achieve?
 Using last week's list as a model:
@@ -74,16 +80,22 @@ Using last week's list as a model:
   * SSI RSCamp: questions about using TTW template
 * Finish up contact list // Available on google sheets.
 
+MS: So many delightful work! Thank you so much Anne for taking these on.
+
 #### What did you struggle with?
 * I'm having a bit of trouble predicting how long certain actions will take (i.e. reviewing a PR or preparing the mailing list). Will get better with time, but wanted to flag that here.
 
+MS: General rule is that all work take twice (and sometimes more) the time you predict they will take. PR and issue interactions are always take time (like all collaborations). Definitely will get better with time.
+
 #### What would you like to work on next week?
-* Documenting TTW workflow (HackMds for events, newsletter)
+* Documenting TTW workflow (HackMDs for events, newsletter)
 * Prepping questions and promotional materials for fireside
 * Start promotion for Fireside & Book Dash
 * Community research update, as usual
 * Following up with Turing Commons Team
 * Sending email re: new UCL role
+
+MS: Woooh! So many parallel work. Please take it slower next week, I realise that this week was jam packed.
 
 #### Where do you need help?
 * SSI RSCamp: questions about using TTW template for presentations, citations as needed, uploading to Zenodo
@@ -101,6 +113,8 @@ Using last week's list as a model:
   - talk @ ssi: 19 may (pre-recorded)
   - ordnance survey: 16 june
 
+MS: Thank you for shaing the timeline and overview.
+
 ## 2022-04-12
 ### Project-specific Reflection
 
@@ -108,16 +122,24 @@ Using last week's list as a model:
 * Helped LK to get her PR over the finish line! Super exciting to be a part of that.
 * JD on thinking through OSM.
 
+MS: 💪
+
 #### Who helped you this week?
 * YB, DHP with Fireside chat planning
 * MS as always!
 * LW on CSCCE opportunities!
 
+MS: Really exciting updates and connections.
+
 #### What did you achieve?
 * Having lots of talks this week with people, 30 minutes are a bit short.
 
+MS: I suggest keeping it longer than 30 mins and taking some time afterwards to follow up offline. Many meetings start to block calendar and that will make it hard for you to go back to your individual work.
+
 #### What did you struggle with?
 * Need to be better with making time for deep work
+
+MS: take the next month to slow down and spend some time in going through your notes and timeline so far. 
 
 #### What would you like to work on next week?
 * Sending info to fireside panelists today. Promotion starts by Wednesday.
@@ -133,8 +155,12 @@ Using last week's list as a model:
 * Catch up on Newcastle workshop information
 * Finish up contact list
 
+MS: Thank you for all thesee work.
+
 #### Where do you need help?
 * Should I follow up with Chris?
+
+MS: Yes (I saw that you already did!)
 
 ## 2022-04-05
 
