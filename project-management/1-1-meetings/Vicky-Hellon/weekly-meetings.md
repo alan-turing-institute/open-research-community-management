@@ -19,26 +19,50 @@
 ## Date 03 May 2022
 
 ### Check-in ritual
+
 Still busy but feeling slightly more on top of things :)
 
 ### Project specific Reflection
+
 AS is settling in very well, excited to work with him further. Some big events out the way (Knowledge Share and Expert Panel) and visit to Roche tomorrow!
+
+Some priorities for May/June
+- Roche Visit
+- Seminar series
+- June F2F
+- Newsletter, follow up for June seminar
+- Funded project onboarding plan is set for June, handbook under review and contract is behind <-- PM and RPM on it
+
+Coworking with EK, AH and MS - placeholder
+- GitHub repository
+- Expert panel follow up
 
 ### Notes to discuss during 1:1
 
 #### Who did you help this week?
+
 - Onboarded AS to the project- continuing to support
 
+MS: Good work!
+
 #### Who helped you this week?
+
 - KP helped brainstorm June meeting and invited MG
 - SM and YZ helped with brainstorming for next few Knowledge Shares, SM has been great with getting involved
 
+MS: All the best with this!
+
 #### What did you achieve?
+
 - Ran Expert Panel meeting
 - Uploaded Knowledge Share video and sent out follow up email with feedback survey
 
+MS: Good job getting all of these out! 
+
 #### What did you struggle with?
 - Having enough time for everything- still want to engage the Expert Panel but worried it'll slip with everything else
+
+MS: Let's get this sorted in the coworking call.
 
 #### What would you like to work on next week?
 - Am presenting at Roche tomorrow 
@@ -47,13 +71,21 @@ AS is settling in very well, excited to work with him further. Some big events o
 - Need to have definitely invited May Knowledge Share speakers and want to invite June ones (said this last week!)
 - Scoping for fellows programme- finalising meeting 
 
+MS: Have fun! Looking forward to hearing how it goes.
+
 #### Where do you need help?
 - (left this in from last week- ongoing) Have a quick skim over the handbook and check what if anything missing? https://docs.google.com/document/d/1NxkqOWuecy9JQVibN3DYniUCJ_0K7lxI/edit
 - Chasing DW for video
 
 #### Any other topics
 - Where shall I put in the community GitHub repo about editing website/events?
+MS: Please start this as an issue
+
 - May speakers- shall I chase BM?
+MS: Please ask in the community channel in slack, EK and AL have folks in their network. JH may have useful recommendations as well. Is there a way for them to asynchronously suggest speakers?
+
+All the best Vicky!! 💙
+
 
 ## Date 27 April 2022
 
