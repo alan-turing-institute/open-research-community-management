@@ -53,6 +53,7 @@ AS is settling in very well, excited to work with him further. Some big events o
 
 #### Any other topics
 - Where shall I put in the community GitHub repo about editing website/events?
+- May speakers- shall I chase BM?
 
 ## Date 27 April 2022
 
