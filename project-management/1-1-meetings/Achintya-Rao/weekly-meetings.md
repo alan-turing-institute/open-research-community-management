@@ -4,6 +4,7 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-05-03](#2022-05-03)
 - [2022-04-11](#2022-04-11)
 - [2022-03-22](#2022-03-22)
 - [2022-03-16](#2022-03-16)
@@ -18,6 +19,44 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-05-03
+
+### Check-in ritual
+
+- Feeling super motivated after the break
+- Had a long and very helpful mentorship session with YY last Friday!
+
+### Project specific Reflection
+
+- Unfortunately, there were no edits to the document while I was away.
+Going to start engaging the post-docs directly now as we might not get much _direct_ engagement from the senior researchers.
+YY and I discussed setting up co-working slots specifically for writing the white papers and sending out (optional) invites to everyone involved.
+
+### Notes to discuss during 1:1
+
+#### Who helped you this week?
+
+- JD has regularly pointed me to useful reading (and potential references) for the EDT white paper
+- YY has been a fount of wisdom and sage advice, and generally a fun person to catch up with every couple of weeks
+- AS, for thinking of me in the context of train ticket sales this weekend
+
+#### What did you achieve?
+
+- Still haven’t caught up on all my e-mails, but I did go through many and also sent out the WP reminder e-mail on Friday
+
+#### What are you working on this week and what are your priorities?
+
+- Contacting post-docs and others recommended by core team to contribute to the E&S white paper; setting up co-working slots for this week and beyond and inviting them to it
+- Start editing the document with contributors, if possible
+- Meeting with ASG central about July event (Thursday); includes debrief from March event
+- Have to upload ASG March event talks (been low priority, but now has been two months since the event)
+- Start working on SPARRA glossy
+
+#### Where do you need help?
+
+- Advice on how to motivate senior researchers to contribute to the white papers
+  - Q: SH mentioned recognising contributors as authors; will carrot work as well for senior people as PDRAs?
 
 ## 2022-04-11
 
