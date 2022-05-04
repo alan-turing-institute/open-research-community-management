@@ -11,8 +11,8 @@
 
 ### Task updates
 - Working on drafting messages for book dash applicants
-- Cloud recording + subtitles ready for Youtube upload
-- Community research is continuing, but with more specificity as to tools/workflows
+- Cloud recording + subtitles ready for Youtube upload (MS: workflow -> upload, vtt transcription document, flier image = thumbnail, publish directly)
+- Community research is continuing, but with more specificity as to tools. How to recognise previous work done? (booking time!)
 - Thanks yous for: all the fireside speakers, frictionless meetup organisers, book dash reviewers! To EM for chairing, MS for shouldering my share of bookdash applications
 
 ### Event updates
@@ -28,18 +28,30 @@
 
 # Next week
 - Start to prepare mailing list for release: release date TBD
--
+- PRs!
+- Review acknowledgements chapter* (what is logged? what is formalised/informalised? lecture opportunities (keynotes)? organising roles? what/who is visible/invisible in this? recorded impact)
+- 'record of contributions' / CONTRIBUTORS.md - how to log contributions to TTW in ways that is meaningful for them?
+- Reach out to people about how they would like to be recognised for the conversations had in 1:1! --> contextualising acknowledgements (not traditional authorship!)
+- What does documentation of 1:1 conversations look like? (Chain of acknowledgements idea!)
+- Collecting opportunities for different types of engagement with TTW (event planning, open infrastructure, ux)
 
 # Where I need help?
-- Anything to know know about NHS presentation invitation?
+- Anything to know know about NHS presentation invitation? (maybe bring in EK for a paired presentation?)
 - Internet infrastructure chapter: How should I go about planning this contribution with different collaborators? Can this be used as a testing ground for governance?
 - What are the Data Study Groups?
 - Should we submit to RSE Conf? Other upcoming conferences?
 - Where to log upcoming events/invite speakers from the core team to?
-- Can I plan a session during the community share out or book dash for receiving feedback on usability and UX/UI/design?
+- Can I plan a session during the community share out or book dash for receiving feedback on usability and UX/UI/design? --> Merge REG team PR, testing cards (different entry base into the book -> curating based on professions? Asking questions about this in 1:1s? How can we engage more people in this?)
+- How to understand the tension between revising existing chapters vs writing new content?  (reviewing PRs, happening simultaneously while new writing is being developed)
+- How to balance intrinsically-motivated vs extrinsically-motivated contributions to TTW? Engagement with the project? Emergent governance to address this?
+- Emerging tensions to discuss: attribution of credit for foundational work vs future project work, editing vs writing, past vs present/old vs new, insider vs outsider, writing new chapters vs reviewing existing work, creation vs maintenance
 
 # Ideas corner
-- Not a lot of idea generation happening today, I must admit... More about tasks this week, due to the holiday.
+- Chain on contributions
+- 'Month of review', 'Orchestrated work'
+- Mapping the insider/outsider dynamic of open science
+- Emerging ways of working for CMs/"community research"
+- Writing <> Reading <> Reviewing (Projects within the open ecosystem can profile/research each other... What framework can you use? External audits within the open ecosystem?)
 
 ## 2022-04-26
 Trying a new format today!
