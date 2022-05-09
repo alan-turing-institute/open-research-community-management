@@ -1,9 +1,9 @@
 # Sophia and Emma 1 to 1 weekly meetings
 
+* [10 Map 2022](#date-10-May-2022)
 
 
-
-## TEMPLATE: Date: YYYY-MM-DD <-- Please update
+## Date: 2022-05-10
 
 ### Check-in ritual
 (Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
