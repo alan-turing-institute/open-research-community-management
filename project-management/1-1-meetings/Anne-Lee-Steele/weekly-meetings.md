@@ -1,11 +1,44 @@
 ## ALS + MS check-ins
 
+* [2022-05-10](#2022-05-10)
 * [2022-05-03](#2022-05-03)
 * [2022-04-19](#2022-04-19)
 * [2022-04-12](#2022-04-12)
 * [2022-04-05](#2022-04-05)
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
+
+## 2022-05-06
+
+### Task updates
+- Responded to all outstanding emails (finally!)
+- Fireside chat uploaded to Youtube (error the first time around)
+- Adding documentation notes:
+- Finally starting to review some PMs,
+
+### Event updates
+- talk @ ssi: 16 may
+- book dash 16-20 may: participating in on-boarding sessions
+- community share-out: 20 may - any material to review?
+- whitaker lab goatherd: 26 may (note to self)
+- king’s college: 31 may (will prep with VH on 23 june, then give to MS to review)
+- right’s con (6 june - should i prepare to join this talk?)
+- ordnance survey: 16 june (following up with OS team on 23 April, speaking with AC to catch-up on updates)
+- connections turing course: late june-early july (followed up with email thread)
+- TTW core team meeting (initial planning, late June/early July)
+- TTW fireside chat (pending date: Friday, 24 June 2022, discuss topic with core team?, )
+- rse con (submitted astract, happening 5-9 sept, will find out 31 may)
+- carpentry con (submissions due 12 june, event happening 1-12 Aug)
+
+### Next week
+-
+
+### Where do I need help?
+- Can I start a chapter/section of 
+
+### Ideas corner
+- Every CM & RAM presenting TTW at a conference of their choice in 2022
+- Rotating coffee chats with CMs and RAMs leading hosting/onboarding
 
 ## 2022-05-06
 
