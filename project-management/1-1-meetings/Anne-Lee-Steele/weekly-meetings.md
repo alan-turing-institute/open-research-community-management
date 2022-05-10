@@ -15,7 +15,7 @@
 - Finally starting to review some PRs and Issues on Github, with more awareness of what the workflow of contribution/reviewing looks like.
 - Contacting everyone I've spoken to about reviewing conversation notes, and the possibility of publishing excerpts in a public forum (either in the Github issue or in a new part of the Community Handbook)
 
-### Thank yous (adding this section back in)
+### Thank yous
 - EK for reviewing my RSECon abstract
 - PH, SG for talking through some open infrastructure ideas during coffee chats
 - AR for doing the work to set up a Bristol Hub
