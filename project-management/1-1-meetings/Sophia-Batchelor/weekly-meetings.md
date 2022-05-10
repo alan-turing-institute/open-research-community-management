@@ -11,21 +11,27 @@
 * Awesome onboarding session with MS, DC, & EB
 * Super grateful for folks from the Public Policy team who took me to lunch on Friday
 
+* EK - great that you have connected with so many people already. 🌟
+
 ### Project specific Reflection
 
 * Current tasks are about getting up to speed with where things are at with the RSF, and what sort of work do I need to muck in on short term. 
   * There seems to be a good opportunity to lead with some Turing Way workflows in how notes and the like are stored & shared. Will need to have a few scoping conversations to figure out what the best way forward will be. 
+  	* EK - let's chat about DECOVID repo when you start working no your repository. 	
 	* This presents a small challenge as putting a line in the sand and forcing everything into markdown and github may not meet the community where they are and so deep thinking is needed. 
-* Worked to integrate reviewer feedback for a conference submission on AutSPACEs with GA. Am exploring/figuring out what the split between AutSPACEs and AIM will be. 
+* Worked to integrate reviewer feedback for a conference submission on AutSPACEs with GA. Am exploring/figuring out what the split between AutSPACEs and AIM will be.
+	* EK - This is great!  
 
 ### Notes to discuss during 1:1
 
-* Feeling like I'm not necessarily doing "tasks" at the moment. Am just unsure of if I shoudl be working harder and mucking in more: and am finding the balance difficult between the phd mindset vs working life mindset where it's okay to not solve all the world's problems in a day. 
+* Feeling like I'm not necessarily doing "tasks" at the moment. Am just unsure of if I should be working harder and mucking in more: and am finding the balance difficult between the phd mindset vs working life mindset where it's okay to not solve all the world's problems in a day. 
+	* EK - start a few of the tasks from your list sent last friday such as community mapping and glossary - drawing info together that you have and then asking for input.   
 
 #### Who did you help this week?
 
 * GA with integrating reviewer feedback
 * DC & EB with brainstorming some operational steps for AIM that support an open workflow
+	* EK - great work! 
 
 #### Who helped you this week?
 
@@ -50,7 +56,7 @@
 #### What did you struggle with?
 
 * Covid delays have made it difficult to meet with specific PPIE folk
-* General feelings of "shoudl I be doing something more useful with my time" 
+* General feelings of "should I be doing something more useful with my time" 
 * Also need to keep an eye on how I'm structuring my days as I'm starting early and finishing late and have been excited and caught up in tasks so haven't taken clever breaks. It was the first week though, so it's a self-check more than anything else. 
 
 #### What would you like to work on next week?
@@ -58,6 +64,7 @@
 - [ ] Continue reading through the resources shared by Dave and Elizabeth, & what is on the GitHub repo. 
 - [ ] Organise a meeting with LC and other PPIE folk to understand the PPIE work that is being done.
 - [ ] Attend all AIM RSF meetings and get a deeper understanding of how my work fits in 
+- [ ] Bubble away at ethics approval, glossary, community mapping and open workflow. 
 
 #### Where do you need help?
 
