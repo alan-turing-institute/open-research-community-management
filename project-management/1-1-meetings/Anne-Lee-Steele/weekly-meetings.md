@@ -13,6 +13,7 @@
 ### Task updates
 - Fireside chat uploaded to Youtube (there was an error the first time around. video is processing.)
 - Finally starting to review some PRs and Issues on Github, with more awareness of what the workflow of contribution/reviewing looks like.
+MS: contributing to Github,
 - Contacting everyone I've spoken to about reviewing conversation notes, and the possibility of publishing excerpts in a public forum (either in the Github issue or in a new part of the Community Handbook)
 
 ### Thank yous
@@ -22,6 +23,7 @@
 - VH for co-creating the king's college workshop
 - JB participating in mapathon (woo!)
 - Talarify team (AT, AVDW, NP) for the enlightening conversation re: networks, imagining emerging forms of attribution
+- DG for getting us on the fediverse!
 
 ### Event updates
 - Talk @ SSI: 16 may
@@ -33,7 +35,7 @@
 - Ordnance survey: 16 june (following up with OS team on 23 April, speaking with AC to catch-up on updates)
 - Connections Turing course: late june-early july (followed up with email thread)
 - TTW core team meeting (initial planning, late June/early July)
-- TTW fireside chat (pending date: Friday, 24 June 2022, discuss topic with core team?, )
+- TTW fireside chat (pending date: Friday, 24 June 2022, discuss topic with core team?)
 - RSE Con (submitted astract, happening 5-9 sept, will find out 31 may)
 - CarpentryCon (submissions due 12 june, event happening 1-12 Aug)
 
