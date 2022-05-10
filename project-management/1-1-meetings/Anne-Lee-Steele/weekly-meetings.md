@@ -8,37 +8,48 @@
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
 
-## 2022-05-06
+## 2022-05-10
 
 ### Task updates
-- Responded to all outstanding emails (finally!)
-- Fireside chat uploaded to Youtube (error the first time around)
-- Adding documentation notes:
-- Finally starting to review some PMs,
+- Fireside chat uploaded to Youtube (there was an error the first time around. video is processing.)
+- Finally starting to review some PRs and Issues on Github, with more awareness of what the workflow of contribution/reviewing looks like.
+- Contacting everyone I've spoken to about reviewing conversation notes, and the possibility of publishing excerpts in a public forum (either in the Github issue or in a new part of the Community Handbook)
+
+### Thank yous (adding this section back in)
+- EK for reviewing my RSECon abstract
+- PH, SG for talking through some open infrastructure ideas during coffee chats
+- AR for doing the work to set up a Bristol Hub
+- VH for co-creating the king's college workshop
+- JB participating in mapathon (woo!)
+- Talarify team (AT, AVDW, NP) for the enlightening conversation re: networks, imagining emerging forms of attribution
 
 ### Event updates
-- talk @ ssi: 16 may
-- book dash 16-20 may: participating in on-boarding sessions
-- community share-out: 20 may - any material to review?
+- Talk @ SSI: 16 may
+- Book Dash 16-20 may: participating in on-boarding sessions
+- Community share-out: 20 may - any material to review?
 - whitaker lab goatherd: 26 may (note to self)
-- king’s college: 31 may (will prep with VH on 23 june, then give to MS to review)
-- right’s con (6 june - should i prepare to join this talk?)
-- ordnance survey: 16 june (following up with OS team on 23 April, speaking with AC to catch-up on updates)
-- connections turing course: late june-early july (followed up with email thread)
+- King’s college: 31 may (will prep with VH on 23 june, then give to MS to review)
+- Right’s con (6 june - should i prepare to join this talk?)
+- Ordnance survey: 16 june (following up with OS team on 23 April, speaking with AC to catch-up on updates)
+- Connections Turing course: late june-early july (followed up with email thread)
 - TTW core team meeting (initial planning, late June/early July)
 - TTW fireside chat (pending date: Friday, 24 June 2022, discuss topic with core team?, )
-- rse con (submitted astract, happening 5-9 sept, will find out 31 may)
-- carpentry con (submissions due 12 june, event happening 1-12 Aug)
+- RSE Con (submitted astract, happening 5-9 sept, will find out 31 may)
+- CarpentryCon (submissions due 12 june, event happening 1-12 Aug)
 
 ### Next week
--
+- Book dash! I'm going to be documenting the event from an outsiders perspective, and working on governance assignments from OLS-5
+- Reviewing PRs+issues, categorisation, etc.
 
 ### Where do I need help?
-- Can I start a chapter/section of 
+- Thinking through the "core team meeting" agenda, and how to approach organising the event
 
 ### Ideas corner
-- Every CM & RAM presenting TTW at a conference of their choice in 2022
-- Rotating coffee chats with CMs and RAMs leading hosting/onboarding
+- It'd be great to start the process of releasing some of these community research updates within the community handbook, perhaps in a more standardised formats & including names
+- It'd be great to see all CMs & RAMs present TTW at atleast one conference of their choice in 2022-2023!
+- Rotating coffee chats within TTW community
+- Alternatively: Friday coffee chats with CMs and RAMs leading hosting/onboarding/casual conversations
+- Bringing back this "Turing Way" (friday?) book club idea, started by AR
 
 ## 2022-05-06
 
