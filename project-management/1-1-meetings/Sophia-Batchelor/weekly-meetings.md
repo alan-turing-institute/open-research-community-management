@@ -56,8 +56,11 @@
 #### What did you struggle with?
 
 * Covid delays have made it difficult to meet with specific PPIE folk
+	* EK - Just keep asking when you can connect.  
 * General feelings of "should I be doing something more useful with my time" 
+	* EK - you have already done so much! Keep going to meetings, listening and meeting more people - this is the unseen work of community managers. 
 * Also need to keep an eye on how I'm structuring my days as I'm starting early and finishing late and have been excited and caught up in tasks so haven't taken clever breaks. It was the first week though, so it's a self-check more than anything else. 
+	* EK - Something to keep an eye on - you will find a good routine once you are fully settled in. 
 
 #### What would you like to work on next week?
 
