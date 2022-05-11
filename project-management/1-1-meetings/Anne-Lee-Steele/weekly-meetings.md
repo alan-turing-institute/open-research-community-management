@@ -15,6 +15,7 @@
 - Finally starting to review some PRs and Issues on Github, with more awareness of what the workflow of contribution/reviewing looks like.
 MS: contributing to Github,
 - Contacting everyone I've spoken to about reviewing conversation notes, and the possibility of publishing excerpts in a public forum (either in the Github issue or in a new part of the Community Handbook)
+- Finish up mailing draft for review
 
 ### Thank yous
 - EK for reviewing my RSECon abstract
@@ -42,6 +43,7 @@ MS: contributing to Github,
 ### Next week
 - Book dash! I'm going to be documenting the event from an outsiders perspective, and working on governance assignments from OLS-5
 - Reviewing PRs+issues, categorisation, etc.
+- Mailing list: send by Monday!
 
 ### Where do I need help?
 - Thinking through the "core team meeting" agenda, and how to approach organising the event
@@ -51,7 +53,7 @@ MS: contributing to Github,
 - It'd be great to see all CMs & RAMs present TTW at atleast one conference of their choice in 2022-2023!
 - Rotating coffee chats within TTW community
 - Alternatively: Friday coffee chats with CMs and RAMs leading hosting/onboarding/casual conversations
-- Bringing back this "Turing Way" (friday?) book club idea, started by AR
+- Bringing back this "Turing Way" (friday?) book club idea, started by MS/AR
 
 ## 2022-05-06
 
