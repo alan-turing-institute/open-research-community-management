@@ -4,6 +4,7 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-05-11](#2022-05-11)
 - [2022-05-03](#2022-05-03)
 - [2022-04-11](#2022-04-11)
 - [2022-03-22](#2022-03-22)
@@ -19,6 +20,59 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-05-11
+
+### Check-in ritual
+
+- A bit overwhelmed, honestly.
+- Excited about the possibility of setting up a Turing Bristol Hub.
+Will document this, of course, so we can make a forkable set-up-your-own-hub document.
+- Huge thanks to PH for helping make contact with the JGI at the University of Bristol!
+
+### Project-specific reflection
+
+- Three new contributors have joined the E&S white paper!
+Will be doing their on-boarding over Slack and Zoom.
+- JD has been curating resources and ideas for the EDT white paper.
+- Had meetings with AC about health summary, with JD about a mapping social for the July event, and with HS, MC and ZI about the August event after meeting ASG central last week (with follow-up with AY today)
+- ZI has been ace, and has set up a Gantt chart for the July event and has also provided me with a list of potential areas for the PDRAs to engage with at the event.
+- ASG mini-series for Turing podcast is moving ahead; had two meetings with BCG and DW about logistics; see https://github.com/alan-turing-institute/asg-community/issues/53/.
+- Have _not_ managed to set up co-working slots but will have to do so for after the Book Dash.
+
+### Notes to discuss during 1:1
+
+#### Whom did you help this week?
+
+- Set up a one-day co-working space in Bristol (at the JGI) for the _Turing Way_ Book Dash!
+- Provided one piece of internal peer review for Turing colleague
+
+#### Who helped you this week?
+
+- AS for enthusiasm with setting up an unofficial Bristol Hub
+- RP for identifying JGI as a potential locus for the hub; PH for establishing connections with JGI; JN for kindly agreeing to host us for one day of the Book Dash!
+- JD circulated a pre-meeting survey to the EDT PDRAs before this evening’s workshop and shared the results with myself and DAB.
+- BCG and DW for enthusiasm and ideas for the ASG podcast mini-series
+
+#### What did you achieve?
+
+- Lots but still feels like too little!
+- Sent out personal invitations for participation in E&S white papers
+- Drafted short text for BM to circulate to core team
+- Had multiple meetings to scope out ASG podcast mini-series
+- Had multiple meetings to move forward July ASG event
+- Scoped out potential evening social around mapping at July event with JD
+- Had meeting with BM, JR, HS and VH about a series of workshops to be organised by a Nature journal and Turing+STFC; been asked to help organise the workshops
+
+#### What are you working on this week and what are your priorities?
+
+- Contacting ASG PDRAs about July event to shape agenda and seek contributors for facilitating workshops
+- Preparing communications to send out to ASG for the July event (priority)
+- Responding to some e-mails that have been ignored for too long
+
+#### Where do you need help?
+
+- How do I say no to things I’m asked to do?
 
 ## 2022-05-03
 
