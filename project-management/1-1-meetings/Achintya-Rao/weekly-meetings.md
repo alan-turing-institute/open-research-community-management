@@ -30,6 +30,8 @@
 Will document this, of course, so we can make a forkable set-up-your-own-hub document.
 - Huge thanks to PH for helping make contact with the JGI at the University of Bristol!
 
+MS: I hope you have the time and support for the project. Thank you for setting the local hub!
+
 ### Project-specific reflection
 
 - Three new contributors have joined the E&S white paper!
@@ -39,6 +41,12 @@ Will be doing their on-boarding over Slack and Zoom.
 - ZI has been ace, and has set up a Gantt chart for the July event and has also provided me with a list of potential areas for the PDRAs to engage with at the event.
 - ASG mini-series for Turing podcast is moving ahead; had two meetings with BCG and DW about logistics; see https://github.com/alan-turing-institute/asg-community/issues/53/.
 - Have _not_ managed to set up co-working slots but will have to do so for after the Book Dash.
+
+MS: Great work getting the project moving forward.
+Some point to consider:
+- Please involve ZI in putting together a time line combined with outputs and stakeholders.
+- Where can the leadership provide steer and support in your work?
+  -  Where can you protect your time for white papers?
 
 ### Notes to discuss during 1:1
 
@@ -51,8 +59,13 @@ Will be doing their on-boarding over Slack and Zoom.
 
 - AS for enthusiasm with setting up an unofficial Bristol Hub
 - RP for identifying JGI as a potential locus for the hub; PH for establishing connections with JGI; JN for kindly agreeing to host us for one day of the Book Dash!
+
+MS: Thank you so much for setting this up!
+
 - JD circulated a pre-meeting survey to the EDT PDRAs before this evening’s workshop and shared the results with myself and DAB.
 - BCG and DW for enthusiasm and ideas for the ASG podcast mini-series
+
+MS: Really excited for you to work with ZE. DO involve RAMs where you can.
 
 #### What did you achieve?
 
@@ -70,9 +83,13 @@ Will be doing their on-boarding over Slack and Zoom.
 - Preparing communications to send out to ASG for the July event (priority)
 - Responding to some e-mails that have been ignored for too long
 
+MS: All the best! Please let me know where I and others can help.
+
 #### Where do you need help?
 
 - How do I say no to things I’m asked to do?
+
+MS: Please do continue to find joy in what you do, involve people where you can and delegate tasks that distract from you work. 
 
 ## 2022-05-03
 
