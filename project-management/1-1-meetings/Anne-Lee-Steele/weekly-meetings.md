@@ -12,33 +12,45 @@
 
 ### Task updates
 - Fireside chat uploaded to Youtube (there was an error the first time around. video is processing.)
+  - MS: Thank you for publishing it!
 - Finally starting to review some PRs and Issues on Github, with more awareness of what the workflow of contribution/reviewing looks like.
-MS: contributing to Github,
+  - MS: Thanks for thinking about it! There are a few chapters on that, maybe a good place to addto : https://the-turing-way.netlify.app/collaboration/collaboration.html?   
 - Contacting everyone I've spoken to about reviewing conversation notes, and the possibility of publishing excerpts in a public forum (either in the Github issue or in a new part of the Community Handbook)
+  - MS: Sounds fantastic! Also add that to the acknowledgement chapter: https://the-turing-way.netlify.app/community-handbook/acknowledgement.html.
 - Finish up mailing draft for review
 
-### Thank yous
+### Thank yous (adding this section back in)
 - EK for reviewing my RSECon abstract
 - PH, SG for talking through some open infrastructure ideas during coffee chats
 - AR for doing the work to set up a Bristol Hub
 - VH for co-creating the king's college workshop
 - JB participating in mapathon (woo!)
 - Talarify team (AT, AVDW, NP) for the enlightening conversation re: networks, imagining emerging forms of attribution
-- DG for getting us on the fediverse!
+- DG for setting up a Mastodon account
+
+MS: 🎉 What a fantastic group of people!
 
 ### Event updates
 - Talk @ SSI: 16 may
 - Book Dash 16-20 may: participating in on-boarding sessions
 - Community share-out: 20 may - any material to review?
+  - MS: https://hackmd.io/CqRaKcKgTZma0LEKC8gJOw
+  - MS: Please reach out to the translation team asking if they would like to give an update - add them to the core team
+  - MS: Start a core team document to collect what they are doing, what would you like to do in the coming year, how would you like to acknowledged for your work, how can we support your engagement
 - whitaker lab goatherd: 26 may (note to self)
-- King’s college: 31 may (will prep with VH on 23 june, then give to MS to review)
+- King’s college: 31 may (will prep with VH on 23 May, then give to MS to review)
 - Right’s con (6 june - should i prepare to join this talk?)
 - Ordnance survey: 16 june (following up with OS team on 23 April, speaking with AC to catch-up on updates)
 - Connections Turing course: late june-early july (followed up with email thread)
 - TTW core team meeting (initial planning, late June/early July)
 - TTW fireside chat (pending date: Friday, 24 June 2022, discuss topic with core team?)
+  - MS: Please check with RAM team to take a lead on this?
 - RSE Con (submitted astract, happening 5-9 sept, will find out 31 may)
+  - MS: Great work!
 - CarpentryCon (submissions due 12 june, event happening 1-12 Aug)
+  - MS: Totally support the submission to this.
+- May Newsletter
+  - MS: Aim to have that out in a week.
 
 ### Next week
 - Book dash! I'm going to be documenting the event from an outsiders perspective, and working on governance assignments from OLS-5
@@ -47,13 +59,19 @@ MS: contributing to Github,
 
 ### Where do I need help?
 - Thinking through the "core team meeting" agenda, and how to approach organising the event
+  - MS: Thanks for getting started with this
 
 ### Ideas corner
-- It'd be great to start the process of releasing some of these community research updates within the community handbook, perhaps in a more standardised formats & including names
+- It'd be great to start the process of releasing some of these community research updates within the community handbook, perhaps in a more standardised formats & including names.
+  - MS: Sounds fantastic! Thank you so much for thinking about it.
 - It'd be great to see all CMs & RAMs present TTW at atleast one conference of their choice in 2022-2023!
 - Rotating coffee chats within TTW community
 - Alternatively: Friday coffee chats with CMs and RAMs leading hosting/onboarding/casual conversations
 - Bringing back this "Turing Way" (friday?) book club idea, started by MS/AR
+  - MS: We tried with the bot, try something different which could be based on the Turing coffee rotation
+  - MS: Do start the Monday stand-up format, let some folks know so they can respond to motivate more people
+- Bringing back this "Turing Way" (friday?) book club idea
+  - MS: please do start to think about it. Engage with TPS members and let me know where I can help.
 
 ## 2022-05-06
 
