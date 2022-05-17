@@ -1,6 +1,82 @@
 # Sophia and Emma 1 to 1 weekly meetings
 
 * [10 May 2022](#date-10-May-2022)
+* [17 May 2022](#date-17-May-2022)
+
+
+## Date: 17 May 2022
+
+### Check-in ritual
+
+DC (and EB with all the set up!!) has been an absolute star. I've been seeing the amount of invisible work that he does and it's brill ⚡
+
+### Project specific Reflection
+
+* Have found (almost) all the docs! It was a massive unblocking to get access to things and read through them to understand the project and how I'm meant to fit in. 
+* Am still finding my feet understanding what my role is within the bigger picture - but I know this will become clear with time (and once I've met with LC) 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+* EG, DC, and others by stepping up to run the ECR lunchtime session this week. 
+* GA with some strategy scoping on AutSPACEs.
+* 👫 when they became unwell. 
+* 🐐 duties and lab checkins. 
+
+#### Who helped you this week?
+
+* VH with understanding the community manager role and how they navigated it. 
+* EG with understanding more about the goals of the ECR engagement. 
+* JD with a remote call (was going to be in person) understanding their work and brainstormed ideas. 
+* DC with some great support, giving feedback, and working hard to get me up to speed. 
+
+#### What did you achieve?
+> these are easy wins as they're 'learning' and 'get to know folk' focused. 
+
+**Big Win:** 🌟 I made a flyer (that I was quite proud of) and drafted up information about the ECR lunch session to be sent out. 
+
+Community Management:
+* ✅ Have got access to the GitHub Repo and Sharepoint and am familair with the contents
+* ✅ found an area of the NIHR AIM site which has docs on PPIE here
+* ✅ Gained better understanding of the challenges some groups are facing in terms of data access and sharing of methods.
+* ✅ Attended first RSF seminar 
+* ✅ Attended first RSF Ops meeting (and made a few suggestions)
+* ✅ Reached out to events team to understand what their role is and how my role and theirs can work together 
+* ✅ Read through Sharepoint files and got up to speed some more
+
+PPIE/Focus Groups:
+* ✅ Read through the TREx forms and have started scoping what sort of questions the focus groups are needed for. 
+* ✅ Had meeting wih Georgia to learn about how AutSPACEs approached focus groups. 
+
+General Learning:
+* ✅ Attended seminar from MSF Scientific Days International on community involvement in their organisation's projects.
+
+#### What did you struggle with?
+
+* I felt blocked on tasks and weren't able to remove the blockers myself. 
+* Feeling guilty for not doing more work for the SSI speed blogging group. 
+
+#### What would you like to work on this week?
+
+Urgent & Important: 
+1. Prepping for and running the ECR lunchtime session (3hrs)
+2. Preparing materials for the brainstorm meeting on migrating docs to GitHub (5 hours, open ended)
+
+Urgent: 
+3. AutSPACEs conference talk (8-10 hours - of this week). Deadline May 30th to have it filmed and submitted. 
+
+Important:
+4. Draft of TREx Ethics Submission (3 work days)
+
+
+#### Where do you need help?
+
+* Understanding more about how different groups use GitHub (emphasis on understanding the logic, the approach, and the organizational structure)
+
+#### Any other topics
+
+* Are there any books, blogs, or short coffee readings about community management, health data etc that you would reccomend. 
 
 
 ## Date: 10 May 2022
@@ -10,8 +86,7 @@
 * EG was super awesome getting me up to speed with the RSF
 * Awesome onboarding session with MS, DC, & EB
 * Super grateful for folks from the Public Policy team who took me to lunch on Friday
-
-* EK - great that you have connected with so many people already. 🌟
+	* EK - great that you have connected with so many people already. 🌟
 
 ### Project specific Reflection
 
@@ -77,6 +152,7 @@
 
 * You've mentioned that you maintain a repo that is mainly used by you (and not collaborators). Can I ask why others don't use it? (I'm trying to scope out how open consortia folks will be to github workflows).
 
+--- 
 
 ## TEMPLATE: Date: YYYY-MM-DD <-- Please update
 
