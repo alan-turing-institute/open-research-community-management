@@ -14,6 +14,7 @@ DC (and EB with all the set up!!) has been an absolute star. I've been seeing th
 
 * Have found (almost) all the docs! It was a massive unblocking to get access to things and read through them to understand the project and how I'm meant to fit in. 
 * Am still finding my feet understanding what my role is within the bigger picture - but I know this will become clear with time (and once I've met with LC) 
+	* EK - Good progress getting access to all docs. 🌟
 
 ### Notes to discuss during 1:1
 
@@ -24,6 +25,8 @@ DC (and EB with all the set up!!) has been an absolute star. I've been seeing th
 * 👫 when they became unwell. 
 * 🐐 duties and lab checkins. 
 
+* EK - great work. 
+
 #### Who helped you this week?
 
 * VH with understanding the community manager role and how they navigated it. 
@@ -31,10 +34,13 @@ DC (and EB with all the set up!!) has been an absolute star. I've been seeing th
 * JD with a remote call (was going to be in person) understanding their work and brainstormed ideas. 
 * DC with some great support, giving feedback, and working hard to get me up to speed. 
 
+* EK - keep asking for help where you need it. Wonderful that you have DC and EG for support. 
+
 #### What did you achieve?
 > these are easy wins as they're 'learning' and 'get to know folk' focused. 
 
 **Big Win:** 🌟 I made a flyer (that I was quite proud of) and drafted up information about the ECR lunch session to be sent out. 
+* EK - the flyer looks fab. 
 
 Community Management:
 * ✅ Have got access to the GitHub Repo and Sharepoint and am familair with the contents
@@ -68,15 +74,18 @@ Urgent:
 
 Important:
 4. Draft of TREx Ethics Submission (3 work days)
-
+	
+* EK - Looking great - but let's talk more about task prioritising next week.  
 
 #### Where do you need help?
 
 * Understanding more about how different groups use GitHub (emphasis on understanding the logic, the approach, and the organizational structure)
+	* EK - I gave a tour of the Decovid repository and we talked about how it is used and approach taken in that project. 
 
 #### Any other topics
 
 * Are there any books, blogs, or short coffee readings about community management, health data etc that you would reccomend. 
+	* EK - I will have a think about this more but of the top of my head - I like [CSCCE blogs and resources](https://www.cscce.org/resources/online-communities-and-communication-tools/)
 
 
 ## Date: 10 May 2022
