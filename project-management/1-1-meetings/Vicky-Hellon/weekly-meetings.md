@@ -1,5 +1,6 @@
-# Vicky + Malvika 1:1 Catch-up Minutes
+# Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [17 May 2022](#date-17-may-2022)
 * [03 May 2022](#date-03-may-2022)
 * [27 April 2022](#date-27-april-2022)
 * [12 April 2022](#date-12-april-2022)
@@ -16,6 +17,50 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 17 May 2022
+
+### Check-in ritual
+
+Enjoying Book Dash week! Juggling some project stuff in between :)
+
+### Project specific Reflection
+
+- Feeling ok, mostly on top of stuff but feels like a busy few weeks ahead.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+- AR and BM- running some ASG workshops and went along to the meeting to talk about my experience with running similar workshops last year
+- Continuing to support AS with getting up and running
+- Gave SB an overview of my role as she gets started 
+
+#### Who helped you this week?
+
+- SM, MOG and AS with helping to shape the fellows programme 
+
+#### What did you achieve?
+
+- Almost finalised onboarding handbook
+- Started prepping slides for Turing Way talk with AS in a few weeks
+- Started finalising plans for fellows programme and whent to kick off
+- Sent out monthly newsletter
+
+#### What did you struggle with?
+- Need to get speaker information still to update the event for May's knowledge share and get them to attend a prep meeting- think the lesson here is not having 4 speakers every time!
+
+#### What would you like to work on next week?
+- Have enquired about a synthetic data speaker but no response yet so will need to change
+- Have slides finished for TTW talk with AS on the 31st
+- Prepare for May Knowledge Share
+- Start pulling together final preparations for Roche data science meeting in June 
+
+#### Where do you need help?
+- Onboarding handbook here- would appreciate if you could have a quick scan and check what if anything missing? https://docs.google.com/document/d/1NxkqOWuecy9JQVibN3DYniUCJ_0K7lxI/edit
+
+#### Any other topics
+- Need to start planning videos at some point but think this may be an end of June/start of July job!
+
 ## Date 03 May 2022
 
 ### Check-in ritual
