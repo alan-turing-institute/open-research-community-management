@@ -22,6 +22,7 @@
 ### Check-in ritual
 
 Enjoying Book Dash week! Juggling some project stuff in between :)
+  * EK - I enjoyed our co-working in person on weds 🙌
 
 ### Project specific Reflection
 
@@ -34,23 +35,29 @@ Enjoying Book Dash week! Juggling some project stuff in between :)
 - AR and BM- running some ASG workshops and went along to the meeting to talk about my experience with running similar workshops last year
 - Continuing to support AS with getting up and running
 - Gave SB an overview of my role as she gets started 
+  - EK - Thanks for supporting our new starters. Great team work! 🌟
 
 #### Who helped you this week?
 
-- SM, MOG and AS with helping to shape the fellows programme 
+- SM, MOG and AS with helping to shape the fellows programme
+  - EK - Let's talk more about this as I think this needs careful planning.   
 
 #### What did you achieve?
 
 - Almost finalised onboarding handbook
+  - EK - please remind me to read it if I have not done so by our next meeting. 
 - Started prepping slides for Turing Way talk with AS in a few weeks
-- Started finalising plans for fellows programme and whent to kick off
+  - EK - You can reuse the slides on Zenodo so don't start from scratch - [here is the zenodo archive of all talks, etc](https://zenodo.org/search?page=1&size=20&q=turing%20way%202022&sort=bestmatch) 
+- Started finalising plans for fellows programme and went to kick off
 - Sent out monthly newsletter
 
 #### What did you struggle with?
 - Need to get speaker information still to update the event for May's knowledge share and get them to attend a prep meeting- think the lesson here is not having 4 speakers every time!
+  - EK - can you start to plan more in advance maybe? And start standardising this process so it is easy to send emails from templates, etc.  
 
 #### What would you like to work on next week?
 - Have enquired about a synthetic data speaker but no response yet so will need to change
+  - EK - there are folks at the turing that do this. Ask AB about this as we had someone talk about synthetic data at a TPS coffee last year. 
 - Have slides finished for TTW talk with AS on the 31st
 - Prepare for May Knowledge Share
 - Start pulling together final preparations for Roche data science meeting in June 
@@ -60,6 +67,7 @@ Enjoying Book Dash week! Juggling some project stuff in between :)
 
 #### Any other topics
 - Need to start planning videos at some point but think this may be an end of June/start of July job!
+  - EK - let's brainstorm a list of videos and centralise it somewhere - google drive? or link to google from github. We can also speak to Dee and other comms members about this - how to do it well and efficiently.  
 
 ## Date 03 May 2022
 
