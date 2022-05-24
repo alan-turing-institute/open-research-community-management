@@ -9,15 +9,18 @@
 
 ### Check-in ritual
 Have been feeling very appreciated by the team lately. Good vibes all around.
+* EK - I am getting great feedback on how you are doing so a big well done!
 
 ### Project specific Reflection
 
 Got a lot of clarity around work remit, project scope, and work tasks in the past week which is great! The citizen science platform is a big part of work that is a priority for the project. It will require focus groups first and appropriate scoping, but it is a big piece that we’re moving forward with. There’s a lot of work coming down the pipeline now and I have a better understanding of how to prioritise tasks aligned with the bigger picture. 
+* EK - this is great for getting clarity on tasks.
 
 ### Notes to discuss during 1:1
 
 * Run through updates, larger discussion on the ["help" task](https://github.com/alan-turing-institute/open-community-building/edit/main/project-management/1-1-meetings/Sophia-Batchelor/weekly-meetings.md#where-do-you-need-help)
 	* Am unsure how to balance "I can support or take on a task" with the worry that I'm taking work off people. I feel like I can keep myself busy but also have tasks flagged as key that I don't know how to/if I should take over. 
+	* EK - I have met with DC and MS about producing a minimum set of task for you and then some 'what would be nice' add ons. DC should get this to us this week. 
 
 #### Who did you help this week?
 
@@ -29,6 +32,8 @@ Got a lot of clarity around work remit, project scope, and work tasks in the pas
 * DC & EB with some Zoom meeting management 
 * 👫 with some life balancing 
 
+* EK - great work! 🙌
+
 #### Who helped you this week?
 
 * GA with getting a draft presentation outlined 
@@ -36,6 +41,8 @@ Got a lot of clarity around work remit, project scope, and work tasks in the pas
 * BGT with some steering about work when he joins 
 * DC with awesome support 
 * EK with some github file management suggestions
+
+* EK - keep reaching out for help as collaboration is our thing 😉
 
 #### What did you achieve?
 
@@ -45,6 +52,8 @@ Got a lot of clarity around work remit, project scope, and work tasks in the pas
 * ✅🎉 Met with Lynsey Cross about PPIE work scope and priorities (and got awesome clarity about priorities!)
 * ✅ Started scoping out GitHub options in preparation for meeting
 * ✅ Planned and drafted presentation for Austistica festival (Due: 30 May)
+
+* EK - wonderful work Sophia 🤩
 
 #### What did you struggle with?
 
@@ -63,6 +72,7 @@ Got a lot of clarity around work remit, project scope, and work tasks in the pas
 #### Where do you need help?
 
 * Soundboarding & sense check on work environments/remit. Aka. Should I start chipping away at the Citizen Science in a box work and shift the other tasks?
+	* EK - we chatted about this and DC will provide a list of task for you to focus on - hopefully this will give you a clear stir of where to invest your time. 	
 
 #### Any other topics
 
