@@ -2,6 +2,80 @@
 
 * [10 May 2022](#date-10-May-2022)
 * [17 May 2022](#date-17-May-2022)
+* [24 May 2022](#date-24-May-2022)
+
+
+## Date: 24 May 2022
+
+### Check-in ritual
+Have been feeling very appreciated by the team lately. Good vibes all around.
+* EK - I am getting great feedback on how you are doing so a big well done!
+
+### Project specific Reflection
+
+Got a lot of clarity around work remit, project scope, and work tasks in the past week which is great! The citizen science platform is a big part of work that is a priority for the project. It will require focus groups first and appropriate scoping, but it is a big piece that we’re moving forward with. There’s a lot of work coming down the pipeline now and I have a better understanding of how to prioritise tasks aligned with the bigger picture. 
+* EK - this is great for getting clarity on tasks.
+
+### Notes to discuss during 1:1
+
+* Run through updates, larger discussion on the ["help" task](https://github.com/alan-turing-institute/open-community-building/edit/main/project-management/1-1-meetings/Sophia-Batchelor/weekly-meetings.md#where-do-you-need-help)
+	* Am unsure how to balance "I can support or take on a task" with the worry that I'm taking work off people. I feel like I can keep myself busy but also have tasks flagged as key that I don't know how to/if I should take over. 
+	* EK - I have met with DC and MS about producing a minimum set of task for you and then some 'what would be nice' add ons. DC should get this to us this week. 
+
+#### Who did you help this week?
+
+* EG with running the ECR session
+* DC with some github workflows
+* GA & AutSPACEs team with some strategy work
+* AutSPACEs community with some work tasks and creating presentations
+* GA with some conference talk planning 
+* DC & EB with some Zoom meeting management 
+* 👫 with some life balancing 
+
+* EK - great work! 🙌
+
+#### Who helped you this week?
+
+* GA with getting a draft presentation outlined 
+* CB with some ethics resources 
+* BGT with some steering about work when he joins 
+* DC with awesome support 
+* EK with some github file management suggestions
+
+* EK - keep reaching out for help as collaboration is our thing 😉
+
+#### What did you achieve?
+
+* ✅ Hosted the ECR lunchtime session (and have added notes to GitHub, see PR here)
+* ✅ Chatted with Chris Burr and began outlining ethics submission for focus group
+* ✅ Had awesome AutSPACEs strategy meeting 
+* ✅🎉 Met with Lynsey Cross about PPIE work scope and priorities (and got awesome clarity about priorities!)
+* ✅ Started scoping out GitHub options in preparation for meeting
+* ✅ Planned and drafted presentation for Austistica festival (Due: 30 May)
+
+* EK - wonderful work Sophia 🤩
+
+#### What did you struggle with?
+
+* ⚡‼️💥 
+
+#### What would you like to work on next week?
+
+* Finish presentation for Autistica Festival
+* Record presentation for Autistica Festival 
+* 60% first draft of ethics form for TREx
+* GitHub meeting (outcomes & decision factors documented)
+* Meet with PPIE & Legacy leads (Lynsey Cross and Mon Fletcher) to sync up about work being done
+* Reach out to NIHR PPIE folk (People in Research) via email to open a line of dialogue 
+* Plan for small presentation week of the 6th about work plan and task scope
+
+#### Where do you need help?
+
+* Soundboarding & sense check on work environments/remit. Aka. Should I start chipping away at the Citizen Science in a box work and shift the other tasks?
+	* EK - we chatted about this and DC will provide a list of task for you to focus on - hopefully this will give you a clear stir of where to invest your time. 	
+
+#### Any other topics
+
 
 
 ## Date: 17 May 2022
