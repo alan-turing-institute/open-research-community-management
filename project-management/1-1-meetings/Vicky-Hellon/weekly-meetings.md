@@ -22,10 +22,12 @@
 
 ### Check-in ritual
 Nice to see people in person at MS's yesterday- first time meeting ALS!
+* EK - that's lovely. 
 
 ### Project specific Reflection
 
 - Looking forward to the Knowledge Share next week. I know June is going to be busy (data science leaders meeting, Joint Steering Commitee, onboarding new PDRA) so hoping for a bit of downtime and time to plan/reflect in July!
+- EK - great job on this!
 
 ### Notes to discuss during 1:1
 
@@ -57,7 +59,10 @@ Nice to see people in person at MS's yesterday- first time meeting ALS!
 - Will start a video brainstorming doc that we can all input into :)
 
 #### Any other topics
-- Have booked holiday but still has MS as my manager on Cezanne- presume she can approve for now?
+- Have booked holiday but still has MS as my manager on Cezanne - presume she can approve for now?
+
+* EK - Debiasing paper from turing-rss lab - https://www.nature.com/articles/s41564-021-01029-0
+
 
 ## Date 03 May 2022
 
