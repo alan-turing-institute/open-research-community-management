@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [25 May 2022](#date-25-may-2022)
 * [17 May 2022](#date-17-may-2022)
 * [03 May 2022](#date-03-may-2022)
 * [27 April 2022](#date-27-april-2022)
@@ -17,57 +18,46 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
-## Date 17 May 2022
+## Date 25 May 2022
 
 ### Check-in ritual
-
-Enjoying Book Dash week! Juggling some project stuff in between :)
-  * EK - I enjoyed our co-working in person on weds 🙌
+Nice to see people in person at MS's yesterday- first time meeting ALS!
 
 ### Project specific Reflection
 
-- Feeling ok, mostly on top of stuff but feels like a busy few weeks ahead.
+- Looking forward to the Knowledge Share next week. I know June is going to be busy (data science leaders meeting, Joint Steering Commitee, onboarding new PDRA) so hoping for a bit of downtime and time to plan/reflect in July!
 
 ### Notes to discuss during 1:1
 
 #### Who did you help this week?
 
-- AR and BM- running some ASG workshops and went along to the meeting to talk about my experience with running similar workshops last year
-- Continuing to support AS with getting up and running
-- Gave SB an overview of my role as she gets started 
-  - EK - Thanks for supporting our new starters. Great team work! 🌟
+- BM and SM with recruiting for new PDRA
+- ALS with TTW slides for our talk
 
 #### Who helped you this week?
 
-- SM, MOG and AS with helping to shape the fellows programme
-  - EK - Let's talk more about this as I think this needs careful planning.   
+- EK with Book Dash GitHub support!
+- MS with TTW slides
 
 #### What did you achieve?
 
-- Almost finalised onboarding handbook
-  - EK - please remind me to read it if I have not done so by our next meeting. 
-- Started prepping slides for Turing Way talk with AS in a few weeks
-  - EK - You can reuse the slides on Zenodo so don't start from scratch - [here is the zenodo archive of all talks, etc](https://zenodo.org/search?page=1&size=20&q=turing%20way%202022&sort=bestmatch) 
-- Started finalising plans for fellows programme and went to kick off
-- Sent out monthly newsletter
+- Have prepped all the speakers for Monday's Knowledge Share
+- Book Dash new chapter!
+- TTW talk almost finished
 
 #### What did you struggle with?
-- Need to get speaker information still to update the event for May's knowledge share and get them to attend a prep meeting- think the lesson here is not having 4 speakers every time!
-  - EK - can you start to plan more in advance maybe? And start standardising this process so it is easy to send emails from templates, etc.  
+- Feel like herding cats a bit for the June Data Science Leaders meeting but we're getting there!
 
 #### What would you like to work on next week?
-- Have enquired about a synthetic data speaker but no response yet so will need to change
-  - EK - there are folks at the turing that do this. Ask AB about this as we had someone talk about synthetic data at a TPS coffee last year. 
-- Have slides finished for TTW talk with AS on the 31st
-- Prepare for May Knowledge Share
-- Start pulling together final preparations for Roche data science meeting in June 
+- Planning for Synthetic Data Knowledge Share as is a week earlier than usual as I'm on holiday! But think I've got a potential speaker.
+- Am giving the talk at Kings on the TTW
+- Finalise handbook
 
 #### Where do you need help?
-- Onboarding handbook here- would appreciate if you could have a quick scan and check what if anything missing? https://docs.google.com/document/d/1NxkqOWuecy9JQVibN3DYniUCJ_0K7lxI/edit
+- Will start a video brainstorming doc that we can all input into :)
 
 #### Any other topics
-- Need to start planning videos at some point but think this may be an end of June/start of July job!
-  - EK - let's brainstorm a list of videos and centralise it somewhere - google drive? or link to google from github. We can also speak to Dee and other comms members about this - how to do it well and efficiently.  
+- Have booked holiday but still has MS as my manager on Cezanne- presume she can approve for now?
 
 ## Date 03 May 2022
 
