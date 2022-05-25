@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [25 May 2022](#date-25-may-2022)
 * [17 May 2022](#date-17-may-2022)
 * [03 May 2022](#date-03-may-2022)
 * [27 April 2022](#date-27-april-2022)
@@ -17,6 +18,54 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 25 May 2022
+
+### Check-in ritual
+
+Nice to see people in person at MS's yesterday- first time meeting ALS!
+  * EK - that's lovely. 
+
+### Project specific Reflection
+
+- Looking forward to the Knowledge Share next week. I know June is going to be busy (data science leaders meeting, Joint Steering Commitee, onboarding new PDRA) so hoping for a bit of downtime and time to plan/reflect in July!
+- EK - great job on this!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+- BM and SM with recruiting for new PDRA
+- ALS with TTW slides for our talk
+
+#### Who helped you this week?
+
+- EK with Book Dash GitHub support!
+- MS with TTW slides
+
+#### What did you achieve?
+
+- Have prepped all the speakers for Monday's Knowledge Share
+- Book Dash new chapter!
+- TTW talk almost finished
+
+#### What did you struggle with?
+
+- Feel like herding cats a bit for the June Data Science Leaders meeting but we're getting there!c.  
+
+#### What would you like to work on next week?
+
+- Planning for Synthetic Data Knowledge Share as is a week earlier than usual as I'm on holiday! But think I've got a potential speaker.
+- Am giving the talk at Kings on the TTW
+- Finalise handbook
+
+#### Where do you need help?
+- Will start a video brainstorming doc that we can all input into :)
+- 
+#### Any other topics
+- Have booked holiday but still has MS as my manager on Cezanne - presume she can approve for now?
+
+* EK - Debiasing paper from turing-rss lab - https://www.nature.com/articles/s41564-021-01029-0 (To be flagged to Robin and Ana when they start)
+
 ## Date 17 May 2022
 
 ### Check-in ritual
