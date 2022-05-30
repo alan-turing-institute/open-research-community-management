@@ -9,6 +9,20 @@
 * [2022-03-25](#2022-03-25)
 
 ## 2022-05-10
+### Task updates
+
+### Thank yous
+
+### Event updates
+
+### Next week
+
+### Where do I need help?
+
+### Ideas corner
+- 
+
+## 2022-05-10
 
 ### Task updates
 - Fireside chat uploaded to Youtube (there was an error the first time around. video is processing.)
@@ -252,7 +266,7 @@ MS: I suggest keeping it longer than 30 mins and taking some time afterwards to 
 #### What did you struggle with?
 * Need to be better with making time for deep work
 
-MS: take the next month to slow down and spend some time in going through your notes and timeline so far. 
+MS: take the next month to slow down and spend some time in going through your notes and timeline so far.
 
 #### What would you like to work on next week?
 * Sending info to fireside panelists today. Promotion starts by Wednesday.
