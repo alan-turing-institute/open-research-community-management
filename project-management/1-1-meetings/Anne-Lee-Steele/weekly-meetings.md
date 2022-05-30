@@ -49,7 +49,7 @@
 
 ### Where do I need help?
 - Should the book dash planning committee be invited to attend the core team meeting?
-- Planning annual leave: the expense+time of flying to two locations to see family means that is more economical to take 27 june - 8 july off. Would this be possible?
+- Planning annual leave
 - Is there anything I am missing from the post-Book Dash workflow?
 
 ### Ideas corner (generative brainstorming)
