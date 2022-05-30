@@ -10,17 +10,19 @@
 
 ## 2022-05-30
 ### Task updates
-- Prepping for the June fireside chat (inviting speakers)
+- Prepping for the June fireside chat (inviting speakers+planning logistics)
 - Adding information from book dash contributor files to the main repo (happening tomorrow)
 - Processing workflow information from BD for next community research update
-- Catching up on
+- Processing interview material to return to community members
 
 ### Thank yous
 - VH for the talk feedback+speaker suggestion! (And continuing to give the talk- despite health!)
 - AR for getting things set up with the Bristol hub - we may be getting
 - great suggestions for slack/community building from the Community Building team & Whitaker lab
-- GB for the suggestion for fireside chat.
+- GB for the suggestion for fireside chat
+- RD for a conversation about open infrastructure
 - And of course, thank you MS for the trust this week while in the states!
+
 
 ### Event updates
 - king’s college: 31 may (ready to go for tomorrow!
@@ -42,6 +44,8 @@
 ### Next week
 - Planning for core team meeting
 - Trialing day reserved for github work/reviewing PRs, etc.
+- Processing interview material to return to community members
+- 1:1 conversations slowing down, with a few missing links
 
 ### Where do I need help?
 - Should the book dash planning committee be invited to attend the core team meeting?
