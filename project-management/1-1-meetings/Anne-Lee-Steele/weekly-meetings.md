@@ -8,19 +8,50 @@
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
 
-## 2022-05-10
+## 2022-05-30
 ### Task updates
+- Prepping for the June fireside chat (inviting speakers)
+- Adding information from book dash contributor files to the main repo (happening tomorrow)
+- Processing workflow information from BD for next community research update
+- Catching up on
 
 ### Thank yous
+- VH for the talk feedback+speaker suggestion! (And continuing to give the talk- despite health!)
+- AR for getting things set up with the Bristol hub - we may be getting
+- great suggestions for slack/community building from the Community Building team & Whitaker lab
+- GB for the suggestion for fireside chat.
+- And of course, thank you MS for the trust this week while in the states!
 
 ### Event updates
+- king’s college: 31 may (ready to go for tomorrow!
+-	right’s con (6 june): Signed up to see your presentation!
+-	ordnance survey (16 june): JD gave speaker suggestion+
+-	*connected life oxford (17 June) - JD & I were both accepted to present our respective work (on independent projects outside of TTW).
+-	connections turing course: late june-early july. Need to pass on dates+planning process to HM for next week.
+-	TTW core team meeting (initial planning, late June/early July): planning on HackMD, primarily for foundational meetings + working groups, maybe a bit of slack organisation.
+-	TTW fireside chat (~24 June 2022): doing outreach this week for speakers, was suggested a few that are listed in the planning document.
+-	rse con (5-9 sept, find out 31 may): hearing the results this week, I believe.
+
+*not TTW related
+
+## Proposal updates
+- unesco: planning for 15 july collab cafe.
+-	carpentrycon (12 June due, 1-12 aug event): working on a proposal this week at collab cafe with EP & HS.
+-	write the docs (30 June due): submission pending, to be discussed at collab cafe on 1 june.
 
 ### Next week
+- Planning for core team meeting
+- Trialing day reserved for github work/reviewing PRs, etc.
 
 ### Where do I need help?
+- Should the book dash planning committee be invited to attend the core team meeting?
+- Planning annual leave: the expense+time of flying to two locations to see family means that is more economical to take 27 june - 8 july off. Would this be possible?
+- Is there anything I am missing from the post-Book Dash workflow?
 
-### Ideas corner
-- 
+### Ideas corner (generative brainstorming)
+- adding github actions/workflow to slack (so people can see updates to the repository in real time)
+- being able to automatically add events seen on twitter to a bot on twitter for the newsletter!
+
 
 ## 2022-05-10
 
