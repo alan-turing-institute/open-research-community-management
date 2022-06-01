@@ -17,18 +17,18 @@
 
 ### Thank yous
 - VH for the talk feedback+speaker suggestion! (And continuing to give the talk- despite health!)
-- AR for getting things set up with the Bristol hub - we may be getting
+- AR for getting things set up with the Bristol hub - we may be getting space @ JGI!
 - great suggestions for slack/community building from the Community Building team & Whitaker lab
 - GB for the suggestion for fireside chat
 - RD for a conversation about open infrastructure
-- And of course, thank you MS for the trust this week while in the states!
-
+- And of course, thank you MS for the trust this week to present the project while in the states!
 
 ### Event updates
-- king’s college: 31 may (ready to go for tomorrow!
+- king’s college (31 may) (ready to go for tomorrow!)
 -	right’s con (6 june): Signed up to see your presentation!
--	ordnance survey (16 june): JD gave speaker suggestion+
+-	ordnance survey (16 june): JD gave speaker suggestion, will follow up early next week.
 -	*connected life oxford (17 June) - JD & I were both accepted to present our respective work (on independent projects outside of TTW).
+– fireside chat (24 june) – reaching out to speakers this week and next. Will likely be emailing over the bank holidays, to ensure that people are available as needed.
 -	connections turing course: late june-early july. Need to pass on dates+planning process to HM for next week.
 -	TTW core team meeting (initial planning, late June/early July): planning on HackMD, primarily for foundational meetings + working groups, maybe a bit of slack organisation.
 -	TTW fireside chat (~24 June 2022): doing outreach this week for speakers, was suggested a few that are listed in the planning document.
