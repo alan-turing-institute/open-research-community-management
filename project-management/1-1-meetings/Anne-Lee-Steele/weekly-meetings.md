@@ -31,7 +31,9 @@
 - Connections Turing Course: need confirmation of dates
 - First core team meeting (10 June)
 - Nasa Workshop (15 June)
+- Ordnance Survey (16 June)
 - AGS mapathon (7 July): Planning in process
+- Kings College: now in Oct (keep ACC in loop)
 
 ### Proposal/Event updates
 - RSECon: Unfortunately rejected! :'(
