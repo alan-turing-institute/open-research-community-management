@@ -1,5 +1,6 @@
 ## ALS + MS check-ins
 
+* [2022-06-07](#2022-06-07)
 * [2022-05-10](#2022-05-10)
 * [2022-05-03](#2022-05-03)
 * [2022-04-19](#2022-04-19)
@@ -7,6 +8,46 @@
 * [2022-04-05](#2022-04-05)
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
+
+## 2022-06-07
+### Task updates
+- Fireside chat: reached out to 2/4 panalists. Planning convo with RZ this week.
+- First core team meeting: Confirm attendees, agenda, format
+- Project management system: Github tasks (reviewing repo), Tre
+- Added in workshop notes to community manager file
+- Tested Collab Cafe format w/ talk: review with MS
+- Research+Book Dash review: Reserving Friday for adding Book Dash contributions + Research update.
+- Planning for paid leave
+
+### Thank yous
+- KC team for the talk last week! + VH for the great collab.
+- EP, SB, HS for CarpentryCon brainstorming
+- JD for the brainstorming + office time
+- DG for guiding us through fediverse
+
+### Event updates
+- Collab Cafe (done!): Review
+- Kings College (done!): Review
+- Connections Turing Course: need confirmation of dates
+- First core team meeting (10 June):
+- AGS mapathon (7 July): Planning in process
+-
+
+### Proposal/Event updates
+- RSECon: Unfortunately rejected! :'(
+- CarpentryCon: To be sent out by the end of this week
+- ConnectedLife: Happening 17th June w/ JD. Take day off?
+- Low Carbon Methods: Accepted. To be confirmed with
+- WritetheDocs: Submission by end of June.
+
+### Next week
+- Proposing PM system
+- Short term goals: timeline planning
+- Long term goals: timeline planning
+
+### Ideas corner
+- "Mini" Book Dash: 1-day, check-in during the beginning of the day... editing throughout!
+- "Coffee chats" - piloting idea with Arielle
 
 ## 2022-05-30
 ### Task updates
