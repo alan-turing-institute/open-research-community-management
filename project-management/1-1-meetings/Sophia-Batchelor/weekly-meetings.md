@@ -3,10 +3,10 @@
 * [10 May 2022](#date-10-May-2022)
 * [17 May 2022](#date-17-May-2022)
 * [24 May 2022](#date-24-May-2022)
-* [6 June 2022](#date-6-June-2022)
+* [7 June 2022](#date-7-June-2022)
 
 
-## Date: 6 June 2022
+## Date: 7 June 2022
 
 ### Check-in ritual
 (Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
@@ -16,12 +16,15 @@ Been a busy week, but I'm super ✨ about the work that's got done and the direc
 
 Feeling a bit stuck in places due to not having a clear picture of what’s going on inside the consortia. 
 We need to get an information processing piece in place, and after that’s confirmed then I might be able to start reaching out to folk and having coffee chats to get an idea of what’s going on. 
-So I’m feeling a bit stuck unable to identify the known unknowns, and daunted but unknown unknowns
+So I’m feeling a bit stuck unable to identify the known unknowns, and daunted but unknown unknowns.
+* EK - get yourself invited to project meetings so that you can be that lurker - listen for people of interest and also tasks you can intervene. 
 
 ### Notes to discuss during 1:1
 
-* Approaching AutSPACEs workblocks 
+* Approaching AutSPACEs workblocks
+	* EK - planning of what task need doing, time they will take and deadlines for doing each - work out with GA. Also think about blocking some time to do this work.   
 * Community Managers meeting plan
+	*  EK - all great!
 
 #### Who did you help this week?
 
@@ -44,6 +47,7 @@ So I’m feeling a bit stuck unable to identify the known unknowns, and daunted 
 * Drafted and got feedback (DC, EB, & EK) on the Knowledge Management doc
 * Submitted a monster PR and got the first months' work merged into main. 
 * Drafted submission for CarpentriesCon. 
+	* EK - making great progress. 
 
 #### What did you struggle with?
 
@@ -64,7 +68,7 @@ So I’m feeling a bit stuck unable to identify the known unknowns, and daunted 
 * Soundboarding on work needed for AutSPACEs and what I can start saying yes to.
 
 #### Any other topics
-
+* EK - Probation statements - on the list to do please.
 
 ## Date: 24 May 2022
 
