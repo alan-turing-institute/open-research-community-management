@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [08 June 2022](#date-8-june-2022)
 * [25 May 2022](#date-25-may-2022)
 * [17 May 2022](#date-17-may-2022)
 * [03 May 2022](#date-03-may-2022)
@@ -18,6 +19,43 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 8 June 2022
+
+### Check-in ritual
+Happy to be feeling better! Did not enjoy most of last week haha.
+
+### Project specific Reflection
+Feeling fairly on top of stuff, ready for a busy week next week!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* AS with final organisation for the Roche Data Science Leaders meeting
+
+#### Who helped you this week?
+* ALS with TTW talk support!
+* AS with being Knowledge Share Zoom backup
+
+#### What did you achieve?
+* Ran Knowledge Share!
+* Gave TTW talk
+* Finalised arrangements for Roche Data Science Leaders meeting, Joint Steering Committee 
+* Giving talk on partnership at lab meeting so preparing slides
+
+#### What did you struggle with?
+* Internal meeting attendance...
+
+#### What would you like to work on next week?
+* Brainstorming in person about fellows programme with SM so looking forward to that
+* Onboarding new PDRA
+* Making sure Roche Data Science Leaders meeting runs smoothly!
+
+#### Where do you need help?
+* None for now- would be good to do some preliminary work on the videos in July (say this every week haha)
+
+#### Any other topics
+* None :)
+
 ## Date 25 May 2022
 
 ### Check-in ritual
