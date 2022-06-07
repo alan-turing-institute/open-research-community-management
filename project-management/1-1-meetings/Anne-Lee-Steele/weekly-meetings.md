@@ -11,7 +11,7 @@
 
 ## 2022-06-07
 ### Task updates
-- Fireside chat: reached out to 2/4 panalists. Planning convo with RZ this week. Promotion starts next week?
+- Fireside chat: reached out to 2/4 panelists. Planning convo with RZ this week. Promotion starts next week?
 - First core team meeting: Confirm attendees, agenda, format
 - Project management system: Github tasks (reviewing repo), Tre
 - Added in workshop notes to community manager file
