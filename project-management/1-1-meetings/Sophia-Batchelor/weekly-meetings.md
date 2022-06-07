@@ -3,6 +3,67 @@
 * [10 May 2022](#date-10-May-2022)
 * [17 May 2022](#date-17-May-2022)
 * [24 May 2022](#date-24-May-2022)
+* [6 June 2022](#date-6-June-2022)
+
+
+## Date: 6 June 2022
+
+### Check-in ritual
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+Been a busy week, but I'm super ✨ about the work that's got done and the direction things are heading. DC is an absolute rockstar and I'm really excited to meet our new team members!
+
+### Project specific Reflection
+
+Feeling a bit stuck in places due to not having a clear picture of what’s going on inside the consortia. 
+We need to get an information processing piece in place, and after that’s confirmed then I might be able to start reaching out to folk and having coffee chats to get an idea of what’s going on. 
+So I’m feeling a bit stuck unable to identify the known unknowns, and daunted but unknown unknowns
+
+### Notes to discuss during 1:1
+
+* Approaching AutSPACEs workblocks 
+* Community Managers meeting plan
+
+#### Who did you help this week?
+
+* DC with drafting the knowledge management doc 
+* AS & TTW folk with input into a conference proposal 
+
+#### Who helped you this week?
+
+* AL with some supportive brainstorming about github repos
+* DC reviewing my PRs
+* VH with reviewing a PR 
+* DC giving input into the onboarding back
+* AS & JD with some great coworking and conversation
+* LC with some insight into the glossary task - We’ve scoped it and passed in on to me so I’m now the task Owner. 
+
+#### What did you achieve?
+
+* Finished pulling together the onboarding docs for our new starters.
+* Set up GitHub Org, created first repo, and invited all across from the old repo.
+* Drafted and got feedback (DC, EB, & EK) on the Knowledge Management doc
+* Submitted a monster PR and got the first months' work merged into main. 
+* Drafted submission for CarpentriesCon. 
+
+#### What did you struggle with?
+
+* Wow! The 3 day week really shortened how much work I could get done.
+
+#### What would you like to work on next week?
+* Draft of ethics proposal finished (goal: sent for review by Friday 10 in prep for meeting CB scheduled for Monday 13) 
+* Onboarding and supporting EZ and MM. 
+* Community Manager Team meeting (Deadline Thursday 9 June). 
+* CarpentriesCon proposal (Deadline Friday June 10th) 
+* HR 1-3 week probation statements (Deadline ASAP)
+* Stretch Goal: 
+	* Scoping out a way to get in touch with PPIE folk and get insight into the research projects. 
+
+#### Where do you need help?
+
+* Brainstorming/Sense checking on presentation plan for Community Managers meeting.
+* Soundboarding on work needed for AutSPACEs and what I can start saying yes to.
+
+#### Any other topics
 
 
 ## Date: 24 May 2022
