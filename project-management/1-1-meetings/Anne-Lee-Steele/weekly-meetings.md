@@ -11,7 +11,7 @@
 
 ## 2022-06-07
 ### Task updates
-- Fireside chat: reached out to 2/4 panalists. Planning convo with RZ this week.
+- Fireside chat: reached out to 2/4 panalists. Planning convo with RZ this week. Promotion starts next week?
 - First core team meeting: Confirm attendees, agenda, format
 - Project management system: Github tasks (reviewing repo), Tre
 - Added in workshop notes to community manager file
@@ -29,15 +29,15 @@
 - Collab Cafe (done!): Review
 - Kings College (done!): Review
 - Connections Turing Course: need confirmation of dates
-- First core team meeting (10 June):
+- First core team meeting (10 June)
+- Nasa Workshop (15 June)
 - AGS mapathon (7 July): Planning in process
--
 
 ### Proposal/Event updates
 - RSECon: Unfortunately rejected! :'(
 - CarpentryCon: To be sent out by the end of this week
 - ConnectedLife: Happening 17th June w/ JD. Take day off?
-- Low Carbon Methods: Accepted. To be confirmed with
+- Low Carbon Methods: Accepted. To be confirmed with team/possible collaborators.
 - WritetheDocs: Submission by end of June.
 
 ### Next week
