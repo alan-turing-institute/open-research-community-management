@@ -30,17 +30,19 @@ Feeling fairly on top of stuff, ready for a busy week next week!
 ### Notes to discuss during 1:1
 
 #### Who did you help this week?
-* AS with final organisation for the Roche Data Science Leaders meeting
+* AS with final organisation for the Roche Data Science Leaders meeting.
 
 #### Who helped you this week?
 * ALS with TTW talk support!
 * AS with being Knowledge Share Zoom backup
+ * EK - All amazing! 
 
 #### What did you achieve?
 * Ran Knowledge Share!
 * Gave TTW talk
 * Finalised arrangements for Roche Data Science Leaders meeting, Joint Steering Committee 
 * Giving talk on partnership at lab meeting so preparing slides
+ * EK - all great! 
 
 #### What did you struggle with?
 * Internal meeting attendance...
@@ -49,6 +51,7 @@ Feeling fairly on top of stuff, ready for a busy week next week!
 * Brainstorming in person about fellows programme with SM so looking forward to that
 * Onboarding new PDRA
 * Making sure Roche Data Science Leaders meeting runs smoothly!
+ * EK - I hope the in person meeting all goes well. 
 
 #### Where do you need help?
 * None for now- would be good to do some preliminary work on the videos in July (say this every week haha)
