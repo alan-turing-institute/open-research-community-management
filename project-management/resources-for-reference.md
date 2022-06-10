@@ -17,7 +17,7 @@ Though we will primarily focus on open research, community building and topics t
 
 | Paper/Book Title | Citation | Key message of this reading recommendation | Link |
 |:-----------|:-----------|:-----------|:-----------|
-|  |  |  |  |
+| What I Wish I Knew About Onboarding Effectively | Eugene Yan | Onboarding resources written with a beginners mindset are important  | https://eugeneyan.com/writing/onboarding/ |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
