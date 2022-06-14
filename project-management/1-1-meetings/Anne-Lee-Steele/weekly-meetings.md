@@ -11,12 +11,31 @@
 
 ## 2022-06-14
 ### Task updates
+- Newsletter
+  - Add in details from book dash
+  - Send in by Thursday
 - Project management system
   - Github issues: sorting through
   - Starting "Github Fridays" 10am-12pm, starting next week!
+- Working Group + Core team meeting
 - Timeline for strategy + goals
+  - June/July/August: Working Group
+  - September/October/November/December: piloting
+  - January: Set up informal spaces
 - Community research
-  - Book dash: adding people's information to contributor record
+  - Book Dash: adding people's information to contributor record
+  - Updating Ways of Working document
+  - Process of publishing & research
+  - Need to get feedback on texts
+  - Technical infrastructure work (forward!)
+- NHS podcast:
+- UNESCO call: MS will follow-up
+- Fireside chat June 30: MS will send message
+- AC: first meeting on TTW stakeholders, contributor in focus
+- Other ongoing projects
+  - CZI grants: OLS+CS&S, 2i2c/Jupyter (CH applying), FORRT/Telerify,
+  - Metadocencia: starting governance
+  - Emerging grant for localisation/support/translation (supporting others)
 
 ### Thank yous
 - SB + HS for getting CarpentryCon over the hill!
@@ -26,24 +45,31 @@
 ### Event updates
 - Connections Turing Course: getting confirmation of dates this week
 - First core team meeting (10 June):
-- UNESCO Workshop (15 June)
-- Ordnance Survey (16 June)
-- June Fireside (20 June)
-- Collab Cafe (1 July)
+- UNESCO Workshop (15 June): scheduled for tomorrow
+- Ordnance Survey (16 June): attending
+- June Fireside (20 June):
+- Collab Cafe (1 July):
 - AGS mapathon (7 July): Planning in process with AR + JD.
 - July Fireside (24 July):
 - Kings College: now in Oct (keep ACC in loop)
 
 ### Proposal updates
 - Low Carbon Methods: Will propose a workshop at the next Collab Cafe for feedback
-- Big Science (18 June): Scheduled for
-- WritetheDocs (30 June)
+- Team Science (18 June): Co-working call (20 June)
+- WritetheDocs (30 June):  Co-working call (27 June)
 
 ### Next week
--
+- Github (to check next week)
+  - Forward chapter (Github): review this next week!
+  - UX/UI package
+  - GSoC issue: how to test it
+- Build book locally: how?!
+- CF to be invited to CM team!
 
 ### Ideas corner
--
+- Prioritising non-:
+  - Long term: Governance/Core Team Work,
+- Stickers
 
 ## 2022-06-07
 ### Task updates
