@@ -4,7 +4,70 @@
 * [17 May 2022](#date-17-May-2022)
 * [24 May 2022](#date-24-May-2022)
 * [7 June 2022](#date-7-June-2022)
+* [14 June 2022](#date-14-June-2022)
 
+
+## TEMPLATE: Date: YYYY-MM-DD <-- Please update
+
+### Check-in ritual
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+### Project specific Reflection
+
+*Review your current projects, relation and skill-building that you are working on. *
+(Since last week, review the progress you’ve made towards your goals. Any challenges to mention? Review if we can attract any attention or help highlight your work.)
+
+### Notes to discuss during 1:1
+
+* Probation statements
+* Workload (taking things in moderation)
+
+#### Who did you help this week?
+
+* EZ & MM with onboarding their first week 
+* MM with general task support when she had questions
+* LC with some strategy for getting in touch with the PPIE consortia leads. 
+
+#### Who helped you this week?
+
+* HR with chair and general support. 
+* EG with some great input on docs
+* DC with reviewing and giving input into some PR's and other docs 
+* AS, HS, & EP with the CarpentriesCon submission
+* EK with the connection to SSI fellow
+
+#### What did you achieve?
+
+* ✅ Ethics proposal draft completed (only for it to be the TREx one, and not the current form - GA & I have reached out to Vanessa, Tony and Victoria for clarity after talking to Chris)
+* ✅ CarpentriesCon proposal submitted with AS, HS, & EP.
+* ✅ Drafted probation statements 
+* ✅ Onboarding sessions were awesome 🎉
+* ✅ Presented in the Community Management meeting
+* ✅ Met with a project lead about PPIE 
+* ✅ Set up some repositories and assigned teams 
+* ✅ Connected with SSI fellow at UCL about drugs coding 
+* ✅ Continued mapping engagement metrics from the consortia meetings 
+* ✅ Connected with external group (Richmond Charities) who run PPIE workstreams
+
+#### What did you struggle with?
+
+* Feeling like I need to dial back the workload a touch this week and focus on only a few big tasks. 
+
+#### What would you like to work on next week?
+
+* Figuring out what ethics forms actually need to be submitted (and to who - the link on Topdesk returns a `Page not Found`)
+* Supporting GitHub training materials being collated 
+* Supporting DC with the NIHR report (PPIE lead is away on leave) 
+* External AIM-RSF website
+
+#### Where do you need help?
+
+* Support moderating what I should/can take on. 
+
+#### Any other topics
+
+- This space is yours to add to as needed.
+- Is there any particular reading/topic/task we want to explore and bring to our next meetings?
 
 ## Date: 7 June 2022
 
