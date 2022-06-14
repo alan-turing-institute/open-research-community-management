@@ -9,6 +9,42 @@
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
 
+## 2022-06-14
+### Task updates
+- Project management system
+  - Github issues: sorting through
+  - Starting "Github Fridays" 10am-12pm, starting next week!
+- Timeline for strategy + goals
+- Community research
+  - Book dash: adding people's information to contributor record
+
+### Thank yous
+- SB + HS for getting CarpentryCon over the hill!
+- AC for making the hybrid working feedback HackMD + first "network/stakeholder" meeting!
+- JD for planning a great event!
+
+### Event updates
+- Connections Turing Course: getting confirmation of dates this week
+- First core team meeting (10 June):
+- UNESCO Workshop (15 June)
+- Ordnance Survey (16 June)
+- June Fireside (20 June)
+- Collab Cafe (1 July)
+- AGS mapathon (7 July): Planning in process with AR + JD.
+- July Fireside (24 July):
+- Kings College: now in Oct (keep ACC in loop)
+
+### Proposal updates
+- Low Carbon Methods: Will propose a workshop at the next Collab Cafe for feedback
+- Big Science (18 June): Scheduled for
+- WritetheDocs (30 June)
+
+### Next week
+-
+
+### Ideas corner
+-
+
 ## 2022-06-07
 ### Task updates
 - Fireside chat: reached out to 2/4 panelists. Planning convo with RZ this week. Promotion starts next week?
@@ -30,7 +66,7 @@
 - Kings College (done!): Review
 - Connections Turing Course: need confirmation of dates
 - First core team meeting (10 June)
-- Nasa Workshop (15 June)
+- UNESCO Workshop (15 June)
 - Ordnance Survey (16 June)
 - AGS mapathon (7 July): Planning in process
 - Kings College: now in Oct (keep ACC in loop)
