@@ -18,12 +18,14 @@
 * I haven't heard much about the stakeholder mapping task and Mural is blocked so it seems like Excel might be a good place for things at this point in time. 
 * The TREx ethics forms may not have been the correct ones to fill out based on the current handover for TREx - Tony and Vanessa have been emailed to get more clarity on this. 
 * DC is starting to set up conections with the consortia PMs so I can reach out about PPIE workstreams. 
-
+	* EK - let's bring the Mural issue to the Whitaker lab meeting this week as it seems to be becoming more of a problem.
 
 ### Notes to discuss during 1:1
 
 * Probation statements
+	* EK - we have discussed this and SB to submit this week. 
 * Workload (taking things in moderation)
+	* EK - you already have a lot of tasks so please concentrate on those ones and don't take anymore unless it is urgent.  
 
 #### Who did you help this week?
 
@@ -51,6 +53,8 @@
 * ✅ Connected with SSI fellow at UCL about drugs coding 
 * ✅ Continued mapping engagement metrics from the consortia meetings 
 * ✅ Connected with external group (Richmond Charities) who run PPIE workstreams
+
+* EK - This is all great! 🌟 and thanks for being the main onboarder of the new starters 🙌
 
 #### What did you struggle with?
 
