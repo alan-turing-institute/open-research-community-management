@@ -7,10 +7,9 @@
 * [14 June 2022](#date-14-June-2022)
 
 
-## TEMPLATE: Date: YYYY-MM-DD <-- Please update
+## Date: 14 June 2022
 
-### Check-in ritual
-(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+## Check-in ritual
 
 ### Project specific Reflection
 
@@ -18,6 +17,7 @@
 * The new Data Wrangler is getting a lot put on their plate, and EZ has some space to wrap their head around things. 
 * I haven't heard much about the stakeholder mapping task and Mural is blocked so it seems like Excel might be a good place for things at this point in time. 
 * The TREx ethics forms may not have been the correct ones to fill out based on the current handover for TREx - Tony and Vanessa have been emailed to get more clarity on this. 
+* DC is starting to set up conections with the consortia PMs so I can reach out about PPIE workstreams. 
 
 
 ### Notes to discuss during 1:1
