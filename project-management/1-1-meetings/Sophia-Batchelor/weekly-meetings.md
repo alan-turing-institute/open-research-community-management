@@ -14,8 +14,11 @@
 
 ### Project specific Reflection
 
-*Review your current projects, relation and skill-building that you are working on. *
-(Since last week, review the progress you’ve made towards your goals. Any challenges to mention? Review if we can attract any attention or help highlight your work.)
+* LC is away for the next few weeks and the NIHR report deadline is coming up so I'm stepping up with DC to fill in some PPIE gaps, the Drugs Coding work is getting set up quick as the wave 1 funding is wrapping up soon so quite a few projects have deadlines to meet. 
+* The new Data Wrangler is getting a lot put on their plate, and EZ has some space to wrap their head around things. 
+* I haven't heard much about the stakeholder mapping task and Mural is blocked so it seems like Excel might be a good place for things at this point in time. 
+* The TREx ethics forms may not have been the correct ones to fill out based on the current handover for TREx - Tony and Vanessa have been emailed to get more clarity on this. 
+
 
 ### Notes to discuss during 1:1
 
