@@ -4,7 +4,77 @@
 * [17 May 2022](#date-17-May-2022)
 * [24 May 2022](#date-24-May-2022)
 * [7 June 2022](#date-7-June-2022)
+* [14 June 2022](#date-14-June-2022)
 
+
+## Date: 14 June 2022
+
+## Check-in ritual
+
+### Project specific Reflection
+
+* LC is away for the next few weeks and the NIHR report deadline is coming up so I'm stepping up with DC to fill in some PPIE gaps, the Drugs Coding work is getting set up quick as the wave 1 funding is wrapping up soon so quite a few projects have deadlines to meet. 
+* The new Data Wrangler is getting a lot put on their plate, and EZ has some space to wrap their head around things. 
+* I haven't heard much about the stakeholder mapping task and Mural is blocked so it seems like Excel might be a good place for things at this point in time. 
+* The TREx ethics forms may not have been the correct ones to fill out based on the current handover for TREx - Tony and Vanessa have been emailed to get more clarity on this. 
+* DC is starting to set up conections with the consortia PMs so I can reach out about PPIE workstreams. 
+	* EK - let's bring the Mural issue to the Whitaker lab meeting this week as it seems to be becoming more of a problem.
+
+### Notes to discuss during 1:1
+
+* Probation statements
+	* EK - we have discussed this and SB to submit this week. 
+* Workload (taking things in moderation)
+	* EK - you already have a lot of tasks so please concentrate on those ones and don't take anymore unless it is urgent.  
+
+#### Who did you help this week?
+
+* EZ & MM with onboarding their first week 
+* MM with general task support when she had questions
+* LC with some strategy for getting in touch with the PPIE consortia leads. 
+
+#### Who helped you this week?
+
+* HR with chair and general support. 
+* EG with some great input on docs
+* DC with reviewing and giving input into some PR's and other docs 
+* AS, HS, & EP with the CarpentriesCon submission
+* EK with the connection to SSI fellow
+
+#### What did you achieve?
+
+* ✅ Ethics proposal draft completed (only for it to be the TREx one, and not the current form - GA & I have reached out to Vanessa, Tony and Victoria for clarity after talking to Chris)
+* ✅ CarpentriesCon proposal submitted with AS, HS, & EP.
+* ✅ Drafted probation statements 
+* ✅ Onboarding sessions were awesome 🎉
+* ✅ Presented in the Community Management meeting
+* ✅ Met with a project lead about PPIE 
+* ✅ Set up some repositories and assigned teams 
+* ✅ Connected with SSI fellow at UCL about drugs coding 
+* ✅ Continued mapping engagement metrics from the consortia meetings 
+* ✅ Connected with external group (Richmond Charities) who run PPIE workstreams
+
+* EK - This is all great! 🌟 and thanks for being the main onboarder of the new starters 🙌
+
+#### What did you struggle with?
+
+* Feeling like I need to dial back the workload a touch this week and focus on only a few big tasks. 
+
+#### What would you like to work on next week?
+
+* Figuring out what ethics forms actually need to be submitted (and to who - the link on Topdesk returns a `Page not Found`)
+* Supporting GitHub training materials being collated 
+* Supporting DC with the NIHR report (PPIE lead is away on leave) 
+* External AIM-RSF website
+
+#### Where do you need help?
+
+* Support moderating what I should/can take on. 
+
+#### Any other topics
+
+- This space is yours to add to as needed.
+- Is there any particular reading/topic/task we want to explore and bring to our next meetings?
 
 ## Date: 7 June 2022
 
