@@ -3,6 +3,7 @@
 * [10 May 2022](#date-10-May-2022)
 * [17 May 2022](#date-17-May-2022)
 * [24 May 2022](#date-24-May-2022)
+* [31 May 2022](#date-31-May-2022)
 * [7 June 2022](#date-7-June-2022)
 * [14 June 2022](#date-14-June-2022)
 
@@ -139,6 +140,72 @@ So I’m feeling a bit stuck unable to identify the known unknowns, and daunted 
 
 #### Any other topics
 * EK - Probation statements - on the list to do please.
+
+
+## Date: 31 May 2022 
+
+### Check-in ritual
+* EB was absoultely fab with nuggets of knowledge this past week! 
+* I'm super happy with how the GitHub meeting went and I think it brought a lot of clarity to the path ahead.
+	* EK - this is great!   
+
+### Project specific Reflection
+* GitHub meeting was super useful & we've now got some clear actions and a path ahead
+* I got a lot of clarity from small meetings last week about the Stakeholder mapping -  it was a rare "this meeting could not have been an email" type of thing and it was so great to get the clarity. 
+* I would like to move forward with DC/EK/MS clearly identifying time requirements. 
+	* EK - I will follow up with DC about the minimum objectives. 
+
+
+### Notes to discuss during 1:1
+* Are there any comms channels between myself & the next layer (DC/EK/MS) that I'm not utilizing/that would be useful? 
+	* EK - I will feedback to MS but do contact her about any specific help you need.  
+
+
+#### Who did you help this week?
+* EB & EG with some comms for the upcoming ECR session
+* DC & EB awith some background on how github's features can support project management
+* GA with the AutSPACEs presentation
+* EK with some co-working on stakeholder mapping and how to approach it
+
+#### Who helped you this week?
+* GA with coworking and getting the presentation done
+* EB with flagging the RoPA form and looping me in to some training plans 
+* EG with applying (& getting) a educational license for the GitHub org
+* RSF Legacy and PPIE leads for open comms around work plans
+* AL with some awesome reflections on community management 
+
+* EK - great that you are still reaching out for discussions - this is often very fruitful. 🍓
+
+#### What did you achieve?
+* ✅ Meetings with other RSF PPIE folk 
+* ✅ Meetings with RAMs and Community Managers and drew out some shared learnings 
+* ✅ Chaired meeting on GitHub and moved forward with the decision.
+* ✅ Started setting up the AIM-RSF GitHub organization.
+* ✅ Created, recorded, & submitted the AutSPACEs conference presentation w. GA & community
+* ✅ Drafted stakeholder mapping and synced across the various folks about project scope. 
+
+	* EK - Great work! 💪
+
+#### What did you struggle with?
+* The specific style and frequency of co-working that was scheduled for the presentation ate into a lot of the time during the week and delayed other tasks. 
+	* EK - this is fine - you will have time when you need to priortise talks etc, - this is part of your role so just keep other tasks ticking over at those times. 
+
+#### What would you like to work on next week?
+* Getting the AIM-RSF GitHub Org set up with clear documentation. 
+* Establishing clear communication lines for the stakeholder mapping tasks.
+* Syncing with Dave about work plans.
+* If time: 
+    * continue to work on ethics submission (aim for a completed draft sent to CB by 10th June).
+    * review a TTW Pull Request. 
+
+
+#### Where do you need help?
+* Just some grace that I'm rocketing through things and things may be a day later than initially planned while I catch up from delays. 
+	* EK - don't stress about this - you are doing great! 🌟 
+
+#### Any other topics
+* EK - I will email HR about probation statements as theses are currently not on your Cezanne. 
+
 
 ## Date: 24 May 2022
 
