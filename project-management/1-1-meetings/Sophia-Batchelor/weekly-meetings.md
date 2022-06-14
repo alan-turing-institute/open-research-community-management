@@ -4,6 +4,143 @@
 * [17 May 2022](#date-17-May-2022)
 * [24 May 2022](#date-24-May-2022)
 * [31 May 2022](#date-31-May-2022)
+* [7 June 2022](#date-7-June-2022)
+* [14 June 2022](#date-14-June-2022)
+
+
+## Date: 14 June 2022
+
+## Check-in ritual
+
+### Project specific Reflection
+
+* LC is away for the next few weeks and the NIHR report deadline is coming up so I'm stepping up with DC to fill in some PPIE gaps, the Drugs Coding work is getting set up quick as the wave 1 funding is wrapping up soon so quite a few projects have deadlines to meet. 
+* The new Data Wrangler is getting a lot put on their plate, and EZ has some space to wrap their head around things. 
+* I haven't heard much about the stakeholder mapping task and Mural is blocked so it seems like Excel might be a good place for things at this point in time. 
+* The TREx ethics forms may not have been the correct ones to fill out based on the current handover for TREx - Tony and Vanessa have been emailed to get more clarity on this. 
+* DC is starting to set up conections with the consortia PMs so I can reach out about PPIE workstreams. 
+	* EK - let's bring the Mural issue to the Whitaker lab meeting this week as it seems to be becoming more of a problem.
+
+### Notes to discuss during 1:1
+
+* Probation statements
+	* EK - we have discussed this and SB to submit this week. 
+* Workload (taking things in moderation)
+	* EK - you already have a lot of tasks so please concentrate on those ones and don't take anymore unless it is urgent.  
+
+#### Who did you help this week?
+
+* EZ & MM with onboarding their first week 
+* MM with general task support when she had questions
+* LC with some strategy for getting in touch with the PPIE consortia leads. 
+
+#### Who helped you this week?
+
+* HR with chair and general support. 
+* EG with some great input on docs
+* DC with reviewing and giving input into some PR's and other docs 
+* AS, HS, & EP with the CarpentriesCon submission
+* EK with the connection to SSI fellow
+
+#### What did you achieve?
+
+* ✅ Ethics proposal draft completed (only for it to be the TREx one, and not the current form - GA & I have reached out to Vanessa, Tony and Victoria for clarity after talking to Chris)
+* ✅ CarpentriesCon proposal submitted with AS, HS, & EP.
+* ✅ Drafted probation statements 
+* ✅ Onboarding sessions were awesome 🎉
+* ✅ Presented in the Community Management meeting
+* ✅ Met with a project lead about PPIE 
+* ✅ Set up some repositories and assigned teams 
+* ✅ Connected with SSI fellow at UCL about drugs coding 
+* ✅ Continued mapping engagement metrics from the consortia meetings 
+* ✅ Connected with external group (Richmond Charities) who run PPIE workstreams
+
+* EK - This is all great! 🌟 and thanks for being the main onboarder of the new starters 🙌
+
+#### What did you struggle with?
+
+* Feeling like I need to dial back the workload a touch this week and focus on only a few big tasks. 
+
+#### What would you like to work on next week?
+
+* Figuring out what ethics forms actually need to be submitted (and to who - the link on Topdesk returns a `Page not Found`)
+* Supporting GitHub training materials being collated 
+* Supporting DC with the NIHR report (PPIE lead is away on leave) 
+* External AIM-RSF website
+
+#### Where do you need help?
+
+* Support moderating what I should/can take on. 
+
+#### Any other topics
+
+- This space is yours to add to as needed.
+- Is there any particular reading/topic/task we want to explore and bring to our next meetings?
+
+## Date: 7 June 2022
+
+### Check-in ritual
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+Been a busy week, but I'm super ✨ about the work that's got done and the direction things are heading. DC is an absolute rockstar and I'm really excited to meet our new team members!
+
+### Project specific Reflection
+
+Feeling a bit stuck in places due to not having a clear picture of what’s going on inside the consortia. 
+We need to get an information processing piece in place, and after that’s confirmed then I might be able to start reaching out to folk and having coffee chats to get an idea of what’s going on. 
+So I’m feeling a bit stuck unable to identify the known unknowns, and daunted but unknown unknowns.
+* EK - get yourself invited to project meetings so that you can be that lurker - listen for people of interest and also tasks you can intervene. 
+
+### Notes to discuss during 1:1
+
+* Approaching AutSPACEs workblocks
+	* EK - planning of what task need doing, time they will take and deadlines for doing each - work out with GA. Also think about blocking some time to do this work.   
+* Community Managers meeting plan
+	*  EK - all great!
+
+#### Who did you help this week?
+
+* DC with drafting the knowledge management doc 
+* AS & TTW folk with input into a conference proposal 
+
+#### Who helped you this week?
+
+* AL with some supportive brainstorming about github repos
+* DC reviewing my PRs
+* VH with reviewing a PR 
+* DC giving input into the onboarding back
+* AS & JD with some great coworking and conversation
+* LC with some insight into the glossary task - We’ve scoped it and passed in on to me so I’m now the task Owner. 
+
+#### What did you achieve?
+
+* Finished pulling together the onboarding docs for our new starters.
+* Set up GitHub Org, created first repo, and invited all across from the old repo.
+* Drafted and got feedback (DC, EB, & EK) on the Knowledge Management doc
+* Submitted a monster PR and got the first months' work merged into main. 
+* Drafted submission for CarpentriesCon. 
+	* EK - making great progress. 
+
+#### What did you struggle with?
+
+* Wow! The 3 day week really shortened how much work I could get done.
+
+#### What would you like to work on next week?
+* Draft of ethics proposal finished (goal: sent for review by Friday 10 in prep for meeting CB scheduled for Monday 13) 
+* Onboarding and supporting EZ and MM. 
+* Community Manager Team meeting (Deadline Thursday 9 June). 
+* CarpentriesCon proposal (Deadline Friday June 10th) 
+* HR 1-3 week probation statements (Deadline ASAP)
+* Stretch Goal: 
+	* Scoping out a way to get in touch with PPIE folk and get insight into the research projects. 
+
+#### Where do you need help?
+
+* Brainstorming/Sense checking on presentation plan for Community Managers meeting.
+* Soundboarding on work needed for AutSPACEs and what I can start saying yes to.
+
+#### Any other topics
+* EK - Probation statements - on the list to do please.
+
 
 ## Date: 31 May 2022 
 
@@ -68,7 +205,6 @@
 
 #### Any other topics
 * EK - I will email HR about probation statements as theses are currently not on your Cezanne. 
-
 
 
 ## Date: 24 May 2022
