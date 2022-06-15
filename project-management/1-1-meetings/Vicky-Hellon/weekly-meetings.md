@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [15 June 2022](#date-15-june-2022)
 * [08 June 2022](#date-8-june-2022)
 * [25 May 2022](#date-25-may-2022)
 * [17 May 2022](#date-17-may-2022)
@@ -19,6 +20,42 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 15 June 2022
+
+### Check-in ritual
+Good but tired. Successful event! 
+
+### Project specific Reflection
+Good to have this week completed- more brain space for next couple of weeks!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* AS with JSC agenda
+* Everyone at the Community of Leaders meeting!
+
+#### Who helped you this week?
+* KL with slides 
+
+* SM with brainstorming fellows programme. Include an open research element e.g a question on the application form- how have you embedded open science practices in your work. Consider an interview element as people aren't always honest on their application forms! SSI have a whole interview day- do group activities such as speed blogs, event planning. I could do an afternoon with 20 of them- online, breakout rooms have lurkers or give them a task. 
+* Might be interesting to look at DSG applications too- questions can you demonstrate your collaborate working skills.
+* To discuss with SM!
+
+#### What did you achieve?
+* Getting this week done!
+
+#### What did you struggle with?
+* Decision making in meetings! Will target core meeting. 
+
+#### What would you like to work on next week?
+* Make a start on fellows docs
+
+#### Where do you need help?
+* Fellows doc once they get started 
+
+#### Any other topics
+* Cancelling catch-ups. Use one on 29th for co-working on videos- EK doing it through powerpoint.
+
 ## Date 8 June 2022
 
 ### Check-in ritual
