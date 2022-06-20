@@ -4,6 +4,9 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-05-31](#2022-05-31)
+- [2022-05-11](#2022-05-11)
+- [2022-05-03](#2022-05-03)
 - [2022-04-11](#2022-04-11)
 - [2022-03-22](#2022-03-22)
 - [2022-03-16](#2022-03-16)
@@ -18,6 +21,186 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-05-31
+
+### Check-in ritual
+
+- Was a bit ill last week but am better now (took last Wednesday off).
+- Feeling more positive about the white papers with both ZI and ZE on board, plus there has been enthusiasm from the PDRAs, who have made many edits to the files.
+- Looking forward to relaxing over the long weekend.
+
+MS: Congrats on your Viva!! So amazing. So great to see you working with ZI and ZE. 
+
+### Project-specific reflection
+
+- Have had some very productive meetings with ZI about the ASG event, and the plans are moving forward quite well (more below).
+- New contributors to the white papers have been making edits to the document and I’ve also had a co-working session with some (more below as well).
+
+MS: Great work. 🎉
+
+### Notes to discuss during 1:1
+
+#### Whom did you help since the last meeting?
+
+- Helped a small Bristol community come together at the JGI and they are looking into providing honorary status to Bristol-based Turing personnel.
+- Had a coffee chat with SB to discuss communities.
+- Helped ZI with ASG event comms.
+- Helped JD with mapathon plans.
+
+MS: Thank you for connecting with others and supporting SB in her early days.
+
+#### Who helped you since the last meeting?
+
+- ZI and ZE with advice and support for tackling the white papers.
+- ZI for liaising with AC re. ASG event agenda.
+- All new contributors to the white papers for making their first edits to the document.
+
+#### What did you achieve?
+
+##### ASG July event
+
+- Have had some agenda-planning meetings with ASG central team, HS, ZI, MC and AY.
+- I have run the tentative agenda past several PDRAs to get their input on the sessions we have planned.
+- Worked with ZI to prepare comms (mostly ZI; I only checked) for the event.
+- Went to Birmingham with ZI yesterday to scope out the venue and speak with the venue representative about potential sessions.
+- Have worked with JD, DC and AS on the mapathon session at the social event.
+
+MS: All these sound great. Please make space in the agenda to share the update from ASG white paper, success and challenges as well as incentives that future authors can expect.
+
+##### White papers
+
+- Thoroughly helpful conversations with ZI and ZE have given me renewed energy for the white papers; ZI has prepared a project tracking document and ZI is keen to be involved in the weekly meetings.
+- New contributors have been onboarded and have made their first contributions.
+- Had a co-working slot all Friday afternoon and co-worked with two PDRAs during that time.
+- AC has offered to also help with the overall messaging of the document as they have experience working on such documents.
+
+MS: Great to see these updates. Please do take time to review the timeline, supporting documents and stakeholder engagement plan.
+
+##### Misc.
+
+- Attended (remotely) the meeting to plan the Nature-Turing workshops in September/October, and provided my input for how to proceed; there will be some community-organising work there, but I will need help as it will overlap quite a bit with my white-papers schedules and I won’t be able to devote full attention to it.
+
+MS: Good call to restrict the time you can offer. Please invite help from HS. AB, AM and I can help review the agenda.
+
+#### What are you working on this week and what are your priorities?
+
+- Beginning editing the ASG white paper now that most have fed into the document.
+- Contact potential speakers/presenters for ASG event and finalise the panels.
+
+MS: do reach out to me and AB for any support we can offer.
+
+#### Where do you need help?
+
+- Need help delegating the Nature-Turing workshops organising work to someone else.
+
+## 2022-05-11
+
+### Check-in ritual
+
+- A bit overwhelmed, honestly.
+- Excited about the possibility of setting up a Turing Bristol Hub.
+Will document this, of course, so we can make a forkable set-up-your-own-hub document.
+- Huge thanks to PH for helping make contact with the JGI at the University of Bristol!
+
+MS: I hope you have the time and support for the project. Thank you for setting the local hub!
+
+### Project-specific reflection
+
+- Three new contributors have joined the E&S white paper!
+Will be doing their on-boarding over Slack and Zoom.
+- JD has been curating resources and ideas for the EDT white paper.
+- Had meetings with AC about health summary, with JD about a mapping social for the July event, and with HS, MC and ZI about the August event after meeting ASG central last week (with follow-up with AY today)
+- ZI has been ace, and has set up a Gantt chart for the July event and has also provided me with a list of potential areas for the PDRAs to engage with at the event.
+- ASG mini-series for Turing podcast is moving ahead; had two meetings with BCG and DW about logistics; see https://github.com/alan-turing-institute/asg-community/issues/53/.
+- Have _not_ managed to set up co-working slots but will have to do so for after the Book Dash.
+
+MS: Great work getting the project moving forward.
+Some point to consider:
+- Please involve ZI in putting together a time line combined with outputs and stakeholders.
+- Where can the leadership provide steer and support in your work?
+  -  Where can you protect your time for white papers?
+
+### Notes to discuss during 1:1
+
+#### Whom did you help this week?
+
+- Set up a one-day co-working space in Bristol (at the JGI) for the _Turing Way_ Book Dash!
+- Provided one piece of internal peer review for Turing colleague
+
+#### Who helped you this week?
+
+- AS for enthusiasm with setting up an unofficial Bristol Hub
+- RP for identifying JGI as a potential locus for the hub; PH for establishing connections with JGI; JN for kindly agreeing to host us for one day of the Book Dash!
+
+MS: Thank you so much for setting this up!
+
+- JD circulated a pre-meeting survey to the EDT PDRAs before this evening’s workshop and shared the results with myself and DAB.
+- BCG and DW for enthusiasm and ideas for the ASG podcast mini-series
+
+MS: Really excited for you to work with ZE. DO involve RAMs where you can.
+
+#### What did you achieve?
+
+- Lots but still feels like too little!
+- Sent out personal invitations for participation in E&S white papers
+- Drafted short text for BM to circulate to core team
+- Had multiple meetings to scope out ASG podcast mini-series
+- Had multiple meetings to move forward July ASG event
+- Scoped out potential evening social around mapping at July event with JD
+- Had meeting with BM, JR, HS and VH about a series of workshops to be organised by a Nature journal and Turing+STFC; been asked to help organise the workshops
+
+#### What are you working on this week and what are your priorities?
+
+- Contacting ASG PDRAs about July event to shape agenda and seek contributors for facilitating workshops
+- Preparing communications to send out to ASG for the July event (priority)
+- Responding to some e-mails that have been ignored for too long
+
+MS: All the best! Please let me know where I and others can help.
+
+#### Where do you need help?
+
+- How do I say no to things I’m asked to do?
+
+MS: Please do continue to find joy in what you do, involve people where you can and delegate tasks that distract from you work. 
+
+## 2022-05-03
+
+### Check-in ritual
+
+- Feeling super motivated after the break
+- Had a long and very helpful mentorship session with YY last Friday!
+
+### Project specific Reflection
+
+- Unfortunately, there were no edits to the document while I was away.
+Going to start engaging the post-docs directly now as we might not get much _direct_ engagement from the senior researchers.
+YY and I discussed setting up co-working slots specifically for writing the white papers and sending out (optional) invites to everyone involved.
+
+### Notes to discuss during 1:1
+
+#### Who helped you this week?
+
+- JD has regularly pointed me to useful reading (and potential references) for the EDT white paper
+- YY has been a fount of wisdom and sage advice, and generally a fun person to catch up with every couple of weeks
+- AS, for thinking of me in the context of train ticket sales this weekend
+
+#### What did you achieve?
+
+- Still haven’t caught up on all my e-mails, but I did go through many and also sent out the WP reminder e-mail on Friday
+
+#### What are you working on this week and what are your priorities?
+
+- Contacting post-docs and others recommended by core team to contribute to the E&S white paper; setting up co-working slots for this week and beyond and inviting them to it
+- Start editing the document with contributors, if possible
+- Meeting with ASG central about July event (Thursday); includes debrief from March event
+- Have to upload ASG March event talks (been low priority, but now has been two months since the event)
+- Start working on SPARRA glossy
+
+#### Where do you need help?
+
+- Advice on how to motivate senior researchers to contribute to the white papers
+  - Q: SH mentioned recognising contributors as authors; will carrot work as well for senior people as PDRAs?
 
 ## 2022-04-11
 

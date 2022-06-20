@@ -1,13 +1,126 @@
 ## ALS + MS check-ins
 
+* [2022-05-10](#2022-05-10)
+* [2022-05-03](#2022-05-03)
 * [2022-04-19](#2022-04-19)
 * [2022-04-12](#2022-04-12)
 * [2022-04-05](#2022-04-05)
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
 
+## 2022-05-10
+
+### Task updates
+- Fireside chat uploaded to Youtube (there was an error the first time around. video is processing.)
+  - MS: Thank you for publishing it!
+- Finally starting to review some PRs and Issues on Github, with more awareness of what the workflow of contribution/reviewing looks like.
+  - MS: Thanks for thinking about it! There are a few chapters on that, maybe a good place to addto : https://the-turing-way.netlify.app/collaboration/collaboration.html?   
+- Contacting everyone I've spoken to about reviewing conversation notes, and the possibility of publishing excerpts in a public forum (either in the Github issue or in a new part of the Community Handbook)
+  - MS: Sounds fantastic! Also add that to the acknowledgement chapter: https://the-turing-way.netlify.app/community-handbook/acknowledgement.html.
+- Finish up mailing draft for review
+
+### Thank yous (adding this section back in)
+- EK for reviewing my RSECon abstract
+- PH, SG for talking through some open infrastructure ideas during coffee chats
+- AR for doing the work to set up a Bristol Hub
+- VH for co-creating the king's college workshop
+- JB participating in mapathon (woo!)
+- Talarify team (AT, AVDW, NP) for the enlightening conversation re: networks, imagining emerging forms of attribution
+- DG for setting up a Mastodon account
+
+MS: 🎉 What a fantastic group of people!
+
+### Event updates
+- Talk @ SSI: 16 may
+- Book Dash 16-20 may: participating in on-boarding sessions
+- Community share-out: 20 may - any material to review?
+  - MS: https://hackmd.io/CqRaKcKgTZma0LEKC8gJOw
+  - MS: Please reach out to the translation team asking if they would like to give an update - add them to the core team
+  - MS: Start a core team document to collect what they are doing, what would you like to do in the coming year, how would you like to acknowledged for your work, how can we support your engagement
+- whitaker lab goatherd: 26 may (note to self)
+- King’s college: 31 may (will prep with VH on 23 May, then give to MS to review)
+- Right’s con (6 june - should i prepare to join this talk?)
+- Ordnance survey: 16 june (following up with OS team on 23 April, speaking with AC to catch-up on updates)
+- Connections Turing course: late june-early july (followed up with email thread)
+- TTW core team meeting (initial planning, late June/early July)
+- TTW fireside chat (pending date: Friday, 24 June 2022, discuss topic with core team?)
+  - MS: Please check with RAM team to take a lead on this?
+- RSE Con (submitted astract, happening 5-9 sept, will find out 31 may)
+  - MS: Great work!
+- CarpentryCon (submissions due 12 june, event happening 1-12 Aug)
+  - MS: Totally support the submission to this.
+- May Newsletter
+  - MS: Aim to have that out in a week.
+
+### Next week
+- Book dash! I'm going to be documenting the event from an outsiders perspective, and working on governance assignments from OLS-5
+- Reviewing PRs+issues, categorisation, etc.
+- Mailing list: send by Monday!
+
+### Where do I need help?
+- Thinking through the "core team meeting" agenda, and how to approach organising the event
+  - MS: Thanks for getting started with this
+
+### Ideas corner
+- It'd be great to start the process of releasing some of these community research updates within the community handbook, perhaps in a more standardised formats & including names.
+  - MS: Sounds fantastic! Thank you so much for thinking about it.
+- It'd be great to see all CMs & RAMs present TTW at atleast one conference of their choice in 2022-2023!
+- Rotating coffee chats within TTW community
+- Alternatively: Friday coffee chats with CMs and RAMs leading hosting/onboarding/casual conversations
+- Bringing back this "Turing Way" (friday?) book club idea, started by MS/AR
+  - MS: We tried with the bot, try something different which could be based on the Turing coffee rotation
+  - MS: Do start the Monday stand-up format, let some folks know so they can respond to motivate more people
+- Bringing back this "Turing Way" (friday?) book club idea
+  - MS: please do start to think about it. Engage with TPS members and let me know where I can help.
+
+## 2022-05-06
+
+### Task updates
+- Working on drafting messages for book dash applicants
+- Cloud recording + subtitles ready for Youtube upload (MS: workflow -> upload, vtt transcription document, flier image = thumbnail, publish directly)
+- Community research is continuing, but with more specificity as to tools. How to recognise previous work done? (booking time!)
+- Thanks yous for: all the fireside speakers, frictionless meetup organisers, book dash reviewers! To EM for chairing, MS for shouldering my share of bookdash applications
+
+### Event updates
+- frictionless data (all went well! I somewhat regretted not having a presentation, but I think it allowed for more informal interaction. really confirmed the new)
+- fireside chat: 29 April (would love to hear feedback about how you think it went! also, will be going through the recording subtitles, hope to finish by the end of the month)
+- ~~newcastle: 9 may (postponed to September)~~
+- talk @ ssi: 19 may (1 hour long event, will overlap with bookdash)
+- book dash 16-20 may (draft)
+- ~~open gov week: 16-20 may~~
+- king’s college: 31 may (will plan event with VK, buying tickets + filing reimbursement)
+- ordnance survey: 16 june (will sent email confirmation + cal invite)
+- connections turing course: late june-early july (will respond to HM)
+
+# Next week
+- Start to prepare mailing list for release: release date TBD
+- PRs!
+- Review acknowledgements chapter* (what is logged? what is formalised/informalised? lecture opportunities (keynotes)? organising roles? what/who is visible/invisible in this? recorded impact)
+- 'record of contributions' / CONTRIBUTORS.md - how to log contributions to TTW in ways that is meaningful for them?
+- Reach out to people about how they would like to be recognised for the conversations had in 1:1! --> contextualising acknowledgements (not traditional authorship!)
+- What does documentation of 1:1 conversations look like? (Chain of acknowledgements idea!)
+- Collecting opportunities for different types of engagement with TTW (event planning, open infrastructure, ux)
+
+# Where I need help?
+- Anything to know know about NHS presentation invitation? (maybe bring in EK for a paired presentation?)
+- Internet infrastructure chapter: How should I go about planning this contribution with different collaborators? Can this be used as a testing ground for governance?
+- What are the Data Study Groups?
+- Should we submit to RSE Conf? Other upcoming conferences?
+- Where to log upcoming events/invite speakers from the core team to?
+- Can I plan a session during the community share out or book dash for receiving feedback on usability and UX/UI/design? --> Merge REG team PR, testing cards (different entry base into the book -> curating based on professions? Asking questions about this in 1:1s? How can we engage more people in this?)
+- How to understand the tension between revising existing chapters vs writing new content?  (reviewing PRs, happening simultaneously while new writing is being developed)
+- How to balance intrinsically-motivated vs extrinsically-motivated contributions to TTW? Engagement with the project? Emergent governance to address this?
+- Emerging tensions to discuss: attribution of credit for foundational work vs future project work, editing vs writing, past vs present/old vs new, insider vs outsider, writing new chapters vs reviewing existing work, creation vs maintenance
+
+# Ideas corner
+- Chain on contributions
+- 'Month of review', 'Orchestrated work'
+- Mapping the insider/outsider dynamic of open science
+- Emerging ways of working for CMs/"community research"
+- Writing <> Reading <> Reviewing (Projects within the open ecosystem can profile/research each other... What framework can you use? External audits within the open ecosystem?)
+
 ## 2022-04-26
-Trying a new format today to keep it more
+Trying a new format today!
 
 ### Task updates
 - Getting reading for the fireside chat on friday! (thank you to all the speakers for being incredibly thoughtful - the event )
@@ -31,7 +144,7 @@ Trying a new format today to keep it more
 **MS:** thanks for the timeline and overview.
 
 # Next week
-- More outreach to individuals. - MS: 💪🏽 
+- More outreach to individuals. - MS: 💪🏽
 - Compile upcoming conferences to post on PR + start asking people if they'd like to rep TTW :) (would be super excited if possible!) - MS: we have generally aimed for at least 50% talks by community members. Keeping that or increasing that will be a good target. Do take some time to look at the previous reports and promotion pack to think about what can be updated.
 - Had a couple of ideas for engagement with TTW (wondering about the timeline for implementing them - can I start experimenting with one of these next week more concretely?):
   - Turing Way coffee hours. - **MS:** Sounds great! 🎉  Maybe something to think about when your 1:1 meetings start to reduce in number.

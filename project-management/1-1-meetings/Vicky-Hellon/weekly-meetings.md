@@ -1,5 +1,9 @@
-# Vicky + Malvika 1:1 Catch-up Minutes
+# Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [08 June 2022](#date-8-june-2022)
+* [25 May 2022](#date-25-may-2022)
+* [17 May 2022](#date-17-may-2022)
+* [03 May 2022](#date-03-may-2022)
 * [27 April 2022](#date-27-april-2022)
 * [12 April 2022](#date-12-april-2022)
 * [29 March 2022](#date-29-march-2022)
@@ -15,6 +19,217 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 8 June 2022
+
+### Check-in ritual
+Happy to be feeling better! Did not enjoy most of last week haha.
+
+### Project specific Reflection
+Feeling fairly on top of stuff, ready for a busy week next week!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* AS with final organisation for the Roche Data Science Leaders meeting.
+
+#### Who helped you this week?
+* ALS with TTW talk support!
+* AS with being Knowledge Share Zoom backup
+ * EK - All amazing! 
+
+#### What did you achieve?
+* Ran Knowledge Share!
+* Gave TTW talk
+* Finalised arrangements for Roche Data Science Leaders meeting, Joint Steering Committee 
+* Giving talk on partnership at lab meeting so preparing slides
+ * EK - all great! 
+
+#### What did you struggle with?
+* Internal meeting attendance...
+
+#### What would you like to work on next week?
+* Brainstorming in person about fellows programme with SM so looking forward to that
+* Onboarding new PDRA
+* Making sure Roche Data Science Leaders meeting runs smoothly!
+ * EK - I hope the in person meeting all goes well. 
+
+#### Where do you need help?
+* None for now- would be good to do some preliminary work on the videos in July (say this every week haha)
+
+#### Any other topics
+* None :)
+
+## Date 25 May 2022
+
+### Check-in ritual
+
+Nice to see people in person at MS's yesterday- first time meeting ALS!
+  * EK - that's lovely. 
+
+### Project specific Reflection
+
+- Looking forward to the Knowledge Share next week. I know June is going to be busy (data science leaders meeting, Joint Steering Commitee, onboarding new PDRA) so hoping for a bit of downtime and time to plan/reflect in July!
+- EK - great job on this!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+- BM and SM with recruiting for new PDRA
+- ALS with TTW slides for our talk
+
+#### Who helped you this week?
+
+- EK with Book Dash GitHub support!
+- MS with TTW slides
+
+#### What did you achieve?
+
+- Have prepped all the speakers for Monday's Knowledge Share
+- Book Dash new chapter!
+- TTW talk almost finished
+
+#### What did you struggle with?
+
+- Feel like herding cats a bit for the June Data Science Leaders meeting but we're getting there!c.  
+
+#### What would you like to work on next week?
+
+- Planning for Synthetic Data Knowledge Share as is a week earlier than usual as I'm on holiday! But think I've got a potential speaker.
+- Am giving the talk at Kings on the TTW
+- Finalise handbook
+
+#### Where do you need help?
+- Will start a video brainstorming doc that we can all input into :)
+- 
+#### Any other topics
+- Have booked holiday but still has MS as my manager on Cezanne - presume she can approve for now?
+
+* EK - Debiasing paper from turing-rss lab - https://www.nature.com/articles/s41564-021-01029-0 (To be flagged to Robin and Ana when they start)
+
+## Date 17 May 2022
+
+### Check-in ritual
+
+Enjoying Book Dash week! Juggling some project stuff in between :)
+  * EK - I enjoyed our co-working in person on weds 🙌
+
+### Project specific Reflection
+
+- Feeling ok, mostly on top of stuff but feels like a busy few weeks ahead.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+- AR and BM- running some ASG workshops and went along to the meeting to talk about my experience with running similar workshops last year
+- Continuing to support AS with getting up and running
+- Gave SB an overview of my role as she gets started 
+  - EK - Thanks for supporting our new starters. Great team work! 🌟
+
+#### Who helped you this week?
+
+- SM, MOG and AS with helping to shape the fellows programme
+  - EK - Let's talk more about this as I think this needs careful planning.   
+
+#### What did you achieve?
+
+- Almost finalised onboarding handbook
+  - EK - please remind me to read it if I have not done so by our next meeting. 
+- Started prepping slides for Turing Way talk with AS in a few weeks
+  - EK - You can reuse the slides on Zenodo so don't start from scratch - [here is the zenodo archive of all talks, etc](https://zenodo.org/search?page=1&size=20&q=turing%20way%202022&sort=bestmatch) 
+- Started finalising plans for fellows programme and went to kick off
+- Sent out monthly newsletter
+
+#### What did you struggle with?
+- Need to get speaker information still to update the event for May's knowledge share and get them to attend a prep meeting- think the lesson here is not having 4 speakers every time!
+  - EK - can you start to plan more in advance maybe? And start standardising this process so it is easy to send emails from templates, etc.  
+
+#### What would you like to work on next week?
+- Have enquired about a synthetic data speaker but no response yet so will need to change
+  - EK - there are folks at the turing that do this. Ask AB about this as we had someone talk about synthetic data at a TPS coffee last year. 
+- Have slides finished for TTW talk with AS on the 31st
+- Prepare for May Knowledge Share
+- Start pulling together final preparations for Roche data science meeting in June 
+
+#### Where do you need help?
+- Onboarding handbook here- would appreciate if you could have a quick scan and check what if anything missing? https://docs.google.com/document/d/1NxkqOWuecy9JQVibN3DYniUCJ_0K7lxI/edit
+
+#### Any other topics
+- Need to start planning videos at some point but think this may be an end of June/start of July job!
+  - EK - let's brainstorm a list of videos and centralise it somewhere - google drive? or link to google from github. We can also speak to Dee and other comms members about this - how to do it well and efficiently.  
+
+## Date 03 May 2022
+
+### Check-in ritual
+
+Still busy but feeling slightly more on top of things :)
+
+### Project specific Reflection
+
+AS is settling in very well, excited to work with him further. Some big events out the way (Knowledge Share and Expert Panel) and visit to Roche tomorrow!
+
+Some priorities for May/June
+- Roche Visit
+- Seminar series
+- June F2F
+- Newsletter, follow up for June seminar
+- Funded project onboarding plan is set for June, handbook under review and contract is behind <-- PM and RPM on it
+
+Coworking with EK, AH and MS - placeholder
+- GitHub repository
+- Expert panel follow up
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+
+- Onboarded AS to the project- continuing to support
+
+MS: Good work!
+
+#### Who helped you this week?
+
+- KP helped brainstorm June meeting and invited MG
+- SM and YZ helped with brainstorming for next few Knowledge Shares, SM has been great with getting involved
+
+MS: All the best with this!
+
+#### What did you achieve?
+
+- Ran Expert Panel meeting
+- Uploaded Knowledge Share video and sent out follow up email with feedback survey
+
+MS: Good job getting all of these out! 
+
+#### What did you struggle with?
+- Having enough time for everything- still want to engage the Expert Panel but worried it'll slip with everything else
+
+MS: Let's get this sorted in the coworking call.
+
+#### What would you like to work on next week?
+- Am presenting at Roche tomorrow 
+- Health Away Day on Friday
+- Am interviewing PDRAs next Tuesday
+- Need to have definitely invited May Knowledge Share speakers and want to invite June ones (said this last week!)
+- Scoping for fellows programme- finalising meeting 
+
+MS: Have fun! Looking forward to hearing how it goes.
+
+#### Where do you need help?
+- (left this in from last week- ongoing) Have a quick skim over the handbook and check what if anything missing? https://docs.google.com/document/d/1NxkqOWuecy9JQVibN3DYniUCJ_0K7lxI/edit
+- Chasing DW for video
+
+#### Any other topics
+- Where shall I put in the community GitHub repo about editing website/events?
+MS: Please start this as an issue
+
+- May speakers- shall I chase BM?
+MS: Please ask in the community channel in slack, EK and AL have folks in their network. JH may have useful recommendations as well. Is there a way for them to asynchronously suggest speakers?
+
+All the best Vicky!! 💙
+
+
 ## Date 27 April 2022
 
 ### Check-in ritual
