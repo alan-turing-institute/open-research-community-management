@@ -4,6 +4,7 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-06-21](#2022-06-21)
 - [2022-05-31](#2022-05-31)
 - [2022-05-11](#2022-05-11)
 - [2022-05-03](#2022-05-03)
@@ -21,6 +22,65 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-06-21
+
+### Check-in ritual
+
+- Things seem to be going well with the ASG event in July with most speakers now confirmed.
+We’re still only about halfway to capacity in terms of in-person attendees, though.
+- Have scheduled weekly meetings with ZI to work on all the projects we have ahead.
+- Have scheduled twice-weekly co-working calls with ZE to work on the white papers.
+- Would like to switch to compressed weeks working four days (Tue--Thu, if possible).
+
+### Project-specific reflection
+
+- Updating canonical document (Google Docs) with all of the projects I’m involved with.
+- Have revised the timeline for the white papers and sent it to ZI.
+- Had a productive chat with ZE re. content and editing process of the white papers and am confident we’ll forge ahead with dedicated time devoted to it.
+
+### Notes to discuss during 1:1
+
+#### Whom did you help since the last meeting?
+
+- My goatherding last week helped at least once person bring about a change in their routine so I’m glad to know it was useful!
+
+#### Who helped you since the last meeting?
+
+- DC for talking about structuring working days.
+- VH for advice on workshop organising.
+- RB for joining the E&S white paper.
+- ZE for a productive meeting on the E&S white paper last week.
+- ZI for bring an absolutely ace RPM and for offering to do a half-day planning sprint in person at the office.
+
+#### What did you achieve?
+
+##### ASG July event
+
+- ZI has helped contact most speakers and I am following up with a few.
+- Agenda is nearly frozen.
+
+##### White papers
+
+- Established working plan with ZE and made notes together.
+- Onboarded RB for E&S white paper section but also EDT potentially.
+
+##### AIUK 2023
+
+- Had a kick-off meeting to plan AIUK 2023 with HS, ZI and events team.
+
+#### What are you working on this week and what are your priorities?
+
+- Finalise speakers and chairs for the ASG event panels.
+- Speaker briefs for all participants.
+- Ping potential poster contributors.
+- Co-work with ZE on white papers.
+- Triage GitHub issues.
+- Present ASG event update at ASG MB.
+
+#### Where do you need help?
+
+- How do I delegate some of the communication outputs to more people and support them in the production?
 
 ## 2022-05-31
 
