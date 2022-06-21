@@ -1,7 +1,7 @@
 ## Date: 21 June 2022
 
 **Check-in ritual**
-- It was lovely to have intro coffees with Vicky, Zeynep, Sarah, and Achintya
+- It was lovely to have intro coffees with VH, ZE, SG, and AR
 - The "Sex, gender, binaries, and categories" talk on Friday was really cool 😻
 
 ### Project specific Reflection
@@ -11,9 +11,11 @@
 - Getting better at doing things on GitHub 😊
 - Some things need to be changed/redone in terms of organising events.
 - I've been feeling a little overwhelmed - I'm making progress with understanding how things work but new things keep popping up!
+  - EK - these are all great things and keep going with all of this introductory meetings and readings. It is going to feel a lot at the moment but will get better. 
 
 ### Notes to discuss during 1:1
 - I haven't been able to get into contributing to the Turing Way yet - it'd be nice to get some tips on getting involved?
+  - EK - Don't worry too much about doing anything specific at the moment - just try to come along to the turing way co-working on mondays and collaboration cafes if possible. The CM team often just go there to co-work on any work they are doing to get some company and chat to each other. This will probably then surface something you might want to get involved with.   
 - Any tips on managing stress/feelings of being overwhelmed would be very welcome 😊
 
 #### Who did you help this week?
@@ -21,8 +23,8 @@
 - Helped to take notes at the drug coding meeting
 
 #### Who helped you this week?
-- Vicky was great when I was at the office on Wednesday ✨
-- Sophia has been amazing with AIM RSF things
+- VH was great when I was at the office on Wednesday ✨
+- SB has been amazing with AIM RSF things
 
 #### What did you achieve?
 - I've made some progress with reading documentation for the AIM RSF.
@@ -33,21 +35,22 @@
 #### What did you struggle with?
 
 - I've been feeling a little overwhelmed - I'm making progress with understanding how things work but new things keep popping up!
+  - EK - this will hopefully get better once you understand better what your role is and what the tasks are that you need to do. You are still earning a lot so it is normal to feel this way at this point. 
 
 #### What would you like to work on next week?
 
-- Sophia and I are applying for OLS 6 - I need to work on the application
+- SB and I are applying for OLS 6 - I need to work on the application
 - Continue meeting up with RSF & other Turing people
 - Dig into the AIM RSF GitHub repos and see if there's anywhere I can contribute
-- Review and add content to the RSF website Sophia has been working on (+ form for them to register for events)
-- Go through the Turing Way ways of working
+- Review and add content to the RSF website SB has been working on (+ form for them to register for events)
+- Go through the Turing Way ways of working - EK - I can do this with you if needed. 
 
 #### Where do you need help?
 - I'm feeling fairly overwhelmed (and a bit intimidated) - any tips for handling that would be super welcome 🙏
 
 #### Any other topics
 - Malvika mentioned the Communications people will get in touch with me? They haven't yet, should I do that?
-- I have 1-to-1 meetings with Evelina as well - should I be focusing my reflections with Eveline and you on different topics?
+- I have 1-to-1 meetings with EG as well - should I be focusing my reflections with EG and you on different topics?
 
 *CC BY 4.0 License, reused from the [Whitaker Lab Project Management Repository](https://github.com/WhitakerLab/Onboarding/blob/lab-meetings/Setting-up-your-weekly-meetings.md)*
 
