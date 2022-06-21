@@ -1,5 +1,6 @@
 ## ALS + MS check-ins
 
+* [2022-06-21](#2022-06-21)
 * [2022-06-14](#2022-06-14)
 * [2022-06-07](#2022-06-07)
 * [2022-05-10](#2022-05-10)
@@ -9,6 +10,48 @@
 * [2022-04-05](#2022-04-05)
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
+
+## 2022-06-21
+### Task updates
+- Newsletter - sent!
+- Prepping first tasks for working group:
+  - Planning document
+  - Doc of Docs
+- File Reimbursements
+- Preparing for annual leave (8-23 July) -> what needs to get done during that time?
+
+### Thank yous
+- SB for reviewing the mailing list!
+- ACC for collaborating on a new slide deck for industry
+- AC for planning
+- JD on feedback for Big Team Science submission
+
+### Event updates
+- First core team meeting (10 June):
+- June Fireside (20 June): planning document
+- Turing Training Portal (June-July)
+- Collab Cafe (6 July): planning for room @ CC for Low Carbon Methods submission
+- AGS mapathon (7 July): Planning in process with AR + JD.
+- July Fireside (24 July): Planning in progress with Carpentries
+- Catapult Energy event (late July): AAC speaking
+- Connections Workshop (2-3 August):
+- August Fireside (30 Aug): Planning in progress with CS&S
+- TPS Coffee Chats (all Sept): 4-5 speakers
+- Kings College: event now in Oct
+
+### Proposal updates
+- Low Carbon Methods
+- Big Team Science (22 July): Planning for co-working call (20 June) w/ JD & AC
+- WritetheDocs (30 June):  Co-working call (27 June)
+
+### Next week
+- Github repo (reserved for Friday!)
+- CF to be invited to CM team!
+
+### Ideas corner
+- Prioritising non-:
+  - Long term: Governance/Core Team Work,
+- Stickers
 
 ## 2022-06-14
 ### Task updates
