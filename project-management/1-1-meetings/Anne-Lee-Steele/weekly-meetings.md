@@ -27,10 +27,9 @@
 - JD on feedback for Big Team Science submission
 
 ### Event updates
-- First core team meeting (10 June):
-- June Fireside (20 June): planning document
-- Turing Training Portal (June-July)
-- Collab Cafe (6 July): planning for room @ CC for Low Carbon Methods submission
+- June Fireside (20 June): planning document, plan for call with speakers? (co-working call next week!)
+- Turing Training Portal (June-July):
+- Collab Cafe (6 July)
 - AGS mapathon (7 July): Planning in process with AR + JD.
 - July Fireside (24 July): Planning in progress with Carpentries
 - Catapult Energy event (late July): AAC speaking
