@@ -29,7 +29,7 @@
 ### Event updates
 - June Fireside (20 June): planning document, plan for call with speakers? (co-working call next week!)
 - Turing Training Portal (June-July):
-- Collab Cafe (6 July)
+- Collab Cafe (6 July): hosted by RAM team.
 - AGS mapathon (7 July): Planning in process with AR + JD.
 - July Fireside (24 July): Planning in progress with Carpentries
 - Catapult Energy event (late July): AAC speaking
@@ -48,9 +48,6 @@
 - CF to be invited to CM team!
 
 ### Ideas corner
-- Prioritising non-:
-  - Long term: Governance/Core Team Work,
-- Stickers
 
 ## 2022-06-14
 ### Task updates
