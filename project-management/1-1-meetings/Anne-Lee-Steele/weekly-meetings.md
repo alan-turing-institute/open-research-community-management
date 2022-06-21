@@ -16,26 +16,30 @@
 - Newsletter - sent!
 - Prepping first tasks for working group:
   - Planning document
-  - Doc of Docs
+  - Note of Notes
 - File Reimbursements
 - Preparing for annual leave (8-23 July) -> what needs to get done during that time?
+ -->
 
 ### Thank yous
 - SB for reviewing the mailing list!
 - ACC for collaborating on a new slide deck for industry
-- AC for planning
+- AC for planning coffee chats
 - JD on feedback for Big Team Science submission
 
 ### Event updates
-- June Fireside (20 June): planning document, plan for call with speakers? (co-working call next week!)
-- Turing Training Portal (June-July):
-- Collab Cafe (6 July): hosted by RAM team.
+- June Fireside (20 June): planning document, plan for call with speakers at co-working call next week.
+- Turing Training Portal (June-July): P working for 1 month. Teaching material online from OLS-5 (notes, prompts, templates)
+- Collab Cafe (6 July): hosted by RAM team (reach out?)
 - AGS mapathon (7 July): Planning in process with AR + JD.
 - July Fireside (24 July): Planning in progress with Carpentries
 - Catapult Energy event (late July): AAC speaking
-- Connections Workshop (2-3 August):
+- OLS Graduation (July): Updates for progress
+- Connections Workshop (2-3 August): half-day
+- CarpentryCon (4 & 10 August): pending dates
 - August Fireside (30 Aug): Planning in progress with CS&S
 - TPS Coffee Chats (all Sept): 4-5 speakers
+- September Fireside (30 September): Product management w/ startups (A or J with CH)
 - Kings College: event now in Oct
 
 ### Proposal updates
@@ -45,7 +49,12 @@
 
 ### Next week
 - Github repo (reserved for Friday!)
-- CF to be invited to CM team!
+- Fireside chats: Create issue (metrics for hybrid events)
+- AC + TC (with CF): what's the relationship there?
+- Things to ping MS about:
+  - Community share-outs video (upload)
+  - Book Dash report
+
 
 ### Ideas corner
 
