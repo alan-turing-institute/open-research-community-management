@@ -18,7 +18,7 @@
 ### Project specific Reflection
 
 **Based on last week's work plan** (see more in [achievements](https://github.com/alan-turing-institute/open-community-building/edit/main/project-management/1-1-meetings/Sophia-Batchelor/weekly-meetings.md#what-did-you-achieve)):
-* DC and EB are working away at the NIHR report. I've sent some details on specific work tasks DC's way and offeredhelp for whenever it's needed. PPIE lead is still away, but DC and EB have indicated that they don't have specific asks yet. 
+* DC and EB are working away at the NIHR report. I've sent some details on specific work tasks DC's way and offered help for whenever it's needed. PPIE lead is still away, but DC and EB have indicated that they don't have specific asks yet. 
 * External AIM-RSF website is almost up and running (have been making content changes based off suggestions from a Monday afternoon meeting) and is a priority for this week ahead of events coming up. 
 
 **PPIE & Constortia Meetings**  
@@ -28,6 +28,7 @@
 * Have been supporting EZ with collating GitHub training materials while also doing bitty tasks with the repositories (CoC's, Project boards, GitHub Actions, Issues, Onboarding, reviewing PR's etc). 
 * ⚠️ Ran into a major blocker that EB has flagged around IT, GitHub, and Slack. As of today, we are continuing ahead as it's for the higher ups to figure out.  
 * 🤦 Had issues with cross-consortia comms, email invites, and meeting links so no one showed up to Evelina's talk. We've set out a bit of a plan for how to approach this in the future. 
+	* EK - thanks for flagging these issues. 	 
 
 
 ### Notes to discuss during 1:1
@@ -67,11 +68,15 @@
 * I've been on calls with various folks exploring various features on GitHub (Projects, Issues, Discussions, and GitHub Actions to link them all together) and getting them quickly onboarded into the project work that is immediately due. 
 * Uploaded a starter Glossary of Terms to the GitHub repository and opened a discussion with Eirini (and others) to have around making the list easy to use.
 
+	* EK - All great work - very happy that you and EZ are applying to OLS6.  
+
 #### What did you struggle with?
 
 * **Overwhlem** Feeling a smidge overwhelmed as some tasks are taking longer than expected this past week. Trying to keep working hours is proving a bit hard as I feel guilty about not getting things done in the expected timeframe (i.e. noticed lots of typos in the ethics form and some of the questions were different than the TREx approach so it's still an open task). 
 * **Keeping track of tasks.** I need to rebuild up some form of task tracking system as I'm getting pings for small requests that I can do, but forget what they're related to and need to move on to the next thing. 
 * **Summary Email/Notes** I fell out of habit writing end of day summaries last week so had a monster job on friday pulling it all together into an email and sending it out (was favouring getting to bed early as I'm up early on some calls with California last week and this). I've picked the daily logs back up this week but not having sent out that email (and even just curating it for myself) have left a massive gap in internal comms.  
+
+	* EK - you are doing great so try not to feel overwhelmed - you are progressing on tasks so making progress. Project boards sounds like a good future plan for task tracking. Summary notes - they are hard to maintain so maybe doing this verbally or putting your personal summaries in a doc on github so you don't have to clean up? 
 
 #### What would you like to work on next week?
 
@@ -85,6 +90,7 @@
 #### Where do you need help?
 
 * Would love if I could offload the Code of Conduct and GitHub documentation tasks (possibly to EZ). 
+	* EK - let's try to have a discussion with EZ about tasks.  
 
 #### Any other topics
 
