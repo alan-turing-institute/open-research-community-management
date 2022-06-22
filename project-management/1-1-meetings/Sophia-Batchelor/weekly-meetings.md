@@ -94,7 +94,7 @@
 
 #### Any other topics
 
-* I have a sense that EZ is feeling a smidge overwhelmed so I haven't wanted to push any more tasks onto her plate - any suggestions for ways I can help?
+* Any suggestions for how I can better support EZ?
 
 
 ## Date: 14 June 2022
