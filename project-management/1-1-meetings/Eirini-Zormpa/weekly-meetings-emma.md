@@ -1,3 +1,7 @@
+
+* [TEMPLATE](#TEMPLATE)
+* [21 June 2022](#date-21-June-2022)
+
 ## Date: 21 June 2022
 
 **Check-in ritual**
@@ -55,7 +59,9 @@
 *CC BY 4.0 License, reused from the [Whitaker Lab Project Management Repository](https://github.com/WhitakerLab/Onboarding/blob/lab-meetings/Setting-up-your-weekly-meetings.md)*
 
 
-## TEMPLATE: Date: YYYY-MM-DD
+## TEMPLATE
+
+Date: YYYY-MM-DD
 
 Check-in ritual
 (Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
