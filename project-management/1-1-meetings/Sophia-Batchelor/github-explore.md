@@ -2,13 +2,10 @@
 
 This is a file to explore some cool GitHub features. 
 
-tadadada :)
+
+blablabla :) tadadada :)
 
 
 
-
+This is Sophia. 
 This is Eirini.
-
-
-
-
