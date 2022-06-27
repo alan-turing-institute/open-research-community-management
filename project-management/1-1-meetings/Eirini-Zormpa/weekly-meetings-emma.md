@@ -1,6 +1,64 @@
 
 * [TEMPLATE](#TEMPLATE)
 * [21 June 2022](#date-21-June-2022)
+* [28 June 2022](#date-28-June-2022)
+
+## Date: 28 June 2022
+
+**Check-in ritual**
+I'm just really excited to be thinking about more specific things (training, events) for the AIM RSF community ✨
+
+### Project specific Reflection
+
+* I've been working on brainstorming workshops we can offer for ECRs easily.
+* I started writing abstracts for those workshops.
+* I've been working on drafting the OLS-6 application.
+* I still had to submit documents for background checks etc.
+* I'm continuing to meet up with people (AL, GA, CF) and finding out areas of overlap in our projects.
+* I finally got access to Bob's business videos! So I'm going through the courses on there.
+* I went throught the Turing Way "Ways of working" document.
+* I worked on my probation documents.
+
+### Notes to discuss during 1:1
+
+* It'd be nice to talk about the "Ways of working" a bit, just to clarify some of the expectations.
+* Any feedback on my probation document?
+
+#### Who did you help this week?
+
+* I made a plot of the consortia wishes for support that DC used in the interim for the funder.
+
+#### Who helped you this week?
+
+* The community managers groups gave me some ✨excellent:sparkles: tips about approaching the mapping of training needs of ECRs.
+* SB has been a rockstar (as usual) with answering GitHub questions.
+
+#### What did you achieve?
+
+* I've been doing some planning/writing about potential workshops and activities to support community building in my first few months (workshop brainstorming/abstract writing/OLS application/probation document).
+* I'm still working on various "first days" employment things (background checks, training on policies).
+* I met up with a few people working on very relevant projects!
+
+#### What did you struggle with?
+
+* Figuring out what's useful enough to put on GitHub.
+* Finding time to clean up notes enought that they're shareable 😅
+
+#### What would you like to work on next week?
+
+* Finish the OLS application.
+* Finish a first draft of the GitHub presentation.
+* Finish the policy training videos/courses.
+* Write two more abstracts for ECR workshops.
+* Meet more people!
+
+#### Where do you need help?
+
+* I'll probably ask for some feedback on the OLS application once I've finished the first draft if that's okay!
+
+#### Any other topics
+
+- I need to do some work this week on Carpentries things (testing out the new infrastructure for lessons, going through and closing open issues).
 
 ## Date: 21 June 2022
 
@@ -56,14 +114,12 @@
 - Malvika mentioned the Communications people will get in touch with me? They haven't yet, should I do that?
 - I have 1-to-1 meetings with EG as well - should I be focusing my reflections with EG and you on different topics?
 
-*CC BY 4.0 License, reused from the [Whitaker Lab Project Management Repository](https://github.com/WhitakerLab/Onboarding/blob/lab-meetings/Setting-up-your-weekly-meetings.md)*
-
 
 ## TEMPLATE
 
 Date: YYYY-MM-DD
 
-Check-in ritual
+**Check-in ritual**
 (Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
 
 ### Project specific Reflection
