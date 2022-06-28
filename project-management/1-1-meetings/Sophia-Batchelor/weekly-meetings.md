@@ -10,6 +10,61 @@
 * [22 June 2022](#date-22-June-2022)
 
 
+
+## Date: 28 June 2022
+
+### Check-in ritual
+* DC is an absolute star with the report! Everything else is chugging away.
+* Had an ✨AMAZING✨ meeting with UCL/SSI Fellow and found an incredible overlap. Have made some connections and am also going to help them get their work on GitHub (so our group can collab with them). 
+
+### Notes to discuss during 1:1
+* Using meeting recordings to support note taking (dropbox or sharepoint for storage)
+* Priority list for this next week of tasks to be done 
+* GitHub training sessions slides (revise and cut down on material, give specific or relevant examples as to what you can do using GitHub e.g. [here](https://docs.google.com/presentation/d/1hglgKtdjABMYPuXTf0ePz2ffu9QEfr8z2ki79lJzKl0/edit?usp=sharing)). 
+ 
+
+#### Who did you help this week?
+
+* DC with some specific PPIE tasks for the report 
+* DC with setting up the tech for the Cross Consortia session. 
+* EZ with some small nuggets of GitHub knowledge, and then a proper meeting to go over various things. 
+* DC/AIMRSF Team with meeting notes 
+* Data Wranglers team with connecting them to UCL/SSI Fellow
+
+#### Who helped you this week?
+
+* EZ with being able to MVP some meetings. 
+* DC with various bits of info about AIM work. 
+* MF with chairing meetings so that I could scribe. 
+
+#### What did you achieve?
+
+* Met with 3/7 of the consortia about PPIE work and where we can support 🚀
+* Made flyers and am sending out comms about the July 6th Sessions today 🌟
+* Welcome Bot testing and decision to support folks working on the AIMRSF repo. 
+* Meeting with UCL/SSI Fellow 🚀
+
+#### What did you struggle with?
+
+* Just a reduced capacity right now, brain space is being taken up so will book a day or two off next week to recharge. 
+
+#### What would you like to work on next week?
+
+In order of priority:
+**1. Ethics form**
+2. NIHR Report PPIE Support
+3. Protect the main branch
+4. Sending out comms about the ECR and PPIE Sessions, as well as starting to promote the GitHub Workshop
+5. Meeting notes
+6. OLS Application
+
+#### Where do you need help?
+
+* Ethics - ping Arron
+* Bandwidth - reduce any non urgent + important tasks and chip away at work consistently. 
+
+
+
 ## Date: 22 June 2022
 
 ### Check-in ritual
