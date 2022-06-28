@@ -22,11 +22,15 @@ I'm just really excited to be thinking about more specific things (training, eve
 ### Notes to discuss during 1:1
 
 * It'd be nice to talk about the "Ways of working" a bit, just to clarify some of the expectations.
+  * EK - processes that you do in your team. These can be kept within private repos but need to be shared with those working in your team or wider if necessary. 
+    * An example would be an issue template for use when planning events and an accompanying document to set out the process clearly.  
 * Any feedback on my probation document?
+  * EK - Objectives 1 to 4 look good - make the bullet points points specific task to achieve the objective. Probably take out objective 5.
 
 #### Who did you help this week?
 
 * I made a plot of the consortia wishes for support that DC used in the interim for the funder.
+  * EK - great job :star:
 
 #### Who helped you this week?
 
@@ -48,17 +52,21 @@ I'm just really excited to be thinking about more specific things (training, eve
 
 * Finish the OLS application.
 * Finish a first draft of the GitHub presentation.
+  * EK - what is the purpose of the training? write some learning outcomes. Blooms taxonomy. 
 * Finish the policy training videos/courses.
 * Write two more abstracts for ECR workshops.
+  * EK - Please do try to collate the skills of the Comm management team in an issue as that would be helpful for all of us - what course could each of us teach easily? and have materials for already?
 * Meet more people!
 
 #### Where do you need help?
 
 * I'll probably ask for some feedback on the OLS application once I've finished the first draft if that's okay!
+* EK - please do send my way if helpful. 
 
 #### Any other topics
 
 - I need to do some work this week on Carpentries things (testing out the new infrastructure for lessons, going through and closing open issues).
+  * EK - I think we need to find out where we can store our training materials for easy access - github, carpentries style, turing moodle?
 
 ## Date: 21 June 2022
 
