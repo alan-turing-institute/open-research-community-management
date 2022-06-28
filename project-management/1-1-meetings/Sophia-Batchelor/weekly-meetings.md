@@ -43,6 +43,7 @@
 * Made flyers and am sending out comms about the July 6th Sessions today 🌟
 * Welcome Bot testing and decision to support folks working on the AIMRSF repo. 
 * Meeting with UCL/SSI Fellow 🚀
+	* EK - great work! :star:
 
 #### What did you struggle with?
 
