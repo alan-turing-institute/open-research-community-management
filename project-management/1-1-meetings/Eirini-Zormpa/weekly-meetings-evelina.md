@@ -1,5 +1,7 @@
 # Eirini and Evelina 1-to-1 meetings
 
+* [TEMPLATE](#TEMPLATE)
+* [17 June 2022](#date-17-June-2022)
 
 ## Date: 17 Jun 2022
 
@@ -64,7 +66,9 @@
 - Not really :)
 
 
-## TEMPLATE: Date: YYYY-MM-DD
+## TEMPLATE
+
+## Date: YYYY-MM-DD
 
 ### Check-in ritual
 (Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
