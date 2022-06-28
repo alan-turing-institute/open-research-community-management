@@ -2,7 +2,7 @@
 
 * [TEMPLATE](#TEMPLATE)
 * [17 June 2022](#date-17-June-2022)
-* [29 June 2022)(#date-29-June-2022
+* [29 June 2022](#date-29-June-2022)
 
 ## Date: 29 June 2022
 
