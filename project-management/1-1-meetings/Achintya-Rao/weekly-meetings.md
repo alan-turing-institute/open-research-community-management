@@ -70,6 +70,38 @@ Only around 40 people attending, though.
 
 - Could do with some advice on what I need to do to onboard the RAMs to the white-paper process.
 
+---
+- Long list of projects
+  - Project, one sentence summary, project lead, links, specific CTP
+- Onboarding for ASG white: Contributing guideline
+  - GitHub access
+  - Overleaf access (joinable link)
+  - Zotero for reference: https://www.zotero.org/groups/4652021/turing_asg/library
+    - Enhancing International Cooperation in AI Research: The Case for a Multilateral AI Research Institute: https://www.zotero.org/groups/4652021/turing_asg/items/S39Z5CXE
+    - Research Data: The Future of FAIR White paper: https://www.zotero.org/groups/4652021/turing_asg/items/GSJT7NEL/
+    - Language: https://arxiv.org/abs/2206.03216
+  - Comms channels
+  - References for white paper
+    - Long list
+    - Structure of paper (E&S paper)
+    - Timeline
+    - Milestones
+  - Roles
+    - Authors
+    - Review
+    - Editor
+    - Data journalism
+    - Gap and impact (ZE and MC)
+  - Authorship
+    - <CRediT document>
+  - Introduction
+    - Broad overview of the problem area
+  - What are some references we are considering for he white paper
+    - https://www.zotero.org/groups/4652021/turing_asg/items/S39Z5CXE
+  - Issue of wish list ASG white paper
+
+---
+
 ## 2022-06-21
 
 ### Check-in ritual
