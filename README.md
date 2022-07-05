@@ -47,6 +47,7 @@ As a team, we ensure that the research that happens at the Institute is created 
 - Achintya Rao, Community Manager; AI for Science and Government Research Programme
 - Anne Lee Steele, Community Manager; The Turing Way
 - Arron Lacey, Senior Community Manager; Early Detection of Neurodegenerative Diseases (EDoN)
+- Eirini Zormpa, Community Manager; AI for Multiple Long Term Conditions Research Support Facility (AIM RSF)
 - Emma Karoune, Senior Community Manager; RSS Lab and DECOVID
 - Sophia Batchelor, Community Manager; AI for Multiple Long Term Conditions Research Support Facility (AIM RSF)
 - Vicky Hellon, Community Manager; Turing-Roche Strategic Partnership
@@ -54,6 +55,7 @@ As a team, we ensure that the research that happens at the Institute is created 
 ### Members from the Collaborating Projects
 
 - Ayesha Dunk, AI and Data Science Educators Programme, The Alan Turing Institute
+- Clau Fischer, Turing Commons, The Alan Turing Institute
 - Sarah Gibson, JupyterHub Community Development Lead, 2i2c and JupyterHub
 
 ## Guiding Principles
@@ -63,13 +65,13 @@ As a team, we ensure that the research that happens at the Institute is created 
 - **Share knowledge** about the scientific communities you coordinate and the issue you are seeking to address.
 - Actively **create and identify future opportunities** to enable collaboration and integration of open research practices to co-create additional knowledge.
 - Provide **access to resources that empower and enable** each other to discover, display and directly use their knowledge and skills. 
-- Contribute to the ongoing professional development that **maximise team members' contribution** to the collaborative work, their careers, and open research at large.
+- Contribute to the ongoing **professional development of team members** by maximising opportunities for collaborative work, their careers, and open research at large.
 - Create a **safe and non-judgemental environment** to engage each other, celebrate successes, admit errors and draw learnings from our mistakes.
 - Be willing to **work through conflicts to resolution**.
-- Ensure that **transparent reporting practices and effective communications** becomes a regular and on-going component of our community building process.
+- Ensure that **transparent reporting practices and effective communications** become a regular and ongoing component of our community-building process.
 - Collaborate with individuals and institutions beyond the team that **expand and extend our mission for open research and community building**.
 
-To realise these principles, build a shared perspectives that underpin these guiding principles (taken from _Bassler, A. et al., "Developing Effective Citizen Engagement: A How-to Guide for Community Leaders." Center for Rural Pennsylvania, 2008_.):
+To realise these principles, build shared perspectives that underpin these guiding principles (taken from _Bassler, A. et al., "Developing Effective Citizen Engagement: A How-to Guide for Community Leaders." Center for Rural Pennsylvania, 2008_.):
 
 - **Change is a fundamental** part of growth and effective change must come from within individuals and groups. 
 - Community engagement/growth **starts by first changing ourselves**, our attitudes, language and the way we view the world around us.
