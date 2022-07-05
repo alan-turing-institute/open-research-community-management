@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [6 July 2022](#date-6-july-2022) 
 * [15 June 2022](#date-15-june-2022)
 * [08 June 2022](#date-8-june-2022)
 * [25 May 2022](#date-25-may-2022)
@@ -20,6 +21,48 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+
+## Date 6 July 2022
+
+### Check-in ritual
+Feeling good to be back up to speed after holiday and most things are ticking along nicely. Grateful for AS's continued good work :)
+
+### Project specific Reflection
+Nothing too urgent coming up so hoping to use July and August for planning/reflection time.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+- Have taken over UKRN Network Lead Role from AM with AC 
+- Helping Roche colleagues prep some slides to talk about the partnership 
+
+#### Who helped you this week?
+- DW with enthusiasm for video!
+- MS with connecting me with her old Roche colleague
+
+#### What did you achieve?
+- Updated partnership webpage and announced RC's start- https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/chakraborty
+- Met with Roche Senior Comms Manager to discuss better promoting partnership through Roche Comms
+- Met with DW to discuss Partnership Video
+- Set up new coffee bot and greeting message in the T-R Slack Workspace 
+- Continued drafting fellows docs
+- Drafting newsletter to send out on Friday
+- Invited some Roche people to attend the collab cafe- hoping to get them involved in TTW
+
+#### What did you struggle with?
+- Turing admin round fellows programme
+
+#### What would you like to work on next week?
+- Promoting July's Knowledge Share event
+- Planning for video
+- Planning for Expert Panel Meeting
+
+#### Where do you need help?
+- Fellows docs review- think you've already started! 
+
+#### Any other topics
+N/A
+
 ## Date 15 June 2022
 
 ### Check-in ritual
