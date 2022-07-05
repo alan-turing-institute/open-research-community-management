@@ -7,7 +7,7 @@ The project lead is Kirstie Whitaker and Malvika Sharan is the co-lead investiga
 
 ## Core Members of The Turing Way
 
-All community managers are onboarded as the core members of *The Turing Way*.
+All TPS Senior Researchers, Community Managers and Research Application Managers are onboarded as the `Core Staff Members` of *The Turing Way*. This team also involve `Core Volunteer Members` who are invited from the broader contributors community of *The Turing Way*.
 This means that 5-10% (Full Time Equivalent) of their work should be invested in the development, maintenance and sustainability of *The Turing Way*.
 Some roles, responsibilities and engagement pathways have been described in the [roles for core members](./roles-of-core-members.md) document.
 Also, see the [Ways of Working](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) in *The Turing Way*.
