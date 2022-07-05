@@ -1,5 +1,6 @@
 ## ALS + MS check-ins
 
+* [2022-06-28](#2022-06-28)
 * [2022-06-14](#2022-06-14)
 * [2022-06-07](#2022-06-07)
 * [2022-05-10](#2022-05-10)
@@ -9,6 +10,52 @@
 * [2022-04-05](#2022-04-05)
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
+
+## 2022-07-05
+### Upcoming Task updates
+- Community research: losing steam! want to make sure that updates are regular, as i think they're really important, but am feeling overwhelmed by other responsibilities.
+- Governance work: developing formats & ways of working for iteration.
+- Mozilla submission: context, doc
+- Developing WG: first meeting at next Collab Cafe
+- TPS peer mentoring programme
+- OLS <> Turing Way MOOC course: weekly co-working call
+- NHS Podcast: updates?
+- Github pull requests (need review)
+  - https://github.com/alan-turing-institute/the-turing-way/pull/2445
+  - https://github.com/alan-turing-institute/the-turing-way/pull/2357
+  - Currently reviewing forward PR
+
+### Thank yous
+- EK for a great talk on data papers! Also for talking through governance questions.
+- JD for getting the Mozilla submission over the hill.
+- VK, AC, HS for helping AAC presentation + general thinking through TTW perspectives for industry
+- LC for advice about translation across disciplines
+
+### Event updates
+- Collab Cafe (6 July): big team science submission,
+- AGS mapathon (7 July): Planning in process with AR + JD.
+- Catapult talk (20 July): Working, feedback during coworking call
+- July Fireside (24 July): invited 3/5! 1 accepted.
+- Connections Turing Course: can't attend co-working session
+- Kings College: now in Aug (keep ACC in loop)
+- August Fireside (24 Aug): planning in progress
+- CarpentryCon (): 2 times scheduled.
+- Newcastle (19-20 Sept):
+
+### Proposal updates
+- Mozilla AI Working Group (30 June): submitted
+- Code for All Summit (8 July): in progress(?)
+- Big Team Science (18 July): To be discussed at Collab Cafe
+- Other upcoming submissions (?)
+
+### Next week
+-
+
+
+### Ideas corner
+- Themed sessions around disciplines
+- 1 day book dash
+-
 
 ## 2022-06-14
 ### Task updates
