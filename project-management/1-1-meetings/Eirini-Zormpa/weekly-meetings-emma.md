@@ -2,6 +2,58 @@
 * [TEMPLATE](#TEMPLATE)
 * [21 June 2022](#date-21-June-2022)
 * [28 June 2022](#date-28-June-2022)
+* [5 July 2022](#date-5-July-2022)
+
+## Date: 5 July 2022
+
+**Check-in ritual**
+
+Had a lovely chat with JD about (broadly) language ✨
+
+### Project specific Reflection
+Last week got pretty busy; I was able to do a few things, but not everything I wanted. I kind of forgot I took Friday off 😅
+
+### Notes to discuss during 1:1
+- The OLS application
+ - EK - great job drafting this. 
+
+#### Who did you help this week?
+
+I helped out MM a bit with GitHub collaboration workflows
+
+#### Who helped you this week?
+- MM with introductions to AIM members
+- SB with flyers for the ECR lunch session
+
+#### What did you achieve?
+- I figured out a level to pitch the GitHub workshop at/what content to cover :tada:
+- I had some really nice/productive meetings.
+- I submitted my probation document.
+- I finished all the Bob's Business courses.
+- I was introduced (via email) to some of the project managers/COIs of the consortia and I tried to plan meetings with them.
+- I worked a little on advertising the next couple of ECR lunchtime sessions.
+  - EK - all great - well done.
+
+#### What did you struggle with?
+- I've started reaching out to project managers/PIs in the AIM consortia, but I'm not necessarily hearing back from them. 
+  - EK - try to find some work arounds to meet those postdocs/research assistants as they can be the most useful contacts for you. 
+- I still struggle with managing my time/to-do list.
+
+#### What would you like to work on next week?
+
+- Finish the first draft of the GitHub workshop (from last week)
+- Submit the OLS application (due on the 7th)
+- Follow up on various training things (Turing data science training, CM training resources)
+- Do some reading on things I can contribute to (TTW, Carpentries lesson on managing computatational projects)
+- Try to consolidate some of what I've learned
+
+#### Where do you need help?
+
+I think I'm okay? I'm still struggling with some things (obviously) but I think I have some ideas on how to approach the issues.
+
+#### Any other topics
+
+- None this week!
 
 ## Date: 28 June 2022
 
