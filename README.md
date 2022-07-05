@@ -59,7 +59,7 @@ As a team, we ensure that the research that happens at the Institute is created 
 ## Guiding Principles
 
 - Maintain respect, empathy and integrity within the team.
-- Actively identify opportunities for collaboration and applying open research practices.
+- Actively identify opportunities for collaboration and apply open research practices.
 - Prioritise diversity, equity and inclusion in all our work.
 - Provide access to resources that empower and enable each other to discover, display and directly use their knowledge and skills.
 - Contribute to the ongoing professional development of team members to maximise their contribution to the team's work, their careers, and open research at large.
