@@ -8,6 +8,8 @@
 * [7 June 2022](#date-7-June-2022)
 * [14 June 2022](#date-14-June-2022)
 * [22 June 2022](#date-22-June-2022)
+* [28 June 2022](#date-28-June-2022)
+* [05 July 2022](#date-05-July-2022)
 
 
 ## Date: 5 July 2022
@@ -21,13 +23,17 @@
 * We've been meeting with the consortia in a PPIE capacity and there's great insights into how we can support them. 
 * The website is not up yet (needs 2-3 days work to put the content in) which creates a small blocker for internal comms. 
 * Trying to work with Turing's comms team to get videos out to the consortia about sessions - the 2.4GB meetings just won't attach on an email. 
+	* EK - video uploading is a blocker for all CMs at the moment so you might want to use sharepoint now while you wait for that to happen. 
 
 #### Notes to discuss during 1:1
 
 * Updates from LC's 1:1 as we head into academic summer 
 * Discussing what help/support I can give the consortia within the remit
+	* EK - let's speak to DC about LC capacity. 
 * Unravelling the people resources for PPIE boards.  
+	* EK - how many people, what their capacity is to sit on 1 or more boards. What positions you need - number of boards and number of people needed on them. Timeframe for this happening? 
 * What task management tools do you use across your projects? (just brain storming would be fab) 
+	* EK - Todoist for long term tracking of different project tasks - I also use paper lists and constantly update them.  
 
 ### 📚 Updates
 
@@ -44,13 +50,13 @@
 * ✅ Worked on OLS application (70% complete)
 * ✅ Finished each section of ethics form. Want to allocate a couple hours to give it a once over and check for spelling/grammar/any missing pieces and then submit 🚀
 * ✅ Met with PPIE theme leads to better understand their projects' needs ahead of the meeting this week
-* ✅ Met with Lyns about summer plans and work packages
+* ✅ Met with LC about summer plans and work packages
 * ✅ Met with 2 further consortia
 * ✅ Protected the main branches. 
 
 #### What did you struggle with?
 
-* am 3 meetings behind on notes - I did the meeting recordings but just haven't caught back up. 
+* I am 3 meetings behind on notes - I did the meeting recordings but just haven't caught back up. 
 * Bandwidth is being taken up by the big meaty strategy tasks. Not a bad thing, just an acknowledgement that there's really important work in capturing the outcomes and learnings from meetings and work pieces that takes time to deep think about. 
 * Haven't had mental/bug solving space to get the Hugo site up. Need to timeblock but there's been higher priority things, but not having that site is also creating some blocks (especially with event comms). 
 
@@ -69,11 +75,12 @@
 #### Where do you need help?
 
 * Any recordings of TTW GitHub intro would be fantastic (EZ was asking).
+	* EK - here are some links for Github intro - [OLS5 upskilling in Github beginner](https://www.youtube.com/watch?v=90BOler9hqI&list=PL1CvC6Ez54KBGAovzRr9kpr_uos26m_17&index=4)
+	* A session I ran recently as [Github basics](https://www.youtube.com/watch?v=uVsYTv4CG14)
 
 #### Any other topics
 
-
-
+* EK - a reflection on how you are working as a turing team is a priority before the summer. 
 
 ## Date: 28 June 2022
 
