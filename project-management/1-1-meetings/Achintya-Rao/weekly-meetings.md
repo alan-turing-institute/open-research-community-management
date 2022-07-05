@@ -4,6 +4,7 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-07-05](#2022-07-05)
 - [2022-06-21](#2022-06-21)
 - [2022-05-31](#2022-05-31)
 - [2022-05-11](#2022-05-11)
@@ -22,6 +23,52 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-07-05
+
+### Check-in ritual
+
+- Still recovering from a bad bout of COVID so not firing on all cylinders.
+- Looking forward to our first in-person ASG-wide event!
+Only around 40 people attending, though.
+- Thanks for approving the switch to compressed weeks!
+
+### Project-specific reflection
+
+- Had a slight course-correction re. white papers, following meeting with BM, MS and ZE.
+- Have blocked chunks of time to spend working on the drafting process as I’ve been struggling with the stop-start nature of work at times.
+
+### Notes to discuss during 1:1
+
+#### Whom did you help since the last meeting?
+
+- MS with some post-work conversations.
+- ZI with reviews of comms. sent to speakers.
+
+#### Who helped you since the last meeting?
+
+- ZI for handling all of the ASG event work while I was on sick leave.
+- MS for advice on how to proceed with community building as part of the white-paper work.
+- MS for taking and sharing notes from meeting re. white papers.
+- JD for helping ZI plan the workshops/demos session at the ASG event.
+- AM for aggregating list of impact case studies for all three white papers.
+
+#### What did you achieve?
+
+- Reworked mapathon plans with ZI, JD and AC.
+- Began working on ASG impact stories (Scivision).
+- Presented ASG event update as MB.
+- Briefed BC re. ASG event that they’re chairing.
+
+#### What are you working on this week and what are your priorities?
+
+- Continue working on Scivision impact story and finalise for BM, MS and ZE to review.
+- Contact speakers on engagement panel to brief them on the structure/scope of the session.
+- Final preparations for ASG event on Thursday/Friday.
+
+#### Where do you need help?
+
+- Could do with some advice on what I need to do to onboard the RAMs to the white-paper process.
 
 ## 2022-06-21
 
