@@ -15,6 +15,7 @@ Last week got pretty busy; I was able to do a few things, but not everything I w
 
 ### Notes to discuss during 1:1
 - The OLS application
+ - EK - great job drafting this. 
 
 #### Who did you help this week?
 
@@ -31,9 +32,11 @@ I helped out MM a bit with GitHub collaboration workflows
 - I finished all the Bob's Business courses.
 - I was introduced (via email) to some of the project managers/COIs of the consortia and I tried to plan meetings with them.
 - I worked a little on advertising the next couple of ECR lunchtime sessions.
+  - EK - all great - well done.
 
 #### What did you struggle with?
-- I've started reaching out to project managers/PIs in the AIM consortia, but I'm not necessarily hearing back from them.
+- I've started reaching out to project managers/PIs in the AIM consortia, but I'm not necessarily hearing back from them. 
+  - EK - try to find some work arounds to meet those postdocs/research assistants as they can be the most useful contacts for you. 
 - I still struggle with managing my time/to-do list.
 
 #### What would you like to work on next week?
