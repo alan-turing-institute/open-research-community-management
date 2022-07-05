@@ -58,14 +58,22 @@ As a team, we ensure that the research that happens at the Institute is created 
 
 ## Guiding Principles
 
-- Maintain respect, empathy and integrity within the team.
-- Actively identify opportunities for collaboration and apply open research practices.
-- Prioritise diversity, equity and inclusion in all our work.
-- Provide access to resources that empower and enable each other to discover, display and directly use their knowledge and skills.
-- Contribute to the ongoing professional development of team members to maximise their contribution to the team's work, their careers, and open research at large.
-- Create a safe and non-judgemental environment to admit errors and draw learnings from our mistakes.
-- Collaborate with individuals and institutions beyond the team that expand and extend our mission for open research and community building.
-- Be willing to work through conflicts to resolution.
+- Maintain **respect, empathy and integrity** in the team and the communities we build.
+- Prioritise **diversity, equity and inclusion** in all our work.
+- **Share knowledge** about the scientific communities you coordinate and the issue you are seeking to address.
+- Actively **create and identify future opportunities** to enable collaboration and integration of open research practices to co-create additional knowledge.
+- Provide **access to resources that empower and enable** each other to discover, display and directly use their knowledge and skills. 
+- Contribute to the ongoing professional development that **maximise team members' contribution** to the collaborative work, their careers, and open research at large.
+- Create a **safe and non-judgemental environment** to engage each other, celebrate successes, admit errors and draw learnings from our mistakes.
+- Be willing to **work through conflicts to resolution**.
+- Ensure that **transparent reporting practices and effective communications** becomes a regular and on-going component of our community building process.
+- Collaborate with individuals and institutions beyond the team that **expand and extend our mission for open research and community building**.
+
+To realise these principles, build a shared perspectives that underpin these guiding principles (taken from _Bassler, A. et al., "Developing Effective Citizen Engagement: A How-to Guide for Community Leaders." Center for Rural Pennsylvania, 2008_.):
+
+- **Change is a fundamental** part of growth and effective change must come from within individuals and groups. 
+- Community engagement/growth **starts by first changing ourselves**, our attitudes, language and the way we view the world around us.
+- Communities are most successful when true partnerships exist and **power or control is delegated and vested effectively** within the community.
 
 ## Important Documents for the Team Members
 
