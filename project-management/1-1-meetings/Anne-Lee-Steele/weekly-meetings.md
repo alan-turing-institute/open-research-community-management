@@ -13,8 +13,10 @@
 
 ## 2022-07-05
 ### Upcoming Task updates
+- Annual leave! Off for the next two weeks.
 - Community research: losing steam! want to make sure that updates are regular, as i think they're really important, but am feeling overwhelmed by other responsibilities.
-- Governance work: developing formats & ways of working for iteration.
+  - template w/ bullet points
+- Governance work: developing formats & ways of working for iteration. prepping monthly update: sending slide notes & scheduling for monthly check-in at collaboration cafe
 - Mozilla submission: context, doc
 - Developing WG: first meeting at next Collab Cafe
 - TPS peer mentoring programme
