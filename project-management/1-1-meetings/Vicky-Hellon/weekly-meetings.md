@@ -34,6 +34,7 @@ Nothing too urgent coming up so hoping to use July and August for planning/refle
 
 #### Who did you help this week?
 - Have taken over UKRN Network Lead Role from AM with AC 
+    - EK - this is great, I'm interested to hear more about this as it is a good way to spread the word about TTW.
 - Helping Roche colleagues prep some slides to talk about the partnership 
 
 #### Who helped you this week?
@@ -45,9 +46,11 @@ Nothing too urgent coming up so hoping to use July and August for planning/refle
 - Met with Roche Senior Comms Manager to discuss better promoting partnership through Roche Comms
 - Met with DW to discuss Partnership Video
 - Set up new coffee bot and greeting message in the T-R Slack Workspace 
+  * EK - This is a great thing try and encourage other to join in. 
 - Continued drafting fellows docs
 - Drafting newsletter to send out on Friday
 - Invited some Roche people to attend the collab cafe- hoping to get them involved in TTW
+  * EK - All going great! - I reviewed the fellows docs so hope that is helpful! Do get BM to step in if there is an issue with doing this.  
 
 #### What did you struggle with?
 - Turing admin round fellows programme
@@ -59,6 +62,7 @@ Nothing too urgent coming up so hoping to use July and August for planning/refle
 
 #### Where do you need help?
 - Fellows docs review- think you've already started! 
+ * EK - yes this is done but let me know if you want to discuss this further. 
 
 #### Any other topics
 N/A
