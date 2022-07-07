@@ -1,6 +1,7 @@
 ## ALS + MS check-ins
 
 * [2022-06-28](#2022-06-28)
+* [2022-06-21](#2022-06-21)
 * [2022-06-14](#2022-06-14)
 * [2022-06-07](#2022-06-07)
 * [2022-05-10](#2022-05-10)
@@ -74,6 +75,52 @@ MS: 🙌
 - 1 day book dash <-- MS: call this something different to not confuse formats. Mini-sprint, or themed sprint
 
 MS: Thank you for the fantastic work! Always a pleasure to see updates from your work.
+
+## 2022-06-21
+### Task updates
+- Newsletter - sent!
+- Prepping first tasks for working group:
+  - Planning document
+  - Note of Notes
+- File Reimbursements
+- Preparing for annual leave (8-23 July) -> what needs to get done during that time?
+ -->
+
+### Thank yous
+- SB for reviewing the mailing list!
+- ACC for collaborating on a new slide deck for industry
+- AC for planning coffee chats
+- JD on feedback for Big Team Science submission
+
+### Event updates
+- June Fireside (20 June): planning document, plan for call with speakers at co-working call next week.
+- Turing Training Portal (June-July): P working for 1 month. Teaching material online from OLS-5 (notes, prompts, templates)
+- Collab Cafe (6 July): hosted by RAM team (reach out?)
+- AGS mapathon (7 July): Planning in process with AR + JD.
+- July Fireside (24 July): Planning in progress with Carpentries
+- Catapult Energy event (late July): AAC speaking
+- OLS Graduation (July): Updates for progress
+- Connections Workshop (2-3 August): half-day
+- CarpentryCon (4 & 10 August): pending dates
+- August Fireside (30 Aug): Planning in progress with CS&S
+- TPS Coffee Chats (all Sept): 4-5 speakers
+- September Fireside (30 September): Product management w/ startups (A or J with CH)
+- Kings College: event now in Oct
+
+### Proposal updates
+- Low Carbon Methods
+- Big Team Science (22 July): Planning for co-working call (20 June) w/ JD & AC
+- WritetheDocs (30 June):  Co-working call (27 June)
+
+### Next week
+- Github repo (reserved for Friday!)
+- Fireside chats: Create issue (metrics for hybrid events)
+- AC + TC (with CF): what's the relationship there?
+- Things to ping MS about:
+  - Community share-outs video (upload)
+  - Book Dash report
+  
+### Ideas corner
 
 ## 2022-06-14
 ### Task updates
