@@ -1,7 +1,73 @@
 # Eirini and Evelina 1-to-1 meetings
 
+* [TEMPLATE](#TEMPLATE)
+* [17 June 2022](#date-17-June-2022)
+* [29 June 2022](#date-29-June-2022)
 
-## Date: 17 Jun 2022
+## Date: 29 June 2022
+
+### Project specific Reflection
+
+- I've been working on brainstorming workshops we can offer for ECRs easily.
+- I've been thinking how to frame the GitHub workshop.
+- We need to advertise the next ECR talk.
+- Signed up to help out with the Connections workshop.
+- I've been working on drafting the OLS-6 application.
+- I started going to more AIM talks.
+- I still had to submit documents for background checks etc.
+- I'm continuing to meet up with people.
+- I finished the Bob's business courses
+- I worked on my probation document.
+
+### Notes to discuss during 1:1
+
+- The ECR events (Cautionary tales talk and GitHub workshop).
+  - We need to start advertising both events
+  - We need to edit the calendar invites (to add the HackMD doc and maybe change the time/duration for the workshop?)
+- Any feedback on the probation document
+
+#### Who did you help this week?
+
+- I helped MM and SB with notes at the drug coding talk last week.
+
+#### Who helped you this week?
+
+- SB continues to be amazing; she's helped me out with GitHub and other questions.
+- MM and SB helped me with the notes at the drug coding talk.
+- DC helped me out with questions about the ECR events and GDPR questions.
+- MS and EK have been great at getting me in touch with people I should meet/talk to.
+- I got some excellent tips from the Community Managers about mapping training neeeds.
+
+#### What did you achieve?
+
+- I've been ticking off things on the new starter list (training, admin, probation doc).
+- I've been making some progress with thinking about ECR events in the summer and beyond.
+
+#### What did you struggle with?
+
+- I'm still not always sure where to find information and feel a bit out of the loop/stuck sometimes.
+- Managing my time/concentration/to-do list.
+
+#### What would you like to work on next week?
+
+- Finish OLS application
+- Finish the first draft of the GitHub workshop
+- Talk to MS about how to collate training topics and resources from TTW that are easily available
+- Review data storage within RSF locations
+- Find out more about GDPR processes at the Turing
+- I need to devote some time to Carpentries things
+- Meet more people!
+
+#### Where do you need help?
+
+- I need some help from SB with finishing the OLS application and with advertising the ECR event
+- Our session for Coding Confessions was accepted at the RSECon :tada: Do you think you could help me get someone from REG to present?
+
+#### Any other topics
+
+- I joined a group working on a guide for code checks!
+
+## Date: 17 June 2022
 
 ### Check-in ritual
 - Sophia has been incredible with the initial onboarding and general support throughout my first days.
@@ -49,10 +115,10 @@
 #### What would you like to work on next week?
 
 - [ ] Work on a plan for next steps for the RSF with Evelina and Sophia.
-- [ ] Work on a project proposal for Open Life Science with Sophia.
-- [ ] Continue meeting up with relevant people (incl. being introduced to some progamme managers (?) of the consortia)
-- [ ] Continue reading RSF documentation (haven't looked at Sharepoint files yet)
-- [ ] I haven't received a link to the traning videos from HR - need to follow up with them and watch them.
+- [x] Work on a project proposal for Open Life Science with Sophia.
+- [x] Continue meeting up with relevant people (incl. being introduced to some progamme managers (?) of the consortia)
+- [x] Continue reading RSF documentation (haven't looked at Sharepoint files yet)
+- [x] I haven't received a link to the traning videos from HR - need to follow up with them and watch them.
 
 #### Where do you need help?
 
@@ -64,7 +130,9 @@
 - Not really :)
 
 
-## TEMPLATE: Date: YYYY-MM-DD
+## TEMPLATE
+
+## Date: YYYY-MM-DD
 
 ### Check-in ritual
 (Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
