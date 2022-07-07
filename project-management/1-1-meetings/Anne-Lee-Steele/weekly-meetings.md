@@ -1,5 +1,6 @@
 ## ALS + MS check-ins
 
+* [2022-06-28](#2022-06-28)
 * [2022-06-21](#2022-06-21)
 * [2022-06-14](#2022-06-14)
 * [2022-06-07](#2022-06-07)
@@ -10,6 +11,70 @@
 * [2022-04-05](#2022-04-05)
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
+
+## 2022-07-05
+### Upcoming Task updates
+- Annual leave! Off for the next two weeks.
+  - MS: please disconnect completely! I hope you have a nice break.
+- Community research: losing steam! want to make sure that updates are regular, as i think they're really important, but am feeling overwhelmed by other responsibilities.
+  - MS: I really appreciate those notes. Can you think of a template w/ bullet points that can minimise the work load?
+- Governance work: developing formats & ways of working for iteration. prepping monthly update: sending slide notes & scheduling for monthly check-in at collaboration cafe
+  - MS: Thank you for creating the slide deck. It is easier to look at what we have discussed so far and how do they fit together.
+- Developing WG: first meeting at next Collab Cafe
+- TPS peer mentoring programme
+- OLS <> Turing Way MOOC course: weekly co-working call
+  - MS: Massive thank you for doing these. Is there anything you would like to take off your list or have them pushed for later? Maybe we don't need to do much for peer mentoring before the MOOC is out of the way.
+- NHS Podcast: updates?
+  - MS: I will ping again.
+- Github pull requests (need review)
+  - https://github.com/alan-turing-institute/the-turing-way/pull/2445
+  - https://github.com/alan-turing-institute/the-turing-way/pull/2357
+    - MS: Done! Thank you for pinging those links here.
+  - Currently reviewing foreword PR
+- Sumbissions: Mozilla submission, OpenUK
+  - MS: Can you share links for these? I might have lost them.
+
+### Thank yous
+- EK for a great talk on data papers! Also for talking through governance questions.
+- JD for getting the Mozilla submission over the hill.
+- VK, AC, HS for helping AAC presentation + general thinking through TTW perspectives for industry
+- LC for advice about translation across disciplines
+
+MS: 🙌
+
+### Event updates
+- Collab Cafe (6 July): big team science submission,
+- AGS mapathon (7 July): Planning in process with AR + JD.
+- Catapult talk (20 July): Working, feedback during coworking call
+- July Fireside (24 July): invited 3/5! 1 accepted.
+  - MS: are there other speaker suggestions in place? Can I help with this?
+- Connections Turing Course: can't attend co-working session
+- NHS digital workshop (EK+VH)
+- Kings College: now in Aug (keep ACC in loop)
+- August Fireside (24 Aug): planning in progress
+- CarpentryCon (4 Aug & 10 Aug): 2 times scheduled.
+  - MS: do you have speakers lined up for this?
+- Newcastle (19-20 Sept):
+  - MS: do these dates work for you? I can probably do it - but happy to get someone else from core team involved. Maybe Batool is in the UK and would like to co-lead this.
+
+### Proposal updates
+- Mozilla AI Working Group (30 June): submitted
+- Code for All Summit (8 July): in progress(?)
+- OpenUK: 15 July
+- UNESCO call for open science best practices (15 July)
+- Big Team Science (18 July): To be discussed at Collab Cafe
+- Other upcoming submissions (?)
+  - MS: OpenUK and UNESCO - deadline for both is 15 July
+
+### Next week
+-
+
+
+### Ideas corner
+- Themed sessions around disciplines
+- 1 day book dash <-- MS: call this something different to not confuse formats. Mini-sprint, or themed sprint
+
+MS: Thank you for the fantastic work! Always a pleasure to see updates from your work.
 
 ## 2022-06-21
 ### Task updates
@@ -54,8 +119,7 @@
 - Things to ping MS about:
   - Community share-outs video (upload)
   - Book Dash report
-
-
+  
 ### Ideas corner
 
 ## 2022-06-14
