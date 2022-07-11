@@ -3,6 +3,60 @@
 * [21 June 2022](#date-21-June-2022)
 * [28 June 2022](#date-28-June-2022)
 * [5 July 2022](#date-5-July-2022)
+* [12 July 2022](#date-12-July-2022)
+
+## Date: 12 July 2022
+
+**Check-in ritual**
+- I'm very happy we got more people to show up for the ECR session on Wednesday and I'm hoping we can make a useR group happen 🏴‍☠️✨
+- EB is back 💞
+
+### Project specific Reflection
+
+- Things have been going pretty well! I'm making some progress on arranging meetings with researchers and I'm also getting somewhere with the GitHub slides.
+
+### Notes to discuss during 1:1
+
+- I've been working a bit slower than I'd like - part heat, part politics, part meetings - so I think I won't come to the office/HDR-UK event on Wednesday.
+
+#### Who did you help this week?
+
+- I think SB is quite happy she doesn't have to do the GitHub training :)
+
+#### Who helped you this week?
+
+- EK wrote up reflections on the RSF for the Q2 report to take it of my and SB's plate which was amazing 💗
+- SB has written a really useful guide to installing homebrew on Macs with Apple chips
+- DC has been great with sending out emails to ECRs for the talks
+
+#### What did you achieve?
+
+- Arranged a couple of meetings with consortia PIs/ECRs :tada:
+- Submitted the OLS application
+- Made progress with the GitHub workshop
+- Started compiling resources from the Community Managers on training they have provided in the past
+- Chaired the ECR lunchtime session
+- Finished reading a bunch of policies on Cezanne
+
+#### What did you struggle with?
+
+- My concentration isn't great right now
+
+#### What would you like to work on next week?
+
+* Finish the GitHub presentation
+* Meet up with researchers
+* Arrange more meetings with researchers 🤞
+* Connections workshop prep
+* Community Managers training
+
+#### Where do you need help?
+
+- I think I'm okay? I might send the GitHub presentation over once I have something in each slide!
+
+#### Any other topics
+
+- I'm pretty nervous about meeting up with one of the PIs today 🙈
 
 ## Date: 5 July 2022
 
