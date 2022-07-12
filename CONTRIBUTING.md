@@ -24,17 +24,17 @@ licensor endorses you or your use, and with no additional restrictions. (see [Li
 Please read the documents hosted in this repository.
 For open tasks in this repository, please see the [Issues section](https://github.com/alan-turing-institute/open-community-building/issues).
 Reply under any issue by using the comment feature.
-You are welcome to create [new issues](https://github.com/alan-turing-institute/open-community-building/issues/new?assignees=&labels=&template=GENERAL_ISSUE.md) or open [Pull Requests](https://github.com/fedenanni/HDS-DiscussionGroup/pulls) to suggest changes, update or addition or materials as useful for your work as a community manager and open researcher.
+You are welcome to create [new issues](https://github.com/alan-turing-institute/open-community-building/issues/new?assignees=&labels=&template=GENERAL_ISSUE.md) or open [Pull Requests](https://github.com/alan-turing-institute/open-community-building/pulls) to suggest changes, update or addition or materials as useful for your work as a community manager and open researcher.
 
 🎉 I want to regularly to this repository and I am ready to contribute! 🛠
 ---
 
 
-- Raise mistakes, errors or missing information on this repository by opening a [Pull Request](https://github.com/fedenanni/HDS-DiscussionGroup/pulls)
+- Raise mistakes, errors or missing information on this repository by opening a [Pull Request](https://github.com/alan-turing-institute/open-community-building/pulls)
   - Read details on [how to open a Pull Request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)
   - Submit trivial fixes (for example, a typo, a broken link or an obvious error)
   - Start work on a contribution that is already listed as an issue or something you’ve already discussed
-  - A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
+  - A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Please mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
 
 Contact
 ---

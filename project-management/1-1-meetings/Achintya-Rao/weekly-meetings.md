@@ -4,6 +4,8 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-07-05](#2022-07-05)
+- [2022-06-21](#2022-06-21)
 - [2022-05-31](#2022-05-31)
 - [2022-05-11](#2022-05-11)
 - [2022-05-03](#2022-05-03)
@@ -21,6 +23,143 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-07-05
+
+### Check-in ritual
+
+- Still recovering from a bad bout of COVID so not firing on all cylinders.
+- Looking forward to our first in-person ASG-wide event!
+Only around 40 people attending, though.
+- Thanks for approving the switch to compressed weeks!
+
+### Project-specific reflection
+
+- Had a slight course-correction re. white papers, following meeting with BM, MS and ZE.
+- Have blocked chunks of time to spend working on the drafting process as I’ve been struggling with the stop-start nature of work at times.
+
+### Notes to discuss during 1:1
+
+#### Whom did you help since the last meeting?
+
+- MS with some post-work conversations.
+- ZI with reviews of comms. sent to speakers.
+
+#### Who helped you since the last meeting?
+
+- ZI for handling all of the ASG event work while I was on sick leave.
+- MS for advice on how to proceed with community building as part of the white-paper work.
+- MS for taking and sharing notes from meeting re. white papers.
+- JD for helping ZI plan the workshops/demos session at the ASG event.
+- AM for aggregating list of impact case studies for all three white papers.
+
+#### What did you achieve?
+
+- Reworked mapathon plans with ZI, JD and AC.
+- Began working on ASG impact stories (Scivision).
+- Presented ASG event update as MB.
+- Briefed BC re. ASG event that they’re chairing.
+
+#### What are you working on this week and what are your priorities?
+
+- Continue working on Scivision impact story and finalise for BM, MS and ZE to review.
+- Contact speakers on engagement panel to brief them on the structure/scope of the session.
+- Final preparations for ASG event on Thursday/Friday.
+
+#### Where do you need help?
+
+- Could do with some advice on what I need to do to onboard the RAMs to the white-paper process.
+
+---
+- Long list of projects
+  - Project, one sentence summary, project lead, links, specific CTP
+- Onboarding for ASG white: Contributing guideline
+  - GitHub access
+  - Overleaf access (joinable link)
+  - Zotero for reference: https://www.zotero.org/groups/4652021/turing_asg/library
+    - Enhancing International Cooperation in AI Research: The Case for a Multilateral AI Research Institute: https://www.zotero.org/groups/4652021/turing_asg/items/S39Z5CXE
+    - Research Data: The Future of FAIR White paper: https://www.zotero.org/groups/4652021/turing_asg/items/GSJT7NEL/
+    - Language: https://arxiv.org/abs/2206.03216
+  - Comms channels
+  - References for white paper
+    - Long list
+    - Structure of paper (E&S paper)
+    - Timeline
+    - Milestones
+  - Roles
+    - Authors
+    - Review
+    - Editor
+    - Data journalism
+    - Gap and impact (ZE and MC)
+  - Authorship
+    - <CRediT document>
+  - Introduction
+    - Broad overview of the problem area
+  - What are some references we are considering for he white paper
+    - https://www.zotero.org/groups/4652021/turing_asg/items/S39Z5CXE
+  - Issue of wish list ASG white paper
+
+---
+
+## 2022-06-21
+
+### Check-in ritual
+
+- Things seem to be going well with the ASG event in July with most speakers now confirmed.
+We’re still only about halfway to capacity in terms of in-person attendees, though.
+- Have scheduled weekly meetings with ZI to work on all the projects we have ahead.
+- Have scheduled twice-weekly co-working calls with ZE to work on the white papers.
+- Would like to switch to compressed weeks working four days (Tue--Thu, if possible).
+
+### Project-specific reflection
+
+- Updating canonical document (Google Docs) with all of the projects I’m involved with.
+- Have revised the timeline for the white papers and sent it to ZI.
+- Had a productive chat with ZE re. content and editing process of the white papers and am confident we’ll forge ahead with dedicated time devoted to it.
+
+### Notes to discuss during 1:1
+
+#### Whom did you help since the last meeting?
+
+- My goatherding last week helped at least once person bring about a change in their routine so I’m glad to know it was useful!
+
+#### Who helped you since the last meeting?
+
+- DC for talking about structuring working days.
+- VH for advice on workshop organising.
+- RB for joining the E&S white paper.
+- ZE for a productive meeting on the E&S white paper last week.
+- ZI for bring an absolutely ace RPM and for offering to do a half-day planning sprint in person at the office.
+
+#### What did you achieve?
+
+##### ASG July event
+
+- ZI has helped contact most speakers and I am following up with a few.
+- Agenda is nearly frozen.
+
+##### White papers
+
+- Established working plan with ZE and made notes together.
+- Onboarded RB for E&S white paper section but also EDT potentially.
+
+##### AIUK 2023
+
+- Had a kick-off meeting to plan AIUK 2023 with HS, ZI and events team.
+
+#### What are you working on this week and what are your priorities?
+
+- Finalise speakers and chairs for the ASG event panels.
+- Speaker briefs for all participants.
+- Ping potential poster contributors.
+- Co-work with ZE on white papers.
+- Triage GitHub issues.
+- Present ASG event update at ASG MB.
+
+#### Where do you need help?
+
+- How do I delegate some of the communication outputs to more people and support them in the production?
 
 ## 2022-05-31
 

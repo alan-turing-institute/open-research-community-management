@@ -1,5 +1,9 @@
 ## ALS + MS check-ins
 
+* [2022-06-28](#2022-06-28)
+* [2022-06-21](#2022-06-21)
+* [2022-06-14](#2022-06-14)
+* [2022-06-07](#2022-06-07)
 * [2022-05-10](#2022-05-10)
 * [2022-05-03](#2022-05-03)
 * [2022-04-19](#2022-04-19)
@@ -7,6 +11,269 @@
 * [2022-04-05](#2022-04-05)
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
+
+## 2022-07-05
+### Upcoming Task updates
+- Annual leave! Off for the next two weeks.
+  - MS: please disconnect completely! I hope you have a nice break.
+- Community research: losing steam! want to make sure that updates are regular, as i think they're really important, but am feeling overwhelmed by other responsibilities.
+  - MS: I really appreciate those notes. Can you think of a template w/ bullet points that can minimise the work load?
+- Governance work: developing formats & ways of working for iteration. prepping monthly update: sending slide notes & scheduling for monthly check-in at collaboration cafe
+  - MS: Thank you for creating the slide deck. It is easier to look at what we have discussed so far and how do they fit together.
+- Developing WG: first meeting at next Collab Cafe
+- TPS peer mentoring programme
+- OLS <> Turing Way MOOC course: weekly co-working call
+  - MS: Massive thank you for doing these. Is there anything you would like to take off your list or have them pushed for later? Maybe we don't need to do much for peer mentoring before the MOOC is out of the way.
+- NHS Podcast: updates?
+  - MS: I will ping again.
+- Github pull requests (need review)
+  - https://github.com/alan-turing-institute/the-turing-way/pull/2445
+  - https://github.com/alan-turing-institute/the-turing-way/pull/2357
+    - MS: Done! Thank you for pinging those links here.
+  - Currently reviewing foreword PR
+- Sumbissions: Mozilla submission, OpenUK
+  - MS: Can you share links for these? I might have lost them.
+
+### Thank yous
+- EK for a great talk on data papers! Also for talking through governance questions.
+- JD for getting the Mozilla submission over the hill.
+- VK, AC, HS for helping AAC presentation + general thinking through TTW perspectives for industry
+- LC for advice about translation across disciplines
+
+MS: 🙌
+
+### Event updates
+- Collab Cafe (6 July): big team science submission,
+- AGS mapathon (7 July): Planning in process with AR + JD.
+- Catapult talk (20 July): Working, feedback during coworking call
+- July Fireside (24 July): invited 3/5! 1 accepted.
+  - MS: are there other speaker suggestions in place? Can I help with this?
+- Connections Turing Course: can't attend co-working session
+- NHS digital workshop (EK+VH)
+- Kings College: now in Aug (keep ACC in loop)
+- August Fireside (24 Aug): planning in progress
+- CarpentryCon (4 Aug & 10 Aug): 2 times scheduled.
+  - MS: do you have speakers lined up for this?
+- Newcastle (19-20 Sept):
+  - MS: do these dates work for you? I can probably do it - but happy to get someone else from core team involved. Maybe Batool is in the UK and would like to co-lead this.
+
+### Proposal updates
+- Mozilla AI Working Group (30 June): submitted
+- Code for All Summit (8 July): in progress(?)
+- OpenUK: 15 July
+- UNESCO call for open science best practices (15 July)
+- Big Team Science (18 July): To be discussed at Collab Cafe
+- Other upcoming submissions (?)
+  - MS: OpenUK and UNESCO - deadline for both is 15 July
+
+### Next week
+-
+
+
+### Ideas corner
+- Themed sessions around disciplines
+- 1 day book dash <-- MS: call this something different to not confuse formats. Mini-sprint, or themed sprint
+
+MS: Thank you for the fantastic work! Always a pleasure to see updates from your work.
+
+## 2022-06-21
+### Task updates
+- Newsletter - sent!
+- Prepping first tasks for working group:
+  - Planning document
+  - Note of Notes
+- File Reimbursements
+- Preparing for annual leave (8-23 July) -> what needs to get done during that time?
+ -->
+
+### Thank yous
+- SB for reviewing the mailing list!
+- ACC for collaborating on a new slide deck for industry
+- AC for planning coffee chats
+- JD on feedback for Big Team Science submission
+
+### Event updates
+- June Fireside (20 June): planning document, plan for call with speakers at co-working call next week.
+- Turing Training Portal (June-July): P working for 1 month. Teaching material online from OLS-5 (notes, prompts, templates)
+- Collab Cafe (6 July): hosted by RAM team (reach out?)
+- AGS mapathon (7 July): Planning in process with AR + JD.
+- July Fireside (24 July): Planning in progress with Carpentries
+- Catapult Energy event (late July): AAC speaking
+- OLS Graduation (July): Updates for progress
+- Connections Workshop (2-3 August): half-day
+- CarpentryCon (4 & 10 August): pending dates
+- August Fireside (30 Aug): Planning in progress with CS&S
+- TPS Coffee Chats (all Sept): 4-5 speakers
+- September Fireside (30 September): Product management w/ startups (A or J with CH)
+- Kings College: event now in Oct
+
+### Proposal updates
+- Low Carbon Methods
+- Big Team Science (22 July): Planning for co-working call (20 June) w/ JD & AC
+- WritetheDocs (30 June):  Co-working call (27 June)
+
+### Next week
+- Github repo (reserved for Friday!)
+- Fireside chats: Create issue (metrics for hybrid events)
+- AC + TC (with CF): what's the relationship there?
+- Things to ping MS about:
+  - Community share-outs video (upload)
+  - Book Dash report
+  
+### Ideas corner
+
+## 2022-06-14
+### Task updates
+- Newsletter
+  - Add in details from book dash
+  - Send in by Thursday
+- Project management system
+  - Github issues: sorting through
+  - Starting "Github Fridays" 10am-12pm, starting next week!
+- Working Group + Core team meeting
+- Timeline for strategy + goals
+  - June/July/August: Working Group
+  - September/October/November/December: piloting
+  - January: Set up informal spaces
+- Community research
+  - Book Dash: adding people's information to contributor record
+  - Updating Ways of Working document
+  - Process of publishing & research
+  - Need to get feedback on texts
+  - Technical infrastructure work (forward!)
+- NHS podcast:
+- UNESCO call: MS will follow-up
+- Fireside chat June 30: MS will send message
+- AC: first meeting on TTW stakeholders, contributor in focus
+- Other ongoing projects
+  - CZI grants: OLS+CS&S, 2i2c/Jupyter (CH applying), FORRT/Telerify,
+  - Metadocencia: starting governance
+  - Emerging grant for localisation/support/translation (supporting others)
+
+### Thank yous
+- SB + HS for getting CarpentryCon over the hill!
+- AC for making the hybrid working feedback HackMD + first "network/stakeholder" meeting!
+- JD for planning a great event!
+
+### Event updates
+- Connections Turing Course: getting confirmation of dates this week
+- First core team meeting (10 June):
+- UNESCO Workshop (15 June): scheduled for tomorrow
+- Ordnance Survey (16 June): attending
+- June Fireside (20 June):
+- Collab Cafe (1 July):
+- AGS mapathon (7 July): Planning in process with AR + JD.
+- July Fireside (24 July):
+- Kings College: now in Oct (keep ACC in loop)
+
+### Proposal updates
+- Low Carbon Methods: Will propose a workshop at the next Collab Cafe for feedback
+- Team Science (18 June): Co-working call (20 June)
+- WritetheDocs (30 June):  Co-working call (27 June)
+
+### Next week
+- Github (to check next week)
+  - Forward chapter (Github): review this next week!
+  - UX/UI package
+  - GSoC issue: how to test it
+- Build book locally: how?!
+- CF to be invited to CM team!
+
+### Ideas corner
+- Prioritising non-:
+  - Long term: Governance/Core Team Work,
+- Stickers
+
+## 2022-06-07
+### Task updates
+- Fireside chat: reached out to 2/4 panelists. Planning convo with RZ this week. Promotion starts next week?
+- First core team meeting: Confirm attendees, agenda, format
+- Project management system: Github tasks (reviewing repo), Tre
+- Added in workshop notes to community manager file
+- Tested Collab Cafe format w/ talk: review with MS
+- Research+Book Dash review: Reserving Friday for adding Book Dash contributions + Research update.
+- Planning for paid leave
+
+### Thank yous
+- KC team for the talk last week! + VH for the great collab.
+- EP, SB, HS for CarpentryCon brainstorming
+- JD for the brainstorming + office time
+- DG for guiding us through fediverse
+
+### Event updates
+- Collab Cafe (done!): Review
+- Kings College (done!): Review
+- Connections Turing Course: need confirmation of dates
+- First core team meeting (10 June)
+- UNESCO Workshop (15 June)
+- Ordnance Survey (16 June)
+- AGS mapathon (7 July): Planning in process
+- Kings College: now in Oct (keep ACC in loop)
+
+### Proposal/Event updates
+- RSECon: Unfortunately rejected! :'(
+- CarpentryCon: To be sent out by the end of this week
+- ConnectedLife: Happening 17th June w/ JD. Take day off?
+- Low Carbon Methods: Accepted. To be confirmed with team/possible collaborators.
+- WritetheDocs: Submission by end of June.
+
+### Next week
+- Proposing PM system
+- Short term goals: timeline planning
+- Long term goals: timeline planning
+
+### Ideas corner
+- "Mini" Book Dash: 1-day, check-in during the beginning of the day... editing throughout!
+- "Coffee chats" - piloting idea with Arielle
+
+## 2022-05-30
+### Task updates
+- Prepping for the June fireside chat (inviting speakers+planning logistics)
+- Adding information from book dash contributor files to the main repo (happening tomorrow)
+- Processing workflow information from BD for next community research update
+- Processing interview material to return to community members
+
+### Thank yous
+- VH for the talk feedback+speaker suggestion! (And continuing to give the talk- despite health!)
+- AR for getting things set up with the Bristol hub - we may be getting space @ JGI!
+- great suggestions for slack/community building from the Community Building team & Whitaker lab
+- GB for the suggestion for fireside chat
+- RD for a conversation about open infrastructure
+- And of course, thank you MS for the trust this week to present the project while in the states!
+
+### Event updates
+- king’s college (31 may) (ready to go for tomorrow!)
+-	right’s con (6 june): Signed up to see your presentation!
+-	ordnance survey (16 june): JD gave speaker suggestion, will follow up early next week.
+-	*connected life oxford (17 June) - JD & I were both accepted to present our respective work (on independent projects outside of TTW).
+– fireside chat (24 june) – reaching out to speakers this week and next. Will likely be emailing over the bank holidays, to ensure that people are available as needed.
+-	connections turing course: late june-early july. Need to pass on dates+planning process to HM for next week.
+-	TTW core team meeting (initial planning, late June/early July): planning on HackMD, primarily for foundational meetings + working groups, maybe a bit of slack organisation.
+-	TTW fireside chat (~24 June 2022): doing outreach this week for speakers, was suggested a few that are listed in the planning document.
+-	rse con (5-9 sept, find out 31 may): hearing the results this week, I believe.
+
+*not TTW related
+
+## Proposal updates
+- unesco: planning for 15 july collab cafe.
+-	carpentrycon (12 June due, 1-12 aug event): working on a proposal this week at collab cafe with EP & HS.
+-	write the docs (30 June due): submission pending, to be discussed at collab cafe on 1 june.
+
+### Next week
+- Planning for core team meeting
+- Trialing day reserved for github work/reviewing PRs, etc.
+- Processing interview material to return to community members
+- 1:1 conversations slowing down, with a few missing links
+
+### Where do I need help?
+- Should the book dash planning committee be invited to attend the core team meeting?
+- Planning annual leave
+- Is there anything I am missing from the post-Book Dash workflow?
+
+### Ideas corner (generative brainstorming)
+- adding github actions/workflow to slack (so people can see updates to the repository in real time)
+- being able to automatically add events seen on twitter to a bot on twitter for the newsletter!
+
 
 ## 2022-05-10
 
@@ -252,7 +519,7 @@ MS: I suggest keeping it longer than 30 mins and taking some time afterwards to 
 #### What did you struggle with?
 * Need to be better with making time for deep work
 
-MS: take the next month to slow down and spend some time in going through your notes and timeline so far. 
+MS: take the next month to slow down and spend some time in going through your notes and timeline so far.
 
 #### What would you like to work on next week?
 * Sending info to fireside panelists today. Promotion starts by Wednesday.

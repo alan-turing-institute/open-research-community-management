@@ -1,11 +1,227 @@
 # Sophia and Emma 1 to 1 weekly meetings
 
+* [TEMPLATE](#TEMPLATE)
 * [10 May 2022](#date-10-May-2022)
 * [17 May 2022](#date-17-May-2022)
 * [24 May 2022](#date-24-May-2022)
 * [31 May 2022](#date-31-May-2022)
 * [7 June 2022](#date-7-June-2022)
 * [14 June 2022](#date-14-June-2022)
+* [22 June 2022](#date-22-June-2022)
+* [28 June 2022](#date-28-June-2022)
+* [05 July 2022](#date-05-July-2022)
+
+
+## Date: 5 July 2022
+
+### 📍 Check-in ritual
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+#### Project specific Reflection
+
+* Massive shout out to DC for getting the NIHR report across the finish line (side question: how is the appreciations channel used? I couldn't quite figure it out based on the posts). 
+* We've been meeting with the consortia in a PPIE capacity and there's great insights into how we can support them. 
+* The website is not up yet (needs 2-3 days work to put the content in) which creates a small blocker for internal comms. 
+* Trying to work with Turing's comms team to get videos out to the consortia about sessions - the 2.4GB meetings just won't attach on an email. 
+	* EK - video uploading is a blocker for all CMs at the moment so you might want to use sharepoint now while you wait for that to happen. 
+
+#### Notes to discuss during 1:1
+
+* Updates from LC's 1:1 as we head into academic summer 
+* Discussing what help/support I can give the consortia within the remit
+	* EK - let's speak to DC about LC capacity. 
+* Unravelling the people resources for PPIE boards.  
+	* EK - how many people, what their capacity is to sit on 1 or more boards. What positions you need - number of boards and number of people needed on them. Timeframe for this happening? 
+* What task management tools do you use across your projects? (just brain storming would be fab) 
+	* EK - Todoist for long term tracking of different project tasks - I also use paper lists and constantly update them.  
+
+### 📚 Updates
+
+#### Who did you help this week?
+* DC & RSF team with some tech troubleshooting for the seminar series
+* DC with the PPIE section of the NIHR report
+* EZ with some GitHub brainstorming 
+
+#### Who helped you this week?
+* TPS Community Managers (Anne, Ayesha, Malvika) with the second session of community clinic (discussion the glossary of terms)
+
+#### What did you achieve?
+
+* ✅ Worked on OLS application (70% complete)
+* ✅ Finished each section of ethics form. Want to allocate a couple hours to give it a once over and check for spelling/grammar/any missing pieces and then submit 🚀
+* ✅ Met with PPIE theme leads to better understand their projects' needs ahead of the meeting this week
+* ✅ Met with LC about summer plans and work packages
+* ✅ Met with 2 further consortia
+* ✅ Protected the main branches. 
+
+#### What did you struggle with?
+
+* I am 3 meetings behind on notes - I did the meeting recordings but just haven't caught back up. 
+* Bandwidth is being taken up by the big meaty strategy tasks. Not a bad thing, just an acknowledgement that there's really important work in capturing the outcomes and learnings from meetings and work pieces that takes time to deep think about. 
+* Haven't had mental/bug solving space to get the Hugo site up. Need to timeblock but there's been higher priority things, but not having that site is also creating some blocks (especially with event comms). 
+
+#### What would you like to work on next week?
+
+* Polish off the ethics and submit 🚀
+* OLS Application 
+* Meeting notes 
+* Leading PPIE Lunchtime session 
+* Prep for RSF Operations Meeting
+* Meet with Skills at Turing team
+* Prep materials for workshop and support Eirini. 
+* Catch up on GitHub notes.
+* Finish off the WelcomeBot ahead of the workshop. 
+
+#### Where do you need help?
+
+* Any recordings of TTW GitHub intro would be fantastic (EZ was asking).
+	* EK - here are some links for Github intro - [OLS5 upskilling in Github beginner](https://www.youtube.com/watch?v=90BOler9hqI&list=PL1CvC6Ez54KBGAovzRr9kpr_uos26m_17&index=4)
+	* A session I ran recently as [Github basics](https://www.youtube.com/watch?v=uVsYTv4CG14)
+
+#### Any other topics
+
+* EK - a reflection on how you are working as a turing team is a priority before the summer. 
+
+## Date: 28 June 2022
+
+### Check-in ritual
+* DC is an absolute star with the report! Everything else is chugging away.
+* Had an ✨AMAZING✨ meeting with UCL/SSI Fellow and found an incredible overlap. Have made some connections and am also going to help them get their work on GitHub (so our group can collab with them). 
+
+### Notes to discuss during 1:1
+* Using meeting recordings to support note taking (dropbox or sharepoint for storage)
+* Priority list for this next week of tasks to be done 
+* GitHub training sessions slides (revise and cut down on material, give specific or relevant examples as to what you can do using GitHub e.g. [here](https://docs.google.com/presentation/d/1hglgKtdjABMYPuXTf0ePz2ffu9QEfr8z2ki79lJzKl0/edit?usp=sharing)). 
+ 
+
+#### Who did you help this week?
+
+* DC with some specific PPIE tasks for the report 
+* DC with setting up the tech for the Cross Consortia session. 
+* EZ with some small nuggets of GitHub knowledge, and then a proper meeting to go over various things. 
+* DC/AIMRSF Team with meeting notes 
+* Data Wranglers team with connecting them to UCL/SSI Fellow
+
+#### Who helped you this week?
+
+* EZ with being able to MVP some meetings. 
+* DC with various bits of info about AIM work. 
+* MF with chairing meetings so that I could scribe. 
+
+#### What did you achieve?
+
+* Met with 3/7 of the consortia about PPIE work and where we can support 🚀
+* Made flyers and am sending out comms about the July 6th Sessions today 🌟
+* Welcome Bot testing and decision to support folks working on the AIMRSF repo. 
+* Meeting with UCL/SSI Fellow 🚀
+	* EK - great work! :star:
+
+#### What did you struggle with?
+
+* Just a reduced capacity right now, brain space is being taken up so will book a day or two off next week to recharge. 
+
+#### What would you like to work on next week?
+
+In order of priority:
+**1. Ethics form**
+2. NIHR Report PPIE Support
+3. Protect the main branch
+4. Sending out comms about the ECR and PPIE Sessions, as well as starting to promote the GitHub Workshop
+5. Meeting notes
+6. OLS Application
+
+#### Where do you need help?
+
+* Ethics - ping Arron
+* Bandwidth - reduce any non urgent + important tasks and chip away at work consistently. 
+
+
+
+## Date: 22 June 2022
+
+### Check-in ritual
+☀️😎 Sunny days make for good vibes. 
+
+### Project specific Reflection
+
+**Based on last week's work plan** (see more in [achievements](https://github.com/alan-turing-institute/open-community-building/edit/main/project-management/1-1-meetings/Sophia-Batchelor/weekly-meetings.md#what-did-you-achieve)):
+* DC and EB are working away at the NIHR report. I've sent some details on specific work tasks DC's way and offered help for whenever it's needed. PPIE lead is still away, but DC and EB have indicated that they don't have specific asks yet. 
+* External AIM-RSF website is almost up and running (have been making content changes based off suggestions from a Monday afternoon meeting) and is a priority for this week ahead of events coming up. 
+
+**PPIE & Constortia Meetings**  
+* Have been meeting with PPIE leads 1:1 and starting having larger meetings with Consortia leads (with DC & MF) that have provided so much insight!! This has been 2 weeks in the works getting set up. 
+
+**GitHub & Community Building work** 
+* Have been supporting EZ with collating GitHub training materials while also doing bitty tasks with the repositories (CoC's, Project boards, GitHub Actions, Issues, Onboarding, reviewing PR's etc). 
+* ⚠️ Ran into a major blocker that EB has flagged around IT, GitHub, and Slack. As of today, we are continuing ahead as it's for the higher ups to figure out.  
+* 🤦 Had issues with cross-consortia comms, email invites, and meeting links so no one showed up to Evelina's talk. We've set out a bit of a plan for how to approach this in the future. 
+	* EK - thanks for flagging these issues. 	 
+
+
+### Notes to discuss during 1:1
+
+* Run through the updates.
+* The upcoming changes to Slack & GitHub Collaboration. 
+* Channels of communication that your projects have used successfully. 
+
+
+#### Who did you help this week?
+
+* Supported a cross-consortia meeting and took notes with EZ & MM for DC. 
+* Connected MM to TTW Community and curated resources/had a discussion about attributions and authorship. 
+* DC with creating his first GitHUb repository. 
+* EG & EZ with setting up the Hugo site. 
+* AS/TTW with reviewing the June newsletter. 
+
+#### Who helped you this week?
+
+* EK with the template ethics form, ✍️ and others with confirmation of what forms to use and where to find guidance. 
+* EB with a super insightful meeting on the RoPA forms and GDPR. 
+* EZ and MM with collaborative notes (we stayed far after the end of the work day trying to understand them)
+* DC & MF with taking the lead during meetings and being fantastic folks to work with (& learn from). 
+* Markus & others in REG (ask away channel) debugging some homebrew issues (and shout out to JD for some preliminary discussion). 
+* DC & EB with outstanding awesomeness (they're just great folk to work with and make things easy).
+
+
+#### What did you achieve?
+
+* Ethics forms were figured out (thanks to EK & others). The blank template has been uploaded into the GitHub repo. 
+* Got the probation statements in Cezanne and signed off 🎉 
+* Finished the recent batch of HR forms.  
+* Met with 3 PPIE leads across various projects. 
+* Met with EZ and planned application for OLS (meeting notes [here](https://hackmd.io/@brainonsilicon/BJKABhaY5)). 
+* Collated some resources for EZ on TTW's GitHub introduction and workshops and started creating a [presentation](https://docs.google.com/presentation/d/1YTukVAA98J9kgpZcSHWgMh8R3jB5sHoO7OJt2abRn0Y/edit?usp=sharing) tailored to the consortium members.
+* I've been exploring WelcomeBots and what's best to set up for the AIM-RSF community. 
+* I've been on calls with various folks exploring various features on GitHub (Projects, Issues, Discussions, and GitHub Actions to link them all together) and getting them quickly onboarded into the project work that is immediately due. 
+* Uploaded a starter Glossary of Terms to the GitHub repository and opened a discussion with Eirini (and others) to have around making the list easy to use.
+
+	* EK - All great work - very happy that you and EZ are applying to OLS6.  
+
+#### What did you struggle with?
+
+* **Overwhlem** Feeling a smidge overwhelmed as some tasks are taking longer than expected this past week. Trying to keep working hours is proving a bit hard as I feel guilty about not getting things done in the expected timeframe (i.e. noticed lots of typos in the ethics form and some of the questions were different than the TREx approach so it's still an open task). 
+* **Keeping track of tasks.** I need to rebuild up some form of task tracking system as I'm getting pings for small requests that I can do, but forget what they're related to and need to move on to the next thing. 
+* **Summary Email/Notes** I fell out of habit writing end of day summaries last week so had a monster job on friday pulling it all together into an email and sending it out (was favouring getting to bed early as I'm up early on some calls with California last week and this). I've picked the daily logs back up this week but not having sent out that email (and even just curating it for myself) have left a massive gap in internal comms.  
+
+	* EK - you are doing great so try not to feel overwhelmed - you are progressing on tasks so making progress. Project boards sounds like a good future plan for task tracking. Summary notes - they are hard to maintain so maybe doing this verbally or putting your personal summaries in a doc on github so you don't have to clean up? 
+
+#### What would you like to work on next week?
+
+* Ethics submission (the commitee meet generally 2 x month - or at least they're supposed to) so I've just missed themost recent one and will shoot for the July meeting. 
+* Meetings with the consortia.
+* Events website. 
+* OLS Application. 
+* External communication about the PPIE and ECR sessions (planned for July 6th).
+* Summary notes (back in the habit). 
+
+#### Where do you need help?
+
+* Would love if I could offload the Code of Conduct and GitHub documentation tasks (possibly to EZ). 
+	* EK - let's try to have a discussion with EZ about tasks.  
+
+#### Any other topics
+
+* Any suggestions for how I can better support EZ?
 
 
 ## Date: 14 June 2022
@@ -439,7 +655,9 @@ Important:
 
 --- 
 
-## TEMPLATE: Date: YYYY-MM-DD <-- Please update
+## TEMPLATE 
+
+## Date: YYYY-MM-DD
 
 ### Check-in ritual
 (Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
