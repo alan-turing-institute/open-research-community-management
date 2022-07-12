@@ -4,6 +4,7 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-07-12](#2022-07-12)
 - [2022-07-05](#2022-07-05)
 - [2022-06-21](#2022-06-21)
 - [2022-05-31](#2022-05-31)
@@ -23,6 +24,48 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-07-12
+
+### Check-in ritual
+
+- Had a great time meeting so many ASG colleagues for the first time last week at the ASG event in Birmingham!
+- Also got lots of positive feedback from many of the attendees and speakers.
+- Huge thanks to ZI and AY for all their help with organising the event.
+
+### Project-specific reflection
+
+- Spoke briefly to a few people (like AC) about the white papers at the event.
+- Discussed ASG podcast with BC and introduced them to RH as potential guest.
+- Now directing my full attention to the white papers.
+
+### Notes to discuss during 1:1
+
+#### Whom did you help since the last meeting?
+
+- AY and ZI with various tasks at the ASG event.
+- Introduced newcomer SS to a few ASG people at the event.
+
+#### Who helped you since the last meeting?
+
+- ZI and AY were tremendous in the lead-up to the event and on the days themselves.
+- MS, AM and BC with chairing various sessions.
+- JD, AC, DC, GR and others with organising and running the Mapathon.
+
+#### What did you achieve?
+
+- Organised first in-person ASG event.
+
+#### What are you working on this week and what are your priorities?
+
+- Continue working on Scivision impact story and finalise for BM, MS and ZE to review.
+- Submit CM report for Q1 (22/23) before end of week.
+- Onboard RAMs to white papers.
+- Attend catch-up calls for OLS5.
+
+#### Where do you need help?
+
+- I need advice on planning the illustration sprints with Scriberia for the white papers.
 
 ## 2022-07-05
 
