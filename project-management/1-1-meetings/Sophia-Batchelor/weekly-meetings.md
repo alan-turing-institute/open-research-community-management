@@ -25,7 +25,7 @@
 * There's one call that needed to be rescheduled, but I've now met with 19 PPIE leads/co-applicants over the past 3 weeks 🚀 
 * Overall I think internal comms were really good last week. 
 * There's enough to tackle locally right now, but I do need to be chipping away at building external connections to communities as the conference has been mentioned a few times in the past week.
-	* EK - relient on the stakeholder mapping - check in with the progress of this and see if it can be shared with you.  
+	* EK - you are relient on the stakeholder mapping - check in with the progress of this and see if it can be shared with you for checking progress and additions from you as well.  
 
 #### Notes to discuss during 1:1
 
@@ -59,6 +59,8 @@
 * ✅ Met with MD (SSI Fellow) who's coming in September and will lead some PPIE workshops and the Open Talk. 
 * ✅ Create a sandbox for task management on GitHub and chatted with DC about how we could use it for AIM RSF - & started writing out documentation on how to set it up from scratch. 
 * ✅ Started scoping out AutSPACEs repo clean ups and finding where various files have been hidden away. 
+
+	* EK - Well done on all this - you are making great progress - :star:
 
 #### What did you struggle with?
 
