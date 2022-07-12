@@ -33,11 +33,15 @@
 - Also got lots of positive feedback from many of the attendees and speakers.
 - Huge thanks to ZI and AY for all their help with organising the event.
 
+MS: Well done on the event! The agenda was well put and I really enjoyed the talks very much. Also the big clock tower. 🕰
+
 ### Project-specific reflection
 
 - Spoke briefly to a few people (like AC) about the white papers at the event.
 - Discussed ASG podcast with BC and introduced them to RH as potential guest.
 - Now directing my full attention to the white papers.
+
+MS: Thanks for getting them up to speed. Totally agree on directing your attention to White paper.
 
 ### Notes to discuss during 1:1
 
