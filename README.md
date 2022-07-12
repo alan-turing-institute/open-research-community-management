@@ -44,18 +44,19 @@ As a team, we ensure that the research that happens at the Institute is created 
 
 #### Team Members
 
-- Achintya Rao, Community Manager; AI for Science and Government Research Programme
-- Anne Lee Steele, Community Manager; The Turing Way
-- Arron Lacey, Senior Community Manager; Early Detection of Neurodegenerative Diseases (EDoN)
-- Emma Karoune, Senior Community Manager; RSS Lab and DECOVID
-- Sophia Batchelor, Community Manager; AI for Multiple Long Term Conditions Research Support Facility (AIM RSF)
-- Vicky Hellon, Community Manager; Turing-Roche Strategic Partnership
-- Sophia Batchelor, Community Manager; AI for Multiple Long Term Conditions Research Support Facility (AIM RSF)
+- Achintya Rao, Community Manager; [AI for Science and Government Research Programme](https://www.turing.ac.uk/research/asg)
+- Anne Lee Steele, Community Manager; [The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way)
+- Arron Lacey, Senior Community Manager; [Early Detection of Neurodegenerative Diseases (EDoN)](https://edon-initiative.org/)
+- Emma Karoune, Senior Community Manager; [Turing-RSS Health Data Lab](https://www.turing.ac.uk/research/research-projects/turing-rss-health-data-lab) and DECOVID
+- Eirini Zormpa, Community Manager; [AI for Multiple Long Term Conditions Research Support Facility (AIM RSF)](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) - Open Collaboration
+- Sophia Batchelor, Community Manager; [AI for Multiple Long Term Conditions Research Support Facility (AIM RSF)](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) - PPIE
+- Vicky Hellon, Community Manager; [Turing-Roche Strategic Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership)
 
 ### Members from the Collaborating Projects
 
-- Ayesha Dunk, AI and Data Science Educators Programme, The Alan Turing Institute
-- Sarah Gibson, JupyterHub Community Development Lead, 2i2c and JupyterHub
+- Ayesha Dunk, [AI and Data Science Educators Programme](https://www.turing.ac.uk/data-science-and-ai-educators-programme), The Alan Turing Institute
+- Claudia Fischer, Research Assistant; [Turing Commons](https://turing-commons.netlify.app/), The Alan Turing Institute
+- Sarah Gibson, JupyterHub Community Development Lead, [2i2c](https://2i2c.org/) and [JupyterHub](https://jupyter.org/hub)
 
 ## Guiding Principles
 
