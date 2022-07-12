@@ -24,11 +24,13 @@
 * EZ is taking lead on the GitHub workshop next week, they're an absolute rockstar and I'm super grateful that it's taken off my plate. 
 * There's one call that needed to be rescheduled, but I've now met with 19 PPIE leads/co-applicants over the past 3 weeks 🚀 
 * Overall I think internal comms were really good last week. 
-* There's enough to tackle locally right now, but I do need to be chipping away at building extrnal connections to communities as the conference has been mentioned a few times in the past week. 
+* There's enough to tackle locally right now, but I do need to be chipping away at building external connections to communities as the conference has been mentioned a few times in the past week.
+	* EK - relient on the stakeholder mapping - check in with the progress of this and see if it can be shared with you.  
 
 #### Notes to discuss during 1:1
 
 * Brainstorming channels of comms if folks miss a monthly meeting, but they also don't read newsletters. 
+	* EK -  multiple comms channels seems to be the best bet. Detailed meeting notes and then a summary by Slack or email. 
 * Action plan for how to dial back into work week of 25th without getting overwhelmed. 
 
 ### 📚 Updates
@@ -37,14 +39,14 @@
 
 * DC following up on the Cross-Consortia session recording.
 * LC with taking lead on the PPIE session.
-* Annie J with a walk through of their GitHub needs. 
+* AJ with a walk through of their GitHub needs. 
 * GA with getting AutSPACEs work tucked away and cleaned up across the repos. 
 
 #### Who helped you this week?
 
 * EZ clicking submit on the OLS application.
 * EZ taking lead on the GitHub workshop.
-* Meag D with agreeing to lead the Open Talks in September
+* MD with agreeing to lead the Open Talks in September
 
 #### What did you achieve?
 
@@ -53,11 +55,10 @@
 * ✅ Caught up on meeting notes ✍️
 * ✅ Led PPIE Lunchtime session
 * ✅ Prepped for Ops Meeting and sent summary notes to DC for PPIE
-* ✅ Met with Annie J and the Pharmaco-Epi Collaborative to help get their work on GitHub
-* ✅ Met with Meag D (SSI Fellow) who's coming in September and will lead some PPIE workshops and the Open Talk. 
-* ✅ Create a sandbox for task management on GitHub and chatted with DC about how we could use it for AIM RSF - & started writting out documentation on how to set it up from scratch 
+* ✅ Met with AJ and the Pharmaco-Epi Collaborative to help get their work on GitHub
+* ✅ Met with MD (SSI Fellow) who's coming in September and will lead some PPIE workshops and the Open Talk. 
+* ✅ Create a sandbox for task management on GitHub and chatted with DC about how we could use it for AIM RSF - & started writing out documentation on how to set it up from scratch. 
 * ✅ Started scoping out AutSPACEs repo clean ups and finding where various files have been hidden away. 
-
 
 #### What did you struggle with?
 
