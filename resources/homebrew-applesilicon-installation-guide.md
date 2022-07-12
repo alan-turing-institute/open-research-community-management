@@ -1,16 +1,18 @@
-# Apple M1 Homebrew Installaton 
+# Apple M1 Homebrew Installation 
 
 There are documented issues with installing Homebrew (a popular package manager used by data scientists, developers, and research software engineers) on new Apple computers that come with the Apple Silicon (M1 or M2) chips. 
 
-Side Note: If you don't have your Mac set up with a password (including if the password is blank) you will not be able to install Homebrew.
+`Side Note: If you don't have your Mac set up with a password (including if the password is blank) you will not be able to install Homebrew.`
 
-To instally Homebrew on machines running in Apple Silicon, run through the following steps:
+To install Homebrew on machines running in Apple Silicon, run through the following steps:
 
-### 0. Check Installs Run the usual checks on if homebrew is installed:
+### 0.  Check if installs run the usual checks to see if homebrew is installed:
 
 `% brew`
 
-If it is then that's okay, but you want to be checking the $PATH prefix to see if it's `/usr/local/bin` (the standard place Homebrew installs which works for Intel chips) **or** if `/opt/homebrew` is on your $PATH which makes Homebrew Apple Silicon friendly. 
+If it is the same as above, then that's okay! 
+
+But you want to be checking the $PATH prefix to see if it's `/usr/local/bin` (the standard place Homebrew installs which works for Intel chips) **or** if `/opt/homebrew` is on your $PATH which makes Homebrew Apple Silicon friendly. 
 
 So to debug:
 
