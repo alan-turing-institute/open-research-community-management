@@ -58,6 +58,9 @@
 
 - I'm pretty nervous about meeting up with one of the PIs today 🙈
 
+ * EK - R course for data science - well done for getting touch with REG team to develop this new course. 
+ * EK to talk to Malvika about putting training videos on Turing way channel.
+
 ## Date: 5 July 2022
 
 **Check-in ritual**
