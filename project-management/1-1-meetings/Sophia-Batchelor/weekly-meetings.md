@@ -10,6 +10,72 @@
 * [22 June 2022](#date-22-June-2022)
 * [28 June 2022](#date-28-June-2022)
 * [05 July 2022](#date-05-July-2022)
+* [12 July 2022](#date-12-July-2022)
+
+
+## Date: 12 July 2022 
+
+### 📍 Check-in ritual
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+#### Project specific Reflection
+
+* Last week we chatted about having a sync meeting: the Ops meeting on Thursday served that in terms of updates, and EZ and I also grabbed DC on Thursday for a chit chat 🚀 
+* EZ is taking lead on the GitHub workshop next week, they're an absolute rockstar and I'm super grateful that it's taken off my plate. 
+* There's one call that needed to be rescheduled, but I've now met with 19 PPIE leads/co-applicants over the past 3 weeks 🚀 
+* Overall I think internal comms were really good last week. 
+* There's enough to tackle locally right now, but I do need to be chipping away at building external connections to communities as the conference has been mentioned a few times in the past week.
+	* EK - you are relient on the stakeholder mapping - check in with the progress of this and see if it can be shared with you for checking progress and additions from you as well.  
+
+#### Notes to discuss during 1:1
+
+* Brainstorming channels of comms if folks miss a monthly meeting, but they also don't read newsletters. 
+	* EK -  multiple comms channels seems to be the best bet. Detailed meeting notes and then a summary by Slack or email. 
+* Action plan for how to dial back into work week of 25th without getting overwhelmed. 
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* DC following up on the Cross-Consortia session recording.
+* LC with taking lead on the PPIE session.
+* AJ with a walk through of their GitHub needs. 
+* GA with getting AutSPACEs work tucked away and cleaned up across the repos. 
+
+#### Who helped you this week?
+
+* EZ clicking submit on the OLS application.
+* EZ taking lead on the GitHub workshop.
+* MD with agreeing to lead the Open Talks in September
+
+#### What did you achieve?
+
+* ✅ Submitted Ethics!!! 🎉 yay! 
+* ✅ Submitted OLS application with EZ
+* ✅ Caught up on meeting notes ✍️
+* ✅ Led PPIE Lunchtime session
+* ✅ Prepped for Ops Meeting and sent summary notes to DC for PPIE
+* ✅ Met with AJ and the Pharmaco-Epi Collaborative to help get their work on GitHub
+* ✅ Met with MD (SSI Fellow) who's coming in September and will lead some PPIE workshops and the Open Talk. 
+* ✅ Create a sandbox for task management on GitHub and chatted with DC about how we could use it for AIM RSF - & started writing out documentation on how to set it up from scratch. 
+* ✅ Started scoping out AutSPACEs repo clean ups and finding where various files have been hidden away. 
+
+	* EK - Well done on all this - you are making great progress - :star:
+
+#### What did you struggle with?
+
+* Long days, am very much looking forward to things settling down 😄
+* AutSPACEs file management is absolutely sprawling, needed to deep dive quite a bit to find things. 
+
+#### What would you like to work on next week?
+
+* Finish off setting up WelcomeBot 
+* Introduction to GitHub workshop with EZ (she's taking lead 🌟)
+* Adventure 🏊
+
+#### Where do you need help?
+
+* Reviewing Open Pull Requests so I can mark tasks as done. (i.e. [this](https://github.com/alan-turing-institute/open-community-building/pull/69) and others that I'll be cleaning up with AutSPACEs.
 
 
 ## Date: 5 July 2022
@@ -70,7 +136,7 @@
 * Meet with Skills at Turing team
 * Prep materials for workshop and support Eirini. 
 * Catch up on GitHub notes.
-* Finish off the WelcomeBot ahead of the workshop. 
+* Finish off the WelcomeBot ahead of the workshop. -> bumped to week 11 July
 
 #### Where do you need help?
 
