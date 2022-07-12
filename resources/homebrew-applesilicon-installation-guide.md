@@ -6,11 +6,13 @@ There are documented issues with installing Homebrew (a popular package manager 
 
 To install Homebrew on machines running in Apple Silicon, run through the following steps:
 
-### 0.  Check if installs run the usual checks to see if homebrew is installed:
+### 0.  Check Installs 
 
-`% brew`
+Run the usual checks to see if homebrew is installed:
 
-If it is the same as above, then that's okay! 
+For example, run brew doctor in your terminal. If the command returns a message that homebrew is not installed, continue with the rest of the guide.
+
+Or if it is `% brew`, then that's okay! 
 
 But you want to be checking the $PATH prefix to see if it's `/usr/local/bin` (the standard place Homebrew installs which works for Intel chips) **or** if `/opt/homebrew` is on your $PATH which makes Homebrew Apple Silicon friendly. 
 
