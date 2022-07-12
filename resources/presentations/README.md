@@ -3,8 +3,12 @@
 This folder contains presentation material (and related content) that have been used for various talks & workshops that others across the community might find useful.
 
 ## Contents
-* GitHub for Project Management presentation delivered to the AIM RSF Team. 
-* Citizen Science and Community presentation delivered to Turing Community Management Team.
+
+
+| Presentation title | Presenter | Date of presentation |
+|------------------------------------ | --------------------------- |------------------------ |
+|GitHub for Project Management presentation delivered to the AIM RSF Team. | Sophia Batchelor | |
+| Citizen Science and Community presentation delivered to Turing Community Management Team. | Sophia Bacthelor | |
 
 
 ## Feedback
