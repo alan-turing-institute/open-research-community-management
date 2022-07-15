@@ -3,6 +3,57 @@
 * [TEMPLATE](#TEMPLATE)
 * [17 June 2022](#date-17-June-2022)
 * [29 June 2022](#date-29-June-2022)
+* [8 July 2022](#date-8-July-2022)
+
+## Date: 8 July 2022
+
+### Check-in ritual
+I'm still very happy we got more people to show up for the ECR session on Wednesday and I'm hoping we can make a useR group happen 🏴‍☠️✨
+
+### Project specific Reflection
+- Things have been going pretty well this week, though I didn't manage to find time to work on the GitHub workshop as much as I would have liked.
+
+### Notes to discuss during 1:1
+
+- Is REG training available only in Python? Would it be possible to have training in R?
+
+#### Who did you help this week?
+
+- I think SB is quite happy she doesn't have to do the GitHub training :)
+
+#### Who helped you this week?
+
+- EK decided to take writing up reflections on the RSF for the Q2 report of mine and SB's plate which was **amazing** 💗
+- SB has written a really useful guide to installing `homebrew` on Macs with Apple chips
+- DC has been great with sending out emails to ECRs for the talks
+
+#### What did you achieve?
+
+- Arranged a couple of meetings with consortia PIs/ECRs :tada:
+- Submitted the OLS application
+- Got started with the GitHub workshop
+- Started compiling resources from the Community Managers on training they have provided in the past
+- Chaired the ECR lunchtime session
+
+#### What did you struggle with?
+
+- I've not been hearing back from most of the people I've emailed
+- I think I could have done a better job with chairing the ECR session 😅
+
+#### What would you like to work on next week?
+
+- Finish the GitHub workshop materials
+- Follow up with people that haven't responded
+- Have meetings with people that have responded :)
+- Continue finishing off tasks from last week I didn't get to
+
+#### Where do you need help?
+
+- I think I'm okay?
+
+#### Any other topics
+
+- I'd like to go on holiday from 26 November to 10 December - is that okay?
 
 ## Date: 29 June 2022
 
