@@ -4,6 +4,54 @@
 * [28 June 2022](#date-28-June-2022)
 * [5 July 2022](#date-5-July-2022)
 * [12 July 2022](#date-12-July-2022)
+* [19 July 2022[(#date-19-July-2022)
+
+## Date: 19 July 2022
+
+**Check-in ritual**
+
+### Project specific Reflection
+
+I feel like I've been making pretty progress with stuff - I have meetings planned with most consortia now and quite a few people said are coming to Thursday's ECR session. However, our report to the funder has been rejected, which is disappointing.
+
+### Notes to discuss during 1:1
+
+- REG training translation into R
+
+#### Who did you help this week?
+
+I'm helping out with organising the Connections workshop.
+
+#### Who helped you this week?
+
+- JD has agreed to be a paelist at the Connections workshop 🎉
+- MS is helping get access to TTW YouTube channel to share AIM RSF recordings - thanks for that 😊
+
+#### What did you achieve?
+
+- Finished the GitHub slides
+- Arranged meetings with most AIM project managers
+- Started advertising the ECR session and good a pretty good response
+- Made a start on collating CM training resources
+
+#### What did you struggle with?
+
+- Personal stuff is affecting my concentration.
+
+#### What would you like to work on next week?
+
+- Deliver the ECR session on Thursday and make a survey/poll/HackMD question about wheat they want to learn and what they'd like the sessions to be
+- Have all the meetings with the consortia people
+- Contribute to the report revisions
+- Work on my contributions to the Connections workshop
+- Figure out a realistic way to get the REG training translated
+
+#### Where do you need help?
+
+- Any feedback on the GitHub slides would be welcome
+
+#### Any other topics
+
 
 ## Date: 12 July 2022
 
