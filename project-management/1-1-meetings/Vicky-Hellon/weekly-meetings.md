@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [20 July 2022](#date-20-july-2022)
 * [13 July 2022](#date-13-july-2022)
 * [6 July 2022](#date-6-july-2022) 
 * [15 June 2022](#date-15-june-2022)
@@ -22,6 +23,44 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+
+## Date 20 July 2022
+
+### Check-in ritual
+Surviving the heat! 
+
+### Project specific Reflection
+From my side community stuff going ok. I think a bit of frustration around Turing red tape but we'll get there.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* TC with blog plans
+
+#### Who helped you this week?
+* AC with potential speaker for November Knowledge Share- came out of lab meeting so thinking should connect with the RAMs more often!
+* SM now reviewing the fellows docs
+
+#### What did you achieve?
+* TTW slides- looking forward to the talk!
+* Started forward planning for Knowledge Share series and inviting speakers
+
+#### What did you struggle with?
+* Feel a bit in limbo with things like the ambassdaors programme, project management etc. Hoping August will have some more decisions made.
+
+#### What would you like to work on next week?
+* Knowledge Share series 
+* Expert Panel Meeting
+* Workshop planning
+
+#### Where do you need help?
+* Are you free on Monday to be my back up host at knowledge share?
+* Can you send over instructions for the ELXIR video? Do you have your example?
+
+#### Any other topics
+N/A
+
+
 ## Date 13 July 2022
 
 ### Check-in ritual
