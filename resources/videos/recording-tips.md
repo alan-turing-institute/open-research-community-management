@@ -36,7 +36,7 @@ Stay calm and pause. Often, we tend to talk as fast as possible, especially when
 * **Try to use your natural tone**, as you would do in a normal conversation. If you are excited, show it with your tone. If you are serious about important facts, demonstrate them with your voice. In explanatory videos, facial expressions are completely lost, so the tone of your voice directs the entire message.  
 * **Videos should never be a boring** Q&A session/seminar. People often want to hear real conversations, so don’t forget to enjoy them and create a relaxed and fun atmosphere. 
 
-:ear: ## Practise and listen 
+## Practise and listen :ear: 
 
 We often hate to hear ourselves on a recording, but this step is vital to ensure a good video. We are not looking for a professional production video, and we don’t expect you to build a BBC top audio recording, but we need to make sure the audio is accessible and understandable. 
 
