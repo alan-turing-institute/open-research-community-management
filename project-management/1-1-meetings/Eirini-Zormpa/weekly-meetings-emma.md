@@ -4,7 +4,7 @@
 * [28 June 2022](#date-28-June-2022)
 * [5 July 2022](#date-5-July-2022)
 * [12 July 2022](#date-12-July-2022)
-* [19 July 2022[(#date-19-July-2022)
+* [19 July 2022](#date-19-July-2022)
 
 ## Date: 19 July 2022
 
