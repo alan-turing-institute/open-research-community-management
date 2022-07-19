@@ -17,6 +17,8 @@ I feel like I've been making pretty progress with stuff - I have meetings planne
 ### Notes to discuss during 1:1
 
 - REG training translation into R
+  * Research data science course - https://github.com/alan-turing-institute/rds-course
+  * EK - idea of a hackathon is great! We can get help from around the turing for this. David Bevan from Arts/humanities and other living with machine people. 
 
 #### Who did you help this week?
 
@@ -49,9 +51,11 @@ I'm helping out with organising the Connections workshop.
 #### Where do you need help?
 
 - Any feedback on the GitHub slides would be welcome
+  * EK - yes I will do this - thanks for sharing. 
 
 #### Any other topics
-
+* Feedback for sessions - forms, slido/mentimeter.
+* impact pathways - https://ri-paths-tool.eu/en
 
 ## Date: 12 July 2022
 
