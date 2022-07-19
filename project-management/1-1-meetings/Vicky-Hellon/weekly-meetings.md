@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [13 July 2022](#date-13-july-2022)
 * [6 July 2022](#date-6-july-2022) 
 * [15 June 2022](#date-15-june-2022)
 * [08 June 2022](#date-8-june-2022)
@@ -21,6 +22,42 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 13 July 2022
+
+### Check-in ritual
+Feeling good this week, been nice to be in the office!
+
+### Project specific Reflection
+Ambassadors programme feels like we're getting there, just need to make a decision on whether we launch it in autumn or start of 2023 as its getting a bit tight... 
+Everything else on track at the mo.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+- DB from Roche with intro to TTW
+
+#### Who helped you this week?
+- MS and EK with advice about ambassadors programme
+- EC with connecting Roche REG up to Turing REG
+
+#### What did you achieve?
+- Prepped video document
+- Had brainstorming meeting for next Knowledge Share events for the rest of the year. Also thinking about a mini-symposium for early next year
+
+#### What did you struggle with?
+- Summer seems fast approaching- finding it difficult to find dates for video recording and also want to make sure all the upcoming partnership decisions are made
+
+#### What would you like to work on next week?
+- Talk for NHSD
+- Start finding speakers for future seminars
+
+#### Where do you need help?
+- Unsure what to do about RSECon invite from UKRN- feel a bit underqualified, not sure about travel costs
+- Need to think of some speakers for Knowledge Share- analysis of clinico-genomics- can you think of anyone?
+- Knowledge share series not getting much registrations- any help promoting!
+
+#### Any other topics
+- N/A
 
 ## Date 6 July 2022
 
