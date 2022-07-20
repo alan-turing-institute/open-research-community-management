@@ -6,9 +6,9 @@ The [Tools, Practices and Systems (TPS)](https://www.turing.ac.uk/research/resea
 
 Led by Dr. Malvika Sharan, TPS Senior Researcher for Open Research, TPS hosts a team of Community Managers funded by different projects at the Institute.
 All Community Managers are brought together as the [Open Research Community Building](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) team.
-A part (~10%) of their role also involves engaging with and contributing to [_The Turing Way_](https://the-turing-way.netlify.app/welcome) -- an Open Source, Open Collaboration and Community-driven guide to data science, co-led by Kirstie (who is also the founder of the project) and Malvika.
+A part (~10%) of their role also involves engaging with and contributing to [*The Turing Way*](https://the-turing-way.netlify.app/welcome) -- an Open Source, Open Collaboration and Community-driven guide to data science, co-led by Kirstie (who is also the founder of the project) and Malvika.
 
-Members from within the Turing programmes working in similar positions, as well as members from projects collaborating with TPS/The Turing Way outside the Turing, referred to as "collaborators in community roles" in this document, are also invited to join this team.
+Members from within the Turing programmes working in similar positions, as well as members from projects collaborating with TPS/*The Turing Way* outside the Turing, referred to as "collaborators in community roles" in this document, are also invited to join this team.
 Please get in touch with Malvika by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 
 ## Open Research Community Building Team
@@ -48,14 +48,14 @@ As a team, we ensure that the research that happens at the Institute is created 
 ## Members and Collaborators
 
 Please note, that this team is constituted of staff members who have dedicated responsibilities towards different projects with the Turing, often on behalf of the TPS research programme.
-Members from the community or participatory projects currently collaborating with TPS or The Turing Way are very welcome to join this team.
-All resources created by them in their projects will be generalised and shared o
+Members from the community or participatory projects currently collaborating with TPS or *The Turing Way* are very welcome to join this team.
+All resources created by them in their projects will be shared using open science and FAIR (Findable, Accesible, Interoperable, Reusable) practices, while following the principle of "as open as possible, as closed as necessary", especially when working with sensitive data. Practices and case studies learned from their work with be included in *The Turing Way*.
 
 New Community Managers at the Turing and collaborators in community positions will be onboarded in Open Research Community Building team by the project lead and added as a contributor to this project repository.
 Please [create an issue for your induction](https://github.com/alan-turing-institute/community-manager-team/issues/new?assignees=&labels=onboarding&template=NEW_MEMBERS.md&title=%5BINDUCTION%5D) (if not already created by the project lead).
 
 If you are not already collaborating with TPS, but are interested in community management, please contact [Malvika Sharan](mailto:msharan@turing.ac.uk) who can invite you to internal training for her team members.
-You are, of course, encouraged to join _The Turing Way_ that she co-leads alongside Kirstie Whitaker. 
+You are, of course, encouraged to join *The Turing Way* that she co-leads alongside Kirstie Whitaker. 
 
 ### Members
 
@@ -66,14 +66,14 @@ You are, of course, encouraged to join _The Turing Way_ that she co-leads alongs
 #### Community Managers
 
 - Achintya Rao, Community Manager; [AI for Science and Government Research Programme](https://www.turing.ac.uk/research/asg)
-- Anne Lee Steele, Community Manager; [The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way)
+- Anne Lee Steele, Community Manager; [*The Turing Way*](https://www.turing.ac.uk/research/research-projects/turing-way)
 - Arron Lacey, Senior Community Manager; [Early Detection of Neurodegenerative Diseases (EDoN)](https://edon-initiative.org/)
 - Eirini Zormpa, Community Manager; [AI for Multiple Long Term Conditions Research Support Facility (AIM RSF)](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) - Open Collaboration
 - Emma Karoune, Senior Community Manager; [Turing-RSS Health Data Lab](https://www.turing.ac.uk/research/research-projects/turing-rss-health-data-lab) and DECOVID
 - Sophia Batchelor, Community Manager; [AI for Multiple Long Term Conditions Research Support Facility (AIM RSF)](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) - PPIE
 - Vicky Hellon, Community Manager; [Turing-Roche Strategic Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership)
 
-### Collaborators from TPS/The Turing Way projects in Community Roles
+### Collaborators from TPS/*The Turing Way* projects in Community Roles
 
 - Ayesha Dunk, [AI and Data Science Educators Programme](https://www.turing.ac.uk/data-science-and-ai-educators-programme), The Alan Turing Institute
 - Claudia Fischer, Research Assistant; [Turing Commons](https://turing-commons.netlify.app/), The Alan Turing Institute
@@ -117,7 +117,7 @@ Their engagement with *The Turing Way* project and community should help them un
 - interconnect their work with other projects and communities in the wider landscape of data science and open research.
 - facilitate openness, collaboration and transparent reporting, even when not all components of their projects can be made public.
 - find support for their community work and in exchange support others' work, especially when it is closely aligned with their projects.
-- enhance their technical understanding required in their work and share them more widely via The Turing Way (chapters, tutorials, templates or events).
+- enhance their technical understanding required in their work and share them more widely via *The Turing Way* (chapters, tutorials, templates or events).
 
 ## License 
 
