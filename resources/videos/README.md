@@ -41,7 +41,7 @@ More information links:
 * [13 Free Tools & Subtitle Software to Make Your Video Captioning Process Easier](https://blog.amara.org/2018/05/02/10-free-tools-to-make-your-captioning-process-easier-in-2018/)
 
 ## Turing specific information
-* People in the Comms team - Dan Whitfield
+* The instructions provided here aim to be suitable for everyone to be able to make their own video. If you require a more professionally produced video we suggest you contact Dan Whitfield, Broadcast Producer at the Turing. He will be able to advise on content, format and professional recording and editing.
 
 ## Where to store and upload videos
 * Turing YouTube channel
