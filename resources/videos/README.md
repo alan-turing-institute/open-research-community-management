@@ -9,24 +9,50 @@ Here you will find resources for making videos for community management - promot
 ## How to make videos
 
 ### Using Turing comms team
-* Contact Turing comms team to get professional video making - contact is Dan Whitfield or Sian Fortt. 
+* Contact Turing comms team to get professional video production - contact is Dan Whitfield or Sian Fortt. 
 
 ### Making your own video - general guidance
-* See this guide from ELIXIR-UK
+* See the [recording tips guide from ELIXIR-UK](https://github.com/alan-turing-institute/open-community-building/blob/video-resources-docs/resources/videos/recording-tips.md)
 
 ### Recording tools/software
 * Link to [SSI fellowship video recording guide](https://www.software.ac.uk/fellowship-programme/2022/application-video-guide) - using OBS studio and Zoom.
 * [Recording in powerpoint](https://github.com/alan-turing-institute/open-community-building/blob/video-resources-docs/resources/videos/how-to-record-powerpoint-windows.pdf) - by ELIXIR-UK. 
+
+### Making videos accessible
+All videos should have captions to make them more accessible and you should also think about the colours you use and the size of the font. You could also make captions in different languages, especially if your community is global. 
+
+#### General tips are:
+* **Make text and important visuals big enough** to be read even from the back of the room or easily on the screen.
+* **Use an easy-to-read font face** - Simple fonts with consistent thickness are often easier to read from a distance. Fonts where parts of the letters are thin are harder to read. Avoid fancy fonts that are difficult to read.
+* **Use sufficient contrast between colors** (“luminance contrast”)
+* **Consider how to use motion or animations** - some animations can be too distracting.
+* **Make presentation/video material accessible** - as well as the video itself, make the slides and script accessible under open license. 
+
+More information links:
+* https://www.w3.org/WAI/teach-advocate/accessible-presentations/
+
+#### Captions services and software
+  * Otter.ai
+    * [Blog by Yo Yehudi on using captioned videos](https://openlifesci.org/posts/2020/12/16/streaming-to-youtube-and-to-otter-at-once/) 
+  * [Amara](https://amara.org/en/) 
+
+#### Useful blogs on this topic:
+* [10 rules you need to create great captioned videos](https://meryl.net/10-rules-you-need-to-create-great-captioned-videos/)
+* [13 Free Tools & Subtitle Software to Make Your Video Captioning Process Easier](https://blog.amara.org/2018/05/02/10-free-tools-to-make-your-captioning-process-easier-in-2018/)
 
 ## Turing specific information
 * People in the Comms team - Dan Whitfield
 
 ## Where to store and upload videos
 * Turing YouTube channel
-  * Lectures and webinars can be uploaded here. 
-  * Contact comms team to get them uploaded - Dan Whitfield. 
+  * Lectures and webinars for Turing projects can be uploaded here. 
+    * It is not for workshops or training videos.  
+  * Contact the Turing comms team to get them uploaded - Dan Whitfield. 
 * The [Turing Way YouTube channel](https://www.youtube.com/c/theturingway).
+ * You can upload workshops and training videos here.  
   * Contact Malvika Sharan to get edit access for this channel. 
 
 ## Acknowledgements
 * Thanks for Xènia Pérez Sitjà, Data Stewardship Community Manager at ELIXIR-UK, for allowing us to using and adapting their video making guides.  
+
+
