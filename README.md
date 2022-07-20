@@ -4,7 +4,7 @@
 
 The [Tools, Practices and Systems (TPS)](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) programme at The Alan Turing Institute under the leadership of Dr. Kirstie Whitaker represents a cross-cutting set of initiatives which seek to build open source infrastructure that is accessible to all and to empower a global, decentralised network of people who connect data with domain experts.
 
-Led by Malvika Sharan, TPS Senior Researcher for Open Research, TPS hosts a team of Community Managers funded by different projects at the Institute.
+Led by Dr. Malvika Sharan, TPS Senior Researcher for Open Research, TPS hosts a team of Community Managers funded by different projects at the Institute.
 All Community Managers are brought together as the [Open Research Community Building](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) team.
 A part (~10%) of their role also involves engaging with and contributing to [_The Turing Way_](https://the-turing-way.netlify.app/welcome) -- an Open Source, Open Collaboration and Community-driven guide to data science, co-led by Kirstie (who is also the founder of the project) and Malvika.
 
