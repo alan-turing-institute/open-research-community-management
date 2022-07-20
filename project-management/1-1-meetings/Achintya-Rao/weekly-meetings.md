@@ -4,6 +4,7 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-07-20](#2022-07-20)
 - [2022-07-12](#2022-07-12)
 - [2022-07-05](#2022-07-05)
 - [2022-06-21](#2022-06-21)
@@ -24,6 +25,46 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-07-20
+
+### Check-in ritual
+
+- Just had a very productive all-morning planning sprint with ZI!
+
+### Project-specific reflection
+
+- Writing is going slowly but well.
+A lot of writing is thinking, and I would’ve liked to have someone to think with to clarify ideas; just making notes doesn’t help me a lot.
+- ZI and I have worked on a plan for various ASG tasks, with white papers and related deliverables as top priority.
+- We may have to advance the publication of the first white paper as E&S want it out by November in time for COP27.
+
+### Notes to discuss during 1:1
+
+#### Whom did you help since the last meeting?
+
+- Had chat with HS about whether white papers are the way to go for capturing their work.
+- Had a welcome-to-Turing chat with MI.
+
+#### Who helped you since the last meeting?
+
+- ZI really helped in our planning sprint on not just focusing on tasks but about processes.
+- JL gave me feedback on the messaging for the white papers.
+- MS by moving the illustration sprints forward in e-mail with HS.
+
+#### What did you achieve?
+
+- Managed to put aside a lot of time for the white papers, even if a lot of it was spent thinking.
+Really valuing having meeting-free and distraction-free time to reflect on the content.
+
+#### What are you working on this week and what are your priorities?
+
+- Finish Scivision and IceNet impact case studies and finalise for BM, MS and ZE to review.
+- Didn’t manage last week, so will submit CM report for Q1 (22/23) before end of week.
+
+#### Where do you need help?
+
+- I will need reviews on the content for two of the projects featured in the white paper once it’s online.
 
 ## 2022-07-12
 
