@@ -54,11 +54,11 @@ From my side community stuff going ok. I think a bit of frustration around Turin
 * Workshop planning
 
 #### Where do you need help?
-* Are you free on Monday to be my back up host at knowledge share?
-* Can you send over instructions for the ELXIR video? Do you have your example?
+* Are you free on Monday to be my back up host at knowledge share? - EK - yes I can do this.
+* Can you send over instructions for the ELIXIR video? Do you have your example?
 
 #### Any other topics
-N/A
+* EK - Ask KV - Stats for webpages, blog parent page and then child pages for each blog.
 
 
 ## Date 13 July 2022
