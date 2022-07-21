@@ -47,7 +47,7 @@ As a team, we ensure that the research that happens at the Institute is created 
 
 ## Members and Collaborators
 
-Please note, that this team is constituted of staff members who have dedicated responsibilities towards different projects with the Turing, often on behalf of the TPS research programme.
+Please note, that this team is constituted of the Turing staff members who have dedicated responsibilities towards different projects within the organisation, often on behalf of the TPS research programme.
 Members from the community or participatory projects currently collaborating with TPS or *The Turing Way* are very welcome to join this team.
 All resources created by them in their projects will be shared using open science and FAIR (Findable, Accesible, Interoperable, Reusable) practices, while following the principle of "as open as possible, as closed as necessary", especially when working with sensitive data. Practices and case studies learned from their work with be included in *The Turing Way*.
 
