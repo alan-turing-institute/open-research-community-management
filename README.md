@@ -122,7 +122,7 @@ Their engagement with *The Turing Way* project and community should help them un
 ## References
 
 - _Sharan, Malvika, & Mehonic, Aida. (2022, July 21). Community Managers and Research Application Managers at the Tools, Practices and Systems Programme at The Alan Turing Institute. Zenodo. https://doi.org/10.5281/zenodo.6878124_
-- The Turing Way Community: https://the-turing-way.netlify.app/welcome
+- _The Turing Way_ Handbook: https://the-turing-way.netlify.app/welcome, GitHub repository: https://github.com/alan-turing-institute/the-turing-way
 
 ## License 
 
