@@ -119,6 +119,10 @@ Their engagement with *The Turing Way* project and community should help them un
 - find support for their community work and in exchange support others' work, especially when it is closely aligned with their projects.
 - enhance their technical understanding required in their work and share them more widely via *The Turing Way* (chapters, tutorials, templates or events).
 
+## Reference
+
+_Sharan, Malvika, & Mehonic, Aida. (2022, July 21). Community Managers and Research Application Managers at the Tools, Practices and Systems Programme at The Alan Turing Institute. Zenodo. https://doi.org/10.5281/zenodo.6878124_
+
 ## License 
 
 All content in this repository is [openly licensed](./LICENSE.md) with a CC BY 4.0, which means you're free to use the materials and remix them so long as you ***credit the source***.
