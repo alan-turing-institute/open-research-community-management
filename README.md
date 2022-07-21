@@ -16,7 +16,7 @@ Please get in touch with Malvika by emailing [msharan@turing.ac.uk](mailto:mshar
 Members of the Open Research Community Building team are Community Managers and collaborators in community roles who invest in engaging, training and empowering a diverse group of members such as researchers, research engineers, programme/project management and the business side of the organisation.
 They foster diverse Communities of Practice within and outside the Turing through community building and engagement roles in their respective projects. 
 
-Through the active adoption of open research, reproducibility and collaborative approaches are primarily drawn from [*The Turing Way*](https://github.com/alan-turing-institute/the-turing-way/), they contribute toward building interconnected systems of open source software, datasets, communities and processes.
+Through the active adoption of open research, reproducibility and collaborative approaches primarily drawn from [*The Turing Way*](https://github.com/alan-turing-institute/the-turing-way/), they contribute toward building interconnected systems of open source software, datasets, communities and processes.
 The overarching mission is to make research open, reproducible, ethical, equitable and effective across the national and international data science ecosystem for commercial and public interest technologies alike.
 
 ## Background
