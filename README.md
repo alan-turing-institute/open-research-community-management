@@ -10,7 +10,7 @@ Members from within the Turing programmes working in similar positions, as well 
 
 All members of this team also participate in [*The Turing Way*](https://the-turing-way.netlify.app/welcome) -- an Open Source, Open Collaboration and Community-driven guide to data science, co-led by Kirstie (who is also the founder of the project) and Malvika.
 A part (~10%) of Community Managers' role involves engaging with and contributing to *The Turing Way* as core staff members of the project.
-Anyone interested in the work of this team from outside the Turing or non-collaborators is invited to collaborate with us *The Turing Way*.
+Anyone interested in the work of this team from outside the Turing or non-collaborators is invited to collaborate with us on *The Turing Way*.
 For further questions and information, please get in touch with Malvika by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 
 ## Open Research Community Building Team
