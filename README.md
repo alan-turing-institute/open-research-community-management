@@ -8,7 +8,7 @@ Led by Dr. Malvika Sharan, TPS Senior Researcher for Open Research, TPS hosts a 
 All Community Managers are brought together as the [Open Research Community Building](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) team.
 Members from within the Turing programmes working in similar positions, as well as members from projects collaborating with TPS/*The Turing Way* outside the Turing, referred to as "collaborators in community roles" in this document, are also invited to join this team.
 
-All members of this team also participate in *The Turing Way*](https://the-turing-way.netlify.app/welcome) -- an Open Source, Open Collaboration and Community-driven guide to data science, co-led by Kirstie (who is also the founder of the project) and Malvika.
+All members of this team also participate in [*The Turing Way*](https://the-turing-way.netlify.app/welcome) -- an Open Source, Open Collaboration and Community-driven guide to data science, co-led by Kirstie (who is also the founder of the project) and Malvika.
 A part (~10%) of Community Managers' role involves engaging with and contributing to *The Turing Way* as core staff members of the project.
 Anyone interested in the work of this team from outside the Turing or non-collaborators is invited to collaborate with us *The Turing Way*.
 For further questions and information, please get in touch with Malvika by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
