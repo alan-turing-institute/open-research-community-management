@@ -316,14 +316,14 @@ Resolution action may also include identifying appropriate members from within t
 
 ## 18. Attribution & Acknowledgements
 
-This code of conduct is based on the Open Code of Conduct from the [TODO Group](https://github.com/todogroup/opencodeofconduct/), [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html) and [Contributor Covenant
+This code of conduct is drafted by Malvika Sharan, based on the Open Code of Conduct from the [TODO Group](https://github.com/todogroup/opencodeofconduct/), [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html) and [Contributor Covenant
 version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
+Community Impact Guidelines are inspired by [Mozilla's code of conduct
+enforcement ladder](https://github.com/mozilla/diversity).
+All original work should be attributed to the respective authors of these documents.
 
 The restorative practice statement  and report handling process have been derived from the Eastern University 
 Academic Charter School (EUACS) Student Code of Conduct derived from the work of Ted Wachtel
 at International Institute for Restorative Practices (IIRP).
 
 Restorative Practice Principles are based on Amstutz and Mullet (2005). Restorative Discipline for Schools, pp. 25-26.
-
-Community Impact Guidelines are inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
