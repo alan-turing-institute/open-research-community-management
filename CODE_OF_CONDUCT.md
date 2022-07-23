@@ -271,9 +271,9 @@ All the Turing employees have the obligation to read and understand the staff po
 - [Research Ethics Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2241&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
 - [Data protection policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2184&SearchId=23865&utm_source=interact&utm_medium=general_search&utm_term=data+protection)
 
-**15.2.2** If the reportee is not the Turing Employee, an appropriate authority or law enforcement mechanism will be identified who can respond to the reported incident with appropriate action.
+**15.2.2** If the reportee is not the Turing Employee, an appropriate authority or law enforcement mechanism will be identified who can respond to the reported incident with the appropriate action.
 
-## 16. Resolutions
+## 16. Resolutions for reports in the scope of this Code of Conduct
 
 Here are examples of possible resolutions to a report. 
 This list is not comprehensive, and any action necessary to reach a fair resolution will be taken as needed. 
@@ -282,12 +282,13 @@ Possible resolutions to an incident include:
 1. a private communication from community leaders, providing
 clarity around the nature of the violation and an explanation of why the
 behaviour was inappropriate.
-1. an apology to the person harmed or the team/community as a whole - this will be done via the person handling the situation
+1. an apology to the person harmed or the team/community as a whole - this will be done via the person handling the report
 1. an action plan for the reportee to improve their awareness and correct future behaviours
-1. if confirmed by the person reporting, reportee will have no interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period. This includes avoiding interactions in community spaces as well as external channels like social media.
-1. not publishing the content that violated the Code of Conduct, until necessary changes have been made and agreed upon by the person handling the report.
-1. An imposed suspension, such as asking reportee to “take a week off” from the GitHub repo or team activity.
+1. reportee will have no interaction with the reporter, mediating interaction between reporter and reportee is not in scope of this Code of Conduct
+1. reportee will have no unsolicited interaction with reporter (in rare cases, when reporter is not anonymous) and those enforcing the Code of Conduct. This includes avoiding interactions in community spaces as well as external channels like social media.
+1. not publishing the content (code, documents, media or other materials) that violated the Code of Conduct, until necessary changes have been made and agreed upon by the person handling the report.
+1. An imposed suspension, such as asking reportee to “take a week or month off” from the GitHub repo or team activity.
+1. recommended training activity relevant to correcting the behaviour or building awareness/understanding required to right the wrongs.
 1. a stronger warning with consequences for continued behaviour. 
 
 16.1 After the Resolution is Agreed Upon
