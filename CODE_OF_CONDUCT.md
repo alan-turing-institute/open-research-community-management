@@ -1,4 +1,6 @@
-# Code of Conduct for the Open Research Community Building Team
+# 1. Code of Conduct for the Open Research Community Building Team
+
+> _A code of conduct is a set of rules outlining the norms, rules, and responsibilities or proper practices of an individual party or an organization._
 
 This Code of Conduct document outlines our expectations for 
 participants within the team as well as this online repository (project).
@@ -7,7 +9,7 @@ or unacceptable behaviour by other participants.
 We are committed to providing a welcoming, collaborative and inspiring experience 
 for all and expect our code of conduct to be honoured.
 
-## Our Pledge
+## 2. Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
@@ -19,39 +21,39 @@ and orientation.
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
-## Restorative Practice
+## 3. Restorative Practice
 
 We want to establish a Code of Conduct that focuses on creating a welcoming and safe environment for
 everyone involved.
-In the event that a participant does not abide by the Code of Conduct, we will use the 
+If a participant does not abide by the Code of Conduct, we will use the 
 “restorative practices” approach to handle the situation. Restorative Practices has 
 their roots in “restorative justice,” a way of looking at wrongdoing that focuses on 
-repairing the harm done to people and the relationships rather than on punishing offenders. 
+repairing the harm done to people and the relationships rather than on punishing offenders or wrongdoer. 
 
-## Our Commitments
+## 4. Our Commitments
 
-- **Be friendly and patient.**
+- 4.1 **Be friendly and patient.**
 
-- **Be welcoming**: We strive to be a project and community that welcomes and supports
+- 4.2 **Be welcoming**: We strive to be a project and community that welcomes and supports
   people of all backgrounds and identities. This includes, but is not limited to
   members of any race, ethnicity, culture, national origin, colour, immigration
   status, social and economic class, educational level, sex, sexual orientation,
   gender identity and expression, age, size, family status, political belief,
   religion, and mental and physical ability.
 
-- **Be considerate**: Your work will be used by other people, and you in turn
+- 4.3 **Be considerate**: Your work will be used by other people, and you in turn
   will depend on the work of others. Any decision you take will affect users and
   colleagues, and you should take those consequences into account when making
   decisions. Remember that we're an open source project. This means that contributors
   might not be communicating in their primary language.
 
-- **Be respectful**: Not all of us will agree all the time, but disagreement is
+- 4.4 **Be respectful**: Not all of us will agree all the time, but disagreement is
   no excuse for poor behaviour and poor manners. We might all experience some
   frustration now and then, but we cannot allow that frustration to turn into a
   personal attack. It’s important to remember that a project where people feel
   uncomfortable or threatened is not a productive one.
 
-- **Be careful in the words that we choose**: We are
+- 4.5 **Be careful in the words that we choose**: We are
   professionals, and we conduct ourselves professionally. Be kind to others. Do
   not insult or put down other participants. Harassment and other exclusionary
   behaviour aren't acceptable. This includes, but is not limited to Violent
@@ -60,11 +62,11 @@ repairing the harm done to people and the relationships rather than on punishing
   threatening to post) other people’s personally identifying information
   (“doxing”), Personal insults, especially those using racist or sexist terms,
   Unwelcome sexual attention, Advocating for or encouraging, any of the above
-  behaviour, Repeated harassment of others. In general, if someone asks you to
+  behaviour, and Repeated harassment of others. In general, if someone asks you to
   stop, then stop.
 
-- **Try to understand why we disagree**: Disagreements, both social and
-  technical, happen all the time. It is important that we resolve disagreements
+- 4.6 **Try to understand why we disagree**: Disagreements, both social and
+  technical, happen all the time. We must resolve disagreements
   and differing views constructively. Remember that we’re different. Diversity
   contributes to the strength of our work, which is composed of people from
   a wide range of backgrounds. Different people have different perspectives on
@@ -73,28 +75,31 @@ repairing the harm done to people and the relationships rather than on punishing
   other doesn’t get us anywhere. Instead, focus on helping to resolve issues and
   learning from mistakes.
  
-## Our Standards
+## 5. Our Standards
 
-Examples of behaviour that contributes to a positive environment for our
+**5.1** Examples of behaviour that contributes to a positive environment for our
 community include:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+1. Demonstrating empathy and kindness toward other people
+1. Being respectful of differing opinions, viewpoints, and experiences
+1. Gracefully giving and accepting constructive feedback
+1. Accepting responsibility for harm done to people/community, correcting our mistakes,
+  and learning from the experience to avoid future harm
+1. Focusing on what is best not just for us as individuals, but for the
+  overall community in the long term
 
-Examples of unacceptable behaviour include:
+**5.2** Examples of unacceptable behaviour include:
 
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
-* The use of sexualised language or imagery, and sexual attention or advances of any kind
+1. Trolling or insulting people in any interaction (online or in person)
+1. Using aggressive or derogatory comments
+1. Making personal or political attacks
+1. Public or private harassment of any kind
+1. Publishing others' private information, such as a physical or email address, without their explicit permission
+1. Inflicting emotional distress
+1. Any conduct which could reasonably be considered inappropriate in a professional setting
+1. The use of sexualised language or imagery, and sexual attention or advances of any kind
  
-### Diversity Statement
+## 6. Diversity Statement
 
 We encourage everyone to participate and are committed to building a project
 for all. Although we will fail at times, we seek to treat everyone both as
@@ -110,7 +115,7 @@ socioeconomic status, and technical ability. We will not tolerate discrimination
 based on any of the protected characteristics above, including participants with
 disabilities.
 
-## Restorative Practice Statement and Principles
+## 7. Restorative Practice Statement and Principles
 
 Restorative practices are based on the belief that human beings are happier, more 
 cooperative and productive, and more likely to make positive changes in their behaviour 
@@ -119,18 +124,19 @@ The most critical function of restorative practices is restoring and building re
 People in charge must meet with those they have wronged, explore what happened, 
 and make necessary amends.
 
-### Restorative Practice Principles
+## 8. Restorative Practice Principles in this Code of Conduct
 
-1. Focuses on harms rather than rules or persons and the consequent needs of victims, offenders and communities.
-2. Addresses obligations of the offender resulting from those harms, as well as the team/community’s obligations to both victims and offenders.
-3. Uses inclusive, collaborative processes.
-4. Involves all individuals (victims, offenders, parents, students, staff, and faculty) who have a legitimate stake in a given situation.
-5. Seeks to right the wrongs that have been done so that victims feel safe and valued, and offenders feel restored to the team/community
+1. Focuses on harms rather than the intention of wrongdoers.
+2. Prioritises persons affected and the consequent needs of victims and safety in communities.
+3. Addresses obligations of the wrongdoer resulting from those harms, as well as the team/community’s obligations to both victims and wrongdoers.
+4. Creates opportunity for all individuals, who have a legitimate stake in a given situation, to be heard and their concerns addressed.
+5. Seeks to right the wrongs that have been done so that victims feel safe and valued, and wrongdoers feel restored to the team/community
+6. Uses inclusive, collaborative processes giving fair opportunity to right the wrongs.
 
-### Restorative Disciplines
+## 9. Restorative Disciplines
 
-1. Acknowledges that relationships are central to the team building
-2. Must establish policies and procedures that handle incident reports in a way that strengthens relationships
+1. Acknowledges that trust, safe space and relationships are central to community building.
+2. Must establish policies and procedures that handle incident reports in a way that strengthens relationships.
 3. Focuses on harms done rather than rules broken.
 4. Gives voice to the person who has been harmed.
 5. Engages in collaborative problem solving
@@ -141,9 +147,9 @@ The goals of these restorative practices are that Open Research Community Buildi
 would create a safe, friendly and enjoyable space for collaboration and support.
 Together we strive to foster an environment where everyone feels valued, respected, and included.
 
-## Scope
+## 10. Scope
 
-This Code of Conduct applies to all members participating in the activities, 
+**10.1** This Code of Conduct applies to all members participating in the activities, 
 events and processes taking place within the **Open Research Community Building Team**. 
 Specifically, our Code of Conduct applies to any conduct:
 - in interactions within the team/community
@@ -151,13 +157,19 @@ Specifically, our Code of Conduct applies to any conduct:
 - outside the team activity when a team member is representing projects associated with the team
 - by members outside the team engaging on the Open Community Building GitHub repository.
 
-This Code of Conduct also applies when
-an individual is officially representing the community in public spaces.
+**10.2** This Code of Conduct also applies to
+individuals officially representing the community in public spaces.
+
 Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 a representative at an online or offline event.
 
-## Enforcement Responsibilities
+**10.3** This Code of Conduct also applies to individuals engaging with this repository 
+
+for instance, in interactions on GitHub issues and Pull Requests or activities taking 
+place in the context of the **Open Research Community Building Team**.
+
+## 11. Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of
 acceptable behaviour and will take appropriate and fair corrective, restorative and 
@@ -165,14 +177,16 @@ action in response to any behaviour that they deem inappropriate, threatening, o
 or harmful.
 
 Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
+comments, commits, code, edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
-## Enforcement
+## 12. Enforcement
 
-Instances of harassing, abusive, or otherwise unacceptable behaviour should be
+Instances of trolling, harassing, abusive, or otherwise unacceptable behaviour should be
 reported to the community leaders responsible for enforcement.
+If noticed by community leaders, incidents should be recorded and shared with one or more 
+members of the Open Research Community Building Team for transparency.
 
 All reports will be reviewed and investigated promptly and fairly.
 
@@ -180,7 +194,9 @@ All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 Together we strive to foster an environment where everyone feels valued, respected, and included.
 
-## Reporting Incident
+## 13. Reporting Incident
+
+**13.1** Code of Conduct Contact for Reporting
 
 If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
 by contacting the Team Lead, Malvika Sharan (email: msharan@turing.ac.uk). Malvika may involve
@@ -188,9 +204,9 @@ the Tools, Practices and Systems Programme Director, Kirstie Whitaker when incid
 as difficult (not straightforward) except when any potential conflict of interest may arise.
 
 To report an issue involving the team lead, please email directly to the Tools, Practices and Systems 
-Programme Director, Kirstie Whitaker (email: kwhitaker@turing.ac.uk). 
+Programme Director, Kirstie Whitaker (currently on maternity leave). 
 
-In your report please include:
+**13.2** In your report please include:
 
 - Your contact information.
 
@@ -202,27 +218,33 @@ In your report please include:
 
 - Any additional information that may be helpful.
 
-We will respect confidentiality requests all the time for the purpose of protecting individuals who have been harmed.
+**13.3** Confidentiality of Reporter(s)
 
-### Terminology
+We will respect the confidentiality of reporter(s) all the time to protect individuals who have been harmed.
+In case the reporter's identity can not be hidden (if easily identified through the details of the report), the person handling the Code of Conduct report will discuss the possible ways to protect reporters from future incidents.
 
-* Reporter: Person reporting an incident.
-* Reportee: Person being reported.
+## 14. Terminology
 
-### Report Handling and Enforcement
+* **14.1** Reporter: Person reporting an incident.
+* **14.2** Reportee: Person being reported.
 
-After receiving a report, the community leaders (or person handling the report), team lead or programme director in this case, will review the incident report and follow this process to determine the cause and consequences that violated this Code of Conduct and take further actions:
+## 15. Report Handling and Enforcement
+
+After receiving a report, the community leaders (or person handling the report), team lead or programme director, in this case, will review the incident report and follow this process to determine the cause and consequences that violated this Code of Conduct and take further actions:
+
+**15.1** If the breach is considered within the scope of this Code of Conduct
 
 Community leaders will reach out to the reporter to ask for further information if the submitted report is not complete or needs some additional context.
 Community leaders will also ensure that person impacted or harmed by the reported incident is safe and identify how they can be further supported.
 
-A meeting with the reportee will be scheduled where the person handling the report will discuss four questions:
+**15.1.1** A meeting with the reportee will be scheduled where the person handling the report will discuss four questions:
 - What happened?
 - What were you thinking at the time?
 - Who has been affected by what you have done? In what way?
 - What do you think you need to do to make things right?
+- Knowing what you know, what would you have done differently?
 
-When the incident in question inflicted harm on another person, additional 
+**15.1.2** When the incident in question inflicted harm on another person, additional 
 questions will be asked on behalf of the person(s) harmed:
 - What did you think when you realized what had happened?
 - What impact has this incident had on you and others?
@@ -231,24 +253,44 @@ questions will be asked on behalf of the person(s) harmed:
 The person handling the report may follow up with reportee or reporter after this discussion 
 with any additional questions to help them reach a resolution.
 
-## Resolutions
+**15.2** If the breach is considered outside the scope of this Code of Conduct
+
+**15.2.1** If the reportee is an employee of the Turing (for instance, Community Managers and senior researchers), the report will be passed to the appropriate personnel responsible to enforce the report handling mechanism under the staff policies.
+All the Turing employees have the obligation to read and understand the staff policies, which include:
+- [Workplace Guidelines](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2427&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Code of Conduct Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2174&SearchId=23863&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Disciplinary Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2215&SearchId=23863&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Equality and diversity policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2175&SearchId=23863&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Whistleblowing (Raising Concerns) Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2189&SearchId=23863&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Complaints policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2214&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Bullying and harassment Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2173&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Research Misconduct Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2202&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Safeguarding policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2243&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Grievance procedure](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2217&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Wellbeing support services](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2228&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Research Ethics Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2241&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Data protection policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2184&SearchId=23865&utm_source=interact&utm_medium=general_search&utm_term=data+protection)
+
+**15.2.2** If the reportee is not the Turing Employee, an appropriate authority or law enforcement mechanism will be identified who can respond to the reported incident with appropriate action.
+
+## 16. Resolutions
 
 Here are examples of possible resolutions to a report. 
 This list is not comprehensive, and any action necessary to reach a fair resolution will be taken as needed. 
 Possible resolutions to an incident include:
 
-- a private communication from community leaders, providing
+1. a private communication from community leaders, providing
 clarity around the nature of the violation and an explanation of why the
 behaviour was inappropriate.
-- an apology to the person harmed or the team as a whole
-- an action plan for the reportee to improve their awareness and correct future behaviours
-- if confirmed by the person reporting, reportee will have no interaction with the people involved, including unsolicited interaction with
+1. an apology to the person harmed or the team/community as a whole - this will be done via the person handling the situation
+1. an action plan for the reportee to improve their awareness and correct future behaviours
+1. if confirmed by the person reporting, reportee will have no interaction with the people involved, including unsolicited interaction with
 those enforcing the Code of Conduct, for a specified period. This includes avoiding interactions in community spaces as well as external channels like social media.
-- not publishing the content that violated the Code of Conduct, until necessary changes have been made and agreed upon by the person handling the report.
-- An imposed suspension, such as asking reportee to “take a week off” from the GitHub repo or team activity.
-- a stronger warning with consequences for continued behaviour. 
+1. not publishing the content that violated the Code of Conduct, until necessary changes have been made and agreed upon by the person handling the report.
+1. An imposed suspension, such as asking reportee to “take a week off” from the GitHub repo or team activity.
+1. a stronger warning with consequences for continued behaviour. 
 
-The person handling the report will maintain records of all reports so that they may be reviewed if stronger measures are required when repeated violations occur by the same individual as well as to improve our Code of Conduct for future participation.
+16.1 After the Resolution is Agreed Upon
 
 Once a resolution is agreed upon, but before it is enacted, the person handling the report will contact the reporter and any other affected parties to explain the proposed resolution. 
 They will ask if this resolution is acceptable and must note feedback for the record. However, they are not required to act on this feedback.
@@ -256,18 +298,20 @@ They will ask if this resolution is acceptable and must note feedback for the re
 The reportee will be contacted via email informing them of the resolution.
 A final meeting may be conducted if necessary.
 
-### Conflict of Interest
+The person handling the report will maintain records of all reports so that they may be reviewed if stronger measures are required when repeated violations occur by the same individual as well as to improve our Code of Conduct for future participation.
+
+## 17. Conflict of Interest
 
 All reports will be kept confidential with details shared only with people involved in report handling. 
 If a person handling the report (team lead or programme director) is linked with the ongoing issue, they will declare their Conflict of Interest and remove themselves from any discussion related to the report handling.
 Resolution action may also include identifying appropriate members from within the Open Research Community Building Team if more support for the person handling the report is needed.
 
-## Attribution & Acknowledgements
+## 18. Attribution & Acknowledgements
 
 This code of conduct is based on the Open Code of Conduct from the [TODO Group](https://github.com/todogroup/opencodeofconduct/), [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html) and [Contributor Covenant
 version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
 
-The restorative practice statement  and report handling process has been derived from the Eastern University 
+The restorative practice statement  and report handling process have been derived from the Eastern University 
 Academic Charter School (EUACS) Student Code of Conduct derived from the work of Ted Wachtel
 at International Institute for Restorative Practices (IIRP).
 
