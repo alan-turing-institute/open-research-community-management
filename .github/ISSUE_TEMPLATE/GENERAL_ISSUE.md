@@ -6,7 +6,8 @@ labels:
 assignees: ''
 
 ---
-<!-- Please complete the following sections -->
+<!-- If opening a new issue, please complete the following sections. Please note that our Code of Conduct and the contributing guideline applies to this issue. If you have not already, please take a moment to read those documents, including about the project on README page. -->
+
 ### Summary Sentence
 
 [Add details]
