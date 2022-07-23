@@ -232,7 +232,7 @@ In case the reporter's identity can not be hidden (if easily identified through 
 
 After receiving a report, the community leaders (or person handling the report), team lead or programme director, in this case, will review the incident report and follow this process to determine the cause and consequences that violated this Code of Conduct and take further actions:
 
-**15.1** If the breach is considered within the scope of this Code of Conduct
+### **15.1** If the breach is considered within the scope of this Code of Conduct
 
 Community leaders will reach out to the reporter to ask for further information if the submitted report is not complete or needs some additional context.
 Community leaders will also ensure that person impacted or harmed by the reported incident is safe and identify how they can be further supported.
@@ -253,9 +253,15 @@ questions will be asked on behalf of the person(s) harmed:
 The person handling the report may follow up with reportee or reporter after this discussion 
 with any additional questions to help them reach a resolution.
 
-**15.2** If the breach is considered outside the scope of this Code of Conduct
+### **15.2** If the breach is considered outside the scope of this Code of Conduct
 
-**15.2.1** If the reportee is an employee of the Turing (for instance, Community Managers and senior researchers), the report will be passed to the appropriate personnel responsible to enforce the report handling mechanism under the staff policies.
+### **15.2.1** If the reportee is an employee of the Turing 
+
+Code of Conduct should be considered as a norm-setting mechanism for the Open Research Community Building Team before any involvement of HR in the interactions that take place within the team. 
+
+If the reportee is the Turing Staff, for instance, Community Managers and senior researchers, and the incident is considered out of the scope of this Code of Conduct due to the severity of the matter/case, an HR process, including an informal one, will be started.
+In this case, the report will be passed to the HR and/or appropriate personnel under the Turing policies and their enforcement mechanism will take precedent over the Code of Conduct enforcement.
+
 All the Turing employees have the obligation to read and understand the staff policies, which include:
 - [Workplace Guidelines](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2427&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
 - [Code of Conduct Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2174&SearchId=23863&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
@@ -271,7 +277,8 @@ All the Turing employees have the obligation to read and understand the staff po
 - [Research Ethics Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2241&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
 - [Data protection policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2184&SearchId=23865&utm_source=interact&utm_medium=general_search&utm_term=data+protection)
 
-**15.2.2** If the reportee is not the Turing Employee, an appropriate authority or law enforcement mechanism will be identified who can respond to the reported incident with the appropriate action.
+### **15.2.2** If the reportee is not the Turing Employee
+- an appropriate authority or law enforcement mechanism will be identified who can respond to the reported incident with the appropriate action.
 
 ## 16. Resolutions for reports in the scope of this Code of Conduct
 
@@ -291,7 +298,7 @@ behaviour was inappropriate.
 1. recommended training activity relevant to correcting the behaviour or building awareness/understanding required to right the wrongs.
 1. a stronger warning with consequences for continued behaviour. 
 
-16.1 After the Resolution is Agreed Upon
+**16.1** After the Resolution is Agreed Upon
 
 Once a resolution is agreed upon, but before it is enacted, the person handling the report will contact the reporter and any other affected parties to explain the proposed resolution. 
 They will ask if this resolution is acceptable and must note feedback for the record. However, they are not required to act on this feedback.
