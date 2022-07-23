@@ -7,7 +7,9 @@ assignees: ''
 
 ---
 
-# Turing Community Managers Induction and Onboarding - checklist
+# Turing Community Managers and Team Member Induction and Onboarding - checklist
+
+*This issue should be created by new Community Managers or collaborators of the Turing's Tools, Practices and Systems programme who have discussed their potential engagement and participation within the Open Research Community Building Team. Other members interested in the work of this team should engage with the team members via The Turing Way project and community resources - see details on [The Turing Way GitHub repository](https://github.com/alan-turing-institute/the-turing-way)*
 
 - [ ] Working from home equipment 
     - [ ] Laptop
