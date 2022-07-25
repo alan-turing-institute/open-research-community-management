@@ -4,6 +4,46 @@
 * [17 June 2022](#date-17-June-2022)
 * [29 June 2022](#date-29-June-2022)
 * [8 July 2022](#date-8-July-2022)
+* [15 July 2022](#date-15-July-2022)
+
+## Date: 15 July 2022
+
+### Check-in ritual
+
+### Project specific Reflection
+
+This week's been pretty good, I'm very glad I finished the GitHub slides. I'm also making some headway with arranging meetings with the project managers.
+
+### Notes to discuss during 1:1
+
+- Any feedback on the GitHub slides? 
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+- Finished the GitHub slides
+- Reached out to all project managers and have scheduled meetings with five out of seven
+- Started advertising the GitHub workshop
+
+#### What did you struggle with?
+
+- I've been meaning to work on collating resources but I seem to keep running out of time!
+
+#### What would you like to work on next week?
+- Deliver the GitHub session
+- Meet up with ECRs about a useR group
+- Actually work on collating resources
+
+#### Where do you need help?
+
+- Mostly feedback on the GitHub slides
+- Advice on R translation
+
+#### Any other topics
+
 
 ## Date: 8 July 2022
 
