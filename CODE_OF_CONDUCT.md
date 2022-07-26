@@ -7,7 +7,7 @@ participants within the team as well as this online repository (project).
 We also provide steps to reporting any concern, uncomfortable situation 
 or unacceptable behaviour by other participants. 
 We are committed to providing a welcoming, collaborative and inspiring experience 
-for all and expect our code of conduct to be honoured.
+for all members of this team and expect our code of conduct to be honoured.
 
 ## 2. Our Pledge
 
@@ -34,8 +34,10 @@ repairing the harm done to people and the relationships rather than on punishing
 
 - 4.1 **Be friendly and patient.**
 
-- 4.2 **Be welcoming**: We strive to be a project and community that welcomes and supports
-  people of all backgrounds and identities. This includes, but is not limited to
+- 4.2 **Be welcoming**: we strive to build a welcoming and supportive team.
+  As community facilitators, we also strive to apply this value in creating 
+  Communities of Practice that welcomes and support members of all backgrounds 
+  and identities. This includes, but is not limited to
   members of any race, ethnicity, culture, national origin, colour, immigration
   status, social and economic class, educational level, sex, sexual orientation,
   gender identity and expression, age, size, family status, political belief,
@@ -101,8 +103,9 @@ community include:
  
 ## 6. Diversity Statement
 
-We encourage everyone to participate and are committed to building a project
-for all. Although we will fail at times, we seek to treat everyone both as
+We encourage everyone in the team to participate in all team activities and work.
+We are committed to facilitating Communities of Practice that are connected with 
+each others work. Although we will fail at times, we seek to treat everyone both as
 fairly and equally as possible. Whenever a member has made a mistake, we
 expect them to take responsibility for it. If someone has been harmed or
 offended, it is our responsibility to listen carefully and respectfully, and do
@@ -129,7 +132,7 @@ and make necessary amends.
 1. Focuses on harms rather than the intention of wrongdoers.
 2. Prioritises persons affected and the consequent needs of victims and safety in communities.
 3. Addresses obligations of the wrongdoer resulting from those harms, as well as the team/community’s obligations to both victims and wrongdoers.
-4. Creates opportunity for all individuals, who have a legitimate stake in a given situation, to be heard and their concerns addressed.
+4. Creates opportunity for all individuals in this team, who have a legitimate stake in a given situation, to be heard and their concerns addressed.
 5. Seeks to right the wrongs that have been done so that victims feel safe and valued, and wrongdoers feel restored to the team/community
 6. Uses inclusive, collaborative processes giving fair opportunity to right the wrongs.
 
@@ -204,7 +207,8 @@ the Tools, Practices and Systems Programme Director, Kirstie Whitaker when incid
 as difficult (not straightforward) except when any potential conflict of interest may arise.
 
 To report an issue involving the team lead, please email directly to the Tools, Practices and Systems 
-Programme Director, Kirstie Whitaker (currently on maternity leave). 
+Programme Director, Kirstie Whitaker. Since she is currently on maternity leave, please contact TPS
+Programme Manager Arielle Bennett (abennett@turing.ac.uk). 
 
 **13.2** In your report please include:
 
