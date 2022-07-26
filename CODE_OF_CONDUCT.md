@@ -93,7 +93,7 @@ community include:
 **5.2** Examples of unacceptable behaviour include:
 
 1. Trolling or insulting people in any interaction (online or in person)
-1. Using aggressive or derogatory comments
+1. Using aggressive, derogatory or derisive comments
 1. Making personal or political attacks
 1. Public or private harassment of any kind
 1. Publishing others' private information, such as a physical or email address, without their explicit permission
@@ -263,7 +263,7 @@ with any additional questions to help them reach a resolution.
 
 Code of Conduct should be considered as a norm-setting mechanism for the Open Research Community Building Team before any involvement of HR in the interactions that take place within the team. 
 
-If the reportee is the Turing Staff, for instance, Community Managers and senior researchers, and the incident is considered out of the scope of this Code of Conduct due to the severity of the matter/case, an HR process (formal or informal), will be started.
+If the reportee is a Turing employee, for instance, Community Managers and senior researchers, and the incident is considered out of the scope of this Code of Conduct due to the severity of the matter/case, an HR process (formal or informal), will be started.
 In this case, the report will be passed to the HR and/or appropriate personnel under the Turing policies and their policy related enforcement mechanism will take precedent over the Code of Conduct enforcement.
 
 All the Turing employees have the obligation to read and understand the staff policies, which include:
