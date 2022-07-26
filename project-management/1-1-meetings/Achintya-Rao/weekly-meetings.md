@@ -34,6 +34,8 @@
 - So, as I have known for a while, actually putting words on a page and sending it over for review is a wonderful experience.
 The feedback I’ve received so far on the Scivision draft makes me feel much more confident about tackling the rest of the texts ahead.
 
+MS: great job! Really exciting to see many reviews and comments from everyone.
+
 ### Project-specific reflection
 
 - Sent over the Scivision section for review and am working on the IceNet one now.
@@ -44,11 +46,15 @@ Will see what the discussion at the S&R meeting on Thursday reveals.
 I have half an hour to present the project’s objectives and discuss potential angles with the PDRAs.
 - For the remaining two white papers, I will approach the writing as the first/lead author (as BM said I should) and get input where required, rather than expecting collaborative writing from the start (even with prepared notes available before anyone opens the doc).
 
+MS: These sound like a good way forward - a good risk mitigation idea.
+
 ### Notes to discuss during 1:1
 
 #### Whom did you help since the last meeting?
 
 - Reviewed the TPS newsletter for AB.
+
+MS: Thank you! 🎊
 
 #### Who helped you since the last meeting?
 
@@ -58,9 +64,13 @@ I have half an hour to present the project’s objectives and discuss potential 
 - MS for passing on my feedback request.
 - AM and ZE for reviewing the text and providing feedback/suggestions.
 
+MS: 🌸
+
 #### What did you achieve?
 
 - Near-final draft of the Scivision text!!
+
+MS: Great job!
 
 #### What are you working on this week and what are your priorities?
 
@@ -68,10 +78,14 @@ I have half an hour to present the project’s objectives and discuss potential 
 Will provide an update by the end of the week independent of whether I’ve finished or not.
 - Attending the S&R meeting on Thursday (hopefully the connection works, unlike the last time I participated), where I will be discussing the third white paper with the PDRAs.
 
+MS: Thanks for updating!
+
 #### Where do you need help?
 
 - I would be grateful for advice on how to kick-off the next two white papers.
 Happy to discuss what worked and what didn’t in the E&S one, during our call.
+
+MS: Let's find some time on one of the Fridays coworking.
 
 ## 2022-07-20
 
