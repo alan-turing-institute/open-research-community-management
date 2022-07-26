@@ -35,19 +35,21 @@
 - Catapult talk (20 July): done! (uploaded?)
 - July Fireside (24 July): will respond to group emails.
 - NHS digital workshop (EK+VH)
+- Anne & Malvika maintenance week (8 Aug - 12 Aug)
 - Kings College (5 October): now in Aug (keep ACC in loop)
-- August Fireside (24 Aug): planning in progress
+- August Fireside (24 Aug): planning in progress, need to follow up with Rayya
 - CarpentryCon (4 Aug & 10 Aug): check-in scheduled for tomorrow morning
-- Newcastle (19-20 Sept):
+- Newcastle (19-20 Sept): moved dates
 - Code for All Summit (19-22 Sept)
 - Connections Turing Course (26 & 27 September): times have moved?
+- King's college: 5 October
 
 ### Proposal updates
 - Mozilla AI Working Group (30 June): submitted
 - Code for All Summit: submitted 8 july - accepted!
 - UNESCO open call: submitted
 - WritetheDocs: translation team accepted!
-- OpenUK: 31 july (nominations are still open!)
+- OpenUK: 31 july (nominations are still open! einstein & athena award as a base)
 - UNESCO call for open science best practices (15 July)
 - Big Team Science (18 July): submitted
 - Connections workshop: saw that timelines are changed
