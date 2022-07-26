@@ -12,6 +12,51 @@
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
 
+## 2022-07-26
+### Upcoming Task updates
+- Returning from annual leave! Catching up on emails and tasks for the coming weeks today.
+- Updates from the project that I've missed?
+- Newsletter: aim to publish this week?
+  - collecting updates from the past two weeks
+- Community research: adding in previous updates & meetings from the past few weeks.
+- Governance work: - no updates
+- Developing WG - no updates
+- TPS peer mentoring programme - upcoming check-in?
+- OLS <> Turing Way MOOC course: weekly co-working call - checking in this week
+- NHS Podcast: will respond with dates
+- Forward PR
+
+### Thank yous
+- MS & everyone on the team for keeping the ship moving over the past two weeks!
+
+### Event updates
+- AGS mapathon (7 July): done!
+- Catapult talk (20 July): done! (uploaded?)
+- July Fireside (24 July): will respond to group emails.
+- NHS digital workshop (EK+VH)
+- Kings College (5 October): now in Aug (keep ACC in loop)
+- August Fireside (24 Aug): planning in progress
+- CarpentryCon (4 Aug & 10 Aug): check-in scheduled for tomorrow morning
+- Newcastle (19-20 Sept):
+- Code for All Summit (19-22 Sept)
+- Connections Turing Course (26 & 27 September): times have moved?
+
+### Proposal updates
+- Mozilla AI Working Group (30 June): submitted
+- Code for All Summit: submitted 8 july - accepted!
+- UNESCO open call: submitted
+- WritetheDocs: translation team accepted!
+- OpenUK: 31 july (nominations are still open!)
+- UNESCO call for open science best practices (15 July)
+- Big Team Science (18 July): submitted
+- Connections workshop: saw that timelines are changed
+
+### Next week
+- Mostly catching up on things this week - saving the most urgent for now, and the rest for next week
+
+### Ideas corner
+-
+
 ## 2022-07-05
 ### Upcoming Task updates
 - Annual leave! Off for the next two weeks.
@@ -119,7 +164,7 @@ MS: Thank you for the fantastic work! Always a pleasure to see updates from your
 - Things to ping MS about:
   - Community share-outs video (upload)
   - Book Dash report
-  
+
 ### Ideas corner
 
 ## 2022-06-14
