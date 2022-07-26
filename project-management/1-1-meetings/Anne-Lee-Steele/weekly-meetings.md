@@ -56,9 +56,11 @@
 
 ### Next week
 - Mostly catching up on things this week - saving the most urgent for now, and the rest for next week
+- Possible people to invite in the future: SciVision, AutSpaces, Team Shrub
+- Upcoming projects: Residents within the Turing Way (may have to be UK based), UX & Ethnographer roles, Lessons learned within the Turing Way community
 
 ### Ideas corner
--
+- had lots over the course of the past few weeks!
 
 ## 2022-07-05
 ### Upcoming Task updates
