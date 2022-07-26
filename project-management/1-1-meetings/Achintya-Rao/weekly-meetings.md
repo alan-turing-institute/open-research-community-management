@@ -4,6 +4,7 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-07-26](#2022-07-26)
 - [2022-07-20](#2022-07-20)
 - [2022-07-12](#2022-07-12)
 - [2022-07-05](#2022-07-05)
@@ -25,6 +26,52 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-07-26
+
+### Check-in ritual
+
+- So, as I have known for a while, actually putting words on a page and sending it over for review is a wonderful experience.
+The feedback I’ve received so far on the Scivision draft makes me feel much more confident about tackling the rest of the texts ahead.
+
+### Project-specific reflection
+
+- Sent over the Scivision section for review and am working on the IceNet one now.
+Ideally, should be done in a day or two, before moving on to DyME-CHH.
+Will provide a status update either way, at the end of the week.
+- I’m still not convinced that the case-study-focused approach is the best way forward for the remaining two white papers, and think they should be anchored around cross-cutting messages and recommendations, with project-specific lessons sprinkled across the texts.
+Will see what the discussion at the S&R meeting on Thursday reveals.
+I have half an hour to present the project’s objectives and discuss potential angles with the PDRAs.
+- For the remaining two white papers, I will approach the writing as the first/lead author (as BM said I should) and get input where required, rather than expecting collaborative writing from the start (even with prepared notes available before anyone opens the doc).
+
+### Notes to discuss during 1:1
+
+#### Whom did you help since the last meeting?
+
+- Reviewed the TPS newsletter for AB.
+
+#### Who helped you since the last meeting?
+
+- ZI with lots of following up on tasks.
+- BM with encouragement that the writing is on the right track re. style, message, tone etc.
+- KW, who called to check how I was doing from a MH perspective.
+- MS for passing on my feedback request.
+- AM and ZE for reviewing the text and providing feedback/suggestions.
+
+#### What did you achieve?
+
+- Near-final draft of the Scivision text!!
+
+#### What are you working on this week and what are your priorities?
+
+- Focused on IceNet at the moment, and hope to tackle DyME-CHH later this week.
+Will provide an update by the end of the week independent of whether I’ve finished or not.
+- Attending the S&R meeting on Thursday (hopefully the connection works, unlike the last time I participated), where I will be discussing the third white paper with the PDRAs.
+
+#### Where do you need help?
+
+- I would be grateful for advice on how to kick-off the next two white papers.
+Happy to discuss what worked and what didn’t in the E&S one, during our call.
 
 ## 2022-07-20
 
