@@ -25,6 +25,7 @@
 - OLS <> Turing Way MOOC course: weekly co-working call - checking in this week
 - NHS Podcast: will respond with dates
 - Forward PR
+- OLS - continuing the project in fall 2022 (reviews in progress!)
 
 ### Thank yous
 - MS & everyone on the team for keeping the ship moving over the past two weeks!
