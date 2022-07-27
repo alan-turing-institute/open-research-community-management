@@ -4,6 +4,8 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-07-26](#2022-07-26)
+- [2022-07-20](#2022-07-20)
 - [2022-07-12](#2022-07-12)
 - [2022-07-05](#2022-07-05)
 - [2022-06-21](#2022-06-21)
@@ -24,6 +26,106 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-07-26
+
+### Check-in ritual
+
+- So, as I have known for a while, actually putting words on a page and sending it over for review is a wonderful experience.
+The feedback I’ve received so far on the Scivision draft makes me feel much more confident about tackling the rest of the texts ahead.
+
+MS: great job! Really exciting to see many reviews and comments from everyone.
+
+### Project-specific reflection
+
+- Sent over the Scivision section for review and am working on the IceNet one now.
+Ideally, should be done in a day or two, before moving on to DyME-CHH.
+Will provide a status update either way, at the end of the week.
+- I’m still not convinced that the case-study-focused approach is the best way forward for the remaining two white papers, and think they should be anchored around cross-cutting messages and recommendations, with project-specific lessons sprinkled across the texts.
+Will see what the discussion at the S&R meeting on Thursday reveals.
+I have half an hour to present the project’s objectives and discuss potential angles with the PDRAs.
+- For the remaining two white papers, I will approach the writing as the first/lead author (as BM said I should) and get input where required, rather than expecting collaborative writing from the start (even with prepared notes available before anyone opens the doc).
+
+MS: These sound like a good way forward - a good risk mitigation idea.
+
+### Notes to discuss during 1:1
+
+#### Whom did you help since the last meeting?
+
+- Reviewed the TPS newsletter for AB.
+
+MS: Thank you! 🎊
+
+#### Who helped you since the last meeting?
+
+- ZI with lots of following up on tasks.
+- BM with encouragement that the writing is on the right track re. style, message, tone etc.
+- KW, who called to check how I was doing from a MH perspective.
+- MS for passing on my feedback request.
+- AM and ZE for reviewing the text and providing feedback/suggestions.
+
+MS: 🌸
+
+#### What did you achieve?
+
+- Near-final draft of the Scivision text!!
+
+MS: Great job!
+
+#### What are you working on this week and what are your priorities?
+
+- Focused on IceNet at the moment, and hope to tackle DyME-CHH later this week.
+Will provide an update by the end of the week independent of whether I’ve finished or not.
+- Attending the S&R meeting on Thursday (hopefully the connection works, unlike the last time I participated), where I will be discussing the third white paper with the PDRAs.
+
+MS: Thanks for updating!
+
+#### Where do you need help?
+
+- I would be grateful for advice on how to kick-off the next two white papers.
+Happy to discuss what worked and what didn’t in the E&S one, during our call.
+
+MS: Let's find some time on one of the Fridays coworking.
+
+## 2022-07-20
+
+### Check-in ritual
+
+- Just had a very productive all-morning planning sprint with ZI!
+
+### Project-specific reflection
+
+- Writing is going slowly but well.
+A lot of writing is thinking, and I would’ve liked to have someone to think with to clarify ideas; just making notes doesn’t help me a lot.
+- ZI and I have worked on a plan for various ASG tasks, with white papers and related deliverables as top priority.
+- We may have to advance the publication of the first white paper as E&S want it out by November in time for COP27.
+
+### Notes to discuss during 1:1
+
+#### Whom did you help since the last meeting?
+
+- Had chat with HS about whether white papers are the way to go for capturing their work.
+- Had a welcome-to-Turing chat with MI.
+
+#### Who helped you since the last meeting?
+
+- ZI really helped in our planning sprint on not just focusing on tasks but about processes.
+- JL gave me feedback on the messaging for the white papers.
+- MS by moving the illustration sprints forward in e-mail with HS.
+
+#### What did you achieve?
+
+- Managed to put aside a lot of time for the white papers, even if a lot of it was spent thinking.
+Really valuing having meeting-free and distraction-free time to reflect on the content.
+
+#### What are you working on this week and what are your priorities?
+
+- Finish Scivision and IceNet impact case studies and finalise for BM, MS and ZE to review.
+- Didn’t manage last week, so will submit CM report for Q1 (22/23) before end of week.
+
+#### Where do you need help?
+
+- I will need reviews on the content for two of the projects featured in the white paper once it’s online.
 
 ## 2022-07-12
 
