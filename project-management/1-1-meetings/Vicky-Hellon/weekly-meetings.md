@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [27 July 2022](#date-27-july-2022)
 * [20 July 2022](#date-20-july-2022)
 * [13 July 2022](#date-13-july-2022)
 * [6 July 2022](#date-6-july-2022) 
@@ -23,6 +24,48 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+
+## Date 27 July 2022
+
+### Check-in ritual
+Loved our mini lunch yesterday- thanks for the Colin! 🐛
+
+### Project specific Reflection
+Been good to do some events and get some interaction outside of editing documents 😅- enjoyed our NHS talk and the Knowledge Share yesterday. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* AS with checking on legal docs for ambassador programme
+* Speakers prep for Knowledge Share
+
+#### Who helped you this week?
+* EK with being backup for event 
+
+#### What did you achieve?
+* NHS D TTW talk
+* Made a metrics tracking sheet after EK suggestion last week- really helped to show me what I've achieved and gave me new perspective on who's 'in' the community 
+* 2 hour workshop on challenges around reproducibility for UKRN
+* Ran Knowledge Share event 🎉
+    * EK - well doen thsi was great! :tada: 
+* Demystifying video planning with RC
+* Recruiting speakers for next Knowledge Share events
+
+#### What did you struggle with?
+* No reply from comms yet re: mini blog
+* Travel faff for RSE conference
+
+#### What would you like to work on next week?
+* Uploading Knowledge Share video and sending round post event email
+* Expert Panel meeting to discuss workshops this afternoon
+* Planning workshops with SM
+
+#### Where do you need help?
+* None at the mo!
+    * EK - please reach out to MS if you need help with anything while I am on holiday. 
+
+#### Any other topics
+* Catch-up on 17th August? - Yes! 
 
 ## Date 20 July 2022
 
