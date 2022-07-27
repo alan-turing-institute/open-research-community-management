@@ -9,16 +9,16 @@ or unacceptable behaviour by other participants.
 We are committed to providing a welcoming, collaborative and inspiring experience 
 for all members of this team and expect our code of conduct to be honoured.
 
-## 2. Our Pledge
+## 2. Our Commitment
 
-We as members, contributors, and leaders pledge to make participation in our
+We as members, contributors, and leaders commit to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,
 nationality, personal appearance, race, religion, or sexual identity
 and orientation.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
+We commit to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
 ## 3. Restorative Practice
@@ -208,7 +208,7 @@ as difficult (not straightforward) except when any potential conflict of interes
 
 To report an issue involving the team lead, please email directly to the Tools, Practices and Systems 
 Programme Director, Kirstie Whitaker. Since she is currently on maternity leave, please contact TPS
-Programme Manager Arielle Bennett (abennett@turing.ac.uk). 
+Programme Manager Arielle Bennett (abennett@turing.ac.uk) - who is also our ombudsperson. 
 
 **13.2** In your report please include:
 
