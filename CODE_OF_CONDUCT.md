@@ -30,7 +30,7 @@ If a participant does not abide by the Code of Conduct, we will use the
 their roots in “restorative justice,” a way of looking at wrongdoing that focuses on 
 repairing the harm done to people and the relationships rather than on punishing offenders or wrongdoer. 
 
-## 4. Our Commitments
+## 4. Our Standards
 
 - 4.1 **Be friendly and patient.**
 
@@ -76,8 +76,8 @@ repairing the harm done to people and the relationships rather than on punishing
   that they’re wrong. Don’t forget that it is human to err and blaming each
   other doesn’t get us anywhere. Instead, focus on helping to resolve issues and
   learning from mistakes.
- 
-## 5. Our Standards
+
+## 5. Examples of expected and unacceptable behaviour
 
 **5.1** Examples of behaviour that contributes to a positive environment for our
 community include:
