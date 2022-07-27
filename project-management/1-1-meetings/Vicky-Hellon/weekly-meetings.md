@@ -47,6 +47,7 @@ Been good to do some events and get some interaction outside of editing document
 * Made a metrics tracking sheet after EK suggestion last week- really helped to show me what I've achieved and gave me new perspective on who's 'in' the community 
 * 2 hour workshop on challenges around reproducibility for UKRN
 * Ran Knowledge Share event 🎉
+    * EK - well doen thsi was great! :tada: 
 * Demystifying video planning with RC
 * Recruiting speakers for next Knowledge Share events
 
@@ -61,9 +62,10 @@ Been good to do some events and get some interaction outside of editing document
 
 #### Where do you need help?
 * None at the mo!
+    * EK - please reach out to MS if you need help with anything while I am on holiday. 
 
 #### Any other topics
-* Catch-up on 17th August?
+* Catch-up on 17th August? - Yes! 
 
 ## Date 20 July 2022
 
