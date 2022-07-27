@@ -16,7 +16,8 @@ Here you will find resources for making videos for community management - promot
 
 ### Recording tools/software
 * Link to [SSI fellowship video recording guide](https://www.software.ac.uk/fellowship-programme/2022/application-video-guide) - using OBS studio and Zoom.
-* [Recording in powerpoint](https://github.com/alan-turing-institute/open-community-building/blob/video-resources-docs/resources/videos/how-to-record-powerpoint-windows.pdf) - by ELIXIR-UK. 
+* [Recording in powerpoint](https://github.com/alan-turing-institute/open-community-building/blob/video-resources-docs/resources/videos/how-to-record-powerpoint-windows.pdf) - by ELIXIR-UK.
+* [Adobe Express](https://www.adobe.com/express/?sdid=SL4KM9XN&mv=search&ef_id=Cj0KCQjwxIOXBhCrARIsAL1QFCaOkz_ueKsN_5a6bps292Zt68BgNBDFTuB46uss9MpkryzbNR5cC7kaAgV3EALw_wcB:G:s&s_kwcid=AL!3085!3!589020195299!p!!g!!express%20adobe!16624093353!135127940375) is a free video editor that lets you add some simple effects. However you can only edit the video in 30 second intervals so this will not be useful for long videos!
 
 ### Making videos accessible
 All videos should have captions to make them more accessible and you should also think about the colours you use and the size of the font. You could also make captions in different languages, especially if your community is global. 
