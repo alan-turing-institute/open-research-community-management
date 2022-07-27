@@ -17,6 +17,7 @@ Last week has been dominated by the GitHub session and meetings with consortia m
 All in all, both have been pretty good and I'm trying to fix the things that are less good ✨
 
 I did notice, however, that I've not been making as much progress as I'd wanted to on some of the objectives I'd set for myself in my probation document (e.g. skill gaps, strategy to relaunch the ECR sessions).
+  * EK - keep these tasks in mind and keep plugging away at them.  
 
 ### Notes to discuss during 1:1
 - I've heard from my meetings with consortia members about relevant communities and I'm not sure how much it makes sense to try to connect with them.
@@ -50,9 +51,11 @@ I did notice, however, that I've not been making as much progress as I'd wanted 
 
 #### Where do you need help?
 - Tips for effective meetings?
+  * EK - we talked about thinking about the purpose of the meeting, having a set of questions that you want answers to, getting contacts and connections and asking follow up questions. Also making sure that actions are clear at the end of the meeting.  
 
 #### Any other topics
 I recently found out there is an [NHS R community](https://nhsrcommunity.com/)!
+  * EK - please advertise these events in the turing health channel. 
 
 ## Date: 19 July 2022
 
