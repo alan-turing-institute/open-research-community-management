@@ -39,6 +39,7 @@
 - Kings College (5 October): now in Aug (keep ACC in loop)
 - August Fireside (24 Aug): planning in progress, need to follow up with Rayya
 - CarpentryCon (4 Aug & 10 Aug): check-in scheduled for tomorrow morning
+- TPS Coffee Chats (all September)
 - Newcastle (19-20 Sept): moved dates
 - Code for All Summit (19-22 Sept)
 - Connections Turing Course (26 & 27 September): times have moved?
