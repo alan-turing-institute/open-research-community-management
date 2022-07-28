@@ -64,7 +64,7 @@ repairing the harm done to people and the relationships rather than on punishing
   threatening to post) other people’s personally identifying information
   (“doxing”), personal insults, especially those using racist or sexist terms,
   unwelcome sexual attention, advocating for or encouraging, any of the above
-  behaviour, and Repeated harassment of others. In general, if someone asks you to
+  behaviour, and repeated harassment of others. In general, if someone asks you to
   stop, then stop.
 
 - 4.6 **Try to understand why we disagree**: Disagreements, both social and
