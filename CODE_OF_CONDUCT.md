@@ -142,7 +142,7 @@ and make necessary amends.
 2. Must establish policies and procedures that handle incident reports in a way that strengthens relationships.
 3. Focuses on harms done rather than rules broken.
 4. Gives voice to the person who has been harmed.
-5. Engages in collaborative problem solving
+5. Engages in collaborative problem solving.
 6. Empowers change and growth for all involved.
 7. Enhances responsibility for actions and attitudes of all involved
 
