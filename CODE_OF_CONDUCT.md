@@ -259,6 +259,7 @@ questions will be asked on behalf of the person(s) harmed:
 
 The person handling the report may follow up with reportee or reporter after this discussion 
 with any additional questions to help them reach a resolution.
+As per 13.3, mediating interaction or communication between reporter and reportee is not in scope of this Code of Conduct.
 
 ### **15.2** If the breach is considered outside the scope of this Code of Conduct
 
@@ -298,7 +299,7 @@ clarity around the nature of the violation and an explanation of why the
 behaviour was inappropriate.
 1. an apology to the person harmed or the team/community as a whole - this will be done via the person handling the report
 1. an action plan for the reportee to improve their awareness and correct future behaviours
-1. reportee will have no interaction with the reporter, mediating interaction between reporter and reportee is not in scope of this Code of Conduct
+1. reportee will have no unsolicited interaction with the reporter
 1. reportee will have no unsolicited interaction with reporter (in rare cases, when reporter is not anonymous) and those enforcing the Code of Conduct. This includes avoiding interactions in community spaces as well as external channels like social media.
 1. not publishing the content (code, documents, media or other materials) that violated the Code of Conduct, until necessary changes have been made and agreed upon by the person handling the report.
 1. An imposed suspension, such as asking reportee to “take a week or month off” from the GitHub repo or team activity.
