@@ -268,7 +268,7 @@ As per 13.3, mediating interaction or communication between reporter and reporte
 Code of Conduct should be considered as a norm-setting mechanism for the Open Research Community Building Team before any involvement of HR in the interactions that take place within the team. 
 
 If the reportee is a Turing employee, for instance, Community Managers and senior researchers, and the incident is considered out of the scope of this Code of Conduct due to the severity of the matter/case, an HR process (formal or informal), will be started.
-In this case, the report will be passed to the HR and/or appropriate personnel under the Turing policies and their policy related enforcement mechanism will take precedent over the Code of Conduct enforcement.
+In this case, the report will be passed to the HR and/or appropriate personnel under the Turing policies and their policy related enforcement mechanism will take precedent over this Code of Conduct enforcement.
 
 All the Turing employees have the obligation to read and understand the staff policies, which include:
 - [Workplace Guidelines](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2427&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
