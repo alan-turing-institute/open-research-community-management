@@ -59,7 +59,7 @@ repairing the harm done to people and the relationships rather than on punishing
   professionals, and we conduct ourselves professionally. Be kind to others. Do
   not insult or put down other participants. Harassment and other exclusionary
   behaviour aren't acceptable. This includes, but is not limited to Violent
-  threats or language directed against another person, Discriminatory jokes and
+  threats or language directed against another person, discriminatory jokes and
   language, Posting sexually explicit or violent material, Posting (or
   threatening to post) other people’s personally identifying information
   (“doxing”), Personal insults, especially those using racist or sexist terms,
