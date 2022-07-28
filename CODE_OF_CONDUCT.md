@@ -305,7 +305,7 @@ behaviour was inappropriate.
 1. An imposed suspension, such as asking reportee to “take a week or month off” from the GitHub repo or team activity.
 1. recommended training activity relevant to correcting the behaviour or building awareness/understanding required to right the wrongs.
 1. a stronger warning with consequences for continued behaviour. 
-
+1. if a resolution is not reached, the ombudsperson will be consulted and any delay or status update for the CoC enforcement will be communicated with the reporter and reportee.
 **16.1** After the Resolution is Agreed Upon
 
 Once a resolution is agreed upon, but before it is enacted, the person handling the report will contact the reporter and any other affected parties to explain the proposed resolution. 
