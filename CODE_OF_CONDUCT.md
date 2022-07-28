@@ -202,12 +202,15 @@ Together we strive to foster an environment where everyone feels valued, respect
 **13.1** Code of Conduct Contact for Reporting
 
 If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
-by contacting the Team Lead, Malvika Sharan (email: msharan@turing.ac.uk). Malvika may involve
-the Tools, Practices and Systems Programme Director, Kirstie Whitaker when incidents are perceived 
-as difficult (not straightforward) except when any potential conflict of interest may arise.
+by contacting the Team Lead, Malvika Sharan (email: msharan@turing.ac.uk). Malvika will involve
+the Senior Community Managers, Arron Lacey and Emma Karoune except when any potential conflict of interest
+with any of them may arise.
 
-To report an issue involving the team lead, please email directly to the Tools, Practices and Systems 
-Programme Director, Kirstie Whitaker. Since she is currently on maternity leave, please contact TPS
+To report an issue involving the team lead, please email directly to Arron Lacey (email: alacey@turing.ac.uk) and/or
+Emma Karoune (email: ekaroune@turing.ac.uk).
+
+You can directly contact the Tools, Practices and Systems Programme Director, Kirstie Whitaker. 
+Since she is currently on maternity leave, please contact TPS
 Programme Manager Arielle Bennett (abennett@turing.ac.uk) - who is also our ombudsperson. 
 
 **13.2** In your report please include:
