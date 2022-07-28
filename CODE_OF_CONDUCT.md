@@ -3,7 +3,7 @@
 > _A code of conduct is a set of rules outlining the norms, rules, and responsibilities or proper practices of an individual party or an organization._
 
 This Code of Conduct document outlines our expectations for 
-participants within the team as well as this online repository (project).
+participants within the team as well as this online repository (and the ideas, projects, and collaborations that might emerge from it).
 We also provide steps to reporting any concern, uncomfortable situation 
 or unacceptable behaviour by other participants. 
 We are committed to providing a welcoming, collaborative and inspiring experience 
