@@ -28,7 +28,7 @@ everyone involved.
 If a participant does not abide by the Code of Conduct, we will use the 
 “restorative practices” approach to handle the situation. Restorative Practices has 
 their roots in “restorative justice,” a way of looking at wrongdoing that focuses on 
-repairing the harm done to people and the relationships rather than on punishing offenders or wrongdoer. 
+repairing the harm done to people and the relationships rather than on punishing offenders or wrongdoers. 
 
 ## 4. Our Standards
 
