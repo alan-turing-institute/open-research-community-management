@@ -244,7 +244,7 @@ After receiving a report, the community leaders (or person handling the report),
 Community leaders will reach out to the reporter to ask for further information if the submitted report is not complete or needs some additional context.
 Community leaders will also ensure that person impacted or harmed by the reported incident is safe and identify how they can be further supported.
 
-**15.1.1** A meeting with the reportee will be scheduled where the person handling the report will discuss four questions:
+**15.1.1** A meeting with the reportee will be scheduled where the person handling the report will discuss five questions:
 - What happened?
 - What were you thinking at the time?
 - Who has been affected by what you have done? In what way?
