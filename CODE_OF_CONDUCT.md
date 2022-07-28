@@ -133,7 +133,7 @@ and make necessary amends.
 2. Prioritises persons affected and the consequent needs of victims and safety in communities.
 3. Addresses obligations of the wrongdoer resulting from those harms, as well as the team/community’s obligations to both victims and wrongdoers.
 4. Creates opportunity for all individuals in this team, who have a legitimate stake in a given situation, to be heard and their concerns addressed.
-5. Seeks to right the wrongs that have been done so that victims feel safe and valued, and wrongdoers feel restored to the team/community
+5. Seeks to right the wrongs that have been done so that victims feel safe and valued, and wrongdoers feel restored to the team/community.
 6. Uses inclusive, collaborative processes giving fair opportunity to right the wrongs.
 
 ## 9. Restorative Disciplines
