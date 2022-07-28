@@ -144,7 +144,7 @@ and make necessary amends.
 4. Gives voice to the person who has been harmed.
 5. Engages in collaborative problem solving.
 6. Empowers change and growth for all involved.
-7. Enhances responsibility for actions and attitudes of all involved
+7. Enhances responsibility for actions and attitudes of all involved.
 
 The goals of these restorative practices are that Open Research Community Building Team 
 would create a safe, friendly and enjoyable space for collaboration and support.
