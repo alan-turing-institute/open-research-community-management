@@ -63,7 +63,7 @@ repairing the harm done to people and the relationships rather than on punishing
   language, posting sexually explicit or violent material, posting (or
   threatening to post) other people’s personally identifying information
   (“doxing”), personal insults, especially those using racist or sexist terms,
-  Unwelcome sexual attention, Advocating for or encouraging, any of the above
+  unwelcome sexual attention, advocating for or encouraging, any of the above
   behaviour, and Repeated harassment of others. In general, if someone asks you to
   stop, then stop.
 
