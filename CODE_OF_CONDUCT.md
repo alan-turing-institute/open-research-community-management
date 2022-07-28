@@ -60,7 +60,7 @@ repairing the harm done to people and the relationships rather than on punishing
   not insult or put down other participants. Harassment and other exclusionary
   behaviour aren't acceptable. This includes, but is not limited to Violent
   threats or language directed against another person, discriminatory jokes and
-  language, Posting sexually explicit or violent material, Posting (or
+  language, posting sexually explicit or violent material, posting (or
   threatening to post) other people’s personally identifying information
   (“doxing”), Personal insults, especially those using racist or sexist terms,
   Unwelcome sexual attention, Advocating for or encouraging, any of the above
