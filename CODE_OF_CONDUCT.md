@@ -285,7 +285,7 @@ All the Turing employees have the obligation to read and understand the staff po
 - [Research Ethics Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2241&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
 - [Data protection policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2184&SearchId=23865&utm_source=interact&utm_medium=general_search&utm_term=data+protection)
 
-### **15.2.2** If the reportee is not the Turing Employee
+### **15.2.2** If the reportee is not a Turing Employee
 - an appropriate authority or law enforcement mechanism will be identified who can respond to the reported incident with the appropriate action.
 
 ## 16. Resolutions for reports in the scope of this Code of Conduct
