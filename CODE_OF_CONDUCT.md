@@ -297,7 +297,7 @@ Possible resolutions to an incident include:
 1. a private communication from community leaders, providing
 clarity around the nature of the violation and an explanation of why the
 behaviour was inappropriate.
-1. an apology to the person harmed or the team/community as a whole - this will be done via the person handling the report
+1. an apology to the person harmed or the team/community as a whole - this will be done via the person handling the report.
 1. an action plan for the reportee to improve their awareness and correct future behaviours
 1. reportee will have no unsolicited interaction with the reporter
 1. reportee will have no unsolicited interaction with reporter (in rare cases, when reporter is not anonymous) and those enforcing the Code of Conduct. This includes avoiding interactions in community spaces as well as external channels like social media.
