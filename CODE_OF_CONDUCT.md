@@ -85,7 +85,7 @@ community include:
 1. Demonstrating empathy and kindness toward other people
 1. Being respectful of differing opinions, viewpoints, and experiences
 1. Gracefully giving and accepting constructive feedback
-1. Accepting responsibility for harm done to people/community, correcting our mistakes,
+1. Accepting responsibility for harm done to people and/or communities, correcting our mistakes,
   and learning from the experience to avoid future harm
 1. Focusing on what is best not just for us as individuals, but for the
   overall community in the long term
