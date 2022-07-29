@@ -105,7 +105,7 @@ community include:
 
 We encourage everyone in the team to participate in all team activities and work.
 We are committed to facilitating Communities of Practice that are connected with 
-each others work. Although we will fail at times, we seek to treat everyone both as
+each others' work. Although we will fail at times, we seek to treat everyone both as
 fairly and equally as possible. Whenever a member has made a mistake, we
 expect them to take responsibility for it. If someone has been harmed or
 offended, it is our responsibility to listen carefully and respectfully, and do
