@@ -36,7 +36,7 @@ repairing the harm done to people and the relationships rather than on punishing
 
 - 4.2 **Be welcoming**: we strive to build a welcoming and supportive team.
   As community facilitators, we also strive to apply this value in creating 
-  Communities of Practice that welcomes and supports members of all backgrounds 
+  Communities of Practice that welcome and support members of all backgrounds 
   and identities. This includes, but is not limited to
   members of any race, ethnicity, culture, national origin, colour, immigration
   status, social and economic class, educational level, sex, sexual orientation,
