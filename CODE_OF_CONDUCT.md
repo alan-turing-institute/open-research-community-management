@@ -11,7 +11,7 @@ for all members of this team and expect our code of conduct to be honoured.
 
 ## 2. Our Commitment
 
-We as members, contributors, and leaders commit to make participation in our
+We as members, contributors, and leaders commit to making participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,
