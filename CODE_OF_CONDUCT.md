@@ -138,7 +138,7 @@ and make necessary amends.
 
 ## 9. Restorative Disciplines
 
-1. Acknowledges that trust, safe space and relationships are central to community building.
+1. Acknowledges that trust, safe spaces and relationships are central to community building.
 2. Must establish policies and procedures that handle incident reports in a way that strengthens relationships.
 3. Focuses on harms done rather than rules broken.
 4. Gives voice to the person who has been harmed.
