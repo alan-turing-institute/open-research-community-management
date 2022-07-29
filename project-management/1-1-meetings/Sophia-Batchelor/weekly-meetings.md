@@ -11,12 +11,73 @@
 * [28 June 2022](#date-28-June-2022)
 * [05 July 2022](#date-05-July-2022)
 * [12 July 2022](#date-12-July-2022)
+* [29 July 2022](#date-29-July-2022)
+
+
+
+## Date: 29 July 2022
+
+### 📍 Check-in ritual
+
+Massive shout out to Eirini for the GitHub workshop last week! 
+
+#### Project specific Reflection
+
+* **Ethics/Focus Groups:** No word back from ethics submission yet (had been hoping to hear back by end of this week) so fingers crossed for next week. 
+* **PPIE Community Sessions:** Next monthly community call scheduled for Aug 2nd -> not sure whether to cancel session or not (late planning and unsure of attendance), Meag D brain presentation planning session moved to next friday, 2 projects have indicated that they are happy to share resources, 4 groups indicated that they would like to contribute to (and use) the Glossary of Terms. 
+* **Website:** was meant to get launched this week. Due to illness delays, will get launched next week. 
+
+#### Notes to discuss during 1:1
+
+* Task Status & Check in
+* Decision about PPIE Community Call
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* EZ with the GitHub presentation, q's, and adding folk to the repo/organization. 
+
+#### Who helped you this week?
+
+* AnnS + HS with prep for the CarpentriesCon presentation. 
+* EK & DC being fab with me off sick.
+* 👫 with support while I was unwell.
+* EZ with the GitHub presentation. 
+
+#### What did you achieve?
+
+* ✅ Reschedule Meag D chat to next Friday 
+* ✅ Catch up on Slack messages  
+* ✅ Log sick days in Cezanne 
+* ✅ 21% through email inbox (as of 11am) 
+* ✅ Supported EZ with GitHub workshop
+
+#### What did you struggle with?
+
+* 🤒🤢
+
+#### What would you like to work on next week?
+
+* (1) CarpentriesCon Workshop: August 4th 8am - 10am. 
+* (3) Prep for monthly RSF Ops Meeting: August 4th 10:30am. 
+* (4) Launch the external AIM RSF Website. 
+* (2) [to confirm] PPIE Community Session: August 2nd. 
+* (5) AutSPACEs GitHub clean up + Sync with Georgia. 
+
+#### Where do you need help?
+
+* In about 2 weeks, would love review over a PPIE summary document that I've been working on. It's not a priority for next week, but I would like it done by start of September.
+* Decision on PPIE Community Session next week. 
+
+#### Any other topics
+
+* Very grateful that the Ops meeting is next week as I feel like I can get back up to speed on things. 
 
 
 ## Date: 12 July 2022 
 
 ### 📍 Check-in ritual
-(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
 
 #### Project specific Reflection
 
@@ -736,6 +797,8 @@ Important:
 ### Notes to discuss during 1:1
 
 *You can move points from your reflections to the following sections as needed.*
+
+### 📚 Updates
 
 #### Who did you help this week?
 
