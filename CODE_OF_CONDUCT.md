@@ -116,7 +116,7 @@ gender, gender identity or expression, culture, ethnicity, language, national
 origin, political beliefs, profession, race, religion, sexual orientation,
 socioeconomic status, and technical ability. We will not tolerate discrimination
 based on any of the protected characteristics above, including participants with
-disabilities.
+visible or invisible disabilities.
 
 ## 7. Restorative Practice Statement and Principles
 
