@@ -5,6 +5,57 @@
 * [5 July 2022](#date-5-July-2022)
 * [12 July 2022](#date-12-July-2022)
 * [19 July 2022](#date-19-July-2022)
+* [26 July 2022](#date-26-July-2022)
+
+## Date: 26 July 2022
+
+**Check-in ritual**
+I had a lovely conversation with the project manager of one of the consortia about ways of sharing code while keeping the data private.
+
+### Project specific Reflection
+Last week has been dominated by the GitHub session and meetings with consortia members.
+All in all, both have been pretty good and I'm trying to fix the things that are less good ✨
+
+I did notice, however, that I've not been making as much progress as I'd wanted to on some of the objectives I'd set for myself in my probation document (e.g. skill gaps, strategy to relaunch the ECR sessions).
+  * EK - keep these tasks in mind and keep plugging away at them.  
+
+### Notes to discuss during 1:1
+- I've heard from my meetings with consortia members about relevant communities and I'm not sure how much it makes sense to try to connect with them.
+- Approach to meeting project managers.
+- Approach to collecting information from ECRs.
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+- EK with Zenodo & Github integration 🎉
+- SB was an excellent host during the GitHub session 💖
+- AL answered some of my questions about collaborating on TREs
+- AB moved SB's and my presentation at the lab meeting
+
+#### What did you achieve?
+- I finished prepping and delivered the GitHub session
+- I started organising follow-up sessions for the GitHub session
+- I met with various people from the AIM consortia (project managers, PIs, ECRs)
+- I planned meetings with the remaining project managers (7/7 🎉)
+- Started working on updating the processes documentation for the AIM RSF
+- Worked on Carpentries stuff and Turing-Connections workshop (now postponed)
+
+#### What did you struggle with?
+- Not everything went as planned with various things this week
+- I may not always be getting the most useful information in my meetings
+
+#### What would you like to work on next week?
+- I have a lot of meetings with project managers (or as close as I could get) planned
+- Continue working on reviewing and updating processes documentation
+- Work on a current skills and training survey for the consortia
+
+#### Where do you need help?
+- Tips for effective meetings?
+  * EK - we talked about thinking about the purpose of the meeting, having a set of questions that you want answers to, getting contacts and connections and asking follow up questions. Also making sure that actions are clear at the end of the meeting.  
+
+#### Any other topics
+I recently found out there is an [NHS R community](https://nhsrcommunity.com/)!
+  * EK - please advertise these events in the turing health channel. 
 
 ## Date: 19 July 2022
 
