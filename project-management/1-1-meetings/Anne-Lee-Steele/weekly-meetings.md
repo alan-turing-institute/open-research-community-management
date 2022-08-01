@@ -27,8 +27,15 @@
 - Forward PR
 - OLS - continuing the project in fall 2022 (reviews in progress!)
 
+--
+MS: Thanks for this list Anne. All update should appear on Twitter (tweet/retweet), your HackMD and recent GitHub updates. 
+Once you have edited th newsletter please send them my way so that I can add missing bits.
+As for OLS, let's try to get to the launch part for Governance taskforce next week, and come up with the action plan for how you would like to engage in OLS in the next round.
+
 ### Thank yous
 - MS & everyone on the team for keeping the ship moving over the past two weeks!
+
+MS: Welcome back. Good to know that you are feeling well. Ship should sail on :D Afterall! it is a shared responsibility! 
 
 ### Event updates
 - AGS mapathon (7 July): done!
@@ -48,17 +55,20 @@
 ### Proposal updates
 - Mozilla AI Working Group (30 June): submitted
 - Code for All Summit: submitted 8 july - accepted!
-- UNESCO open call: submitted
-- WritetheDocs: translation team accepted!
-- OpenUK: 31 july (nominations are still open! einstein & athena award as a base)
-- UNESCO call for open science best practices (15 July)
-- Big Team Science (18 July): submitted
+- WritetheDocs: translation team accepted! :tada:
+- OpenUK: 31 july (nominations are still open! einstein & athena award as a base): Submitted!
+- UNESCO call for open science best practices (15 July): Submitted!
+- Big Team Science (18 July): Submitted!
 - Connections workshop: saw that timelines are changed
+
+MS: super helpful lists! Thanks for keeping track of these.
 
 ### Next week
 - Mostly catching up on things this week - saving the most urgent for now, and the rest for next week
 - Possible people to invite in the future: SciVision, AutSpaces, Team Shrub
 - Upcoming projects: Residents within the Turing Way (may have to be UK based), UX & Ethnographer roles, Lessons learned within the Turing Way community
+
+MS: Do you think we can get a newsletter draft together this week for July/Aug? I am a bit shhort on time, but happy to have a look at the draft.
 
 ### Ideas corner
 - had lots over the course of the past few weeks!
