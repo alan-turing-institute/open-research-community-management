@@ -38,11 +38,15 @@ Will update the GitHub README with some more notes about how the CTPs link to th
 Going to also schedule a call with HS to clarify some questions that were raised.
 - Had a good planning meeting with ZI this morning.
 
+MS: Let's align with HS on this. We should create slide deck for what these papers are.
+
 ### Project-specific reflection
 
 - Writing for IceNet has been going OK, if a little slowly.
 Also ended up doing some reading for digital twins and made notes about it, as some of the messaging was potentially related.
 - Discussed the cross-cutting-messages approach with ZI, who is putting  together a timeline for the remaining two papers.
+
+MS: All the best!
 
 ### Notes to discuss during 1:1
 
@@ -50,10 +54,14 @@ Also ended up doing some reading for digital twins and made notes about it, as s
 
 - Helped HS, JL and KR prepare for meeting with illustrator for white papers.
 
+MS: will chat with HS about in house data vis expertise (RSE), interactive - check the need and store in an issue.
+
 #### Who helped you since the last meeting?
 
 - ZI, who has followed up with everyone who was to review the Scivision section.
 - AD, for giving me space to present the work going into the white papers at the S&R meeting.
+
+MS: Great stuff.
 
 #### What did you achieve?
 
