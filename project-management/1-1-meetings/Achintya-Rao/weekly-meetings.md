@@ -4,6 +4,7 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-08-02](#2022-08-02)
 - [2022-07-26](#2022-07-26)
 - [2022-07-20](#2022-07-20)
 - [2022-07-12](#2022-07-12)
@@ -26,6 +27,47 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-08-02
+
+### Check-in ritual
+
+- Had about 2.5 days of writing last week, which I spent on IceNet.
+- Had a slightly worrying meeting re. white papers in general.
+Will update the GitHub README with some more notes about how the CTPs link to the white paper, the link between impact (past), position (present) and recommendations (future).
+Going to also schedule a call with HS to clarify some questions that were raised.
+- Had a good planning meeting with ZI this morning.
+
+### Project-specific reflection
+
+- Writing for IceNet has been going OK, if a little slowly.
+Also ended up doing some reading for digital twins and made notes about it, as some of the messaging was potentially related.
+- Discussed the cross-cutting-messages approach with ZI, who is putting  together a timeline for the remaining two papers.
+
+### Notes to discuss during 1:1
+
+#### Whom did you help since the last meeting?
+
+- Helped HS, JL and KR prepare for meeting with illustrator for white papers.
+
+#### Who helped you since the last meeting?
+
+- ZI, who has followed up with everyone who was to review the Scivision section.
+- AD, for giving me space to present the work going into the white papers at the S&R meeting.
+
+#### What did you achieve?
+
+- Progress with draft of the IceNet case study.
+
+#### What are you working on this week and what are your priorities?
+
+- Same as last week:
+focused on IceNet at the moment, and hope to tackle DyME-CHH later this week.
+- Attending the Scivision co-working call as the PDRAs have feedback they want to give in person.
+
+#### Where do you need help?
+
+- Could we briefly discuss the concerns I mentioned above in the check-in?
 
 ## 2022-07-26
 
