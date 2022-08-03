@@ -32,6 +32,8 @@ expect them to take responsibility for it. If someone has been harmed or
 offended, it is our responsibility to listen carefully and respectfully, and do
 our best to right the wrong.
 
+Although the 'restorative justice' term was coined in 1970 in the context of social work and justice systems, restorative practice has its roots in indigenous practices employed in cultures all over the world.
+
 ## 3. Restorative Practice
 
 We want to establish a Code of Conduct that focuses on creating a welcoming and safe environment for
