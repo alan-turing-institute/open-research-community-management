@@ -32,10 +32,6 @@ expect them to take responsibility for it. If someone has been harmed or
 offended, it is our responsibility to listen carefully and respectfully, and do
 our best to right the wrong.
 
-The 'restorative justice' term was coined in 1970 in the context of social 
-work and justice systems, but the restorative practice has its roots in indigenous practices 
-employed in cultures all over the world.
-
 ## 3. Restorative Practice
 
 We want to establish a Code of Conduct that focuses on creating a welcoming and safe environment for
@@ -44,6 +40,10 @@ If a participant does not abide by the Code of Conduct, we will use the
 “restorative practices” approach to handle the situation. Restorative practices have
 their roots in “restorative justice,” a way of looking at wrongdoing that focuses on 
 repairing the harm done to people and the relationships rather than on punishing offenders or wrongdoers. 
+
+The 'restorative justice' term was coined in 1970 in the context of social 
+work and justice systems, but the restorative practice has its roots in indigenous practices 
+employed in cultures all over the world.
 
 ## 4. Our Standards
 
