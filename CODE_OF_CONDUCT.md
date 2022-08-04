@@ -1,6 +1,6 @@
 # 1. Code of Conduct for the Open Research Community Building Team
 
-> _A code of conduct is a set of rules outlining the norms, rules, and responsibilities or proper practices of an individual party or an organization._
+> _A code of conduct is a set of rules outlining the norms, roles, and responsibilities or proper practices of an individual party or an organization._
 
 This Code of Conduct document outlines our expectations for 
 participants within the team as well as this online repository (and the 
@@ -12,7 +12,7 @@ for all members of this team and expect our code of conduct to be honoured.
 
 ## 2. Our Commitment and Diversity Statement
 
-We as members, contributors, and leaders commit to making participation in our
+We as members, contributors, and leaders are committed to making participation in our
 team a supportive and harassment-free experience for everyone.
 We commit to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy team, as well as the communities we facilitate.
@@ -32,7 +32,9 @@ expect them to take responsibility for it. If someone has been harmed or
 offended, it is our responsibility to listen carefully and respectfully, and do
 our best to right the wrong.
 
-Although the 'restorative justice' term was coined in 1970 in the context of social work and justice systems, restorative practice has its roots in indigenous practices employed in cultures all over the world.
+The 'restorative justice' term was coined in 1970 in the context of social 
+work and justice systems, but the restorative practice has its roots in indigenous practices 
+employed in cultures all over the world.
 
 ## 3. Restorative Practice
 
@@ -259,7 +261,7 @@ questions will be asked on behalf of the person(s) harmed:
 The person handling the report may follow up with reportee or reporter after this discussion 
 with any additional questions to help them reach a resolution.
 As per 13.3, mediating interaction or communication between reporter and reportee 
-is not in scope of this Code of Conduct.
+is not in the scope of this Code of Conduct.
 
 ### **12.2** If the breach is considered outside the scope of this Code of Conduct
 
@@ -269,10 +271,10 @@ Code of Conduct should be considered as a norm-setting mechanism for the Open Re
 Community Building Team before any involvement of HR in the interactions that take place within the team. 
 
 If the reportee is a Turing employee, for instance, Community Managers and senior 
-researchers, and the incident is considered out of the scope of this Code of Conduct 
+researchers and the incident is considered out of the scope of this Code of Conduct 
 due to the severity of the matter/case, an HR process (formal or informal), will be started.
 In this case, the report will be passed to the HR and/or appropriate personnel under the 
-Turing policies and their policy related enforcement mechanism will take precedent over this 
+Turing policies and their policy-related enforcement mechanism will take precedent over this 
 Code of Conduct enforcement.
 
 All the Turing employees have the obligation to read and understand the staff policies, which include:
@@ -291,8 +293,7 @@ All the Turing employees have the obligation to read and understand the staff po
 - [Data protection policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2184&SearchId=23865&utm_source=interact&utm_medium=general_search&utm_term=data+protection)
 
 #### **12.2.2** If the reportee is not a Turing Employee
-- an appropriate authority or law enforcement mechanism will be identified who can
--  respond to the reported incident with the appropriate action.
+- an appropriate authority or law enforcement mechanism will be identified who can respond to the reported incident with the appropriate action.
 
 ## 13. Resolutions for reports in the scope of this Code of Conduct
 
