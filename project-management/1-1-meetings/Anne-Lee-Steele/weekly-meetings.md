@@ -12,6 +12,67 @@
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
 
+## 2022-07-26
+### Upcoming Task updates
+- Returning from annual leave! Catching up on emails and tasks for the coming weeks today.
+- Updates from the project that I've missed?
+- Newsletter: aim to publish this week?
+  - collecting updates from the past two weeks
+- Community research: adding in previous updates & meetings from the past few weeks.
+- Governance work: - no updates
+- Developing WG - no updates
+- TPS peer mentoring programme - upcoming check-in?
+- OLS <> Turing Way MOOC course: weekly co-working call - checking in this week
+- NHS Podcast: will respond with dates
+- Forward PR
+- OLS - continuing the project in fall 2022 (reviews in progress!)
+
+--
+MS: Thanks for this list Anne. All update should appear on Twitter (tweet/retweet), your HackMD and recent GitHub updates. 
+Once you have edited th newsletter please send them my way so that I can add missing bits.
+As for OLS, let's try to get to the launch part for Governance taskforce next week, and come up with the action plan for how you would like to engage in OLS in the next round.
+
+### Thank yous
+- MS & everyone on the team for keeping the ship moving over the past two weeks!
+
+MS: Welcome back. Good to know that you are feeling well. Ship should sail on :D Afterall! it is a shared responsibility! 
+
+### Event updates
+- AGS mapathon (7 July): done!
+- Catapult talk (20 July): done! (uploaded?)
+- July Fireside (24 July): will respond to group emails.
+- NHS digital workshop (EK+VH)
+- Anne & Malvika maintenance week (8 Aug - 12 Aug)
+- Kings College (5 October): now in Aug (keep ACC in loop)
+- August Fireside (24 Aug): planning in progress, need to follow up with Rayya
+- CarpentryCon (4 Aug & 10 Aug): check-in scheduled for tomorrow morning
+- TPS Coffee Chats (all September)
+- Newcastle (19-20 Sept): moved dates
+- Code for All Summit (19-22 Sept)
+- Connections Turing Course (26 & 27 September): times have moved?
+- King's college: 5 October
+
+### Proposal updates
+- Mozilla AI Working Group (30 June): submitted
+- Code for All Summit: submitted 8 july - accepted!
+- WritetheDocs: translation team accepted! :tada:
+- OpenUK: 31 july (nominations are still open! einstein & athena award as a base): Submitted!
+- UNESCO call for open science best practices (15 July): Submitted!
+- Big Team Science (18 July): Submitted!
+- Connections workshop: saw that timelines are changed
+
+MS: super helpful lists! Thanks for keeping track of these.
+
+### Next week
+- Mostly catching up on things this week - saving the most urgent for now, and the rest for next week
+- Possible people to invite in the future: SciVision, AutSpaces, Team Shrub
+- Upcoming projects: Residents within the Turing Way (may have to be UK based), UX & Ethnographer roles, Lessons learned within the Turing Way community
+
+MS: Do you think we can get a newsletter draft together this week for July/Aug? I am a bit shhort on time, but happy to have a look at the draft.
+
+### Ideas corner
+- had lots over the course of the past few weeks!
+
 ## 2022-07-05
 ### Upcoming Task updates
 - Annual leave! Off for the next two weeks.
@@ -119,7 +180,7 @@ MS: Thank you for the fantastic work! Always a pleasure to see updates from your
 - Things to ping MS about:
   - Community share-outs video (upload)
   - Book Dash report
-  
+
 ### Ideas corner
 
 ## 2022-06-14
