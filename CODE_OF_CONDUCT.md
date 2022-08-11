@@ -146,16 +146,15 @@ Together we strive to foster an environment where everyone feels valued, respect
 
 ## 7. Scope
 
-**7.1** This Code of Conduct applies to all members participating in the activities, 
+**7.1** This Code of Conduct applies to all team members participating in the activities, 
 events and processes taking place within the **Open Research Community Building Team**. 
 Specifically, our Code of Conduct applies to any conduct:
 - in interactions within the team/community
 - at any team activity, communication or event
 - outside the team activity when a team member is representing projects associated with the team
-- by members outside the team engaging on the Open Community Building GitHub repository.
 
 **7.2** This Code of Conduct also applies to
-individuals officially representing the community in public spaces.
+individuals outside this team officially representing the community in public spaces.
 
 Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
@@ -165,6 +164,9 @@ a representative at an online or offline event.
 
 for instance, in interactions on GitHub issues and Pull Requests or activities taking 
 place in the context of the **Open Research Community Building Team**.
+
+**7.4** Mediating interaction or communication between reporter and reportee 
+is not in the scope of this Code of Conduct.
 
 ## 8. Enforcement Responsibilities
 
@@ -260,7 +262,7 @@ questions will be asked on behalf of the person(s) harmed:
 
 The person handling the report may follow up with reportee or reporter after this discussion 
 with any additional questions to help them reach a resolution.
-As per 13.3, mediating interaction or communication between reporter and reportee 
+As per 7.4, mediating interaction or communication between reporter and reportee 
 is not in the scope of this Code of Conduct.
 
 ### **12.2** If the breach is considered outside the scope of this Code of Conduct
@@ -293,6 +295,7 @@ All the Turing employees have the obligation to read and understand the staff po
 - [Data protection policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2184&SearchId=23865&utm_source=interact&utm_medium=general_search&utm_term=data+protection)
 
 #### **12.2.2** If the reportee is not a Turing Employee
+
 - an appropriate authority or law enforcement mechanism will be identified who can respond to the reported incident with the appropriate action.
 
 ## 13. Resolutions for reports in the scope of this Code of Conduct
