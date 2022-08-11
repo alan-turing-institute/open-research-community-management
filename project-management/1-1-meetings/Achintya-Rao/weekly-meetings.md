@@ -4,6 +4,7 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-08-11](#2022-08-11)
 - [2022-08-02](#2022-08-02)
 - [2022-07-26](#2022-07-26)
 - [2022-07-20](#2022-07-20)
@@ -27,6 +28,63 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-08-11
+
+### Check-in ritual
+
+- Feeling mostly OK about how the writing is going.
+Some days are better than others, but it’s moving along.
+- Also had a call with HS about the framing and scope of the white papers, and we’re aligned.
+- Looking forward to this afternoon’s planning/discussion meeting.
+- More generally, feels like I’m physically moving a little slower this weak. 😅
+Blaming it on the heat!
+
+### Project-specific reflection
+
+- Submitted the IceNet section for review last week and have pivoted to DyME-CHH since.
+- There doesn’t seem to be clear info on the project or its genealogy: the links to RAMP, to DyME where the E stood for “epidemics”, to DIMEX which was GS’s project etc. are a bit unclear.
+I’ve been solving this in three ways:
+    1. Adding relevant links to the past projects to the Overleaf notes
+    1. Dropping relevant points into a common discussion thread on GitHub: <https://github.com/alan-turing-institute/asg-community/discussions/78>
+    1. Using hypothes.is to annotate the relevant pages so I can go back and see which documents I’ve left what notes in
+- The project is still in its nascent stages so I have to be careful not to frame the impacts as already having occurred.
+- And that same discussion issue &ndash; <https://github.com/alan-turing-institute/asg-community/discussions/78> &ndash; would be a good place for anyone to leave comments and feedback about the general messaging.
+
+### Notes to discuss during 1:1
+
+#### Whom did you help since the last meeting?
+
+- Helped BCG draft intro to Coffee Pod and gave feedback on first episode recording.
+
+#### Who helped you since the last meeting?
+
+- AC, EC and BCG for giving me feedback on the Scivision section at the last Scivision co-working call.
+- JB, TA and AC for agreeing to review the IceNet text.
+- ZI for checking in regularly about the progress.
+- HS for speaking to me following last week’s concerns re. content/scope of white papers.
+(Related: I have a call with AD later today about the same topic.)
+
+#### What did you achieve?
+
+- Submitted IceNet for review, made progress on DyME-CHH.
+- Helped BCG prepare for first podcast recording.
+
+#### What did you struggle with?
+
+- I think I need a thinking partner, someone to bounce ideas off, even if they aren’t working on the white papers.
+Do we use the Thursday meetings for this?
+- Also finding myself sometimes overwhelmed with small e-mails that don’t really need an immediate response.
+I’m working on that more generally.
+
+#### What are you working on this week and what are your priorities?
+
+- I’d like to finish a huge chunk of the DyME-CHH stuff before our next call.
+
+#### Where do you need help?
+
+- I have some questions about this afternoon’s meeting and would like to talk with you about them.
+I also need some steer re. note-taking during the call.
 
 ## 2022-08-02
 
