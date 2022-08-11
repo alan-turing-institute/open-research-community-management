@@ -9,6 +9,7 @@ This folder contains presentation material (and related content) that have been 
 |------------------------------------ | --------------------------- |------------------------ |
 |GitHub for Project Management presentation delivered to the AIM RSF Team. | Sophia Batchelor | |
 | Citizen Science and Community presentation delivered to Turing Community Management Team. | Sophia Bacthelor | |
+| [Creating an Effective Learning Experience presentation](https://arronlacey.github.io/effective-learning-experience-talk/#/title-slide) delivered to the Turing Data Science and AI Educators Programme. | Arron Lacey ||
 
 
 ## Feedback
