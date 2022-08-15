@@ -6,6 +6,55 @@
 * [12 July 2022](#date-12-July-2022)
 * [19 July 2022](#date-19-July-2022)
 * [26 July 2022](#date-26-July-2022)
+* [16 August 2022](#date-16-August-2022)
+
+
+## Date: 16 August 2022
+
+**Check-in ritual**
+
+### Project specific Reflection
+Things were kind of slow the last couple of weeks, partly because of personal things and partly because people were away.
+There has been some progress though: I've met with all project managers now, given the first GitHub follow-up session, have a version of the skills/training survey I'm reasonably happy with, and started organsing things a bit more on GitHub.
+SB and I also started having weekly sync ups which I think will be very useful.
+
+### Notes to discuss during 1:1
+- I'd love some feedback on the survey to assess skill gaps and training needs.
+- Supervision style.
+
+#### Who did you help this week?
+I helped out SB during our sync up last Friday.
+
+#### Who helped you this week?
+- SB explained how to work with GitHub to manage projects, which was excellent :sparkles:
+- AD gave some excellent feedback on the survey I've been working with 💖
+
+#### What did you achieve?
+- I've now met with all AIM project managers
+- I've made a list of the asks from the consortia members (project managers, ECRs, PIs) I've spoken with
+- I've set up a meeting with PIs from one of the consortia
+- I've given the first follow-up GitHub session
+- I have a version of the survey I'm happy with
+- SB and I have been working on a shared project board with tasks for the AIM RSF organisation
+- I've started working on onboarding docs and an event preparation checklist
+- Attended the CM training
+- Helped out with and attended CarpentryCon sessions
+
+#### What did you struggle with?
+- I've been going through some personal stuff that't affected my concentration.
+- Some blockers in RSF planning
+
+#### What would you like to work on next week?
+- Pilot the survey on CMs and adjust based on feedback
+- Give the next follow-up GitHub session
+- Send invites for the next regular ECR sessions
+- Present at the Whitaker lab meeting
+
+#### Where do you need help?
+- I'd love some feedback on the survey
+- Some of the blockers we've been stuck on
+
+#### Any other topics
 
 ## Date: 26 July 2022
 
