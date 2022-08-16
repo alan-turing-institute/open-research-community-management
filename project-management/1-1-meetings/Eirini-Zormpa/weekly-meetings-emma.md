@@ -54,6 +54,19 @@ I helped out SB during our sync up last Friday.
 - I'd love some feedback on the survey
 - Some of the blockers we've been stuck on
 
+EK - survey feedback
+* Q2 - change other academic staff to academic infrastructure roles, just clinical staff is ok I think - they could put something in other if they want. or clinical - doctor versus clinical research staff?
+* Q3 - I suspect that most of them will not understand what we mean by open and repro so they woll probabloy be satisfied - what do you want to get out of this question? is it really needed?
+* Q4 - is good ! Make fair principles as a separate option to open data and code. I think I would have FAIR, open data and code, reproducible research, research data/software management, open access publishing. 
+* Section 3 - do you think you need to define the topics more - short definitions so thats people are super clear what each is about?
+* Q12 - do you want to add Git?
+* Section 4 topics need to be defined as well - maybe also add working in secure environments - I'm thinking of the accredited researcher training that is needed for data safe havens. I think we need to start offering that - we could get this maybe free through ONS. 
+* What do you think healthcare in the UK is? - about structure of NHS primary and secondary care or more about health data research environment in UK? seems very wide topic.
+* could also add healthcare legal framework here - gdpr, NHS NDOO etc, [caldicott guardian/prinicples](https://en.wikipedia.org/wiki/Caldicott_Report#Caldicott_principles) and this https://www.england.nhs.uk/ig/ig-resources/
+* this platform can be used for training for nhs data security - https://www.e-lfh.org.uk/programmes/data-security-awareness/
+* Section 5 - writing collab documents add google docs here too, science communication - very wide - what do you mean? writing for wider audiences? using communication tools?
+
+
 #### Any other topics
 
 ## Date: 26 July 2022
