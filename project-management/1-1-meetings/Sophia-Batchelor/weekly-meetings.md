@@ -13,7 +13,90 @@
 * [12 July 2022](#date-12-July-2022)
 * [29 July 2022](#date-29-July-2022)
 
+## TEMPLATE 
 
+## Date: YYYY-MM-DD
+
+### 📍 Check-in ritual
+* DC away, EG away
+* **Ethics/Focus Groups:** no word back but unofficial channels said that many of the people are on leave and back towards the end of August (when the next meeting is happening so hope to hear then). 
+* **PPIE September Events** 3 of the 4 events have been confirmed and placed on people's calendars. 
+* **Internal comms**  there's still a few blockers but there's a meeting planned 30th aug to start implementing solutions. Some stakeholders want something sooner but only so much can be moved along with DC away.  
+* **Project Management** EZ and I have shifted task tracking into a collaborative setting on GitHub (DC okayed this). It's helping with keeping track of what is being asked and worked on. 
+
+### Project specific Reflection
+
+* Internal comms needs addressing. 
+
+### Notes to discuss during 1:1
+
+* Teams vs Slack. It feels like we're getting a large push back from people about Slack, but Turing can't set up a Teams Team (it would have to be one of the folk at Swansea or Edinburgh. 
+* Unsure of how much ownership should I take on driving internal project comms forward (i.e. RoPA) - info governance. 
+	- EK - raise this with DC 
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* GA with AutSPACEs ethics 
+* GA with AutSPACEs work chunks
+* EZ with Stakeholder mapping task
+* EZ with setting up GitHub project boards 
+* MF with updates on RSF work packages 
+* Skills @ turing team with GitHub for Project management workshop 
+* DC with sending out AIM RSF event invites
+* MELD-b with feedback on survey 
+* MELD-b with support planning their september PPIE workshop 
+
+#### Who helped you this week?
+
+* Public policy folk with updates on why ethcs was taking so long to get feedback from
+* LC with introductions to NIHR PPIE folk and general steering on PPIE events
+* AS, HS, & EP with CarpentriesCon workshop 
+* AB, MS, VH, & AL with input on hosting external project websites. 
+
+#### What did you achieve?
+
+* ✅ met with MF about PPIE and Legacy work packages 
+* ✅ co-worked with EZ on stakeholder mapping and we decided on using spreadsheets currently to map the folk 
+* ✅ Set up GitHUb project boards 
+* ✅ started cataloging main blockers 
+* ✅ met with NIHR BioResource folk 
+* ✅ Gave feedback to GA about AutSPACEs ethics application and started rewriting it with her
+* ✅ Delivered CarpentriesCon workshop 
+* ✅ Delivered 2 Project Management on GitHub training sessions 
+* ✅ Got some AutSPACEs PR's reviewed and logged with what needs to be fixed. 
+* ✅ Met with 3 PPIE project leads to identify what work they need urgent support on. 
+* ✅ Provided feedback on PPIE plans for a consortia. 
+* ⚠️ started chasing up website questions as it was flagged that we are unsure about if we can host an external website. 
+
+#### What did you struggle with?
+
+* Getting a touch overhwelmed with tasks that I'm unsure if are within remit or not 
+	- EK - you have a lot going on now and more in september so please do not take on anymore. Project management needs to be given to DC.  
+* Running out of energy quickly as recovery is slow
+* Super bad mental health week last week so tasks are taking twice as long
+
+#### What would you like to work on next week?
+
+* AutSPACEs Ethics 
+* AutSPACEs PR's 
+* AutSPACEs planning
+* AIM RSF September events planning (follow up with Meag - get open talk info across to Hemi) 
+* AIM RSF PPIE report/summary 
+* Internal comms documentation 
+* Whitaker Lab presentation
+* TPS Coffee presentation
+
+#### Where do you need help?
+
+* Need a bit of support around documenting the key blockers that need addressing as the team is restructuring. 
+	- EK - start an issue for the blockers and tag in those that can help like DC. 
+* Need a bit of support with writing some sections for AutSPACEs ethics in the way that the committee wants it to be provided. 
+
+#### Any other topics
+
+- Just starting to feel the stretch of the upper limit of my day-to-day capacity and want to identify early where I can offload things. 
 
 ## Date: 29 July 2022
 
