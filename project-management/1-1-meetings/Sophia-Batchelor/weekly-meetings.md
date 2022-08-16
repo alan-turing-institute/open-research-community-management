@@ -31,7 +31,8 @@
 ### Notes to discuss during 1:1
 
 * Teams vs Slack. It feels like we're getting a large push back from people about Slack, but Turing can't set up a Teams Team (it would have to be one of the folk at Swansea or Edinburgh. 
-* Unsure of how much ownership should I take on driving internal project comms forward (i.e. RoPA)
+* Unsure of how much ownership should I take on driving internal project comms forward (i.e. RoPA) - info governance. 
+	- EK - raise this with DC 
 
 ### 📚 Updates
 
@@ -72,6 +73,7 @@
 #### What did you struggle with?
 
 * Getting a touch overhwelmed with tasks that I'm unsure if are within remit or not 
+	- EK - you have a lot going on now and more in september so please do not take on anymore. Project management needs to be given to DC.  
 * Running out of energy quickly as recovery is slow
 * Super bad mental health week last week so tasks are taking twice as long
 
@@ -81,14 +83,15 @@
 * AutSPACEs PR's 
 * AutSPACEs planning
 * AIM RSF September events planning (follow up with Meag - get open talk info across to Hemi) 
-* AIM RSF PPIE report 
+* AIM RSF PPIE report/summary 
 * Internal comms documentation 
 * Whitaker Lab presentation
 * TPS Coffee presentation
 
 #### Where do you need help?
 
-* Need a bit of support around documenting the key blockers that need addressing as the team is restructuring.  
+* Need a bit of support around documenting the key blockers that need addressing as the team is restructuring. 
+	- EK - start an issue for the blockers and tag in those that can help like DC. 
 * Need a bit of support with writing some sections for AutSPACEs ethics in the way that the committee wants it to be provided. 
 
 #### Any other topics
