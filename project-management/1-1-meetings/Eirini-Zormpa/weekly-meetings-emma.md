@@ -43,6 +43,9 @@ I helped out SB during our sync up last Friday.
 #### What did you struggle with?
 - I've been going through some personal stuff that't affected my concentration.
 - Some blockers in RSF planning
+ - internal comms - slack
+ - website - EK will contact comms about this. 
+ - Info RoPa
 
 #### What would you like to work on next week?
 - Pilot the survey on CMs and adjust based on feedback
@@ -54,9 +57,11 @@ I helped out SB during our sync up last Friday.
 - I'd love some feedback on the survey
 - Some of the blockers we've been stuck on
 
+EK - onboarding documents on Github repo - how is that going? 
+
 EK - survey feedback
 * Q2 - change other academic staff to academic infrastructure roles, just clinical staff is ok I think - they could put something in other if they want. or clinical - doctor versus clinical research staff?
-* Q3 - I suspect that most of them will not understand what we mean by open and repro so they woll probabloy be satisfied - what do you want to get out of this question? is it really needed?
+* Q3 - I suspect that most of them will not understand what we mean by open and repro so they will probably be satisfied - what do you want to get out of this question? is it really needed?
 * Q4 - is good ! Make fair principles as a separate option to open data and code. I think I would have FAIR, open data and code, reproducible research, research data/software management, open access publishing. 
 * Section 3 - do you think you need to define the topics more - short definitions so thats people are super clear what each is about?
 * Q12 - do you want to add Git?
