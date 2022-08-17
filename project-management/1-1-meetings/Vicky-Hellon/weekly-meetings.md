@@ -48,17 +48,18 @@ On the final stretch with the workshop and funding call documents- just need to 
 * Documents Documents Documents!
 
 #### What did you struggle with?
-* BM not being here- been hard to push back on certain requests etc and get the academic angle
+* BM not being here- been hard to push back on certain requests etc and get the academic angle.
+* EK - Speak to TP about this if possible but let me know if nothing happens. 
 
 #### What would you like to work on next week?
 * Review onboarding document for funded projects and plan how to engage with them from a community perspective
-* Get workshop booked and more finalisation round that
+* Get workshop booked and more finalisation round that.
 
 #### Where do you need help?
 * Support on transparency for funding available!
 
 #### Any other topics
-N/A
+* EK - I will sort out comms contacts for Roche and a regular meeting. 
 
 ## Date 27 July 2022
 
