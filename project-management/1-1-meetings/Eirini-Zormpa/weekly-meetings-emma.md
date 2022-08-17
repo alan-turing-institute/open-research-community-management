@@ -6,6 +6,73 @@
 * [12 July 2022](#date-12-July-2022)
 * [19 July 2022](#date-19-July-2022)
 * [26 July 2022](#date-26-July-2022)
+* [16 August 2022](#date-16-August-2022)
+
+
+## Date: 16 August 2022
+
+**Check-in ritual**
+
+### Project specific Reflection
+Things were kind of slow the last couple of weeks, partly because of personal things and partly because people were away.
+There has been some progress though: I've met with all project managers now, given the first GitHub follow-up session, have a version of the skills/training survey I'm reasonably happy with, and started organsing things a bit more on GitHub.
+SB and I also started having weekly sync ups which I think will be very useful.
+
+### Notes to discuss during 1:1
+- I'd love some feedback on the survey to assess skill gaps and training needs.
+- Supervision style.
+
+#### Who did you help this week?
+I helped out SB during our sync up last Friday.
+
+#### Who helped you this week?
+- SB explained how to work with GitHub to manage projects, which was excellent :sparkles:
+- AD gave some excellent feedback on the survey I've been working with 💖
+
+#### What did you achieve?
+- I've now met with all AIM project managers
+- I've made a list of the asks from the consortia members (project managers, ECRs, PIs) I've spoken with
+- I've set up a meeting with PIs from one of the consortia
+- I've given the first follow-up GitHub session
+- I have a version of the survey I'm happy with
+- SB and I have been working on a shared project board with tasks for the AIM RSF organisation
+- I've started working on onboarding docs and an event preparation checklist
+- Attended the CM training
+- Helped out with and attended CarpentryCon sessions
+
+#### What did you struggle with?
+- I've been going through some personal stuff that't affected my concentration.
+- Some blockers in RSF planning
+ - internal comms - slack
+ - website - EK will contact comms about this. 
+ - Info RoPa
+
+#### What would you like to work on next week?
+- Pilot the survey on CMs and adjust based on feedback
+- Give the next follow-up GitHub session
+- Send invites for the next regular ECR sessions
+- Present at the Whitaker lab meeting
+
+#### Where do you need help?
+- I'd love some feedback on the survey
+- Some of the blockers we've been stuck on
+
+EK - onboarding documents on Github repo - how is that going? 
+
+EK - survey feedback
+* Q2 - change other academic staff to academic infrastructure roles, just clinical staff is ok I think - they could put something in other if they want. or clinical - doctor versus clinical research staff?
+* Q3 - I suspect that most of them will not understand what we mean by open and repro so they will probably be satisfied - what do you want to get out of this question? is it really needed?
+* Q4 - is good ! Make fair principles as a separate option to open data and code. I think I would have FAIR, open data and code, reproducible research, research data/software management, open access publishing. 
+* Section 3 - do you think you need to define the topics more - short definitions so thats people are super clear what each is about?
+* Q12 - do you want to add Git?
+* Section 4 topics need to be defined as well - maybe also add working in secure environments - I'm thinking of the accredited researcher training that is needed for data safe havens. I think we need to start offering that - we could get this maybe free through ONS. 
+* What do you think healthcare in the UK is? - about structure of NHS primary and secondary care or more about health data research environment in UK? seems very wide topic.
+* could also add healthcare legal framework here - gdpr, NHS NDOO etc, [caldicott guardian/prinicples](https://en.wikipedia.org/wiki/Caldicott_Report#Caldicott_principles) and this https://www.england.nhs.uk/ig/ig-resources/
+* this platform can be used for training for nhs data security - https://www.e-lfh.org.uk/programmes/data-security-awareness/
+* Section 5 - writing collab documents add google docs here too, science communication - very wide - what do you mean? writing for wider audiences? using communication tools?
+
+
+#### Any other topics
 
 ## Date: 26 July 2022
 
