@@ -12,10 +12,10 @@
 * [05 July 2022](#date-05-July-2022)
 * [12 July 2022](#date-12-July-2022)
 * [29 July 2022](#date-29-July-2022)
+* [16 August 2022](#date-16-August-2022)
 
-## TEMPLATE 
 
-## Date: YYYY-MM-DD
+## Date: 16 August 2022
 
 ### 📍 Check-in ritual
 * DC away, EG away
