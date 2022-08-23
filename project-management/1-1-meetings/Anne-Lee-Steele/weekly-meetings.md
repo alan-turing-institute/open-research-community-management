@@ -14,6 +14,39 @@
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
 
+* [2022-08-23](#2022-08-23)
+### Questions for MS
+- Upcoming Fireside chat topics + upcoming planning
+- Should I apply for the SSI fellowship?
+- TTW publication in Maintainers blog
+- Help with delegation
+- Newsletter draft
+- Feedback on process
+- Task delegation
+
+### Ongoing Tasks
+Adding 
+- Community Health Report
+- Community Research Updates
+- "Internal Audit" <-- tools proposed by SG
+- Core team meeting
+- Governance Task force
+- Maintenance Reflections
+- Feedback loops: survey
+- Invited for reocurring calls with SG & MN
+
+### Thank yous
+- AC just merged a HUGE change to the repo, related to giving a TTW talk!
+- SG for Github wizardry!
+
+### Event updates
+Full schedule [here](https://hackmd.io/GHjxNTyZS1CYQgQst2kKKg)
+Key updates: invited to keynote early career RSE, 
+
+### Proposal updates
+N/A
+- Mozilla WG: invited for event at MozFest 2022
+
 ## 2022-08-09
 ### Upcoming Task updates
 - Maintainance week:
