@@ -41,7 +41,7 @@ If a participant does not abide by the Code of Conduct, we will use the
 their roots in “restorative justice,” a way of looking at wrongdoing that focuses on 
 repairing the harm done to people and the relationships rather than on punishing offenders or wrongdoers. 
 
-The 'restorative justice' term was coined in 1970 in the context of social 
+The term restorative justice was coined in 1970 in the context of social 
 work and justice systems, but the restorative practice has its roots in indigenous practices 
 employed in cultures all over the world.
 
