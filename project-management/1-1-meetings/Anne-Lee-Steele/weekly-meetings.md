@@ -1,5 +1,7 @@
 ## ALS + MS check-ins
 
+* [2022-08-09](#2022-08-09)
+* [2022-07-26](#2022-07-26)
 * [2022-06-28](#2022-06-28)
 * [2022-06-21](#2022-06-21)
 * [2022-06-14](#2022-06-14)
@@ -11,6 +13,54 @@
 * [2022-04-05](#2022-04-05)
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
+
+## 2022-08-09
+### Upcoming Task updates
+- Maintainance week:
+  - Reviewing reflection exercises with MS
+  - Addressing outstanding PRs: forward chapter, UX chapter
+  - Planning for upcoming core team meeting (book dash dates)
+  - Planning for governance task force
+- Newsletter: still getting through a draft: will have ready by Friday, after focusing on tasks for maintainance + workshop
+- Prepping recording for Code4All conference (due 14 Aug)
+- Project management: slowly converting these to a project management system, rather than lists
+
+### Thank yous
+- EP, HS, SB for prepping for a CarpentryCon presentation happening two (round 2!)
+- MS for kicking off a deep dive into maintenance + sustainability in the project this week
+- AC for helping with maintenance tasks this week
+
+### Event updates
+Note: developing an internal PM system to use with the whole core team on Trello?
+- Catapult talk (20 July): done! (double-checking with ACC about uploading slides to Zenodo)
+- August Fireside (24 Aug): planning in progress, need to follow up with Rayya
+- CarpentryCon (4 Aug & 10 Aug): check-in scheduled for tomorrow morning
+- TPS Coffee Chats (all September)
+- TTW Fireside chat: in planning process
+- Newcastle (19-20 Sept): moved dates
+- Code for All Summit (19-22 Sept)
+- Connections Turing Course (26 & 27 September): times have moved?
+- King's college (October):
+
+### Proposal updates
+- Mozilla AI Working Group (30 June): rejected, but invited to Mozilla
+- Code for All Summit: accepted! video due by 14 Aug.
+- WritetheDocs: translation team accepted! :tada:
+- OpenUK: submitted!
+- UNESCO call for open science best practices (15 July): Submitted!
+- Big Team Science (18 July): Submitted!
+- Connections workshop: no updates
+
+### Questions for MS
+- Submission to Maintainers blog:
+https://themaintainers.org/maintainers-spotlight/
+- Invited to keynote "Early Career RSE"
+
+### Ideas corner
+- Book dash for core team dedicated to governance work (alongside people writing chapters)
+- Book dash dedicated to core team maintainance work
+- 1 day book dash (planning for upcoming year)
+- Event series: navigating scale, defining open infrastructure
 
 ## 2022-07-26
 ### Upcoming Task updates
@@ -28,14 +78,14 @@
 - OLS - continuing the project in fall 2022 (reviews in progress!)
 
 --
-MS: Thanks for this list Anne. All update should appear on Twitter (tweet/retweet), your HackMD and recent GitHub updates. 
+MS: Thanks for this list Anne. All update should appear on Twitter (tweet/retweet), your HackMD and recent GitHub updates.
 Once you have edited th newsletter please send them my way so that I can add missing bits.
 As for OLS, let's try to get to the launch part for Governance taskforce next week, and come up with the action plan for how you would like to engage in OLS in the next round.
 
 ### Thank yous
 - MS & everyone on the team for keeping the ship moving over the past two weeks!
 
-MS: Welcome back. Good to know that you are feeling well. Ship should sail on :D Afterall! it is a shared responsibility! 
+MS: Welcome back. Good to know that you are feeling well. Ship should sail on :D Afterall! it is a shared responsibility!
 
 ### Event updates
 - AGS mapathon (7 July): done!
