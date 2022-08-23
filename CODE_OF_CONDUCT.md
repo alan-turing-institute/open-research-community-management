@@ -262,17 +262,19 @@ Community leaders will also ensure that person impacted or harmed by the reporte
 is safe and identify how they can be further supported.
 
 **12.1.1** A meeting with the reportee will be scheduled where the person 
-handling the report will discuss five questions:
+handling the report will discuss these restorative questions:
 - What happened?
 - What were you thinking at the time?
 - Who has been affected by what you have done? In what way?
 - What do you think you need to do to make things right?
 - Knowing what you know, what would you have done differently?
+- What do you think you need to do to make things right?
 
 **12.1.2** When the incident in question inflicted harm on another person, additional 
 questions will be asked on behalf of the person(s) harmed:
 - What did you think when you realized what had happened?
 - What impact has this incident had on you and others?
+- What has been the hardest thing for you?
 - What do you think needs to happen to make things right?
 
 The person handling the report may follow up with reportee or reporter after this discussion 
