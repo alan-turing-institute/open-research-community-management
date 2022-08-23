@@ -13,8 +13,8 @@
 * [2022-04-05](#2022-04-05)
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
-
 * [2022-08-23](#2022-08-23)
+
 ### Questions for MS
 - Upcoming Fireside chat topics + upcoming planning
 - Should I apply for the SSI fellowship?
