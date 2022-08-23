@@ -5,6 +5,48 @@
 * [29 June 2022](#date-29-June-2022)
 * [8 July 2022](#date-8-July-2022)
 * [15 July 2022](#date-15-July-2022)
+* [29 JUly 2022](#date-29-July-2022)
+
+## Date: 29 July 2022
+
+### Check-in ritual
+I had a lovely conversation with one of the project managers about sharing code while preserving data privacy.
+
+### Project specific Reflection
+This week has not been as productive as I would have liked, but overall I'm making some progress on building connections with the consortia, putting in place a strategy to survey skills gaps and training needs, and developing a ideas about how training could be delivered.
+I'm also doing some work on documenting the processes at the RSF.
+
+### Notes to discuss during 1:1
+- Training from NIHR?
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+- AL has given me some helpful tips about sharing code in a health context.
+- MC has agreed to talk at the Coding Confessions panel ✨
+
+#### What did you achieve?
+- Offered follow-up sessions to people from the GitHub session
+- Reworked some of the questions I ask project managers
+- Met with a few project managers from consortia
+- Planning meetings with consortia PIs
+- Working on onboarding documentation for new AIM and RSF members
+- Participating in community manager training from MS
+
+#### What did you struggle with?
+- Project managers don't always feel like they know what the skill gaps of ECRs are
+- Finishing things 😅
+
+#### What would you like to work on next week?
+- Flesh out GitHub follow-up sessions in summer and more advanced ones in fall
+- Start working on a survey to get information on skills gaps and training needs from ECRs
+- Continue working on processes documentation (onboarding, CoC)
+
+#### Where do you need help?
+- Feedback and bouncing off ideas about the survey and training planning
+
+#### Any other topics
+- I found out there is an NHS R community!
 
 ## Date: 15 July 2022
 
