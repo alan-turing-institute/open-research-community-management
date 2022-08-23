@@ -104,7 +104,7 @@ To realise these principles, build shared perspectives that underpin these guidi
 
 ## Important Documents for the Team Members
 
-- Code of Conduct (link will be updated - document currently under review in [Pull Request #3](https://github.com/alan-turing-institute/open-community-building/pull/3)): Our Code of Conduct will apply to all activities, documents and communication platforms used by the Open Research Community Building team and related work. Please familiarise yourself with the Code of Conduct, and enforcement procedure and help us create a welcoming and safe space for everyone who contributes to the team and this project repository.
+- [Code of Conduct](https://github.com/alan-turing-institute/open-community-building/blob/main/CODE_OF_CONDUCT.md): Please familiarise yourself with the Code of Conduct, and enforcement procedure to help us create a welcoming and safe space for everyone who contributes to the team and this project repository.
 - [Project Management](./project-management): Please find details about how we manage the Open Research Community Building team.
 - [Ways of Working](./project-management/ways-of-working.md): This document describes the structure and organisation of the Open Research Community Building Team, clarifying expectations and support structure to help enable your work. The Turing members should also check the [Governance](https://www.turing.ac.uk/about-us/governance) to understand the organisation's structure and policies that apply to them.
 
