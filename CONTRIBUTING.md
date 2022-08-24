@@ -26,7 +26,7 @@ For open tasks in this repository, please see the [Issues section](https://githu
 Reply under any issue by using the comment feature.
 You are welcome to create [new issues](https://github.com/alan-turing-institute/open-community-building/issues/new?assignees=&labels=&template=GENERAL_ISSUE.md) or open [Pull Requests](https://github.com/alan-turing-institute/open-community-building/pulls) to suggest changes, update or addition or materials as useful for your work as a community manager and open researcher.
 
-🎉 I want to regularly to this repository and I am ready to contribute! 🛠
+🎉 I want to regularly contribute to this repository! 🛠
 ---
 
 
