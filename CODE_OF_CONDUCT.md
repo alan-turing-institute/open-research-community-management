@@ -268,7 +268,6 @@ handling the report will discuss these restorative questions:
 - Who has been affected by what you have done? In what way?
 - What do you think you need to do to make things right?
 - Knowing what you know, what would you have done differently?
-- What do you think you need to do to make things right?
 
 **12.1.2** When the incident in question inflicted harm on another person, additional 
 questions will be asked on behalf of the person(s) harmed:
