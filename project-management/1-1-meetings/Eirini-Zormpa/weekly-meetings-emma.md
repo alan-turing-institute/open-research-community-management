@@ -7,7 +7,48 @@
 * [19 July 2022](#date-19-July-2022)
 * [26 July 2022](#date-26-July-2022)
 * [16 August 2022](#date-16-August-2022)
+* [30 August 2022](#date-30-August-2022)
 
+## 30 August 2022
+
+**Check-in ritual**
+- Shout out to HS who agreed to help out with a lunchtime session ✨
+
+### Project specific Reflection
+I've made some progress with training and event planning, but some things are still a little stuck.
+Hopefully the meetings with other RSF members today will be helpful.
+
+### Notes to discuss during 1:1
+- Training plan
+
+#### Who did you help this week?
+- I helped SB and GA with editing some text for AutSPACES ethics
+
+#### Who helped you this week?
+- HS agreed to help out with a lunchtime session ✨
+
+#### What did you achieve?
+- I incorporated feedback to the survey from community managers and RSF members
+- I sent out the syrvey to all AIM researchers and project managers
+- I sent out invites to ECR Lunchtime sessions and Collab Cafes until the end of 2022
+- I planned the next ECR Lunchtime session
+- I have a tentative plan for training in Autumn
+- I started working on my probation review
+
+#### What did you struggle with?
+- I had to email a bunch of people and I found it difficult figuring out what events and information to share with whom
+
+#### What would you like to work on next week?
+- Attend RSF meetings
+- ECR Lunchtime session (reminders, prep, chairing)
+- Start skills gaps and training document
+- Submit the probation review
+- Other meetings
+
+#### Where do you need help?
+- This week: feedback on the probation review
+
+#### Any other topics
 
 ## Date: 16 August 2022
 
