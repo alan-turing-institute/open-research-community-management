@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [31 August 2022](#date-31-august-2022)
 * [17 August 2022](#date-17-august-2022)
 * [27 July 2022](#date-27-july-2022)
 * [20 July 2022](#date-20-july-2022)
@@ -25,6 +26,43 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 31 August 2022
+
+### Check-in ritual
+Nice to have people back after hols- bit of new year energy!
+
+### Project specific Reflection
+Will be feeling good when the funding call is launched next week- trying to get organised for all the associated community activities especially as I'm away for the last 2 weeks of September.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Gave some advice to potential applicants for T-R PDRA role
+* Me and AS continue to support each other during this busy time! 
+
+#### Who helped you this week?
+* Met with FD- had a good discussion around comms and messaging around partnership news stories
+* YZ on it with planning 
+
+#### What did you achieve?
+* Filmed demystfying video! 
+* Started finding speakers for October Knowledge Share
+* Working with website team to get funding call and workshop info uploaded
+
+#### What did you struggle with?
+* Think strategy for partnership will rear its head again
+
+#### What would you like to work on next week?
+* Will be at RSECon Mon-Weds so looking forward to a bit of networking- haven't been to a conference for years!
+* Prepping and sending newsletter
+* Prepping for Knowledge Share- speaker prep, choose polls and plan networking bit at the end
+* Uploading demystifying video
+
+#### Where do you need help?
+* Bouncing ideas for Q&A and workshop as I get further down the planning stage
+
+#### Any other topics
+* Will be away for our 1:1 next week as at RSECon
 
 ## Date 17 August 2022
 
