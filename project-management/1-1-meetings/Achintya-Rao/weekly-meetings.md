@@ -4,6 +4,7 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-08-30](#2022-08-30)
 - [2022-08-11](#2022-08-11)
 - [2022-08-02](#2022-08-02)
 - [2022-07-26](#2022-07-26)
@@ -28,6 +29,45 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-08-30
+
+### Check-in ritual
+
+- Took a fairly spontaneous break last week, although I was only away for two days in the end.
+Now trying to catch up on messages and work tasks that have piled up.
+
+### Project-specific reflection
+
+- Feel like I’ve hit a wall with DyME-CHH but am trying to resume writing today.
+The structure is _there_, but a lot of the content is in skeletal form.
+- Was trying to put together my thoughts on various potential audiences for the white papers here: <https://github.com/alan-turing-institute/asg-community/discussions/80>.
+- Also started updating the README to clarify what the white papers are meant to do, but didn’t manage before leaving on break.
+Need to have that clear before sending out a call for the kick-offs for the remaining two, so will prioritise that for today.
+
+### Notes to discuss during 1:1
+
+#### Who helped you since the last meeting?
+
+- ZI and I had a long chat about various operational aspects, and I have been sent a list of questions to address.
+
+#### What did you achieve?
+
+- Drafted rough sketch of DyME-CHH text and incorporated draft of details of white papers into the project README (to be merged).
+
+#### What did you struggle with?
+
+- We spoke before your break about issues I had with some discussions.
+
+#### What are you working on this week and what are your priorities?
+
+- Wrap up DyME-CHH, finalise README with details of white papers, send out call for kick-offs for remaining white papers.
+- Respond to ZI’s list of questions.
+- Record ASG episode of Turing podcast (tomorrow) at the office.
+
+#### Where do you need help?
+
+- Can’t think of something concrete at the moment.
 
 ## 2022-08-11
 
