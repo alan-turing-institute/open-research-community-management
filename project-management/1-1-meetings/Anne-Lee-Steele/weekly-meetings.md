@@ -1,5 +1,7 @@
 ## ALS + MS check-ins
 
+* [2022-08-30](#2022-08-30)
+* [2022-08-16](#2022-08-16)
 * [2022-08-09](#2022-08-09)
 * [2022-07-26](#2022-07-26)
 * [2022-06-28](#2022-06-28)
@@ -15,6 +17,27 @@
 * [2022-03-25](#2022-03-25)
 * [2022-08-23](#2022-08-23)
 
+# 2022-08-30
+### Ongoing Tasks
+- Planning Genomics England workshop --> pt 1 at workshop, pt 2 at collaboration cafe
+- Newsletter draft: https://hackmd.io/Gt69xhqjRGSHqdtnwEM8mw?both (idea to split community news and book updates for this month due to length of update?)
+- Planning Governance Task force: documents in preparation
+- Community Research --> Community Audit --> Community Health Report
+
+### Thank yous
+- SG for brainstorming 
+- JD, EK, AL for brainstorming workshop
+
+### Event updates
+Full schedule [here](https://hackmd.io/GHjxNTyZS1CYQgQst2kKKg)
+- Planning Genomics Englad workshop
+- Video for Code4All due by end of week
+
+### Proposal updates
+N/A
+- Nothing upcoming so far!
+
+# 2022-08-16
 ### Questions for MS
 - Upcoming Fireside chat topics + upcoming planning
 - Should I apply for the SSI fellowship?
@@ -25,7 +48,6 @@
 - Task delegation
 
 ### Ongoing Tasks
-Adding 
 - Community Health Report
 - Community Research Updates
 - "Internal Audit" <-- tools proposed by SG
