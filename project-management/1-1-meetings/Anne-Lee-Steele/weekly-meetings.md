@@ -23,6 +23,10 @@
 - Newsletter draft: https://hackmd.io/Gt69xhqjRGSHqdtnwEM8mw?both (idea to split community news and book updates for this month due to length of update?)
 - Planning Governance Task force: documents in preparation
 - Community Research --> Community Audit --> Community Health Report
+- Pull Requests: 
+  - Forward: https://github.com/alan-turing-institute/the-turing-way/pull/2080
+  - UX: https://github.com/alan-turing-institute/the-turing-way/issues/2071
+  - Emergent strategy w/ KW
 
 ### Thank yous
 - SG for brainstorming 
