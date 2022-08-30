@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [17 August 2022](#date-17-august-2022)
 * [27 July 2022](#date-27-july-2022)
 * [20 July 2022](#date-20-july-2022)
 * [13 July 2022](#date-13-july-2022)
@@ -24,6 +25,41 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+
+## Date 17 August 2022
+
+### Check-in ritual
+Feeling good after a week off!
+
+### Project specific Reflection
+On the final stretch with the workshop and funding call documents- just need to get them finalised then will be ready to go for September/October. Ambassador's programme getting there with legal but think launch next year looking likely.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* DC and EZ with discussions on how to run events
+* Caught CH up with everything that has been going on since his sabbatical
+
+#### Who helped you this week?
+* AS been good to bounce ideas off 
+
+#### What did you achieve?
+* Sent newsletter and set up next Knowledge Share event 
+* Documents Documents Documents!
+
+#### What did you struggle with?
+* BM not being here- been hard to push back on certain requests etc and get the academic angle.
+* EK - Speak to TP about this if possible but let me know if nothing happens. 
+
+#### What would you like to work on next week?
+* Review onboarding document for funded projects and plan how to engage with them from a community perspective
+* Get workshop booked and more finalisation round that.
+
+#### Where do you need help?
+* Support on transparency for funding available!
+
+#### Any other topics
+* EK - I will sort out comms contacts for Roche and a regular meeting. 
 
 ## Date 27 July 2022
 
