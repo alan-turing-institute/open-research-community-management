@@ -19,23 +19,38 @@
 
 # 2022-08-30
 ### Ongoing Tasks
+
 - Planning Genomics England workshop --> pt 1 at workshop, pt 2 at collaboration cafe
+MS: Well done! Thank you for coordinating. EK, JD
+
 - Newsletter draft: https://hackmd.io/Gt69xhqjRGSHqdtnwEM8mw?both (idea to split community news and book updates for this month due to length of update?)
-- Planning Governance Task force: documents in preparation
+MS: sure! Do split them if it is too much. I can do the forms for Book Dash and fireside
+
+- Planning Governance Task force: 
+  - documents in preparation:
+
+MS: What are these resources. 
+- Call for participants, format of the taskforce (ways of working), references - collection of resources
+
+Parking Lot!
 - Community Research --> Community Audit --> Community Health Report
 - Pull Requests: 
   - Forward: https://github.com/alan-turing-institute/the-turing-way/pull/2080
   - UX: https://github.com/alan-turing-institute/the-turing-way/issues/2071
   - Emergent strategy w/ KW
+- Big Team Science Talk - let's discuss this next week.
 
 ### Thank yous
 - SG for brainstorming 
 - JD, EK, AL for brainstorming workshop
+MS: :tada:
 
 ### Event updates
+
 Full schedule [here](https://hackmd.io/GHjxNTyZS1CYQgQst2kKKg)
 - Planning Genomics Englad workshop
 - Video for Code4All due by end of week
+MS: All the best!
 
 ### Proposal updates
 N/A
