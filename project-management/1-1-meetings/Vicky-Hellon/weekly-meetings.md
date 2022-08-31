@@ -42,12 +42,14 @@ Will be feeling good when the funding call is launched next week- trying to get 
 
 #### Who helped you this week?
 * Met with FD- had a good discussion around comms and messaging around partnership news stories
+   * EK - let's discuss Linkedin for the health programme more. 
 * YZ on it with planning 
 
 #### What did you achieve?
 * Filmed demystfying video! 
 * Started finding speakers for October Knowledge Share
 * Working with website team to get funding call and workshop info uploaded
+   * EK - well done getting the first video done :star: and all the prep for autumn events/funding calls. 
 
 #### What did you struggle with?
 * Think strategy for partnership will rear its head again
