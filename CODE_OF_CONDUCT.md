@@ -10,20 +10,13 @@ or unacceptable behaviour by other participants.
 We are committed to providing a welcoming, collaborative and inspiring experience 
 for all members of this team and expect our code of conduct to be honoured.
 
-## 2. Our Commitment and Diversity Statement
+## 2. Our Commitment
 
 We as members, contributors, and leaders are committed to making participation in our
 team a supportive and harassment-free experience for everyone.
 We commit to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy team, as well as the communities we facilitate.
 We encourage everyone in the team to participate in all team activities and work.
-
-Although this list cannot be exhaustive, we explicitly honour diversity in age,
-gender, gender identity or expression, culture, ethnicity, language, national
-origin, political beliefs, profession, race, religion, sexual orientation,
-socioeconomic status, and technical ability. We will not tolerate discrimination
-based on any of the protected characteristics above, including participants with
-visible or invisible disabilities.
 
 We are committed to facilitating Communities of Practice that are connected with 
 each others' work. Although we will fail at times, we seek to treat everyone both as
@@ -32,18 +25,14 @@ expect them to take responsibility for it. If someone has been harmed or
 offended, it is our responsibility to listen carefully and respectfully, and do
 our best to right the wrong.
 
-## 3. Restorative Practice
+## 3. Diversity Statement
 
-We want to establish a Code of Conduct that focuses on creating a welcoming and safe environment for
-everyone involved.
-If a participant does not abide by the Code of Conduct, we will use the 
-“restorative practices” approach to handle the situation. Restorative practices have
-their roots in “restorative justice,” a way of looking at wrongdoing that focuses on 
-repairing the harm done to people and the relationships rather than on punishing offenders or wrongdoers. 
-
-The term restorative justice was coined in 1970 in the context of social 
-work and justice systems, but the restorative practice has its roots in indigenous practices 
-employed in cultures all over the world.
+Although this list cannot be exhaustive, we explicitly honour diversity in age,
+gender, gender identity or expression, culture, ethnicity, language, national
+origin, political beliefs, profession, race, religion, sexual orientation,
+socioeconomic status, and technical ability. We will not tolerate discrimination
+based on any of the protected characteristics above, including participants with
+visible or invisible disabilities.
 
 ## 4. Our Standards
 
@@ -112,7 +101,19 @@ community include:
 1. Any conduct which could reasonably be considered inappropriate in a professional setting
 1. The use of sexualised language or imagery, and sexual attention or advances of any kind
 
-## 6. Restorative Practice Statement and Principles
+## 6. Restorative Practice
+
+We want to establish a Code of Conduct that focuses on creating a welcoming and safe environment for
+everyone involved.
+If a participant does not abide by the Code of Conduct, we will use the 
+“restorative practices” approach to handle the situation (see [International Institute for Restorative Practices](https://www.iirp.edu/restorative-practices/what-is-restorative-practices)). 
+
+Restorative practices have
+their roots in “restorative justice,” a way of looking at wrongdoing that focuses on 
+repairing the harm done to people and the relationships rather than on punishing offenders or wrongdoers. 
+The term restorative justice was coined in 1970 in the context of social 
+work and justice systems, but the restorative practice has its roots in indigenous practices 
+employed in cultures all over the world.
 
 Restorative practices are based on the belief that human beings are happier, more 
 cooperative and productive, and more likely to make positive changes in their behaviour 
@@ -121,7 +122,7 @@ The most critical function of restorative practices is restoring and building re
 People in charge must meet with those they have wronged, explore what happened, 
 and make necessary amends.
 
-## 6.1. Restorative Practice Principles in this Code of Conduct
+### 6.1 Restorative Practice Principles in this Code of Conduct
 
 1. Focuses on harms rather than the intention of wrongdoers.
 1. Prioritises persons affected and the consequent needs of victims and safety in communities.
@@ -130,7 +131,7 @@ and make necessary amends.
 1. Seeks to right the wrongs that have been done so that victims feel safe and valued, and wrongdoers feel restored to the team/community.
 1. Uses inclusive, collaborative processes giving fair opportunity to right the wrongs.
 
-## 6.2. Restorative Disciplines
+### 6.2. Restorative Disciplines in this Code of Conduct
 
 1. Acknowledges that trust, safe spaces and relationships are central to community building.
 1. Must establish policies and procedures that handle incident reports in a way that strengthens relationships.
@@ -140,9 +141,20 @@ and make necessary amends.
 1. Empowers change and growth for all involved.
 1. Enhances responsibility for actions and attitudes of all involved.
 
-The goals of these restorative practices are that Open Research Community Building Team 
-would create a safe, friendly and enjoyable space for collaboration and support.
-Together we strive to foster an environment where everyone feels valued, respected, and included.
+Restorative Practice Principles and Disciplines should guide the Open Research Community Building Team 
+in creating a safe, friendly and enjoyable space for collaboration and support.
+
+**We will apply restorative practices in report handling and enforcement as described in 
+12.1.1 and 12.2.2.**
+
+## 6.3 References for Restorative Practices
+
+The restorative practice statements and report handling process have been derived from the Eastern University 
+Academic Charter School (EUACS) Student Code of Conduct derived from the work of 
+[Ted Wachtel](https://www.iirp.edu/restorative-practices/what-is-restorative-practices)
+at International Institute for Restorative Practices (IIRP) ([download file](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwivncahh935AhVHa8AKHUyLDSMQFnoECAcQAQ&url=https%3A%2F%2Fsites.temple.edu%2Fsdejarnatt%2Ffiles%2F2015%2F11%2F2014-2015-Student-Code-of-ConductPGYSEasterUniverAcademCharteSchool.pdf&usg=AOvVaw1SxlwQQDVIaWCcED6Uj9KD)).
+
+Restorative Practice Principles are based on Amstutz and Mullet (2005). Restorative Discipline for Schools, pp. 25-26. [The Little Book of Restorative Discipline for Schools](https://www.simonandschuster.com/books/The-Little-Book-of-Restorative-Discipline-for-Schools/Lorraine-Stutzman-Amstutz/9781561485062).
 
 ## 7. Scope
 
@@ -166,7 +178,10 @@ for instance, in interactions on GitHub issues and Pull Requests or activities t
 place in the context of the **Open Research Community Building Team**.
 
 **7.4** Mediating interaction or communication between reporter and reportee 
-is not in the scope of this Code of Conduct.
+is not in the scope of this Code of Conduct to maintain reproters' confidentiality (see **10.3**).
+The collaboration and dialogues based on restorative practices will take place between 
+the reporter and the person handling the Code of Conduct, as well as between the reportee 
+and the person handling the Code of Conduct separately.
 
 ## 8. Enforcement Responsibilities
 
@@ -247,7 +262,7 @@ Community leaders will also ensure that person impacted or harmed by the reporte
 is safe and identify how they can be further supported.
 
 **12.1.1** A meeting with the reportee will be scheduled where the person 
-handling the report will discuss five questions:
+handling the report will discuss these restorative questions:
 - What happened?
 - What were you thinking at the time?
 - Who has been affected by what you have done? In what way?
@@ -258,6 +273,7 @@ handling the report will discuss five questions:
 questions will be asked on behalf of the person(s) harmed:
 - What did you think when you realized what had happened?
 - What impact has this incident had on you and others?
+- What has been the hardest thing for you?
 - What do you think needs to happen to make things right?
 
 The person handling the report may follow up with reportee or reporter after this discussion 
@@ -296,7 +312,12 @@ All the Turing employees have the obligation to read and understand the staff po
 
 #### **12.2.2** If the reportee is not a Turing Employee
 
-- an appropriate authority or law enforcement mechanism will be identified who can respond to the reported incident with the appropriate action.
+An appropriate (external) authority (such as the reportee's employee or a law enforcement mechanism) will be identified who can respond to the reported incident with the appropriate action.
+The report will be passed to the external authority with an agreement to receive an update from their enforcement process.
+
+An internal resolution will be agreed to provide support for the reporter and the person(s) harmed, as well as the continued participation of the reportee (see **13**).
+The resolution or decision made by the external authority may or may not have an impact on the internal resolution.
+A transparency report will be shared with the members of the Open Research Community Building team.
 
 ## 13. Resolutions for reports in the scope of this Code of Conduct
 
@@ -315,7 +336,7 @@ behaviour was inappropriate.
 1. An imposed suspension, such as asking reportee to “take a week or month off” from the GitHub repo or team activity.
 1. recommended training activity relevant to correcting the behaviour or building awareness/understanding required to right the wrongs.
 1. a stronger warning with consequences for continued behaviour. 
-1. if a resolution is not reached, the ombudsperson will be consulted and any delay or status update for the CoC enforcement will be communicated with the reporter and reportee.
+1. if a resolution is not reached, the ombudsperson will be consulted and any delay or status update for the Code of Conduct enforcement will be communicated with the reporter and reportee.
 
 **13.1** After the Resolution is Agreed Upon
 
@@ -341,8 +362,9 @@ Community Impact Guidelines are inspired by [Mozilla's code of conduct
 enforcement ladder](https://github.com/mozilla/diversity).
 All original work should be attributed to the respective authors of these documents.
 
-The restorative practice statement  and report handling process have been derived from the Eastern University 
-Academic Charter School (EUACS) Student Code of Conduct derived from the work of Ted Wachtel
-at International Institute for Restorative Practices (IIRP).
+The restorative practice statements and report handling process have been derived from the Eastern University 
+Academic Charter School (EUACS) Student Code of Conduct derived from the work of 
+[Ted Wachtel](https://www.iirp.edu/restorative-practices/what-is-restorative-practices)
+at International Institute for Restorative Practices (IIRP) ([download file](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwivncahh935AhVHa8AKHUyLDSMQFnoECAcQAQ&url=https%3A%2F%2Fsites.temple.edu%2Fsdejarnatt%2Ffiles%2F2015%2F11%2F2014-2015-Student-Code-of-ConductPGYSEasterUniverAcademCharteSchool.pdf&usg=AOvVaw1SxlwQQDVIaWCcED6Uj9KD)).
 
-Restorative Practice Principles are based on Amstutz and Mullet (2005). Restorative Discipline for Schools, pp. 25-26.
+Restorative Practice Principles are based on Amstutz and Mullet (2005). Restorative Discipline for Schools, pp. 25-26. [The Little Book of Restorative Discipline for Schools](https://www.simonandschuster.com/books/The-Little-Book-of-Restorative-Discipline-for-Schools/Lorraine-Stutzman-Amstutz/9781561485062).
