@@ -35,9 +35,11 @@
 
 ### Check-in ritual
 
-- I’ve not been very well, and looking back through these notes that seems to go back to March.
+I’ve not been very well, and looking back through these notes that seems to go back to March.
 Spoke briefly to BM about it as well.
 Any advice/support would be appreciated.
+
+MS: I am prioritising E&S so ping me any time, and delegate whatever you want.
 
 ### Project-specific reflection
 
@@ -45,6 +47,8 @@ Any advice/support would be appreciated.
   - S&R will probably be a re-work of the existing white paper that BM, CD and HM worked on last year.
   - We’ll still write impact case studies (when E&S is done), but they’ll be decoupled.
   - Overall, I’m to focus on the case studies as entirely stand-alone and others will put together the WP narratives.
+  
+MS: Hopefully, this pivoting will reduce some burden on you.
 
 ### Notes to discuss during 1:1
 
@@ -56,23 +60,33 @@ Any advice/support would be appreciated.
 - JL and HB, who have joined a private Slack space to discuss the case studies / impact stories, and have offered to do in-person and remote co-working.
 - BM for being fairly understanding of the situation.
   - Suggested I engage with JL and HB as well as RAMs for “community”/brainstorming/thinking-partner time.
+  
+MS: All great updates. Thank you for reaching out to people for coworking and brainstorming.
 
 #### What did you achieve?
 
 - Submitted the DyME-CHH draft and made progress with the agriculture text.
 
+MS: I will be editing them.
+
 #### What did you struggle with?
 
 - Mental-health stuff.
+
+MS: Solidarity. Hopefully recent changes in the project will help reduce the responsibility on you. 🌻
 
 #### What are you working on this week and what are your priorities?
 
 - Drafting the agriculture case study, and need to submit it no later than tomorrow.
 - At that point, I can start incorporating the changes proposed to Scivision and IceNet by the project members.
 
+MS: Thanks for this.
+
 #### Where do you need help?
 
 - Can we talk about the CoI stuff, please?
+
+MS: Yes!
 
 ## 2022-08-30
 
@@ -89,11 +103,15 @@ The structure is _there_, but a lot of the content is in skeletal form.
 - Also started updating the README to clarify what the white papers are meant to do, but didn’t manage before leaving on break.
 Need to have that clear before sending out a call for the kick-offs for the remaining two, so will prioritise that for today.
 
+MS: Suggestion to prioritise the paper delivery. No action on README.
+
 ### Notes to discuss during 1:1
 
 #### Who helped you since the last meeting?
 
 - ZI and I had a long chat about various operational aspects, and I have been sent a list of questions to address.
+
+MS: Updated on my chat wih HS and ZI.
 
 #### What did you achieve?
 
