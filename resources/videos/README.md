@@ -2,6 +2,8 @@
 
 Here you will find resources for making videos for community management - promotion, training, translation of technical science (explainers), presentations. 
 
+Please do add any resources and links that you find in addition to what we have put below. Thanks 🙌
+
 ## Links to the Turing Way book
 * Making videos for presentations - https://the-turing-way.netlify.app/communication/presentations/presentations-remote.html
 
