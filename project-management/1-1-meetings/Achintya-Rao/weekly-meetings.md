@@ -4,6 +4,7 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-09-06](#2022-09-06)
 - [2022-08-30](#2022-08-30)
 - [2022-08-11](#2022-08-11)
 - [2022-08-02](#2022-08-02)
@@ -29,6 +30,49 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-09-06
+
+### Check-in ritual
+
+- I’ve not been very well, and looking back through these notes that seems to go back to March.
+Spoke briefly to BM about it as well.
+Any advice/support would be appreciated.
+
+### Project-specific reflection
+
+- BM wants a pivot for the project.
+  - S&R will probably be a re-work of the existing white paper that BM, CD and HM worked on last year.
+  - We’ll still write impact case studies (when E&S is done), but they’ll be decoupled.
+  - Overall, I’m to focus on the case studies as entirely stand-alone and others will put together the WP narratives.
+
+### Notes to discuss during 1:1
+
+#### Who helped you since the last meeting?
+
+- VH, BC and PH checked in no me.
+- AL offered to do co-working with me.
+- RAMs have scheduled time with me for brainstorming/discussions.
+- JL and HB, who have joined a private Slack space to discuss the case studies / impact stories, and have offered to do in-person and remote co-working.
+- BM for being fairly understanding of the situation.
+  - Suggested I engage with JL and HB as well as RAMs for “community”/brainstorming/thinking-partner time.
+
+#### What did you achieve?
+
+- Submitted the DyME-CHH draft and made progress with the agriculture text.
+
+#### What did you struggle with?
+
+- Mental-health stuff.
+
+#### What are you working on this week and what are your priorities?
+
+- Drafting the agriculture case study, and need to submit it no later than tomorrow.
+- At that point, I can start incorporating the changes proposed to Scivision and IceNet by the project members.
+
+#### Where do you need help?
+
+- Can we talk about the CoI stuff, please?
 
 ## 2022-08-30
 
