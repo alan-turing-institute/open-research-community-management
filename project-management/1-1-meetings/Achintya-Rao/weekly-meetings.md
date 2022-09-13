@@ -4,6 +4,7 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-09-13](#2022-09-13)
 - [2022-09-06](#2022-09-06)
 - [2022-08-30](#2022-08-30)
 - [2022-08-11](#2022-08-11)
@@ -30,6 +31,55 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-09-13
+
+### Check-in ritual
+
+- Not much better, honestly, and last week felt like a write-off.
+Have external supervision this week and am seeing a GP on Friday morning.
+- Had a productive TTC CC, but it was not related to the white papers.
+Was nice to feel useful.
+
+### Project-specific reflection
+
+- SA and EC are away so I don’t have anyone to discuss the agriculture project with, and RAMs also don’t have details about the project.
+So what little I have written is based on the notes from Overleaf and the project website.
+But it is not enough for a proper story.
+I think I should park it until the others are back.
+
+### Notes to discuss during 1:1
+
+#### Whom did you help since the last meeting?
+
+- AC with updating the TTW issue templates.
+- JD and DC with the LTN project.
+- Arranged in-person co-working with BC.
+
+#### Who helped you since the last meeting?
+
+- Did some co-working with AL and SB.
+- JD and AC met me this morning to brainstorm.
+- AP with advice on mental-health stuff and next steps.
+
+#### What did you achieve?
+
+- Reviewed on PR for AC, submitted and merged one PR with updates to TTW issue template.
+- On the WP front, not that much.
+A bit of writing for the agriculture text, but didn’t get anything worth reporting.
+
+#### What did you struggle with?
+
+- Everything?
+
+#### What are you working on this week and what are your priorities?
+
+- Will put my EDT notes online so others can start working on it.
+- Since I’m parking the agriculture text, I’ll start working on the Scivision and IceNet changes, something which I didn’t manage to do last week.
+
+#### Where do you need help?
+
+- Could we talk about occupational health?
 
 ## 2022-09-06
 
