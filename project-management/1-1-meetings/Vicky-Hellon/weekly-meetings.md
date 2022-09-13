@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [14 September 2022](#date-14-september-2022)
 * [31 August 2022](#date-31-august-2022)
 * [17 August 2022](#date-17-august-2022)
 * [27 July 2022](#date-27-july-2022)
@@ -26,6 +27,48 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+
+## Date 14 August 2022
+
+### Check-in ritual
+Very busy week but grateful for efficient team working! Really enjoyed myself at RSECon- felt good to connect with people in a conference setting again!
+
+### Project specific Reflection
+Funding call launched successfully- good amount of initial interest but need to ensure comms is maintained to get workshop applications in time etc. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Connected someone from RSECon to UKRN team
+* KP with slides for a talk to ABPI that NG is giving
+
+#### Who helped you this week?
+* AS with support as always!
+* Roche colleagues with putting together slides for Q&A session 
+
+#### What did you achieve?
+* Knowledge Share on Monday
+* Initial planning meeting for workshop and putting together agenda, logistics
+* Slides and planning for Q&A session
+* Comms for workshops and funding call- posting on slack, organising with Turing comms
+* Started brainstorming TTW activities with HS and JD
+
+#### What did you struggle with?
+* Feels like a lot packed in with the bank holiday!
+* Support for AS
+
+#### What would you like to work on next week?
+Finishing up this week:
+* Knowledge Share follow up- uploading to YouTube, sending email round to attendees
+* Q&A for funding call session on Friday and any follow-up
+* Handing over workshop stuff to Alvaro 
+
+#### Where do you need help?
+* Really struggling to recruit a speaker for October's Knowledge Share- have tried for weeks. Can send you across info about where I'm at- would really appreciate if you could cover for me whilst I'm away!
+
+#### Any other topics
+* Need 1:1's cancelling for next 2 weeks
+
 ## Date 31 August 2022
 
 ### Check-in ritual
