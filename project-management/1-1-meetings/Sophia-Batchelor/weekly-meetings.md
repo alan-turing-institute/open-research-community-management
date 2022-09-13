@@ -13,6 +13,68 @@
 * [12 July 2022](#date-12-July-2022)
 * [29 July 2022](#date-29-July-2022)
 * [16 August 2022](#date-16-August-2022)
+* [14 September 2022](#date-14-September-2022)
+
+
+## Date: 14 September 2022
+
+### 📍 Check-in ritual
+
+
+#### Project specific Reflection
+
+
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* DC with Chairning the open talks session 
+* GA with slides for the presentation 
+* AIM consortia with recruitment 
+* AIM consortia with advisory board governance 
+
+#### Who helped you this week?
+
+* MS, AL, & EZ with taking lead for the connections workshop 
+* CN with connecting us to some partner charities 
+* External partner linking us to some participant groups 
+
+
+#### What did you achieve?
+
+* ✅ Ran AIM RSF Open Talks session yesterday ✨
+* ✅ Onboarded new AIM RSF Data Wrangler 
+* ✅ Got GitHub pages site up and running as a "first mvp". Lots of updates needed. But it's a start. 
+* ✅ Finished and promoted the PPIE events series
+
+
+#### What did you struggle with?
+
+* Stressed about events and engagement. 
+* Dissonance around job remit and day-to-day responsibilities. 
+* Lack of clarity over priorities. 
+
+#### What would you like to work on next week?
+
+* Run GitHub onboarding session for Data Wranglers (project boards and workflows for 
+* Supporting AIN RSF Collab Cafe and the PPIE work inside that 
+* Setting up a GitHub Pages area for the Glossary of Terms 
+* Chairing PPIE in Research Panel this Friday 
+* Giving a talk on TTW to Leeds ReproTea 22nd (working on it during TTW Collab Cafe) 
+* Finalizing content for connections workshop
+* Planning session with EZ about GitHub for Project Management workshop to develier to consortia
+* Kick off for OLS-6 
+* Finish presentation for Citizen Science an Co-creation talk 
+
+
+#### Where do you need help?
+
+* Clarity on how to establish top priorities. 
+
+#### Any other topics
+
+
 
 
 ## Date: 16 August 2022
