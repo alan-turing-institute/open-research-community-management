@@ -7,7 +7,55 @@
 * [19 July 2022](#date-19-July-2022)
 * [26 July 2022](#date-26-July-2022)
 * [16 August 2022](#date-16-August-2022)
+* [14 September 2022](#date-14-September-2022)
 
+## Date: 14 September 2022
+
+**Check-in ritual**
+I'm very excited that RS has joined the RSF team :sparkles:
+
+### Project specific Reflection
+A lot of things are happening this month! That's exciting, but I also feel like I'm losing my grip on things a little. That's not great, as I'm not able to focus on the things I need to. This is exacerbated this week as I came back to a bit of a backlog after RSECon. Hopefully I'll be able to clear some things this week and be back to a more normal state next week 🤞
+
+### Notes to discuss during 1:1
+- I submitted my probation review; does that look alright?
+- I'm a little freaked out by the Collaboration Cafe session on Thursday. I'm somehow worried both that people will not show up and that they will but won't find it useful 🙈
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+- SB has been great with handling communications for the RSF (the website, the promotion packs etc.)
+- REG team members were really welcoming and friendly last week at RSECon 🥰
+
+#### What did you achieve?
+- Last week not so much
+    - I was at RSECon for most of the time, which was a lot of fun! I learned about Quatro which I've been meaning to look into for a while. I also learned about software licensing and publication and a tool that should help with publication eventually but is not yet ready. I also helped host a panel session on a project I've been working on for a while called Coding Confessions. I also finally met most of the people I worked on this with, except for Patricia!
+    - I'm way too excited about this but I was able to put some people from the consortia in touch with each other when one needed the other's help
+    - I submitted my probation review and worked on some other admin things
+    - Meetings/working on Connections workshop
+    - I also had to spend some time on Carpentries things
+- The survey is live and with a lot of emails we have 20 responses - I don't think I'm getting more at this point. I'm very excited that one person shared their email for the purpose of them being contacted to teach in the RSF :tada:
+- I started a report on skills gaps and training needs
+- I chaired the first ECR Lunchtime session for the academic year on 1 September 
+
+#### What did you struggle with?
+- I've been feeling really drained the last week and it's been difficult to focus on tasks. That's been impacting my ability to prioritise; even though I know what needs to be done, I get distracted by things that need to be done eventually (forgetting I can't do everything this week).
+
+#### What would you like to work on next week?
+- Prep for and run the Collaborations Cafe
+    - make intro slides or general spiel about the Collab Cafes
+    - create a space on GitHub for people to add training resources
+    - create a HackMD, ideally with activities for people
+    - update calendar invite to share HackMD and act as a reminder it's happening
+- I'm attending a workshop on interpersonal skills (receiving feedback)
+- The skills gaps and training needs document
+
+#### Where do you need help?
+- Not sure; I know what I need to do and I know how to do it, but I'm finding it difficult to find the focus/mental space
+- One thing I'm not so sure how to do is changing a GitHub repository; it's currently a repo for the GitHub workshop but it should be a repo for training in general with a folder for the GitHub repo. But the repo is synced with Zenodo and I don't know what happens if I stop the integration and rename the repository.
+
+#### Any other topics
+- Can you approve [this PR](https://github.com/alan-turing-institute/the-turing-way/pull/2636) to add my name to the TTW project members?
 
 ## Date: 16 August 2022
 
