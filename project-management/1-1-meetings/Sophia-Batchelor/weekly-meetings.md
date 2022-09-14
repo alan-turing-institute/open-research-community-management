@@ -76,8 +76,8 @@
 
 #### Where do you need help?
 
-* Clarity on how to establish top priorities. 
-
+* Clarity on how to establish top priorities.
+	* EK - I will check in with DC and MS about this. Please send me the spreadsheet.  
 
 #### Any other topics
 
