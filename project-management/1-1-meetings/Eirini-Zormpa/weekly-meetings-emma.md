@@ -36,7 +36,7 @@ A lot of things are happening this month! That's exciting, but I also feel like 
     - I also had to spend some time on Carpentries things
 - The survey is live and with a lot of emails we have 20 responses - I don't think I'm getting more at this point. I'm very excited that one person shared their email for the purpose of them being contacted to teach in the RSF :tada:
 - I started a report on skills gaps and training needs
-- I chaired the first ECR Lunchtime session for the academic year on 1 September 
+- I chaired the first ECR Lunchtime session for the academic year on 1 September. 
 
 #### What did you struggle with?
 - I've been feeling really drained the last week and it's been difficult to focus on tasks. That's been impacting my ability to prioritise; even though I know what needs to be done, I get distracted by things that need to be done eventually (forgetting I can't do everything this week).
@@ -52,10 +52,14 @@ A lot of things are happening this month! That's exciting, but I also feel like 
 
 #### Where do you need help?
 - Not sure; I know what I need to do and I know how to do it, but I'm finding it difficult to find the focus/mental space
+    * EK - You are doing great so keep going. :smile:  
 - One thing I'm not so sure how to do is changing a GitHub repository; it's currently a repo for the GitHub workshop but it should be a repo for training in general with a folder for the GitHub repo. But the repo is synced with Zenodo and I don't know what happens if I stop the integration and rename the repository.
 
 #### Any other topics
 - Can you approve [this PR](https://github.com/alan-turing-institute/the-turing-way/pull/2636) to add my name to the TTW project members?
+* EK - this is done!
+
+* EK - let's book a chat about Elixir and the training they do that can fit with RSF. 
 
 ## Date: 16 August 2022
 
