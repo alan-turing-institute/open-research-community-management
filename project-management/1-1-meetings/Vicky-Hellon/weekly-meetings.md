@@ -40,6 +40,7 @@ Funding call launched successfully- good amount of initial interest but need to 
 
 #### Who did you help this week?
 * Connected someone from RSECon to UKRN team
+  * EK - Can you feedback to the lab about RSECon please. 
 * KP with slides for a talk to ABPI that NG is giving
 
 #### Who helped you this week?
@@ -52,10 +53,12 @@ Funding call launched successfully- good amount of initial interest but need to 
 * Slides and planning for Q&A session
 * Comms for workshops and funding call- posting on slack, organising with Turing comms
 * Started brainstorming TTW activities with HS and JD
+  * EK - data wrangler team are looking to join in more with TTW and need a project.  
 
 #### What did you struggle with?
 * Feels like a lot packed in with the bank holiday!
 * Support for AS
+  * EK - I can highlight this to MB. 
 
 #### What would you like to work on next week?
 Finishing up this week:
@@ -65,6 +68,7 @@ Finishing up this week:
 
 #### Where do you need help?
 * Really struggling to recruit a speaker for October's Knowledge Share- have tried for weeks. Can send you across info about where I'm at- would really appreciate if you could cover for me whilst I'm away!
+   * EK - I can cover this!  
 
 #### Any other topics
 * Need 1:1's cancelling for next 2 weeks
