@@ -23,22 +23,26 @@
 
 #### Project specific Reflection
 
+* Feeling a bit overwhelmed and am stuck in a bit of limbo waiting on outcomes from meetings that get canceled or moved back. 
+* We're going to set up a mini working group for Stakeholder mapping so that we can get an understanding of the work that has been done by each person and drive something forward together. I have a feeling that I'll need to drive that forward as there's no clear objective for it at this stage but I'm super thrilled that after pushing for a few months there's movement and it's in the right direction 🎉
 
 
 ### 📚 Updates
 
 #### Who did you help this week?
 
-* DC with Chairning the open talks session 
+* DC with chairing the open talks session 
 * GA with slides for the presentation 
 * AIM consortia with recruitment 
 * AIM consortia with advisory board governance 
+* Onboarding RS to the AIM RSF project (& by proxy helping out AM + others by doing this) 
 
 #### Who helped you this week?
 
 * MS, AL, & EZ with taking lead for the connections workshop 
 * CN with connecting us to some partner charities 
 * External partner linking us to some participant groups 
+* MS & AB with project and workload strategy
 
 
 #### What did you achieve?
@@ -47,6 +51,8 @@
 * ✅ Onboarded new AIM RSF Data Wrangler 
 * ✅ Got GitHub pages site up and running as a "first mvp". Lots of updates needed. But it's a start. 
 * ✅ Finished and promoted the PPIE events series
+* ✅ Finalized details for a consortia's focus group session and supported recruitment and promotion
+* ✅ Connected with several external partners and have been working on PPIE materials to support the consortia's workflows (the group at Understanding Patient  Data has been ✨ amazing ✨ and their reports are under cc-by so we've been chatting about what we can adapt.  
 
 
 #### What did you struggle with?
@@ -57,8 +63,8 @@
 
 #### What would you like to work on next week?
 
-* Run GitHub onboarding session for Data Wranglers (project boards and workflows for 
-* Supporting AIN RSF Collab Cafe and the PPIE work inside that 
+* Run GitHub onboarding session for Data Wranglers (project boards and workflows for the AIM RSF Ops team) today 
+* Supporting AIM RSF Collab Cafe and the PPIE work for the session 
 * Setting up a GitHub Pages area for the Glossary of Terms 
 * Chairing PPIE in Research Panel this Friday 
 * Giving a talk on TTW to Leeds ReproTea 22nd (working on it during TTW Collab Cafe) 
@@ -71,6 +77,7 @@
 #### Where do you need help?
 
 * Clarity on how to establish top priorities. 
+
 
 #### Any other topics
 
