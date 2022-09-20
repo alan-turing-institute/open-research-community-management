@@ -1,5 +1,6 @@
 ## ALS + MS check-ins
 
+* [2022-09-20](#2022-09-20)
 * [2022-09-06](#2022-09-06)
 * [2022-08-09](#2022-08-09)
 * [2022-07-26](#2022-07-26)
@@ -16,9 +17,10 @@
 * [2022-03-25](#2022-03-25)
 * [2022-08-23](#2022-08-23)
 
+# 2022-09-20
 ### Questions for MS
-- Outreachy: planning for next season
-- Civic tech -
+- Outreachy: planning for next season after conversations with OLS team :)
+- Civic tech: n
 - Ask from Sophia: connecting AIM to Scriberia (short dash?)
 - Collaboration Cafe: Batool & Asma presenting, time used by TTW team for organising teams, M from Genomics England may be setting up community room, will check-in about other tasks.
 - Slack Audit: ready to propose changes: https://docs.google.com/spreadsheets/d/11MmzROZGpSkzoB01ATOTpklXrIg86eKSm1xUmPZuhlA/edit#gid=547657140 (post on slack + github discussion)
@@ -27,6 +29,7 @@
   - Applications: currently 6 applications.
   - Hub: pending application, should reach out to AR from Bristol?
 - Check-in about probationary report
+- Working half-days next week: visiting family in NYC!
 
 ### Ongoing tasks
 - September fireside chat: sent out invites, initial data, promotion starting this week (will embed survey into this process)
@@ -66,16 +69,9 @@
 - Feedback loops: survey
 - Invited for reocurring calls with SG & MN
 
-### Thank yous
--
-
-### Event update
-
 ### Proposal updates
 N/A
 - Mozilla WG: invited for event at MozFest 2022
-
-###
 
 # 2022-08-09
 ### Questions for MS
