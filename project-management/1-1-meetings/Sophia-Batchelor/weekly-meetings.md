@@ -20,6 +20,43 @@
 
 ### 📍 Check-in ritual
 
+#### Project specific Reflection
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+* KW with an awesome chat!
+
+#### What did you struggle with?
+
+
+#### What did you achieve?
+* Launched 2 "websites" 
+* Followed up with TR about Data Management Plan on GitHub
+* Run GitHub onboarding session for Data Wranglers (project boards and workflows for the AIM RSF Ops team) today 
+* Supporting AIM RSF Collab Cafe and the PPIE work for the session 
+* Setting up a GitHub Pages area for the Glossary of Terms 
+* Chairing PPIE in Research Panel this Friday 
+
+
+#### What would you like to work on next week? 
+* Finish presentation slides for ReproTea 22nd 
+* Finalizing content for connections workshop
+* Planning session with EZ about GitHub for Project Management workshop to develier to consortia
+* Kick off for OLS-6 
+* Finish presentation for Citizen Science an Co-creation talk 
+* Planning Slack engagement strategy 
+
+
+#### Where do you need help?
+
+
+
+
+## Date: 14 September 2022
+
+### 📍 Check-in ritual
+
 
 #### Project specific Reflection
 
@@ -78,9 +115,6 @@
 
 * Clarity on how to establish top priorities.
 	* EK - I will check in with DC and MS about this. Please send me the spreadsheet.  
-
-#### Any other topics
-
 
 
 
