@@ -30,6 +30,7 @@
   - Hub: pending application, should reach out to AR from Bristol?
 - Check-in about probationary report
 - Working half-days next week: visiting family in NYC!
+- Governance Task Force
 
 ### Ongoing tasks
 - September fireside chat: sent out invites, initial data, promotion starting this week (will embed survey into this process)
