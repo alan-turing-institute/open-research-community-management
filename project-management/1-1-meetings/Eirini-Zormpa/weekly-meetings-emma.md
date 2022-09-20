@@ -14,6 +14,7 @@
 
 **Check-in ritual**
 PPIE month (turned PPIE week) was excellent :tada:
+    * EK - sounds like all events were a success so great work!
 
 ### Project specific Reflections
 Lessons learned:
@@ -23,6 +24,8 @@ Lessons learned:
 - Having multiple hosts/co-hosts is really helpful.
 - Using GitHub discussions is good for people with no experience on GH.
 - Having someone on hand to give instructions on using GitHub would be great.
+
+* EK - I will check in with IT about the internet.
 
 ### Notes to discuss during 1:1
 - How events went
@@ -37,6 +40,7 @@ SB with PPIE month/week
 #### What did you achieve?
 - I'm very happy about how Collab Cafe went
 - I worked on Connections workshop stuff
+* EK - You also supported the other events. 
 
 #### What did you struggle with?
 - Time and the Turing internet :joy:
