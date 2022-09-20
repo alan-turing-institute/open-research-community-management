@@ -8,6 +8,54 @@
 * [26 July 2022](#date-26-July-2022)
 * [16 August 2022](#date-16-August-2022)
 * [14 September 2022](#date-14-September-2022)
+* [20 September 2022](#date-20-September-2022)
+
+## Date: 20 September 2022
+
+**Check-in ritual**
+PPIE month (turned PPIE week) was excellent :tada:
+    * EK - sounds like all events were a success so great work!
+
+### Project specific Reflections
+Lessons learned:
+
+- Don't plan all events on the same week!
+- Preparing topics for people to discuss always helps.
+- Having multiple hosts/co-hosts is really helpful.
+- Using GitHub discussions is good for people with no experience on GH.
+- Having someone on hand to give instructions on using GitHub would be great.
+
+* EK - I will check in with IT about the internet.
+
+### Notes to discuss during 1:1
+- How events went
+
+#### Who did you help this week?
+SB with PPIE month/week
+
+#### Who helped you this week?
+- SB was amazing with PPIE month/week and helping out with Collab Cafe
+- RS and MM were great to have there in the Collab Cafe too
+
+#### What did you achieve?
+- I'm very happy about how Collab Cafe went
+- I worked on Connections workshop stuff
+* EK - You also supported the other events. 
+
+#### What did you struggle with?
+- Time and the Turing internet :joy:
+
+#### What would you like to work on next week?
+- Meetings to plan various events/collab things in AIM (Slack, GitHub for Project Management, Sharing code)
+    - https://the-turing-way.netlify.app/project-design/sdpw/trew.html
+- **Schedule training (priority!)**
+- Analyse survey data
+- Contact people to book them for ECR Lunchtime sessions
+
+#### Where do you need help?
+
+#### Any other topics
+
 
 ## Date: 14 September 2022
 
