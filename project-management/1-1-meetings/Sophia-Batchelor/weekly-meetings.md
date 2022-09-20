@@ -25,7 +25,7 @@
 #### Who did you help this week?
 * EZ with collab-cafe's ppie section
 * DC with chairing and running the events
-* 
+	* EK - Lots of wonderful team work!
 
 #### Who helped you this week?
 * KW with an awesome chat!
@@ -33,6 +33,7 @@
 
 #### What did you struggle with?
 * Lots of events 😱
+	* EK - All the events went great so you should be super proud of all the hard work you put in :star: :tada:  But try to spread them out next time so you don't feel overwhelmed. 
 
 #### What did you achieve?
 * ✅ Launched 2 "GitHub Pages" 
@@ -40,7 +41,7 @@
 * ✅ Ran GitHub onboarding session for Data Wranglers (project boards and workflows for the AIM RSF Ops team)
 * ✅ Supported AIM RSF Collab Cafe and the PPIE work for the session 
 * ✅ Ran the PPIE in Research Panel (had a great discussion!) 
-
+	* EK - this is all such great work - well done. 
 
 #### What would you like to work on next week? 
 * Finish presentation slides for ReproTea 22nd 
@@ -54,6 +55,7 @@
 
 #### Where do you need help?
 * Review on HR docs this week 
+	* EK - yes please get this done and then I can review.  
 
 
 #### Other topics 
