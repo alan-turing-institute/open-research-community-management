@@ -1,5 +1,6 @@
 ## ALS + MS check-ins
 
+* [2022-09-06](#2022-09-06)
 * [2022-08-09](#2022-08-09)
 * [2022-07-26](#2022-07-26)
 * [2022-06-28](#2022-06-28)
@@ -16,6 +17,63 @@
 * [2022-08-23](#2022-08-23)
 
 ### Questions for MS
+- Outreachy: planning for next season
+- Civic tech -
+- Ask from Sophia: connecting AIM to Scriberia (short dash?)
+- Collaboration Cafe: Batool & Asma presenting, time used by TTW team for organising teams, M from Genomics England may be setting up community room, will check-in about other tasks.
+- Book Dash: ongoing tasks for this week?
+- Check-in about probationary report
+
+### Ongoing tasks
+- September fireside chat: sent out invites, initial data, promotion starting this week (will embed survey into this process)
+- Civic tech database: now featured
+- Organising infrastructure team: conversation with SG, now reaching out to infra channel + AR + AL.
+- Adding documentation here: https://github.com/alan-turing-institute/the-turing-way/discussions/2610
+- Invited for reccurring calls with SG (will set up) & M
+
+### Thank yous
+- Many thank yous! MS for probationary report preparation, SG for infrastructure help, core team for working group prep, JD+AC for other organisational help!
+
+### Event Updates
+- Genomics workshop (5 Oct)
+- King's college workshop (5 Oct) - will connect w Eirini
+- Connections workshop (26/27 Sept) - will connect with team
+
+### Proposal updates
+- Searching for additional proposals for fall 2022 season
+- Research Data Alliance (due 31 Oct): https://rd-alliance.org/rda%E2%80%99s-20th-plenary-call-sessions-now-open
+
+# 2022-09-06
+### Questions for MS
+- Additional support: outreachy intern?
+- Help for keynote topic (RSE Unconference)
+- Review audit documents (need help!)
+
+### Ongoing tasks
+- September fireside chat:
+- Slide deck for
+- Community Health Report
+- Community Research Updates
+- "Internal Audit" <-- tools proposed by SG
+- Core team meeting
+- Governance Task force
+- Maintenance Reflections
+- Feedback loops: survey
+- Invited for reocurring calls with SG & MN
+
+### Thank yous
+-
+
+### Event update
+
+### Proposal updates
+N/A
+- Mozilla WG: invited for event at MozFest 2022
+
+###
+
+# 2022-08-09
+### Questions for MS
 - Upcoming Fireside chat topics + upcoming planning
 - Should I apply for the SSI fellowship?
 - TTW publication in Maintainers blog
@@ -25,7 +83,6 @@
 - Task delegation
 
 ### Ongoing Tasks
-Adding 
 - Community Health Report
 - Community Research Updates
 - "Internal Audit" <-- tools proposed by SG
@@ -41,7 +98,7 @@ Adding
 
 ### Event updates
 Full schedule [here](https://hackmd.io/GHjxNTyZS1CYQgQst2kKKg)
-Key updates: invited to keynote early career RSE, 
+Key updates: invited to keynote early career RSE,
 
 ### Proposal updates
 N/A
