@@ -20,6 +20,61 @@
 
 ### 📍 Check-in ritual
 
+#### Project specific Reflection
+
+#### Who did you help this week?
+* EZ with collab-cafe's ppie section
+* DC with chairing and running the events
+	* EK - Lots of wonderful team work!
+
+#### Who helped you this week?
+* KW with an awesome chat!
+* EZ was awesome running the bigger piece of collab-cafe 
+
+#### What did you struggle with?
+* Lots of events 😱
+	* EK - All the events went great so you should be super proud of all the hard work you put in :star: :tada:  But try to spread them out next time so you don't feel overwhelmed. 
+
+#### What did you achieve?
+* ✅ Launched 2 "GitHub Pages" 
+* ✅ Followed up with TR about Data Management Plan on GitHub
+* ✅ Ran GitHub onboarding session for Data Wranglers (project boards and workflows for the AIM RSF Ops team)
+* ✅ Supported AIM RSF Collab Cafe and the PPIE work for the session 
+* ✅ Ran the PPIE in Research Panel (had a great discussion!) 
+	* EK - this is all such great work - well done. 
+
+#### What would you like to work on next week? 
+* Finish presentation slides for ReproTea 22nd 
+	* VH & AC are the point people on UKRN for the Turing Way. 
+* Finalizing content for connections workshop
+* Planning session with EZ about GitHub for Project Management workshop to develier to consortia
+* Kick off for OLS-6 
+* Finish presentation for Citizen Science an Co-creation talk 
+* Planning Slack engagement strategy 
+* Continue pushing forward on the Stakeholder mapping
+
+#### Where do you need help?
+* Review on HR docs this week 
+	* EK - yes please get this done and then I can review.  
+
+
+#### Other topics 
+* Fridays might be a good day for events that are discussion based 
+	* check this within the specific community you are in 
+* Ping AS about Scriberia 
+* Send email to folk alerting them to Slack as a comms chanel and getting permission
+* Send out a form getting permission to be added to mailing lists etc
+	* have a disclosure statement (opt in box) on forms etc 
+	* have an email that is a point of contact for unsubscribing  (defaulting to a service that provides this would be a good idea) 
+* Interest groups at Turing have a Teams Group mailing list
+	* the group is set up inside the sharepoint
+	* Clinical AI group - supporting via a "facilitators" role (EK has been supporting this group) 	
+
+
+## Date: 14 September 2022
+
+### 📍 Check-in ritual
+
 
 #### Project specific Reflection
 
@@ -78,9 +133,6 @@
 
 * Clarity on how to establish top priorities.
 	* EK - I will check in with DC and MS about this. Please send me the spreadsheet.  
-
-#### Any other topics
-
 
 
 
