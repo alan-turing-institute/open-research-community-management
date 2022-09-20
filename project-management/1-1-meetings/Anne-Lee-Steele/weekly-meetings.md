@@ -21,7 +21,11 @@
 - Civic tech -
 - Ask from Sophia: connecting AIM to Scriberia (short dash?)
 - Collaboration Cafe: Batool & Asma presenting, time used by TTW team for organising teams, M from Genomics England may be setting up community room, will check-in about other tasks.
+- Slack Audit: ready to propose changes: https://docs.google.com/spreadsheets/d/11MmzROZGpSkzoB01ATOTpklXrIg86eKSm1xUmPZuhlA/edit#gid=547657140 (post on slack + github discussion)
 - Book Dash: ongoing tasks for this week?
+  - Connecting with Scriberia <- AIM team interested
+  - Applications: currently 6 applications.
+  - Hub: pending application, should reach out to AR from Bristol?
 - Check-in about probationary report
 
 ### Ongoing tasks
@@ -35,6 +39,7 @@
 - Many thank yous! MS for probationary report preparation, SG for infrastructure help, core team for working group prep, JD+AC for other organisational help!
 
 ### Event Updates
+- Mozilla WG update: presented last week to . AB
 - Genomics workshop (5 Oct)
 - King's college workshop (5 Oct) - will connect w Eirini
 - Connections workshop (26/27 Sept) - will connect with team
