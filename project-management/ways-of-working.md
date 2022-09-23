@@ -13,12 +13,13 @@ We may have private repositories if our collaborators and collaborating projects
 
 ## Onboarding
 
-If you're new to the team, please open the [Induction and Onboarding issue](https://github.com/alan-turing-institute/community-manager-team/issues/new/choose) which will talk you through the different actions for your first days or week in the team.
+If you're new to the team, your line manager or community team mentor will open the [Induction and Onboarding issue](https://github.com/alan-turing-institute/community-manager-team/issues/new/choose), which will provide a checklist for you to work through with them. It provides a list of different actions for your first days or week in the team. 
+
 Please make sure you have been added to the [shared calendar for the community managers](https://calendar.google.com/calendar/u/0?cid=cGtlazVnc2xkcjlwYWRhNjc4MTJyaGtiaW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 ## Reporting
 
-- Community Managers report to [Malvika Sharan](https://www.turing.ac.uk/people/researchers/malvika-sharan).
+- Community Managers report to [Malvika Sharan](https://www.turing.ac.uk/people/researchers/malvika-sharan), [Emma Karoune](https://www.turing.ac.uk/people/research-associates/emma-karoune), or [Arron Lacey](https://www.turing.ac.uk/people/arron-lacey).
 - Senior Community Managers report to [Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker), TPS Director.
 - Malvika Sharan, along with other TPS senior researchers report directly to Kirstie Whitaker.
 - Members from collaborating projects report to their respective line managers.
@@ -37,7 +38,7 @@ Please contact Malvika for details.
 
 ## Team Meetings
 
-All members attend team meetings weekly to discuss their projects, exchange ideas and deep dive into specific topics for community building, management and engagement.
+All members attend team meetings bi-weekly to discuss their projects, exchange ideas and deep dive into specific topics for community building, management and engagement.
 Please read details in the [Team Meeting](./team-meetings.md) document.
 
 ## Commitments
