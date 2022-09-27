@@ -16,6 +16,88 @@
 * [14 September 2022](#date-14-September-2022)
 
 
+## Date: YYYY-MM-DD
+
+### 📍 Check-in ritual
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+### Project specific Reflection
+
+* External Comms Channels (Teams Group) 
+	* Talked to REG team, IT, and other groups who set up special interest groups to better understand if it's what we need
+	* Got clarity over how to set up linked docs with external collaborators in Teams 
+	* This lays the foundation for better understanding what to set up for a shared calendar, shared file system for non-github data, and comms channels.
+* Stakeholder mapping
+	* Some extensive set up is needed, but we found a way to collaborate and share the documents we've all been working on separately
+* Documentation
+	* I realized there is currently a fail point due to not having a central hub for communication and information that is used by everyone which may be a large factor into why I get pinged more than is sustainable. 
+	* I want to figure out a way to shift work towards documentation to get that knowledge captured but currently am unsure what blocks to move off my plate. 
+* Roadmap/Goal Posts 
+	* The unsurity of what we're meant to be aiming at has been taking a toll on all folks. 
+
+
+### Notes to discuss during 1:1
+
+* KW suggested that we could explore better support folk by working collaboratively on AIM PPIE, which would alleviate some of the work pieces on my plate and allow me to get to documentation. Chatted with AL about this and would love clarity on how to do this "the right way". 
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* MM with Turing ways of working advice/input 
+* MF with information + feedback
+
+#### Who helped you this week?
+
+* AS & MS sent information through about Scriberia 
+* EZ + MS massively as I needed to step back from the connections workshop
+* GA as co-presenter for AIM RSF session
+* AL + Connections workshop folk who planned dinner and were just wonderful to chat to
+* MS with advise and steering 
+* LC "being in my corner" with AIM strategy
+* EZ with handing off between work pieces, just objectively and subjectively feels like great teamwork. 
+* SSI Community Building session with advice and great vibes ✨
+
+#### What did you achieve?
+
+* ✅ Got more information about working Scriberia and have sent it through to DC for next steps
+* ✅ Reviewed and submitted HR docs
+* ✅ Had really cool presentation for ReproTea at Leeds
+* ✅ Finalized content for connections workshop (handed over to EZ)
+* ✅ Finalized date GitHub for Project Management workshop (EZ has done an awesome trainings calendar)
+* ✅ Started pulling together a big calendar for AIM RSf events so we can be better informed re. resources 
+* ✅ Met with our (super cool!!) OLS-6 mentor and started unpacking what we could do regarding the ReproHack/Replication Hack
+* ✅ Presented to Whitaker Lab
+* ✅ Co-Presented to AIM RSF Citizen Science an Co-creation talk Planning Slack engagement strategy 
+* ✅ Met with MF re. stakeholder mapping and started investigating channels for information sharing 
+* ✅ Co-ordinated with the Speaker for October's seminar and got the speaker release forms back to comms
+* ✅ Updated Knowledge Management document to reflect the outcomes of the chats with Data Proection.
+
+
+#### What did you struggle with?
+
+* Internal friction between wanting to do work packages that aren't strictly within remit. 
+* Picking up work pieces that fall far outside remit, but are mission critical. 
+
+#### What would you like to work on next week?
+
+* Supporting consortia focus groups.
+* Stakeholder mapping collaborative ways of working.
+* Documentation of processes + tacit knowledge.
+* Preparing for October events.
+* DPAP and RoPA forms. (Slack/Teams is depending on these being filled out)
+
+#### Where do you need help?
+
+* Advice for how to approach a mini (and short term) readdressing of work packages. 
+
+
+#### Any other topics
+
+
+
+
+
 ## Date: 14 September 2022
 
 ### 📍 Check-in ritual
