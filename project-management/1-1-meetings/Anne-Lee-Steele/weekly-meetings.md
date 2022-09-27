@@ -41,6 +41,11 @@
 - Newsletter: https://hackmd.io/YEu81jOKRwim7cWFgIJELA
 - Blog for TTW? Asma writing a post about her experience with Outreachy.
   - Add to case study: https://github.com/alan-turing-institute/the-turing-way/pull/2202
+- December coffee chats
+- Book Dash invitees
+  - Susanna (enrichment student)
+  - Lucy (enrichment student)
+- October fireside chats: low-key engagement for October -->
 
 ### Thank yous
 - JA for co-planning fireside (total rockstar)
@@ -58,6 +63,12 @@
 
 ### Other info
 - New Guide for Accessibility: GCHQ & Defense Ministry (December or 2023)
+- Community Health Report (move to 2023)
+- Governance Task Force (move to 2023)
+- Scriberia images: other ways of communicating our projects in simple ways --> what is the other creative thing we're doing with people?
+- SM new chapter idea
+- Turing Commons: developing a case study repository
+- Add that form for Book Dash to Newsletter
 
 # 2022-09-20
 ### Questions for MS
