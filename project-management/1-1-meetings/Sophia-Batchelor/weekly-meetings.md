@@ -72,7 +72,6 @@
 * ✅ Met with MF re. stakeholder mapping and started investigating channels for information sharing 
 * ✅ Co-ordinated with the Speaker for October's seminar and got the speaker release forms back to comms
 * ✅ Updated Knowledge Management document to reflect the outcomes of the chats with Data Proection.
-
 	* Super work! :muscle:  
 
 #### What did you struggle with?
@@ -95,6 +94,11 @@
 
 #### Any other topics
 
+* Have a check in (monthly?) meeting with Comms to sync up and chat. 
+* Health team is exploring LinkedIn 
+	* page within Turing Inst.'s existing page
+	* admins will be Comm M's  
+* Set up a sandboxed Teams team App (for files)
 
 
 
