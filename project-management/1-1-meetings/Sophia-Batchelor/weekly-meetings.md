@@ -73,6 +73,7 @@
 * ✅ Co-ordinated with the Speaker for October's seminar and got the speaker release forms back to comms
 * ✅ Updated Knowledge Management document to reflect the outcomes of the chats with Data Proection.
 
+	* Super work! :muscle:  
 
 #### What did you struggle with?
 
@@ -90,7 +91,7 @@
 #### Where do you need help?
 
 * Advice for how to approach a mini (and short term) readdressing of work packages. 
-
+	* EK - I will check in with DC about some of the things you have raised this week and get back to you. 
 
 #### Any other topics
 
