@@ -26,26 +26,38 @@
   - Phase 2 planning: https://github.com/alan-turing-institute/the-turing-way/discussions/2610
   - Working Group documentation: https://github.com/alan-turing-institute/the-turing-way/discussions/2646
   - Communication review: https://github.com/alan-turing-institute/the-turing-way/discussions/2644
-- Message to infrastructure channel (today)
+- Message to infrastructure channel about formalisation (today)
 - Message to book dash planning committee about meeting (today)
 - Book Dash Updates
   - Promotion for book dash applications (tomorrow) -> ATI slack + Twitter + slack channels
   - Direct people to contact about joining
+  - Lena: planning for data conversation
+  - HackMD: create HackMD for all Book Dash events (MS will make)
+  - Send a when2meet to channel
+  - Scheduling social sessions:
+    - Data Conversations: Tuesday
+    - Accessibility session (suggest other workshop format later)
 - Fireside chat planning is almost complete, low sign-up rates
 - Newsletter: https://hackmd.io/YEu81jOKRwim7cWFgIJELA
 - Blog for TTW? Asma writing a post about her experience with Outreachy.
+  - Add to case study: https://github.com/alan-turing-institute/the-turing-way/pull/2202
 
 ### Thank yous
 - JA for co-planning fireside (total rockstar)
 - JD for writing submission to NeuroIPS
 - EK for planning genomics england workshop
 - EZ for co-giving presentation on 5 oct
+- LK for being in contributor record: https://the-turing-way.netlify.app/afterword/contributors-record.html#vrije-universiteit-amsterdam
 
 ### Event Updates
 - Genomics england moved to Oct 20 because of strikes
+- Riotsclub talk - ask JD?
 
 ### Proposal updates
 - Upcoming proposal for research data alliance: https://rd-alliance.org/rda%E2%80%99s-20th-plenary-call-sessions-now-open
+
+### Other info
+- New Guide for Accessibility: GCHQ & Defense Ministry (December or 2023)
 
 # 2022-09-20
 ### Questions for MS
