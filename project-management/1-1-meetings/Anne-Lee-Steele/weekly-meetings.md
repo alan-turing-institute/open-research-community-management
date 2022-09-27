@@ -28,7 +28,9 @@
   - Communication review: https://github.com/alan-turing-institute/the-turing-way/discussions/2644
 - Message to infrastructure channel (today)
 - Message to book dash planning committee about meeting (today)
+- Promotion for book dash applications (tomorrow)
 - Fireside chat planning is almost complete,
+- Newsletter: https://hackmd.io/YEu81jOKRwim7cWFgIJELA
 
 ### Thank yous
 - JA for co-planning fireside (total rockstar)
