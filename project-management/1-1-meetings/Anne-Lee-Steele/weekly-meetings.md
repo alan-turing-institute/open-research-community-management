@@ -1,5 +1,6 @@
 ## ALS + MS check-ins
 
+* [2022-09-27](#2022-09-27)
 * [2022-09-20](#2022-09-20)
 * [2022-09-06](#2022-09-06)
 * [2022-08-09](#2022-08-09)
@@ -17,20 +18,49 @@
 * [2022-03-25](#2022-03-25)
 * [2022-08-23](#2022-08-23)
 
+# 2022-09-27
+### Questions for MS
+### Ongoing tasks
+- Focus is primarily on documentation:
+  - Last community research update (~6 month review): https://github.com/alan-turing-institute/the-turing-way/discussions/2552
+  - Phase 2 planning: https://github.com/alan-turing-institute/the-turing-way/discussions/2610
+  - Working Group documentation: https://github.com/alan-turing-institute/the-turing-way/discussions/2646
+  - Communication review: https://github.com/alan-turing-institute/the-turing-way/discussions/2644
+- Message to infrastructure channel (today)
+- Message to book dash planning committee about meeting (today)
+- Fireside chat planning is almost complete,
+
+### Thank yous
+- JA for co-planning fireside (total rockstar)
+- JD for writing submission to NeuroIPS
+- EK for planning genomics england workshop
+- EZ for co-giving presentation on 5 oct
+
+### Event Updates
+- Genomics england moved to Oct 20 because of strikes
+
+### Proposal updates
+- Upcoming proposal for research data alliance: https://rd-alliance.org/rda%E2%80%99s-20th-plenary-call-sessions-now-open
+
 # 2022-09-20
 ### Questions for MS
-- Outreachy: planning for next season after conversations with OLS team :)
-- Civic tech: n
-- Ask from Sophia: connecting AIM to Scriberia (short dash?)
-- Collaboration Cafe: Batool & Asma presenting, time used by TTW team for organising teams, M from Genomics England may be setting up community room, will check-in about other tasks.
+- Outreachy: planning for next season after conversations with OLS team :) BA - go through OSSA. Need to plan for having money. Planning for Outreachy for GSoD. Worked in 2020 on this: weren't historically recorded before. CZI & wellcome started funding. Can we offer her more support or co-write some proposals for TTW with her? +: We don't have to talk to ATI. Ask about working with BA on this. BA - collab cafe about Outreachy.
+- Fireside chat: sent all the info. Making all the events.
+- Ask from Sophia: connecting AIM to Scriberia (short dash?).
+  - MS: Send chapter from Scriberia, will forward email with CC.
+- Collaboration Cafe: Batool & Asma presenting, time used by TTW team for organising teams, MN from Genomics England may be setting up community room, will check-in about other tasks.
 - Slack Audit: ready to propose changes: https://docs.google.com/spreadsheets/d/11MmzROZGpSkzoB01ATOTpklXrIg86eKSm1xUmPZuhlA/edit#gid=547657140 (post on slack + github discussion)
 - Book Dash: ongoing tasks for this week?
   - Connecting with Scriberia <- AIM team interested
   - Applications: currently 6 applications.
   - Hub: pending application, should reach out to AR from Bristol?
+  - VU Data Conversations: social chats
+  - 4 social sessions planned: show & tell lunch, ... other hubs take over a social session
+  - Reminder for book dash PC channel: application for book dash is closing in 10 days. Separate call for planning conversations + do meeting review + event planning.
 - Check-in about probationary report
 - Working half-days next week: visiting family in NYC!
 - Governance Task Force
+- Presenting TTW, normalising presenting TTW in different spaces
 
 ### Ongoing tasks
 - September fireside chat: sent out invites, initial data, promotion starting this week (will embed survey into this process)
@@ -38,12 +68,14 @@
 - Organising infrastructure team: conversation with SG, now reaching out to infra channel + AR + AL.
 - Adding documentation here: https://github.com/alan-turing-institute/the-turing-way/discussions/2610
 - Invited for reccurring calls with SG (will set up) & M
+- Newsletter
+- Half-day: governance working group
 
 ### Thank yous
 - Many thank yous! MS for probationary report preparation, SG for infrastructure help, core team for working group prep, JD+AC for other organisational help!
 
 ### Event Updates
-- Mozilla WG update: presented last week to . AB
+- Mozilla WG update: presented last week.
 - Genomics workshop (5 Oct)
 - King's college workshop (5 Oct) - will connect w Eirini
 - Connections workshop (26/27 Sept) - will connect with team
