@@ -4,6 +4,8 @@
 <details>
 <summary><strong>TOC</strong></summary>
 
+- [2022-09-06](#2022-09-06)
+- [2022-08-30](#2022-08-30)
 - [2022-08-11](#2022-08-11)
 - [2022-08-02](#2022-08-02)
 - [2022-07-26](#2022-07-26)
@@ -28,6 +30,106 @@
 - [2021-11-23](#2021-11-23)
 
 </details>
+
+## 2022-09-06
+
+### Check-in ritual
+
+I’ve not been very well, and looking back through these notes that seems to go back to March.
+Spoke briefly to BM about it as well.
+Any advice/support would be appreciated.
+
+MS: I am prioritising E&S so ping me any time, and delegate whatever you want.
+
+### Project-specific reflection
+
+- BM wants a pivot for the project.
+  - S&R will probably be a re-work of the existing white paper that BM, CD and HM worked on last year.
+  - We’ll still write impact case studies (when E&S is done), but they’ll be decoupled.
+  - Overall, I’m to focus on the case studies as entirely stand-alone and others will put together the WP narratives.
+  
+MS: Hopefully, this pivoting will reduce some burden on you.
+
+### Notes to discuss during 1:1
+
+#### Who helped you since the last meeting?
+
+- VH, BC and PH checked in no me.
+- AL offered to do co-working with me.
+- RAMs have scheduled time with me for brainstorming/discussions.
+- JL and HB, who have joined a private Slack space to discuss the case studies / impact stories, and have offered to do in-person and remote co-working.
+- BM for being fairly understanding of the situation.
+  - Suggested I engage with JL and HB as well as RAMs for “community”/brainstorming/thinking-partner time.
+  
+MS: All great updates. Thank you for reaching out to people for coworking and brainstorming.
+
+#### What did you achieve?
+
+- Submitted the DyME-CHH draft and made progress with the agriculture text.
+
+MS: I will be editing them.
+
+#### What did you struggle with?
+
+- Mental-health stuff.
+
+MS: Solidarity. Hopefully recent changes in the project will help reduce the responsibility on you. 🌻
+
+#### What are you working on this week and what are your priorities?
+
+- Drafting the agriculture case study, and need to submit it no later than tomorrow.
+- At that point, I can start incorporating the changes proposed to Scivision and IceNet by the project members.
+
+MS: Thanks for this.
+
+#### Where do you need help?
+
+- Can we talk about the CoI stuff, please?
+
+MS: Yes!
+
+## 2022-08-30
+
+### Check-in ritual
+
+- Took a fairly spontaneous break last week, although I was only away for two days in the end.
+Now trying to catch up on messages and work tasks that have piled up.
+
+### Project-specific reflection
+
+- Feel like I’ve hit a wall with DyME-CHH but am trying to resume writing today.
+The structure is _there_, but a lot of the content is in skeletal form.
+- Was trying to put together my thoughts on various potential audiences for the white papers here: <https://github.com/alan-turing-institute/asg-community/discussions/80>.
+- Also started updating the README to clarify what the white papers are meant to do, but didn’t manage before leaving on break.
+Need to have that clear before sending out a call for the kick-offs for the remaining two, so will prioritise that for today.
+
+MS: Suggestion to prioritise the paper delivery. No action on README.
+
+### Notes to discuss during 1:1
+
+#### Who helped you since the last meeting?
+
+- ZI and I had a long chat about various operational aspects, and I have been sent a list of questions to address.
+
+MS: Updated on my chat wih HS and ZI.
+
+#### What did you achieve?
+
+- Drafted rough sketch of DyME-CHH text and incorporated draft of details of white papers into the project README (to be merged).
+
+#### What did you struggle with?
+
+- We spoke before your break about issues I had with some discussions.
+
+#### What are you working on this week and what are your priorities?
+
+- Wrap up DyME-CHH, finalise README with details of white papers, send out call for kick-offs for remaining white papers.
+- Respond to ZI’s list of questions.
+- Record ASG episode of Turing podcast (tomorrow) at the office.
+
+#### Where do you need help?
+
+- Can’t think of something concrete at the moment.
 
 ## 2022-08-11
 

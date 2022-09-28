@@ -1,5 +1,7 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [31 August 2022](#date-31-august-2022)
+* [17 August 2022](#date-17-august-2022)
 * [27 July 2022](#date-27-july-2022)
 * [20 July 2022](#date-20-july-2022)
 * [13 July 2022](#date-13-july-2022)
@@ -24,6 +26,80 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 31 August 2022
+
+### Check-in ritual
+Nice to have people back after hols- bit of new year energy!
+
+### Project specific Reflection
+Will be feeling good when the funding call is launched next week- trying to get organised for all the associated community activities especially as I'm away for the last 2 weeks of September.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Gave some advice to potential applicants for T-R PDRA role
+* Me and AS continue to support each other during this busy time! 
+
+#### Who helped you this week?
+* Met with FD- had a good discussion around comms and messaging around partnership news stories
+   * EK - let's discuss Linkedin for the health programme more. 
+* YZ on it with planning 
+
+#### What did you achieve?
+* Filmed demystfying video! 
+* Started finding speakers for October Knowledge Share
+* Working with website team to get funding call and workshop info uploaded
+   * EK - well done getting the first video done :star: and all the prep for autumn events/funding calls. 
+
+#### What did you struggle with?
+* Think strategy for partnership will rear its head again
+
+#### What would you like to work on next week?
+* Will be at RSECon Mon-Weds so looking forward to a bit of networking- haven't been to a conference for years!
+* Prepping and sending newsletter
+* Prepping for Knowledge Share- speaker prep, choose polls and plan networking bit at the end
+* Uploading demystifying video
+
+#### Where do you need help?
+* Bouncing ideas for Q&A and workshop as I get further down the planning stage
+
+#### Any other topics
+* Will be away for our 1:1 next week as at RSECon
+
+## Date 17 August 2022
+
+### Check-in ritual
+Feeling good after a week off!
+
+### Project specific Reflection
+On the final stretch with the workshop and funding call documents- just need to get them finalised then will be ready to go for September/October. Ambassador's programme getting there with legal but think launch next year looking likely.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* DC and EZ with discussions on how to run events
+* Caught CH up with everything that has been going on since his sabbatical
+
+#### Who helped you this week?
+* AS been good to bounce ideas off 
+
+#### What did you achieve?
+* Sent newsletter and set up next Knowledge Share event 
+* Documents Documents Documents!
+
+#### What did you struggle with?
+* BM not being here- been hard to push back on certain requests etc and get the academic angle.
+* EK - Speak to TP about this if possible but let me know if nothing happens. 
+
+#### What would you like to work on next week?
+* Review onboarding document for funded projects and plan how to engage with them from a community perspective
+* Get workshop booked and more finalisation round that.
+
+#### Where do you need help?
+* Support on transparency for funding available!
+
+#### Any other topics
+* EK - I will sort out comms contacts for Roche and a regular meeting. 
 
 ## Date 27 July 2022
 

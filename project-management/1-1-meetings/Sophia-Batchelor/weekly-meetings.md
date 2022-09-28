@@ -13,6 +13,214 @@
 * [12 July 2022](#date-12-July-2022)
 * [29 July 2022](#date-29-July-2022)
 * [16 August 2022](#date-16-August-2022)
+* [14 September 2022](#date-14-September-2022)
+
+
+## Date: YYYY-MM-DD
+
+### 📍 Check-in ritual
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+### Project specific Reflection
+
+* External Comms Channels (Teams Group) 
+	* Talked to REG team, IT, and other groups who set up special interest groups to better understand if it's what we need
+	* Got clarity over how to set up linked docs with external collaborators in Teams 
+	* This lays the foundation for better understanding what to set up for a shared calendar, shared file system for non-github data, and comms channels.
+* Stakeholder mapping
+	* Some extensive set up is needed, but we found a way to collaborate and share the documents we've all been working on separately
+* Documentation
+	* I realized there is currently a fail point due to not having a central hub for communication and information that is used by everyone which may be a large factor into why I get pinged more than is sustainable. 
+	* I want to figure out a way to shift work towards documentation to get that knowledge captured but currently am unsure what blocks to move off my plate. 
+* Roadmap/Goal Posts 
+	* The unsurity of what we're meant to be aiming at has been taking a toll on all folks. 
+
+
+### Notes to discuss during 1:1
+
+* KW suggested that we could explore better support folk by working collaboratively on AIM PPIE, which would alleviate some of the work pieces on my plate and allow me to get to documentation. Chatted with AL about this and would love clarity on how to do this "the right way". 
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* MM with Turing ways of working advice/input 
+* MF with information + feedback
+
+#### Who helped you this week?
+
+* AS & MS sent information through about Scriberia 
+* EZ + MS massively as I needed to step back from the connections workshop
+* GA as co-presenter for AIM RSF session
+* AL + Connections workshop folk who planned dinner and were just wonderful to chat to
+* MS with advise and steering 
+* LC "being in my corner" with AIM strategy
+* EZ with handing off between work pieces, just objectively and subjectively feels like great teamwork. 
+* SSI Community Building session with advice and great vibes ✨
+
+#### What did you achieve?
+
+* ✅ Got more information about working Scriberia and have sent it through to DC for next steps
+* ✅ Reviewed and submitted HR docs
+* ✅ Had really cool presentation for ReproTea at Leeds
+* ✅ Finalized content for connections workshop (handed over to EZ)
+* ✅ Finalized date GitHub for Project Management workshop (EZ has done an awesome trainings calendar)
+* ✅ Started pulling together a big calendar for AIM RSf events so we can be better informed re. resources 
+* ✅ Met with our (super cool!!) OLS-6 mentor and started unpacking what we could do regarding the ReproHack/Replication Hack
+* ✅ Presented to Whitaker Lab
+* ✅ Co-Presented to AIM RSF Citizen Science an Co-creation talk Planning Slack engagement strategy 
+* ✅ Met with MF re. stakeholder mapping and started investigating channels for information sharing 
+* ✅ Co-ordinated with the Speaker for October's seminar and got the speaker release forms back to comms
+* ✅ Updated Knowledge Management document to reflect the outcomes of the chats with Data Proection.
+	* Super work! :muscle:  
+
+#### What did you struggle with?
+
+* Internal friction between wanting to do work packages that aren't strictly within remit. 
+* Picking up work pieces that fall far outside remit, but are mission critical. 
+
+#### What would you like to work on next week?
+
+* Supporting consortia focus groups.
+* Stakeholder mapping collaborative ways of working.
+* Documentation of processes + tacit knowledge.
+* Preparing for October events.
+* DPAP and RoPA forms. (Slack/Teams is depending on these being filled out)
+
+#### Where do you need help?
+
+* Advice for how to approach a mini (and short term) readdressing of work packages. 
+	* EK - I will check in with DC about some of the things you have raised this week and get back to you. 
+
+#### Any other topics
+
+* Have a check in (monthly?) meeting with Comms to sync up and chat. 
+* Health team is exploring LinkedIn 
+	* page within Turing Inst.'s existing page
+	* admins will be Comm M's  
+* Set up a sandboxed Teams team App (for files)
+
+
+
+
+## Date: 14 September 2022
+
+### 📍 Check-in ritual
+
+#### Project specific Reflection
+
+#### Who did you help this week?
+* EZ with collab-cafe's ppie section
+* DC with chairing and running the events
+	* EK - Lots of wonderful team work!
+
+#### Who helped you this week?
+* KW with an awesome chat!
+* EZ was awesome running the bigger piece of collab-cafe 
+
+#### What did you struggle with?
+* Lots of events 😱
+	* EK - All the events went great so you should be super proud of all the hard work you put in :star: :tada:  But try to spread them out next time so you don't feel overwhelmed. 
+
+#### What did you achieve?
+* ✅ Launched 2 "GitHub Pages" 
+* ✅ Followed up with TR about Data Management Plan on GitHub
+* ✅ Ran GitHub onboarding session for Data Wranglers (project boards and workflows for the AIM RSF Ops team)
+* ✅ Supported AIM RSF Collab Cafe and the PPIE work for the session 
+* ✅ Ran the PPIE in Research Panel (had a great discussion!) 
+	* EK - this is all such great work - well done. 
+
+#### What would you like to work on next week? 
+* Finish presentation slides for ReproTea 22nd 
+	* VH & AC are the point people on UKRN for the Turing Way. 
+* Finalizing content for connections workshop
+* Planning session with EZ about GitHub for Project Management workshop to develier to consortia
+* Kick off for OLS-6 
+* Finish presentation for Citizen Science an Co-creation talk 
+* Planning Slack engagement strategy 
+* Continue pushing forward on the Stakeholder mapping
+
+#### Where do you need help?
+* Review on HR docs this week 
+	* EK - yes please get this done and then I can review.  
+
+
+#### Other topics 
+* Fridays might be a good day for events that are discussion based 
+	* check this within the specific community you are in 
+* Ping AS about Scriberia 
+* Send email to folk alerting them to Slack as a comms chanel and getting permission
+* Send out a form getting permission to be added to mailing lists etc
+	* have a disclosure statement (opt in box) on forms etc 
+	* have an email that is a point of contact for unsubscribing  (defaulting to a service that provides this would be a good idea) 
+* Interest groups at Turing have a Teams Group mailing list
+	* the group is set up inside the sharepoint
+	* Clinical AI group - supporting via a "facilitators" role (EK has been supporting this group) 	
+
+
+## Date: 14 September 2022
+
+### 📍 Check-in ritual
+
+
+#### Project specific Reflection
+
+* Feeling a bit overwhelmed and am stuck in a bit of limbo waiting on outcomes from meetings that get canceled or moved back. 
+* We're going to set up a mini working group for Stakeholder mapping so that we can get an understanding of the work that has been done by each person and drive something forward together. I have a feeling that I'll need to drive that forward as there's no clear objective for it at this stage but I'm super thrilled that after pushing for a few months there's movement and it's in the right direction 🎉
+
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* DC with chairing the open talks session 
+* GA with slides for the presentation 
+* AIM consortia with recruitment 
+* AIM consortia with advisory board governance 
+* Onboarding RS to the AIM RSF project (& by proxy helping out AM + others by doing this) 
+
+#### Who helped you this week?
+
+* MS, AL, & EZ with taking lead for the connections workshop 
+* CN with connecting us to some partner charities 
+* External partner linking us to some participant groups 
+* MS & AB with project and workload strategy
+
+
+#### What did you achieve?
+
+* ✅ Ran AIM RSF Open Talks session yesterday ✨
+* ✅ Onboarded new AIM RSF Data Wrangler 
+* ✅ Got GitHub pages site up and running as a "first mvp". Lots of updates needed. But it's a start. 
+* ✅ Finished and promoted the PPIE events series
+* ✅ Finalized details for a consortia's focus group session and supported recruitment and promotion
+* ✅ Connected with several external partners and have been working on PPIE materials to support the consortia's workflows (the group at Understanding Patient  Data has been ✨ amazing ✨ and their reports are under cc-by so we've been chatting about what we can adapt.  
+
+
+#### What did you struggle with?
+
+* Stressed about events and engagement. 
+* Dissonance around job remit and day-to-day responsibilities. 
+* Lack of clarity over priorities. 
+
+#### What would you like to work on next week?
+
+* Run GitHub onboarding session for Data Wranglers (project boards and workflows for the AIM RSF Ops team) today 
+* Supporting AIM RSF Collab Cafe and the PPIE work for the session 
+* Setting up a GitHub Pages area for the Glossary of Terms 
+* Chairing PPIE in Research Panel this Friday 
+* Giving a talk on TTW to Leeds ReproTea 22nd (working on it during TTW Collab Cafe) 
+* Finalizing content for connections workshop
+* Planning session with EZ about GitHub for Project Management workshop to develier to consortia
+* Kick off for OLS-6 
+* Finish presentation for Citizen Science an Co-creation talk 
+
+
+#### Where do you need help?
+
+* Clarity on how to establish top priorities.
+	* EK - I will check in with DC and MS about this. Please send me the spreadsheet.  
+
 
 
 ## Date: 16 August 2022
