@@ -10,6 +10,48 @@
 * [30 August 2022](#date-30-August-2022)
 * [14 September 2022](#date-14-September-2022)
 * [20 September 2022](#date-20-September-2022)
+* [5 October 2022](#date-5-October-2022)
+
+## Date: 5 October 2022
+
+**Check-in ritual**
+I had a lovely meeting with people from CISC/UoE :sparkles:
+
+### Project specific Reflection
+September has been intense in general, last week was no exception. I'm happy with how the Connections workshop went and I had a lot of good/useful meetings, but at the end of it I was completely wiped. This week I've been working on events: the talk at King's, the ECR event and organising/advertising the training events this month.
+
+### Notes to discuss during 1:1
+I'm stuck on a loop of being low on time, which makes it difficult to connect with AIM members outside of events. Because at the moment I need to be reaching out to people to get them to present/talk/teach at events I end up slotting myself in to lead more events than I would want.
+
+#### Who did you help this week?
+- I'm speaking with ALS about TTW at King's 💖
+
+#### Who helped you this week?
+- DC has preemptively checked if I can actually give a talk that I don't think I have the capacity to give 🙈
+- SB forgot we had a meeting to work on RoPA together and figured it out herself 😂💛
+
+#### What did you achieve?
+- Connections workshop ✔️
+- Convinced some of the PMs to join the next Collab Cafe
+- Advertised the GitHub workshops and got a pretty good response
+- Worked on the survey data
+
+#### What did you struggle with?
+- The loop I mentioned above
+
+#### What would you like to work on next week?
+- Present at King's
+- Chair/present at the ECR lunchtime session
+- Finish analysing the survey data
+- Contact RSF and AIM people to get them to join the Collab Cafe
+- Contast AIM people to ask them to present at the ECR lunchtime session
+- Contact AIM people to ask them if they would like to help out with R training
+
+#### Where do you need help?
+- As always, prioritising 🙈
+
+#### Any other topics
+Not really!
 
 ## Date: 20 September 2022
 
