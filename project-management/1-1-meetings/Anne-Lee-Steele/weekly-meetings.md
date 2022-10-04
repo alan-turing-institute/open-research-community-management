@@ -1,5 +1,6 @@
 ## ALS + MS check-ins
 
+* [2022-10-04](#2022-10-04)
 * [2022-09-27](#2022-09-27)
 * [2022-09-20](#2022-09-20)
 * [2022-09-06](#2022-09-06)
@@ -17,6 +18,46 @@
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
 * [2022-08-23](#2022-08-23)
+
+# 2022-10-04
+### Ongoing tasks
+- Will be sending out the survey for the fireside out this week, to the September attendees & August attendees
+- Refashioning the "October Fireside into a kind of Fireside Forum – and sending off information this week about having representatives from the working groups at the forum.
+- In terms of Hacktoberfest? I can start to post information around about this in various channels? Looking at the info, it seems like a lot of things we are doing already can count towards the contribution count? Will read up on it more.
+  - Glossary
+  - Tagging CarpentryCon issues
+  - Asking working groups
+  - Post in the slack - SB + PO were previous wrangers!
+- Posted the Book Dash post internally, but looks like it didn't go in the Turing newsletter. I'll be reaching out to folks this week, and be making a Twitter thread. We have 11 applications so far.
+  - Catering + 1 day in person
+  - Need to confirm which day is in person
+  - Add extension to hub application (might not be able to support)
+  - Asia-Australia hub: ask people about hubs
+    - Saranjeet, Johanna, Losia, Paula Andrea Martinez, Rowland M
+- Newsletter
+- Cancel all meetings for December !
+
+### Thank yous
+- JD & AB for prepping Big Team Science
+- EZ for King's college
+
+### Event Updates
+- Hacktoberfest (all of October)
+- King's college- DRIVE-HEALTH CDT Seminars (5 Oct)
+- Genomics England (20 Oct, moved from 5 Oct due to strikes)
+- King's college- Telling Stories with Data (27 Oct)
+- Big Team Science (27 Oct)
+- RiotScience (November)
+- Malvika keynote (November)
+- McGill Open Science event (November)
+- TPS Chats December (December)
+- Last Collaboration Cafe celebration! (7 December) - Closed until the second week of January
+
+### Proposal updates
+- RDA Alliance: due by 31 October
+-
+
+### Other info
 
 # 2022-09-27
 ### Questions for MS
@@ -56,6 +97,8 @@
 
 ### Event Updates
 - Genomics england moved to Oct 20 because of strikes
+- Big Team Science on Oct 15
+- Proposed shift for workshop @ king's on Oct 27
 - Riotsclub talk - ask JD?
 
 ### Proposal updates
@@ -66,9 +109,10 @@
 - Community Health Report (move to 2023)
 - Governance Task Force (move to 2023)
 - Scriberia images: other ways of communicating our projects in simple ways --> what is the other creative thing we're doing with people?
-- SM new chapter idea
+- SM new chapter idea -->
 - Turing Commons: developing a case study repository
 - Add that form for Book Dash to Newsletter
+- What has happened (what exists), what is documented, what can be shared
 
 # 2022-09-20
 ### Questions for MS
