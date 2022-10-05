@@ -69,6 +69,7 @@
 #### Any other topics
 
 * Should I still set up that monthly meeting with Comms?
+* EK - yes, I still think it is a good idea. 
 
 #### What did you struggle with?
 
@@ -88,6 +89,7 @@
 #### Where do you need help?
 
 * Checking the RoPA form 
+* EK - looks good to me - great job!
 
 #### Any other topics
 
