@@ -58,6 +58,7 @@ Mostly focusing on the workshop next week!
 * Still feel like the workshop lacks a bit of structure in the breakout sessions but probably just my personal preference and will be fine on the night!
 * Catching up with TTW work
 * DW not being available for video recording
+ * EK - send an email and copy me and MB in if there is any problems with this. 
 
 #### What would you like to work on next week?
 * Knowledge Share event and workshop Monday and Tuesday respectively
@@ -66,6 +67,7 @@ Mostly focusing on the workshop next week!
 
 #### Where do you need help?
 * Objective setting- next week after the workshop is probably a good time
+ * EK - Please make a google doc to start drafting this and we can discuss it in the next few weeks. Thanks for highlighting this. 
 
 #### Any other topics
 N/A
