@@ -14,9 +14,90 @@
 * [29 July 2022](#date-29-July-2022)
 * [16 August 2022](#date-16-August-2022)
 * [14 September 2022](#date-14-September-2022)
+* [27 September 2022](#date-27-September-2022)
+* [4 October 2022](#date-4-October-2022)
 
 
-## Date: YYYY-MM-DD
+## Date: 4 October 2022
+
+### Check-in ritual
+
+
+### Project specific Reflection
+* Good catching up with KW last week. Have been reflecting on how to best support the "emergence as a strategy" idea that KW has.
+* Documentation and Processes are so needed to support various tasks. 
+* The AutSPACEs volunteer has shifted back their days which is fab for planning! 
+* Have been reflecting on what I can hand off and where I can win hours back to spend work doing important tasks rather than upkeep tasks. 
+* The PPIE deiverables are a little murky beyond the direct Glossary of Terms. I have a suspicion that I will need to co-develop some new ones with guidance from LC based on the needs of the consortia. 
+
+### Notes to discuss during 1:1
+
+* Drafting workshop presentation slides  
+	* previous presentations [1](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit#slide=id.g526267be46_0_606), [2](https://docs.google.com/presentation/d/1r4_bFMSKVKzWJ-5kJr9iwplpTrbCWLxpviYGWOXJIhk/edit#slide=id.ge33bccbef9_0_18), [3](https://docs.google.com/presentation/d/1vEbbWqZKhE12gte1HdO0edhzuMO-zgTrR8hzGXoNwx0/edit#slide=id.g13fdfcc6cbf_3_636), [4](https://docs.google.com/presentation/d/1kC3r1xqU-8aT-bkhPm3F5SHz_FJxQPwz3UAy609xN7I/edit#slide=id.g13c8a6105e3_0_24). 
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* DC with taking charge of the RoPA form.
+* Consortia with specific work packages.
+* RS with induction tasks. 
+* I feel like I answered a lot of questions and emails last week, but I can't remember what they were for. 
+
+#### Who helped you this week?
+
+* EZ and MS with the connections workshop - I dropped out of supporting it. 
+* KW with an awesome chat about AIM RSF goals. 
+* DC with clarity on the website's end goal.
+* EZ with general comradere.
+* GA (and AL) with discussions on what to work on with AIM's PPIE.  
+
+#### What did you achieve?
+* ✅ Supported consortia focus groups.
+* ✅ Figured out how to share and collaborate on files in Teams for Stakeholder mapping
+* ✅ Documented events process and planned calendar for events 
+* ✅ Drafted RoPA form and sent to DC + KP for sign off 
+* ✅ Got feedback on DPAP form from TR 
+* ✅ Talked to IT about a Teams team app
+* ✅ Finished feedback on the Theory of Change
+* ✅ Set up the recurring issues for our internal events
+
+#### Where do you need help?
+
+* Updates on Comms 🕸️
+
+#### Any other topics
+
+* Should I still set up that monthly meeting with Comms?
+* EK - yes, I still think it is a good idea. 
+
+#### What did you struggle with?
+
+* Feeling very jaded and tired after so many things were running in September. 
+* Need to balance the enjoyment from social time vs. the energy expense of the office. 
+
+#### What would you like to work on next week?
+
+* Finish DPAP form 
+* Onboard GA into PPIE project work 
+* Finish documentation for Glossary site
+* Update Website for October's information
+* Lead on Ops meeting's events audit and ways of working discussion
+* Prep for (and do) the GitHub for Collaboration workshop
+* Send out invitations for Slack 
+
+#### Where do you need help?
+
+* Checking the RoPA form 
+* EK - looks good to me - great job!
+
+#### Any other topics
+
+* Have been doing an events audit and it struck home just how many things we are doing and it makes sense why it feels like we're on the back foot all the time.
+
+
+
+## Date: 27 September 2022 
 
 ### 📍 Check-in ritual
 (Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
