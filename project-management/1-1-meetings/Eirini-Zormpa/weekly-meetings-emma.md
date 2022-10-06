@@ -25,6 +25,7 @@ I'm stuck on a loop of being low on time, which makes it difficult to connect wi
 
 #### Who did you help this week?
 - I'm speaking with ALS about TTW at King's 💖
+   * EK - well done to you and Anne :star:
 
 #### Who helped you this week?
 - DC has preemptively checked if I can actually give a talk that I don't think I have the capacity to give 🙈
@@ -49,6 +50,7 @@ I'm stuck on a loop of being low on time, which makes it difficult to connect wi
 
 #### Where do you need help?
 - As always, prioritising 🙈
+   * EK - I'm suggesting not doing any extra events or talks for the rest of the year - only do AIM RSF related ones that must happen. And also try to cut down on unnecessary meetings. Sending the occasional apologies to a meeting with your updates to get more time to work is fine. 
 
 #### Any other topics
 Not really!
