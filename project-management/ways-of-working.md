@@ -46,6 +46,7 @@ Please read details in the [Team Meeting](./team-meetings.md) document.
 All team members commit to
 - abiding by the Code of Conduct and following the contribution guideline when participating in the Open Research Community Building team.
 - participate in the team meetings by contributing to the meeting document, chairing a meeting, presenting reflections from their work and finding opportunities to collaborate.
+- participate in the goatherding of the team. 
 - participate in *The Turing Way* project and events (such as Collaboration Cafe, Weekly Coworking Calls and Book Dash), whenever possible.
 - making the implicit explicit by documenting their work as a community manager and researcher to share with other team members. 
   - Please add a link of your resource/document to the [resources for reference](./resources-for-reference.md) document, if openly shared. 
