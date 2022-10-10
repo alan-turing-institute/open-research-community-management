@@ -5,7 +5,50 @@
 * [29 June 2022](#date-29-June-2022)
 * [8 July 2022](#date-8-July-2022)
 * [15 July 2022](#date-15-July-2022)
-* [29 JUly 2022](#date-29-July-2022)
+* [29 July 2022](#date-29-July-2022)
+* [5 October 2022](#date-5-October-2022)
+
+## Date: 5 October 2022
+
+### Check-in ritual
+I had some really nice responses from people about working on data ethics applications in the Collab Cafe :sparkles:
+
+### Project specific Reflection
+Things have been good if stressful - I was kind of out of commission by the end of last week. This week I've been working on advertising GitHub training this month and analysing the survey data to present in the ECR session on Thursday.
+
+### Notes to discuss during 1:1
+- I'm hoping to use the survey as a way to start a more general conversation either about training or about reproducible documents (it's in R Markdown) - any tips on how to get that started?
+- I've been struggling to find time to reach out to consortia and I end up leading/presenting at more events than I would like. Any ideas about people/topics for ECR events or people to help out with R training would be super helpful!
+
+#### Who did you help this week?
+- I'm presenting with ALS about TTW at King's
+
+#### Who helped you this week?
+- DC preemptively asked if I can actually give a talk I don't really have the capacity to work on
+- SB has been great with RoPA and file sharing stuff
+
+#### What did you achieve?
+- I had a very nice conversation with people from CISC/UoE about data ethics and collaboration cafes
+- I worked on data survey analysis
+- I advertised the GitHub workshops for this month and got a pretty good response
+- I've been working on the new mentors/trainers WG for the Turing Way
+
+#### What did you struggle with?
+- Outlook. Apparently the ECR Lunchtime session appeared as cancelled for some people :sob:
+
+#### What would you like to work on next week?
+- Finish analysing the survey data
+- TTW talk at King's
+- ECR lunchtime session
+- Reach out to RSF and general AIM members to invite them as speakers/discussants to AIM events
+
+#### Where do you need help?
+- The topics I mentioned above
+- I'll ask for some feedback on the survey analysis/write-up once I'm done
+- Prioritising continues to be difficult 😅
+
+#### Any other topics
+Not really!
 
 ## Date: 29 July 2022
 
