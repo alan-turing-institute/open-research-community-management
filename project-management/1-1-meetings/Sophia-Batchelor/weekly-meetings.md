@@ -16,6 +16,76 @@
 * [14 September 2022](#date-14-September-2022)
 * [27 September 2022](#date-27-September-2022)
 * [4 October 2022](#date-4-October-2022)
+* [11 October 2022](#date-10-October-2022)
+
+
+
+https://docs.google.com/document/d/1Fz17zkxhAFilm5SPPG57WdvDA_oGZWwm/edit
+
+
+## Date: YYYY-MM-DD
+
+### Check-in ritual
+Am always so grateful that I get to work with folk who are enthusiatic, kind, and engaged. It's just really nice "showing up" to work. 
+	* EK - this is lovely to hear :heart:
+
+### Project specific Reflection
+
+*Review your current projects, relation and skill-building that you are working on. *
+(Since last week, review the progress you’ve made towards your goals. Any challenges to mention? Review if we can attract any attention or help highlight your work.)
+
+### Notes to discuss during 1:1
+
+* Would love help with the community manager's report. I've lost track of what I've done. 
+	* EK - we discussed this during the meeting and made a list of things to include.  
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* EK with the presentation slides
+* EZ with setting up the recurring issue 
+* EZ with planning for GitHub Project Management Training
+* DC with taking notes during Ops meeting and debriefing afterwards
+
+#### Who helped you this week?
+
+* EK with presentatiom slides
+* AS with being able to reuse content and the open issues from carpentriescon
+* EZ with taking lead on Friday meetings
+* LC with discussions during PPIE Lunchtime session
+* SH with some project overlap discussions
+
+#### What did you achieve?
+
+* ✅ Led on Ops meeting's events audit and ways of working discussion
+* ✅ Preped for the GitHub for Collaboration workshop
+* ✅ Made changes to Website based on feedback
+* ✅ Set up Teams File share for Stakeholder mapping
+* ✅ Sent out open invite to Comms re. monthly meeting (no reply)
+* ✅ Finished off tasks for RS
+
+* EK - Great work! :muscle:
+
+#### What did you struggle with?
+
+* Finding time to do write ups and summaries amongst the tasks
+* Clarity on who knows what/who to ask questions around ROPA
+
+#### What would you like to work on next week?
+
+* Finish DPAP form (PRIORITY!!)
+* Collaboration Workshop presentation - Tuesday 11th
+* Onboard GA into PPIE project work (shifted from last week as JS changed days)
+* Finish documentation for Glossary site
+* Update Website for October's information
+* Get ROPA signed off
+
+#### Where do you need help?
+
+* The Community Manager's report
+
+
 
 
 ## Date: 4 October 2022
