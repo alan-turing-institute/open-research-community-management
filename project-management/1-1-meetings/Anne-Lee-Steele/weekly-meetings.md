@@ -24,9 +24,17 @@
 ### Ongoing tasks
 - Research Fish: need invitation to join TTW report
 - TTW reporting: due by 13th - emphasise key findings and narrative impact
-- Newsletter: need to carve out time this week (huge amount of updates from september)
+- Newsletter: need to carve out time this week (huge amount of updates from September)
 - Feedback loop for working groups & fireside chat
 - October fireside chat: possibly someone from NASA citizen science, any recommendations?: https://science.nasa.gov/citizenscience
+- Book Dash internal process: review form to review applicants, share sheet of applicants with committee,
+- Hacktoberfest
+- Planning for 2023:
+  - Submissions for upcoming conferences + talks
+  - Planning for 5-6 workshops next year:
+    - Facilitation workshops
+    - GitHub
+    - BinderHub
 
 ### Thank yous
 - JD & AB for prepping Big Team Science
@@ -49,9 +57,9 @@
 ### Proposal updates
 - FORCE 2022 - due 20 Oct
 - RDA Alliance Plenary 2023 - due 31 Oct
+- FOSS Backstage - 6 Nov
 - FOSDEM 2023 - due 15 Nov
 - csv,CONF 2023 - due 25 No
-
 
 # 2022-10-04
 ### Ongoing tasks
