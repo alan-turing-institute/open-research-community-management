@@ -26,7 +26,8 @@ https://docs.google.com/document/d/1Fz17zkxhAFilm5SPPG57WdvDA_oGZWwm/edit
 ## Date: YYYY-MM-DD
 
 ### Check-in ritual
-Am always so grateful that I get to work with folk who are enthusiatic, kind, and engaged. It's just really nice "showing up" to work.  
+Am always so grateful that I get to work with folk who are enthusiatic, kind, and engaged. It's just really nice "showing up" to work. 
+	* EK - this is lovely to hear :heart:
 
 ### Project specific Reflection
 
@@ -36,6 +37,7 @@ Am always so grateful that I get to work with folk who are enthusiatic, kind, an
 ### Notes to discuss during 1:1
 
 * Would love help with the community manager's report. I've lost track of what I've done. 
+	* EK - we discussed this during the meeting and made a list of things to include.  
 
 ### 📚 Updates
 
@@ -62,6 +64,8 @@ Am always so grateful that I get to work with folk who are enthusiatic, kind, an
 * ✅ Set up Teams File share for Stakeholder mapping
 * ✅ Sent out open invite to Comms re. monthly meeting (no reply)
 * ✅ Finished off tasks for RS
+
+* EK - Great work! :muscle:
 
 #### What did you struggle with?
 
