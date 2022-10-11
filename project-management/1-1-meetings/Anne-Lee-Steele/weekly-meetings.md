@@ -1,5 +1,6 @@
 ## ALS + MS check-ins
 
+* [2022-10-11](#2022-10-11)
 * [2022-10-04](#2022-10-04)
 * [2022-09-27](#2022-09-27)
 * [2022-09-20](#2022-09-20)
@@ -18,6 +19,39 @@
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
 * [2022-08-23](#2022-08-23)
+
+# 2022-10-11
+### Ongoing tasks
+- Research Fish: need invitation to join TTW report
+- TTW reporting: due by 13th - emphasise key findings and narrative impact
+- Newsletter: need to carve out time this week (huge amount of updates from september)
+- Feedback loop for working groups & fireside chat
+- October fireside chat: possibly someone from NASA citizen science, any recommendations?: https://science.nasa.gov/citizenscience
+
+### Thank yous
+- JD & AB for prepping Big Team Science
+- EZ for King's college
+
+### Event Updates
+- Hacktoberfest (all of October)
+- Turing Enrichment students (11 Oct) - today!
+- Genomics England Health Equity Conference (20 Oct)
+- King's college- Telling Stories with Data (27 Oct)
+- Big Team Science (27 Oct)
+- Book Dash (14 - 18 Nov)
+- Community Share out + Governance forum (18 Nov)
+- RIOT Science (30 Nov) - recent addition
+- Malvika keynote (November)
+- McGill Open Science event (November)
+- TPS Chats December (December)
+- Last Collaboration Cafe celebration! (7 December) - Closed until the second week of January
+
+### Proposal updates
+- FORCE 2022 - due 20 Oct
+- RDA Alliance Plenary 2023 - due 31 Oct
+- FOSDEM 2023 - due 15 Nov
+- csv,CONF 2023 - due 25 No
+
 
 # 2022-10-04
 ### Ongoing tasks
@@ -47,15 +81,11 @@
 - Genomics England (20 Oct, moved from 5 Oct due to strikes)
 - King's college- Telling Stories with Data (27 Oct)
 - Big Team Science (27 Oct)
-- RiotScience (November)
+- RiotScience (November 30)
 - Malvika keynote (November)
 - McGill Open Science event (November)
 - TPS Chats December (December)
 - Last Collaboration Cafe celebration! (7 December) - Closed until the second week of January
-
-### Proposal updates
-- RDA Alliance: due by 31 October
--
 
 ### Other info
 
