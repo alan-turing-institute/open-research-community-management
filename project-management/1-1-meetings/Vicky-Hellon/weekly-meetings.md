@@ -33,6 +33,7 @@
 
 ### Check-in ritual
 Workshop done- a success!
+* Well done - the success is all down to your hard work! :star:
 
 ### Project specific Reflection
 Feels like a big tick off the list- will now be working on follow up and other bits for the year e.g new PDRA starting, strategy day November 4th. 
@@ -60,6 +61,7 @@ Feels like a big tick off the list- will now be working on follow up and other b
 
 #### Where do you need help?
 * Will do objectives next week and we can review :)
+ * EK - Yes happy to review them before next weeks meeting.
 
 #### Any other topics
 N/A
