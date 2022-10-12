@@ -7,6 +7,55 @@
 * [15 July 2022](#date-15-July-2022)
 * [29 July 2022](#date-29-July-2022)
 * [5 October 2022](#date-5-October-2022)
+* [12 October 2022](#date-12-October-2022)
+
+
+## 12 October 2022
+
+### Check-in ritual
+I asked three people from the AIM consortia to help out with the R sessions and they all said yes 🥰
+
+### Project specific Reflection
+Last week was pretty full on with non-RSF things: the King's talk, TTW Collab Cafe, OLS, a panel I'm doing for the SSI. Since Monday I've been focusing on RSF things, which has been lovely.
+
+### Notes to discuss during 1:1
+
+- CO can't make it to the Collab Cafe next week after all - the plan was to discuss data ethics applications and a couple of the project managers said they'd be there to discuss that. Any tips on how to approach that?
+
+#### Who did you help this week?
+
+- SP from the Skills team with a course they've been working on
+- DC with chairing yesterday's open seminar
+
+#### Who helped you this week?
+
+- RH, EM, and RK agreed to be helpers for the R workshops :blush:
+
+#### What did you achieve?
+
+- Gave the talk at King's with ALS
+- Had the ECR Lunchtime talk - not a huge number of attendees but it was nice!
+- I sent off a *video* recording of myself after only 5 tries. I mean, I still hate it but :joy:
+- I've managed to make some progress on the survey analysis this week
+- I advertised the R workshops yesterday and got 12 sign ups
+
+#### What did you struggle with?
+
+* I've been trying to stick to 9:00-17:30 and pomodoro everything. I like it when it works but it doesn't come naturally.
+
+#### What would you like to work on next week?
+
+* Actually finish making the plots for the survey and start working on the text.
+    * I'm sorry I forgot to share it, will do so ASAP
+* Prep for the GitHub workshops
+* Advertise the Collab Cafe
+
+#### Where do you need help?
+
+I think I'm alright for now!
+
+#### Any other topics
+
 
 ## Date: 5 October 2022
 
