@@ -12,6 +12,54 @@
 * [20 September 2022](#date-20-September-2022)
 * [5 October 2022](#date-5-October-2022)
 
+
+## Date: 12 October 2022
+
+**Check-in ritual**
+I asked three people from the consortia to help out with R workshops and they all said yes 🥰
+
+### Project specific Reflection
+
+Last week was taken up largely with non-RSF things but I've been able to get things back on track a bit more since Monday.
+
+### Notes to discuss during 1:1
+
+Not much to discuss this week actually!
+
+#### Who did you help this week?
+
+- SN from the Skills team with one of their courses
+- DC with chairing yesterday's Open Seminar
+
+#### Who helped you this week?
+
+- I'm really grateful to RH, RK, and EM from the consortia for agreeing to help out with the R workshops :blush:
+
+#### What did you achieve?
+
+* Presented at King's about TTW with ALS
+* Chaired the ECR lunchtime session
+* Advertised R workshops and got 12 sign ups since yesterday
+* Made progress with the survey data analysis though it's not quite finished yet.
+
+#### What did you struggle with?
+
+* OLS feels like too much right now 🙈
+
+#### What would you like to work on next week?
+
+* Actually finish the survey analysis and start writing some text for it
+* Prep for the GitHub workshop next week
+* Prep for the Collab Cafe next week
+
+#### Where do you need help?
+
+* I'm actually doing alright at the moment.
+
+#### Any other topics
+
+- I don't think I can make it to the AI Health interest group meetings - I'm trying to contain work things between 9:00 - 17:30ish.
+
 ## Date: 5 October 2022
 
 **Check-in ritual**
