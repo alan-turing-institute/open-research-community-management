@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [05 October 2022](#date-5-october-2022)
 * [14 September 2022](#date-14-september-2022)
 * [31 August 2022](#date-31-august-2022)
 * [17 August 2022](#date-17-august-2022)
@@ -27,6 +28,50 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+
+## 05 October 2022
+
+### Check-in ritual
+Feeling refreshed but coming back to busy times!
+
+### Project specific Reflection
+Mostly focusing on the workshop next week! 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Partnership team with getting everything in order for the workshop
+
+#### Who helped you this week?
+* AS with great cover!
+* EK with event promotion 
+
+#### What did you achieve?
+* Catching up on inbox
+* Prepping for October Knowledge share next week and getting speakers sorted for November's
+* Recorded Turing-Roche versus video with SM and BM
+* Finalising workshop agenda and logistics, contacting attendees
+* Prepping newsletter to send out hopefully this week
+* Goatherding
+
+#### What did you struggle with?
+* Still feel like the workshop lacks a bit of structure in the breakout sessions but probably just my personal preference and will be fine on the night!
+* Catching up with TTW work
+* DW not being available for video recording
+ * EK - send an email and copy me and MB in if there is any problems with this. 
+
+#### What would you like to work on next week?
+* Knowledge Share event and workshop Monday and Tuesday respectively
+* Any workshop follow-up
+* TTW reviewing bits
+
+#### Where do you need help?
+* Objective setting- next week after the workshop is probably a good time
+ * EK - Please make a google doc to start drafting this and we can discuss it in the next few weeks. Thanks for highlighting this. 
+
+#### Any other topics
+N/A
+
 
 ## Date 14 August 2022
 
