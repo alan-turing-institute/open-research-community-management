@@ -17,6 +17,7 @@
 
 **Check-in ritual**
 I asked three people from the consortia to help out with R workshops and they all said yes 🥰
+* EK - this is great! :tada:  
 
 ### Project specific Reflection
 
@@ -45,6 +46,7 @@ Not much to discuss this week actually!
 #### What did you struggle with?
 
 * OLS feels like too much right now 🙈
+* EK - only do the tasks that are relevant and needed by your project. You don't need to do them all or any really. 
 
 #### What would you like to work on next week?
 
