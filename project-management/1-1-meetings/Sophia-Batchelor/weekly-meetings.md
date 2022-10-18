@@ -26,6 +26,7 @@
 ### Check-in ritual
 * DC started meeting with EZ + I weekly which I think will massively help internal communication
 * REG started on AutSPACEs 
+	* keep chatting with them - bring them into the loop! 🚀
 
 ### Project specific Reflection
 
@@ -45,6 +46,7 @@
 * DC with Data Study Group planning
 * EZ with some OLS planning work 
 * DC with tech support for the Open Talks seminar
+* New enrichment students with an "Insider's guide to Turing" (a co-op of the onboarding docs) 
 
 #### Who helped you this week?
 
@@ -78,6 +80,7 @@
 #### Where do you need help?
 
 * Am I to onboard BGT?
+	* Yes - within the scope of advising and guiding us and the project. 
 
 #### Any other topics
 
