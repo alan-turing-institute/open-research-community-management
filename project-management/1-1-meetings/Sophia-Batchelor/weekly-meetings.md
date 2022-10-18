@@ -26,7 +26,7 @@
 ### Check-in ritual
 * DC started meeting with EZ + I weekly which I think will massively help internal communication
 * REG started on AutSPACEs 
-	* keep chatting with them - bring them into the loop! 🚀
+	* EK - keep chatting with them - bring them into the loop! 🚀
 
 ### Project specific Reflection
 
@@ -80,11 +80,12 @@
 #### Where do you need help?
 
 * Am I to onboard BGT?
-	* Yes - within the scope of advising and guiding us and the project. 
+	* EK - Yes - within the scope of advising and guiding us and the project. 
 
 #### Any other topics
 
-- Feeling torn between staying in the ppie lane due to resource shifts coming down the pipeline vs. getting things done. 
+- Feeling torn between staying in the ppie lane due to resource shifts coming down the pipeline vs. getting things done.
+* EK - unfortunately it is a bit of both - focus on your PPIE tasks but with an eye on other things to unblock your work. Will be good to get the new RPM in place to help you with some tasks. 
 
 
 ## Date: 11 October 2022
