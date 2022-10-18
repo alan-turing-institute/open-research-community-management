@@ -11,6 +11,61 @@
 * [14 September 2022](#date-14-September-2022)
 * [20 September 2022](#date-20-September-2022)
 * [5 October 2022](#date-5-October-2022)
+* [12 October 2022](#date-12-October-2022)
+* [18 October 2022](#date-18-October-2022)
+
+
+## Date: 18 October 2022
+
+**Check-in ritual**
+CO can't be there at the Collab Cafe on Thursday but found **THREE** people to step in 🥰
+
+### Project specific Reflection
+
+Things have been alright - I've been working on the GitHub workshop for this afternoon mostly.
+Being in the office on Thursday and Friday last week stole a lot of the focus time I had reserved :cry:
+I started having weekly meetings with SB and DC yesterday which is nice!
+  * EK - the weekly meetings sound a good plan.  
+
+### Notes to discuss during 1:1
+
+- Can we have a look at the CM reporting and see if there's anything else I need to add?
+  * EK - we reviewed this together. 
+- I started going to a Coding Club to learn more advanced stuff in R (writing functions, packages etc.). It's one hour a week and I quite missing learning R things, is that okay?
+  * EK - I love the idea of a Turing coding club. Maybe we should start this? 
+
+#### Who did you help this week?
+
+I'm not sure I did 🙈
+
+#### Who helped you this week?
+
+- RS is helping me with the workshop this afternoon and has volunteered to lead a discussion on syntetic dataset on Thursday :sparkles:
+- Also huge appreciation to CO 💛
+
+#### What did you achieve?
+
+- Did lots of work the last few days on the GitHub workshop to adapt for the RSF
+- Created Issues for people to work on which also meant experimenting a little bit with the JupyterBook SB set up for the Glossary.
+- I'm linking up with the community of practice for statistic, also funded by the NIHR.
+
+#### What did you struggle with?
+
+- I still haven't finished the survey :cry:
+
+#### What would you like to work on next week?
+
+- Third time lucky? Survey!
+- I still have some prep to do for the Collab Cafe
+- Running this week's events - GH workshop & Collab cafe
+- I'd love to do some documenation work on running events that's fallen through the cracks.
+
+#### Where do you need help?
+
+
+
+#### Any other topics
+* EK - Any ideas what you will do in TTW bookdash? 
 
 
 ## Date: 12 October 2022
