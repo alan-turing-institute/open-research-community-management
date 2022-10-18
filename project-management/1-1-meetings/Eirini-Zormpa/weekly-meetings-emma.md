@@ -25,11 +25,14 @@ CO can't be there at the Collab Cafe on Thursday but found **THREE** people to s
 Things have been alright - I've been working on the GitHub workshop for this afternoon mostly.
 Being in the office on Thursday and Friday last week stole a lot of the focus time I had reserved :cry:
 I started having weekly meetings with SB and DC yesterday which is nice!
+  * EK - the weekly meetings sound a good plan.  
 
 ### Notes to discuss during 1:1
 
 - Can we have a look at the CM reporting and see if there's anything else I need to add?
+  * EK - we reviewed this together. 
 - I started going to a Coding Club to learn more advanced stuff in R (writing functions, packages etc.). It's one hour a week and I quite missing learning R things, is that okay?
+  * EK - I love the idea of a Turing coding club. Maybe we should start this? 
 
 #### Who did you help this week?
 
@@ -62,7 +65,7 @@ I'm not sure I did 🙈
 
 
 #### Any other topics
-
+* EK - Any ideas what you will do in TTW bookdash? 
 
 
 ## Date: 12 October 2022
