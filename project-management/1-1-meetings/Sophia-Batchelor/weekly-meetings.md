@@ -17,13 +17,74 @@
 * [27 September 2022](#date-27-September-2022)
 * [4 October 2022](#date-4-October-2022)
 * [11 October 2022](#date-10-October-2022)
+* [18 October 2022](#date-10-October-2022)
 
 
 
-https://docs.google.com/document/d/1Fz17zkxhAFilm5SPPG57WdvDA_oGZWwm/edit
+## Date: 18 October 2022
+
+### Check-in ritual
+* DC started meeting with EZ + I weekly which I think will massively help internal communication
+* REG started on AutSPACEs 
+
+### Project specific Reflection
+
+* Still working on the DPAP 
+* Aiming to get the CM report piece for AIM finished during the coworking on wednesday 
+* Can't get RoPA signed off, but have been in discussion with Data Protection team and others. It is no longer blocking work as we have approval, however a larger work piece is needed. 
+* Website couldn't be updated as the working group is still getting set up and content needs to be collectively agreed upon. 
+* GA shifted work timeline back again so have been unable to onboard her into PPIE project work.
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* EZ with getting set up for the workshop
+* Consortia with planning and documentation for PPIE work stream 
+* MF + Ops group with feedback on the Theory of Change documentation
+* DC with Data Study Group planning
+* EZ with some OLS planning work 
+* DC with tech support for the Open Talks seminar
+
+#### Who helped you this week?
+
+* DC with a good discussion on where various pieces of work are
+* EZ with a good discussion on communication platforms
+
+#### What did you achieve?
+
+* Worked on documentation for Glossary
+* Created documentation work the workshop
+* AutSPACEs REG kick off 
+* OLS work
+* Enrichment Cohort Workshop
+* Analysis of communication channels used by consortia
+* Analysis of attendance of events past 
+* drafted Event organization documentation
+* Opened ticket for Slack Grid
+
+#### What did you struggle with?
+
+* Did some really long days at work to get things done and pushing the needle ahead 
+
+#### What would you like to work on next week?
+
+* Documentation ahead of communication team meeting
+* Meeting notes write up 
+* AutSPACEs repo refresh
+* Establish the Stakeholder mapping Team's team
+* DPAP
+
+#### Where do you need help?
+
+* Am I to onboard BGT?
+
+#### Any other topics
+
+- Feeling torn between staying in the ppie lane due to resource shifts coming down the pipeline vs. getting things done. 
 
 
-## Date: YYYY-MM-DD
+## Date: 11 October 2022
 
 ### Check-in ritual
 Am always so grateful that I get to work with folk who are enthusiatic, kind, and engaged. It's just really nice "showing up" to work. 
@@ -83,8 +144,7 @@ Am always so grateful that I get to work with folk who are enthusiatic, kind, an
 
 #### Where do you need help?
 
-* The Community Manager's report
-
+* The Community Manager's [report](https://docs.google.com/document/d/1Fz17zkxhAFilm5SPPG57WdvDA_oGZWwm/edit)
 
 
 
