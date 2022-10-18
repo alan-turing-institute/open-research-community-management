@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [12 October 202](#date-12-october-2022)
 * [05 October 2022](#date-5-october-2022)
 * [14 September 2022](#date-14-september-2022)
 * [31 August 2022](#date-31-august-2022)
@@ -28,6 +29,42 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## 12 October 2022
+
+### Check-in ritual
+Workshop done- a success!
+* Well done - the success is all down to your hard work! :star:
+
+### Project specific Reflection
+Feels like a big tick off the list- will now be working on follow up and other bits for the year e.g new PDRA starting, strategy day November 4th. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Partnership team with workshop
+
+#### Who helped you this week?
+* AS with all the organisation
+
+#### What did you achieve?
+* Knowledge Share event went well
+* Workshop!
+
+#### What did you struggle with?
+* Packing everything in but should have more time from now on
+
+#### What would you like to work on next week?
+* Kick off meeting with structured missingness- need to think about what I want from them community wise 
+* Objectives
+* De-mystifying video with Cameron
+* Community manager report 
+
+#### Where do you need help?
+* Will do objectives next week and we can review :)
+ * EK - Yes happy to review them before next weeks meeting.
+
+#### Any other topics
+N/A
 
 ## 05 October 2022
 
