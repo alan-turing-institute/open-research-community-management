@@ -55,6 +55,7 @@ Lots of post workshop bits but seems like there has been some good collaboration
 
 #### What did you struggle with?
 * Strategy meeting for partnership has been put in the diary for November 4th. Helping out with agenda but worry it might end up a bit aimless like last year
+ * EK - you can only but keep trying to move them in the right direction! Hopefully MB will help you with this.
 
 #### What would you like to work on next week?
 * Versus video has been sent over so need to check editing.. and maybe fight the YouTube fight again
@@ -64,6 +65,7 @@ Lots of post workshop bits but seems like there has been some good collaboration
 
 #### Where do you need help?
 * Really appreciate your comments on my objectives- looking forward to finalising!
+ * EK - we got this finished! Please do now add to Cezanne. 
 
 #### Any other topics
 N/A 
