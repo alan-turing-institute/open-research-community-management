@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [19 October 2022](#date-19-october-2022)
 * [12 October 202](#date-12-october-2022)
 * [05 October 2022](#date-5-october-2022)
 * [14 September 2022](#date-14-september-2022)
@@ -29,6 +30,47 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## 19 October 2022
+
+### Check-in ritual
+Still feeling busy but mainly good busy ha!
+
+### Project specific Reflection
+Lots of post workshop bits but seems like there has been some good collaboration which is promising! 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* MB with overview of community management within the partnership
+* RC with setting up Slack channels for him to talk to workshop attendees
+
+#### Who helped you this week?
+* BM gave good endorsment of community management at SM funded project kick off meeting
+* RC has been really helpful with engaging with the workshop attendees in the slack and via email and planning next steps
+
+#### What did you achieve?
+* Kick off meeting for SM projects- did some slides on community management and was good to meet the teams 
+* Started workshop report
+* Met with CS and gave him instructions for his demystifying video- he will be prepping in a few weeks
+
+#### What did you struggle with?
+* Strategy meeting for partnership has been put in the diary for November 4th. Helping out with agenda but worry it might end up a bit aimless like last year
+ * EK - you can only but keep trying to move them in the right direction! Hopefully MB will help you with this.
+
+#### What would you like to work on next week?
+* Versus video has been sent over so need to check editing.. and maybe fight the YouTube fight again
+* Hosting first post workshop virtual co-working on Thursday
+* Will be preparing a survey for workshop attendees
+* Making event page for November's Knowledge Share 
+
+#### Where do you need help?
+* Really appreciate your comments on my objectives- looking forward to finalising!
+ * EK - we got this finished! Please do now add to Cezanne. 
+
+#### Any other topics
+N/A 
+
+
 ## 12 October 2022
 
 ### Check-in ritual
