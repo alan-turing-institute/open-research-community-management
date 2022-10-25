@@ -1,7 +1,8 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [26 October 2022](#date-26-october-2022)
 * [19 October 2022](#date-19-october-2022)
-* [12 October 202](#date-12-october-2022)
+* [12 October 2022](#date-12-october-2022)
 * [05 October 2022](#date-5-october-2022)
 * [14 September 2022](#date-14-september-2022)
 * [31 August 2022](#date-31-august-2022)
@@ -30,7 +31,49 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
-## 19 October 2022
+## Date 26 October 2022
+
+### Check-in ritual
+Nice to be in the office a bit this week and have some social time :)
+
+### Project specific Reflection
+Feeling a bit more on top of things this week and have some breathing space.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Workshop attendees in co-working session- hopefully some further collaboration
+* AS with partnership reporting
+
+#### Who helped you this week?
+* RC, CH and AS with co-working session
+* SM with bullet points about partnership publication to send to comms
+
+#### What did you achieve?
+* Delivered first virtual co-working session post the workshop
+* Watched Turing-Roche versus video and sent back edits
+* Emailed comms about having partnership publication featured as news/blog, waiting to hear back
+* Finalised workshop report- just waiting for BM input
+* Did some co-working with HS on TTW
+* Knowledge Share event promotion
+
+#### What did you struggle with?
+* Strategy day agenda... will see how we go!
+* Worried about AS with IP queries but not much I can do- co-working ended up as a bit of a Q&A
+
+#### What would you like to work on next week?
+* Will be onboarding new postdoc CB tomorrow 
+* Catching up with Roche comms
+* Prepping for November Knowledge Share 
+* Strategy Day!
+
+#### Where do you need help?
+* None at the mo
+
+#### Any other topics
+N/A
+
+## Date 19 October 2022
 
 ### Check-in ritual
 Still feeling busy but mainly good busy ha!
@@ -71,7 +114,7 @@ Lots of post workshop bits but seems like there has been some good collaboration
 N/A 
 
 
-## 12 October 2022
+## Date 12 October 2022
 
 ### Check-in ritual
 Workshop done- a success!
@@ -108,7 +151,7 @@ Feels like a big tick off the list- will now be working on follow up and other b
 #### Any other topics
 N/A
 
-## 05 October 2022
+## Date 05 October 2022
 
 ### Check-in ritual
 Feeling refreshed but coming back to busy times!
@@ -152,7 +195,7 @@ Mostly focusing on the workshop next week!
 N/A
 
 
-## Date 14 August 2022
+## Date 14 September 2022
 
 ### Check-in ritual
 Very busy week but grateful for efficient team working! Really enjoyed myself at RSECon- felt good to connect with people in a conference setting again!
