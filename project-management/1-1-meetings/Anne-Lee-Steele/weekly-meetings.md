@@ -24,21 +24,30 @@
 # 2022-10-26
 ### Questions for MS
 - How was your holiday?!
-- Invited to join FORRT
+- Invited to join FORRT - MS: grassroots, alignment with TTW, focused in neuroscience, attend meeting
 - OpenUK - invited to in-person
 - OSM: invited to give talk about research
 - Reporting update - anything I need to add?
 - What is the best way for me to get started with Book Dash scheduling?
-  - Data Conversations: reached out to MM.
+  - Data Conversations: reached out to MM (LA - Argentinian health center as health center)
   - Mars Lee interested in accessibility sessions <- other social chat?
   - Preparing "gift bags"
   - Next steps?
+- Thank you illustrations (Scriberia) - order some cards! (bulk!)
+- Gifts for everyone for Fireside Chat (!)
 
 ### Ongoing tasks
 - Planning for BTS (all set for tomorrow?)
-- October Fireside
+- October Fireside <-- Make ask to share explicit, since we are great!
 - Book Dash planning
 - TPS Coffee Chats: booking speakers
+  - JD+Hugging Face team: first group
+- Newsletter: draft tomorrow morning, to send by Friday morning?
+- TPS + Public Policy team project (Practioner Hub project) - Research Ethics handbook, Turing Commons, TTW
+- TTW upcoming postdoc role
+  - PM for TTW: content & reporting, newsletter, eventbrite, operational focus, etc.
+  - Postdoc for TTW: strategic work, partnership management, domain-specific organisation, impact in context, case studies, coordination + research oriented
+  - 5 months of freelance/writing: CM paper, RAM paper, TTW papers
 
 ### Thank yous
 - GA for October fireside chat planning!
@@ -61,10 +70,11 @@
 
 ### Proposal updates
 - FORCE11 2022 - submitted!
-- RDA Alliance Plenary 2023 - due 31 Oct - in progress
+- RDA Alliance Plenary 2023 - due 31 Oct - in progress (MS: post in #community channel)
 - FOSS Backstage - 6 Nov
 - FOSDEM 2023 - due 15 Nov
 - csv,CONF 2023 - due 25 Nov
+MS: Ask people about getting involved with upcoming notes!
 
 # 2022-10-11
 ### Ongoing tasks
