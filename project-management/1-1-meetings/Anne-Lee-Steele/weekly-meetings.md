@@ -1,5 +1,6 @@
 ## ALS + MS check-ins
 
+* [2022-10-26](#2022-10-26)
 * [2022-10-11](#2022-10-11)
 * [2022-10-04](#2022-10-04)
 * [2022-09-27](#2022-09-27)
@@ -20,6 +21,51 @@
 * [2022-03-25](#2022-03-25)
 * [2022-08-23](#2022-08-23)
 
+# 2022-10-26
+### Questions for MS
+- How was your holiday?!
+- Invited to join FORRT
+- OpenUK - invited to in-person
+- OSM: invited to give talk about research
+- Reporting update - anything I need to add?
+- What is the best way for me to get started with Book Dash scheduling?
+  - Data Conversations: reached out to MM.
+  - Mars Lee interested in accessibility sessions <- other social chat?
+  - Preparing "gift bags"
+  - Next steps?
+
+### Ongoing tasks
+- Planning for BTS (all set for tomorrow?)
+- October Fireside
+- Book Dash planning
+- TPS Coffee Chats: booking speakers
+
+### Thank yous
+- GA for October fireside chat planning!
+- JD + AB for planning BTS hackathon (piloting a new model!)
+- SB for sharing training info
+
+### Event Updates
+- Hacktoberfest (all of October) - not too many participants so far?
+- Turing Enrichment students (11 Oct) - today!
+- Genomics England Health Equity Conference (20 Oct) - success!
+- King's college- Telling Stories with Data (27 Oct) - moved to next year
+- Big Team Science (27 Oct) -
+- Book Dash (14 - 18 Nov) - planning ongoing
+- Community Share out + Governance forum (18 Nov)
+- RIOT Science (30 Nov) - recent addition
+- Malvika keynote (November)
+- McGill Open Science event (November)
+- TPS Chats December (December)
+- Last Collaboration Cafe celebration! (7 December) - Closed until the second week of January
+
+### Proposal updates
+- FORCE11 2022 - submitted!
+- RDA Alliance Plenary 2023 - due 31 Oct - in progress
+- FOSS Backstage - 6 Nov
+- FOSDEM 2023 - due 15 Nov
+- csv,CONF 2023 - due 25 Nov
+
 # 2022-10-11
 ### Ongoing tasks
 - Research Fish: need invitation to join TTW report
@@ -27,18 +73,20 @@
 - Newsletter: need to carve out time this week (huge amount of updates from September)
 - Feedback loop for working groups & fireside chat
 - October fireside chat: possibly someone from NASA citizen science, any recommendations?: https://science.nasa.gov/citizenscience
-- Book Dash internal process: review form to review applicants, share sheet of applicants with committee,
-- Hacktoberfest
+- Book Dash internal process: review form to review applicants, share sheet of applicants with committee
 - Planning for 2023:
   - Submissions for upcoming conferences + talks
   - Planning for 5-6 workshops next year:
     - Facilitation workshops
     - GitHub
     - BinderHub
+    - Reproducibility Workshop (w/ centre for doctoral training)
+- Conflict of interest document
+- Sending email for ATI newsletter
+- Working Groups: People have professional accountability with each other, slow down!    
 
 ### Thank yous
-- JD & AB for prepping Big Team Science
-- EZ for King's college
+- GA for October fireside chat
 
 ### Event Updates
 - Hacktoberfest (all of October)
