@@ -13,7 +13,47 @@
 * [5 October 2022](#date-5-October-2022)
 * [12 October 2022](#date-12-October-2022)
 * [18 October 2022](#date-18-October-2022)
+* [26 October 2022](#date-26-October-2022)
 
+## Date: 26 October 2022
+
+**Check-in ritual**
+More people showed up to the Collaboration Cafe than I was expecting :sparkles:
+
+### Project specific Reflection
+- It feels like things are ramping up again: I have a few workshops to get through in November and I recently realised we need to run two DSGs with the RSF by the end of the project on top of the conference we need to plan for Spring 2023.
+- We are also currently having disucssions around branding for the RSF
+- There has been an update on the UoE position
+
+### Notes to discuss during 1:1
+- I'd like to have a place where people can go and see what other consortia are working on but I'm not sure a) what level of detail is useful while making sure this document isn't too chaotic and b) how to help people connect to each other
+    - Slack will be relevant here. I was also thinking we could tag people's GitHub usernames? It feels less "intrusive" than sharing their email for example (which has already been decided we will not do on GitHub)
+
+#### Who did you help this week?
+- I don't know if it counts as helping but I reassured SB we can definitely cancel today's workshop since she's ill?
+#### Who helped you this week?
+- RS was super helpful during the GitHub workshop and after when we tried to figure out what was going on with permissions
+
+#### What did you achieve?
+- Gave the GitHub workshop: it went okay, but we had issues with permissions which meant I couldn't get through everything I'd planned.
+- I finished making the survey plots :tada:
+- I chaired the Collaborations Cafe
+- I gave a talk about the RSF at the UK Carpentry community call
+
+#### What did you struggle with?
+- I felt quite embarassed about how the GitHub workshop went, but I did learn from it and we've documented what went wrong so we'll know to avoid the same mistakes in the future.
+
+#### What would you like to work on next week?
+ - Prep for the R workshops (send reminders, coordinate with helper, hold office hours, practise)
+ - Draft an email to inform people we will be adding them to Slack and get feedback from RSF Ops
+ - Restructure one of the private GH repos to use for sharing resources from our events (links to recordings, HackMDs)
+ - Finish writing up the information about their work that the consortia have shared with us; the idea is to share this on the repo I mention above so AIM members have an idea of who else is working on similar topics to them. This needs to be vetted by the people that shared this info with us (PIs and ECRs)
+
+#### Where do you need help?
+
+- I'm not sure. I know how to do most things I want to do (except for the information sharing doc; I'd love your tips there). The issue is finding the time to fit them all in.
+
+#### Any other topics
 
 ## Date: 18 October 2022
 
