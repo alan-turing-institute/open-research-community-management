@@ -19,6 +19,7 @@
 
 **Check-in ritual**
 More people showed up to the Collaboration Cafe than I was expecting :sparkles:
+    * EK - this is great - well done. :tada:
 
 ### Project specific Reflection
 - It feels like things are ramping up again: I have a few workshops to get through in November and I recently realised we need to run two DSGs with the RSF by the end of the project on top of the conference we need to plan for Spring 2023.
@@ -28,6 +29,7 @@ More people showed up to the Collaboration Cafe than I was expecting :sparkles:
 ### Notes to discuss during 1:1
 - I'd like to have a place where people can go and see what other consortia are working on but I'm not sure a) what level of detail is useful while making sure this document isn't too chaotic and b) how to help people connect to each other
     - Slack will be relevant here. I was also thinking we could tag people's GitHub usernames? It feels less "intrusive" than sharing their email for example (which has already been decided we will not do on GitHub)
+    - EK - a simple document is a good place to start and then on your website sounds the mnost useful way to display it if you want to make it more visible. 
 
 #### Who did you help this week?
 - I don't know if it counts as helping but I reassured SB we can definitely cancel today's workshop since she's ill?
@@ -42,6 +44,7 @@ More people showed up to the Collaboration Cafe than I was expecting :sparkles:
 
 #### What did you struggle with?
 - I felt quite embarassed about how the GitHub workshop went, but I did learn from it and we've documented what went wrong so we'll know to avoid the same mistakes in the future.
+    - EK - don't worry about this. These things happen - just learn from it. 
 
 #### What would you like to work on next week?
  - Prep for the R workshops (send reminders, coordinate with helper, hold office hours, practise)
