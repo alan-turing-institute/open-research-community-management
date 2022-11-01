@@ -30,12 +30,14 @@ I did a rebase 🙀
 ### Notes to discuss during 1:1
 
 - The GDPR :tada:
+- EK - thanks for tackling this and let's write this up for the CM team when you have finished this work. 
 
 #### Who did you help this week?
 
-
+* SB - did some of her tasks while she was unwell.
 
 #### Who helped you this week?
+
 
 
 
@@ -58,6 +60,7 @@ I did a rebase 🙀
 #### Where do you need help?
 
 * Any tips on Slack channels?
+* EK - add an appreciation channel, introductions channel if there is not one already.
 
 #### Any other topics
 - I actually started playing with Git Kraken and it's not as scary as I thought it was
