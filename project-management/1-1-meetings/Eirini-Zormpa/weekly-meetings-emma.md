@@ -14,6 +14,56 @@
 * [12 October 2022](#date-12-October-2022)
 * [18 October 2022](#date-18-October-2022)
 * [26 October 2022](#date-26-October-2022)
+* [1 November 2022](#date-1-November-2022)
+
+
+## Date: 1 November 2022
+
+**Check-in ritual**
+I did a rebase 🙀
+
+### Project specific Reflection
+- I've been doing a bunch of things this week and potentially for the first time ever I actually did all the things I said I would do in our last meeting :joy:
+- Some things are getting unblocked in terms of comms
+- The GDPR is still a bit of a thorn in my side
+
+### Notes to discuss during 1:1
+
+- The GDPR :tada:
+- EK - thanks for tackling this and let's write this up for the CM team when you have finished this work. 
+
+#### Who did you help this week?
+
+* SB - did some of her tasks while she was unwell.
+
+#### Who helped you this week?
+
+
+
+
+#### What did you achieve?
+- I restructured two repos, one to share materials from RSF events and one to collect people's bios and wrote up an email to inform people about those + Slack
+- I don't think it's an achievement, but I'm reading the GDPR *again*, yay
+- I've practised the R workshop and am cautiously optimistic
+
+#### What did you struggle with?
+
+
+#### What would you like to work on next week?
+
+* Prep for the next R workshop + R office hours
+* ECR lunchtime session
+* Write down some event documentation
+* Follow up on some to-dos from last week (contacting people from Collab Cafe and the Carpentries talk) that fell through the cracks
+* Keep trying to push Slack
+
+#### Where do you need help?
+
+* Any tips on Slack channels?
+* EK - add an appreciation channel, introductions channel if there is not one already.
+
+#### Any other topics
+- I actually started playing with Git Kraken and it's not as scary as I thought it was
 
 ## Date: 26 October 2022
 
