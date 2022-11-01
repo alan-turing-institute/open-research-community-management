@@ -27,7 +27,7 @@
 ### To review with MS
 - Will be starting annual review in the comming week (appraisal, annual review)
 - Introducing a PM and task tracking system for my everyday/long term work.: https://github.com/orgs/alan-turing-institute/projects/27/views/1
-- Finishing up newsletter draft today. Would you like to review: https://hackmd.io/YEu81jOKRwim7cWFgIJELA
+- Finishing up newsletter draft this afternoon. Have a couple of things to field from various teams in TTW: https://hackmd.io/YEu81jOKRwim7cWFgIJELA
 - Send budget document for RedBubble. Incoming for greeting cards.
 - Book Dash planning: reaching out to Mars, Liz, Andrea about accessibility social hour talk. Confirm times that this would be possible: Thursday, 14-15:30 hours?  https://pad.sfconservancy.org/p/ttw-bookdash-nov2022-day3
 - Fireside Chat: sending review survey to attendees for Nov and Oct fireside.  
