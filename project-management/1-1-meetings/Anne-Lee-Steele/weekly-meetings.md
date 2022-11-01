@@ -1,5 +1,6 @@
 ## ALS + MS check-ins
 
+* [2022-11-02](#2022-11-02)
 * [2022-10-26](#2022-10-26)
 * [2022-10-11](#2022-10-11)
 * [2022-10-04](#2022-10-04)
@@ -20,6 +21,31 @@
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
 * [2022-08-23](#2022-08-23)
+
+# 2022-11-02
+
+### To review with MS
+- Will be starting annual review in the comming week (appraisal, annual review)
+- Introducing a PM and task tracking system for my everyday/long term work.: https://github.com/orgs/alan-turing-institute/projects/27/views/1
+- Finishing up newsletter draft today. Would you like to review: https://hackmd.io/YEu81jOKRwim7cWFgIJELA
+- Send budget document for RedBubble. Incoming for greeting cards.
+- Book Dash planning: reaching out to Mars, Liz, Andrea about accessibility social hour talk. Confirm times that this would be possible: Thursday, 14-15:30 hours?  https://pad.sfconservancy.org/p/ttw-bookdash-nov2022-day3
+- Fireside Chat: sending review survey to attendees for Nov and Oct fireside.  
+- Setting up project board for reviewing fireside video transcripts: can offer redbubble
+
+### Ongoing tasks
+- - TPS Coffee Chats: booking speakers
+  - JD+Hugging Face team: first group
+  - Danny: second slow
+
+### Proposal updates
+  - RDA Alliance Plenary 2023 - due 31 Oct - did not submit.
+  - FOSS Backstage - 6 Nov
+  - FOSDEM 2023 - due 15 Nov
+  - csv,CONF 2023 - due 25 Nov
+
+### Event Updates
+- RIOT Science - following up with BA this week
 
 # 2022-10-26
 ### Questions for MS
@@ -43,7 +69,7 @@
 - TPS Coffee Chats: booking speakers
   - JD+Hugging Face team: first group
 - Newsletter: draft tomorrow morning, to send by Friday morning?
-- TPS + Public Policy team project (Practioner Hub project) - Research Ethics handbook, Turing Commons, TTW
+- TPS + Public Policy team project (Practioner Hub project) - MS: Research Ethics handbook, Turing Commons, TTW
 - TTW upcoming postdoc role
   - PM for TTW: content & reporting, newsletter, eventbrite, operational focus, etc.
   - Postdoc for TTW: strategic work, partnership management, domain-specific organisation, impact in context, case studies, coordination + research oriented
