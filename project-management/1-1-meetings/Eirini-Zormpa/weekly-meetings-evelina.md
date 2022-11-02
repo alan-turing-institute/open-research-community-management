@@ -8,6 +8,48 @@
 * [29 July 2022](#date-29-July-2022)
 * [5 October 2022](#date-5-October-2022)
 * [12 October 2022](#date-12-October-2022)
+* [2 November 2022](#date-2-November-2022)
+
+
+## Date: 2 November 2022
+
+### Check-in ritual
+Massive respect to all the attendees in yesterday's R workshop who, somehow, did not make typos???? 🤯
+
+### Project specific Reflection
+Last week was pretty busy: I did a lot of work 1) restructuring repos to share more information with AIM members and doing so in a GDPR-compliant way and 2) getting ready for the R workshops, which at least for yesterday seems to have paid out ✨
+
+### Notes to discuss during 1:1
+- It'd be nice to clarify my line management after January
+
+#### Who did you help this week?
+- I'm doing some of the GDPR research that'll be helpful for the RSF and CMs in general
+- I've been making sure not to overload SB who's still recovering
+
+#### Who helped you this week?
+- EM was a great helper yesteday.
+
+#### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+* It's ok if your list is only one bullet point long!
+
+#### What did you struggle with?
+- I'm doing okay at the moment, though I'm a bit rushed.
+- The survey analysis has fallen through the cracks
+
+#### What would you like to work on next week?
+- ECR lunchtime session
+- Share resources from yesterday's session with attendees
+- Office hours for R
+- Prep for next workshop
+- Do some documentattion on running events
+- Slack prep
+
+#### Where do you need help?
+- There's a lot of things I'm planning on doing and I know how to do at least most of them, but I don't think I have time to. Some help with prioritising things would be helpful.
+
+#### Any other topics
 
 
 ## 12 October 2022
