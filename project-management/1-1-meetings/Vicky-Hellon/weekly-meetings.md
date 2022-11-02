@@ -69,7 +69,8 @@ Good to have a bit more calmness for now but think it will be interesting to see
 * None at the mo- will fill you in on how strategic day went next week!
 
 #### Any other topics
-N/A
+* EK - we need to discuss slack enterprise next week and how it has gone with Turing-RSS workspace.
+ * TMF project - can you please suggest some contacts that would be good to come the health summitt.  
 
 ## Date 26 October 2022
 
