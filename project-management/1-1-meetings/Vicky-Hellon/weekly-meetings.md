@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [09 November 2022](#date-09-november-2022)
 * [02 November 2022](#date-02-november-2022)
 * [26 October 2022](#date-26-october-2022)
 * [19 October 2022](#date-19-october-2022)
@@ -32,6 +33,49 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+
+## Date 09 November 2022
+
+### Check-in ritual
+Feel like I'm in a battle this week not to switch on the heating! But doing good :) And was nice to see Roche last week! 
+
+### Project specific Reflection
+Tying up loose ends before holidays and planning for end of year activities!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* RC with Enrichment submission
+* Team with email text for expert panel
+
+#### Who helped you this week?
+* MOG did a great job running the strategy meeting 
+* LL with versus video
+
+#### What did you achieve?
+* Had strategy meeting- some good brainstorming on long term goals, legacy
+* Had a meeting with UKRN- joined TPS team- sounds like we will be strengthening connections!
+* Had training on filling in Equality Impact Assessments (EIA)- will have to do a few of these!
+* Did some TTW reviewing- think next steps will be decided 
+* Versus video is almost up! 
+* Ran knowledge share event 
+
+#### What did you struggle with?
+* Not many responses on my workshop feedback survey (as expected!)- will chase
+* Expert panel discussions but reached a conclusion!
+* No reply from events and comms on certain bits but will chase up 
+* Still waiting on ambassador scheme- considering other options
+
+#### What would you like to work on next week?
+* Publish and promote versus video
+* Upload knowledge share video and do follow up
+
+#### Where do you need help?
+* Just be on standby for any cover for holiday- but AS should be sorted
+
+#### Any other topics
+N/A
+
 
 ## Date 02 November 2022
 
