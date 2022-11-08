@@ -33,6 +33,8 @@ Really grateful for the team this week and being able to identify the most urgen
 * PPIE
 	* Haven't been able to connect with LC for a few weeks, but have outlined some milestone pieces of work that we can work towards. 
 * Focus Groups
+	- Glossaries, explainers about AI in health care, authorship.
+		- 4th point on the criteria for authorship. 
 	* Interesting reflections from the facilitation of focus groups. There is space for resources and workshops for researchers to further develop out the practice of effective focus groups. 
 
 ### Notes to discuss during 1:1
