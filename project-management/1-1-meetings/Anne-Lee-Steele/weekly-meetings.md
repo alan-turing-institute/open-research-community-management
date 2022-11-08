@@ -23,26 +23,74 @@
 * [2022-08-23](#2022-08-23)
 
 # 2022-11-02
+- Urgent updates from Monday/Tuesday?
+- Confirming Book Dash details (see below)
+- Newsletter
+  - Adding to Tinyletter
+  - Tiny edits re: RPM job description
+  - Adding zenodo links
+- Talks
+  - BA - RiotScience
+  - DG - FOSS Backstage
+
+### Ongoing tasks
+- Full updates here: https://github.com/orgs/alan-turing-institute/projects/27/views/1
+- Book Dash
+  - Accessibility chat: confirming this week: Thursday
+  - Creating channel for github workshop with MS
+  - Creating accessibility talk/workhop channel
+  - Following up with Asia/Aus hub
+    - Email + slack reminder
+  - Booking room for London hub
+  - Supporting development of Community Share-outs
+  - Confirm: Zine workshop no longer happening?
+  - Organising store with Redbubble vouchers.
+- Working Groups
+  - Ask groups for time for documentation
+  - Scheduling kick-off for Maintainers WG (with agenda)
+- OLS: checking in
+- Ordering cards: sending AB + MLS info for ordering cards
+- Fireside chat: following up with participants + co-organisers
+  - Address collection
+  - Retrospective release forms
+  - Ordering + sending cards
+
+### Proposal Updates
+- FOSS Backstage - 13 Nov - deadline extended
+- FOSDEM 2023 - due 15 Nov - submission in progress
+- csv,CONF 2023 - due 25 Nov - submission in progress
+
+# 2022-11-02
 
 ### To review with MS
-- Will be starting annual review in the comming week (appraisal, annual review)
+- Will be starting annual review in the comming weeks (appraisal, annual review)
 - Introducing a PM and task tracking system for my everyday/long term work.: https://github.com/orgs/alan-turing-institute/projects/27/views/1
 - Finishing up newsletter draft this afternoon. Have a couple of things to field from various teams in TTW: https://hackmd.io/YEu81jOKRwim7cWFgIJELA
+  - MS: Collaboration cafe will review.
+  - MS: Keep color photos. Will use second photo.
+  - MS: Create a one pager summary of fireside chats. Postal address form address for people. Secure way to accept address with GDPR.
 - Send budget document for RedBubble. Incoming for greeting cards.
+  - MS: Will be sending feedback.
 - Book Dash planning: reaching out to Mars, Liz, Andrea about accessibility social hour talk. Confirm times that this would be possible: Thursday, 14-15:30 hours?  https://pad.sfconservancy.org/p/ttw-bookdash-nov2022-day3
 - Fireside Chat: sending review survey to attendees for Nov and Oct fireside.  
 - Setting up project board for reviewing fireside video transcripts: can offer redbubble
+- CoC training for CoC: Sending a response. Make sure to be prompt in response under 24/7 hours. Will let people know about it.
+- Data Conversations: MS will respond to Alisha
+-
 
 ### Ongoing tasks
-- - TPS Coffee Chats: booking speakers
+- TPS Coffee Chats: booking speakers
   - JD+Hugging Face team: first group
-  - Danny: second slow
+  - Danny: second talk
+    - MS: Timing might not be good.
 
 ### Proposal updates
-  - RDA Alliance Plenary 2023 - due 31 Oct - did not submit.
-  - FOSS Backstage - 6 Nov
+  - RDA Alliance Plenary 2023 - due 31 Oct - did not submit. MS: was invited to attend. It should be all right.
+  - FOSS Backstage - 6 Nov - submission in progress. Adding submission for Danny there.
   - FOSDEM 2023 - due 15 Nov
   - csv,CONF 2023 - due 25 Nov
+  - MozFest - open
+  - RightsCon - open
 
 ### Event Updates
 - RIOT Science - following up with BA this week
