@@ -18,8 +18,70 @@
 * [4 October 2022](#date-4-October-2022)
 * [11 October 2022](#date-10-October-2022)
 * [18 October 2022](#date-10-October-2022)
+* [8 Novemner 2022](#date-8-November-2022)
 
 
+## Date: 8 November 2022
+
+### Check-in ritual
+Really grateful for the team this week and being able to identify the most urgent pieces of work and push back anything else. 
+
+### Project specific Reflection
+
+* Community Building 
+	* Have calls connecting with 2 other communities this week and the CoP meeting in person in 2 weeks. EZ is leading on launching Slack this week so we should have a core platform sorted soon. I'm also meeting with IT today to sort out the Teams group and calendar. 
+* PPIE
+	* Haven't been able to connect with LC for a few weeks, but have outlined some milestone pieces of work that we can work towards. 
+* Focus Groups
+	* Interesting reflections from the facilitation of focus groups. There is space for resources and workshops for researchers to further develop out the practice of effective focus groups. 
+
+### Notes to discuss during 1:1
+
+* Planning next steps and BGT hand over. 
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* MELD-b with focus groups 
+* AS with feedback and discussions about TTW working groups 
+
+#### Who helped you this week?
+
+* EZ with leading ECR lunch 
+
+#### What did you achieve?
+
+* ✅ Onboarding pack for BGT
+* ✅ Probation review 
+* ✅ Co-facilitated 2 focus groups 
+* ✅ Developed visual assets for a consortia
+* ✅ Discussed next steps with Scriberia 
+* ✅ Followed up with IT 
+* ✅ Developed personal user manual for BGT
+
+#### What did you struggle with?
+
+* Feeling quite unwell. Reallu struggling with brain fog and fatigue. 
+
+#### What would you like to work on next week?
+
+* Getting Slack and Teams up and running for the consortia 
+* Moving forward with Scriberia 
+* Bookdash workshop
+* Updating the Glossary of Terms 
+* Wireframing the GitHub pages site
+* Hashtag analysis for comms plan 
+
+#### Where do you need help?
+
+* Open dialogue about work load management. Am trying to establish a baseline and figure out what works. 
+* If I can drop workshops or events until I am able to cope with the time commitment. 
+
+#### Any other topics
+
+* Any insight into management structures going forward would be super helpful!
+* Chat about reporting assessments (i.e. what we're measured on) vs. what we want to be measured on. 
 
 ## Date: 18 October 2022
 
