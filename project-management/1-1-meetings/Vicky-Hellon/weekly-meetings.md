@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [02 November 2022](#date-02-november-2022)
 * [26 October 2022](#date-26-october-2022)
 * [19 October 2022](#date-19-october-2022)
 * [12 October 2022](#date-12-october-2022)
@@ -31,6 +32,46 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+
+## Date 02 November 2022
+
+### Check-in ritual
+Feeling good- not too much to report this week!
+
+### Project specific Reflection
+Good to have a bit more calmness for now but think it will be interesting to see what comes out of the strategic meeting and how this will change my workload/community plans!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Helped with a few funding call queries
+* Onboarded CB to partnership
+
+#### Who helped you this week?
+* MOG has been helpful with Roche's perspective on the agenda, will be finalising today hopefully 
+
+#### What did you achieve?
+* Put together and sent out workshop survey to participants
+* Ran prep meeting with speakers for next week's Knowledge Share 
+* Put together newsletter- will be going out on Friday
+* Ran second funding call co-working session
+* Caught up with Roche comms
+
+#### What did you struggle with?
+* Know I need to dive back into reviewing the ambassador scheme but hard to get motivated!
+
+#### What would you like to work on next week?
+* Started prepping for December's Knowledge Share so I'm organised with upcoming Nov annual leave- have Roche speaker confirmed, just need to recruit Turing one
+* Review ambassador docs
+* Run Knowledge Share and do follow up from it e.g uploading video
+
+#### Where do you need help?
+* None at the mo- will fill you in on how strategic day went next week!
+
+#### Any other topics
+* EK - we need to discuss slack enterprise next week and how it has gone with Turing-RSS workspace.
+ * TMF project - can you please suggest some contacts that would be good to come the health summitt.  
+
 ## Date 26 October 2022
 
 ### Check-in ritual
