@@ -56,9 +56,10 @@ Tying up loose ends before holidays and planning for end of year activities!
 * Had strategy meeting- some good brainstorming on long term goals, legacy
 * Had a meeting with UKRN- joined TPS team- sounds like we will be strengthening connections!
 * Had training on filling in Equality Impact Assessments (EIA)- will have to do a few of these!
-* Did some TTW reviewing- think next steps will be decided 
+* Did some TTW reviewing- think next steps will be decided at the bookdash
 * Versus video is almost up! 
 * Ran knowledge share event 
+ - EK - I'm excited to see the video. 
 
 #### What did you struggle with?
 * Not many responses on my workshop feedback survey (as expected!)- will chase
@@ -72,6 +73,7 @@ Tying up loose ends before holidays and planning for end of year activities!
 
 #### Where do you need help?
 * Just be on standby for any cover for holiday- but AS should be sorted
+- EK yes - this is fine, just email me with what you need covered.
 
 #### Any other topics
 N/A
