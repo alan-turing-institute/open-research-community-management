@@ -8,6 +8,7 @@
 * [29 July 2022](#date-29-July-2022)
 * [5 October 2022](#date-5-October-2022)
 * [12 October 2022](#date-12-October-2022)
+* [19 October 2022](#date-19-October-2022)
 * [2 November 2022](#date-2-November-2022)
 
 
@@ -52,7 +53,54 @@ Last week was pretty busy: I did a lot of work 1) restructuring repos to share m
 #### Any other topics
 
 
-## 12 October 2022
+## Date: 19 October 2022
+
+### Project specific Reflection
+
+- Things have been alright - I've been working on the GitHub workshop for yesterday afternoon mostly. It honestly didn't go as well as I would have liked, but at least we can learn from the things that went wrong.
+- Being in the office on Thursday and Friday last week stole a lot of the focus time I had reserved 😢
+- I started having weekly meetings with SB and DC on Monday which is nice!
+
+### Notes to discuss during 1:1
+
+- Lessons learned from yesterday's GitHub workshop: we mostly had issues with write access in the repos: the general AIM consortia team didn't give write access to any of the repo + external folk that we couldn't add as members in the organisation had to work with forks.
+- People are being interviewed for RSF positions :tada:
+
+#### Who did you help this week?
+
+Uhm not sure, my memory is terrible 🙈
+
+#### Who helped you this week?
+
+- CO has been fantastic with finding people to step in for the Collab Cafe this Thursday
+- RS was a huge help in the workshop yesterday
+
+#### What did you achieve?
+
+- Did lots of prep work on the GitHub workshop
+- Delivered the GitHub workshop. Despite the difficulties we did get people to make a commit and submit pull requests! We have 6 merged already, 3 approved and 1 that still needs to be edited. So all in all just over half of the attendees? I'll email the slides to everyone and remind them they can come get help at the Collab Cafe tomorrow.
+- Linked up with the MRC (!) Statistics CoP on MLTC who in turn introduced me to the NIHR Statistics CoP 🤷‍♀️
+
+#### What did you struggle with?
+
+- I have not made any progress on the survey. I was in the office at the time I was planning on working on it and it's not great for focused work.
+- Permissions on GitHub were a pain at the workshop yesterday but at least now we know and can improve the delivery for next time
+
+#### What would you like to work on next week?
+
+- Survey (3rd time lucky? 🤞)
+- Collab Cafe
+- Do some documentation writing on running events
+
+#### Where do you need help?
+
+- I keep waiting to fix the survey a bit more before I share it, but I guess I might just give up and share it right after I commit this.
+
+#### Any other topics
+
+- I've joined a Code Club to get a bit better on my R skills (it's about writing functions, creating packages etc)
+
+## Date: 12 October 2022
 
 ### Check-in ritual
 I asked three people from the AIM consortia to help out with the R sessions and they all said yes 🥰

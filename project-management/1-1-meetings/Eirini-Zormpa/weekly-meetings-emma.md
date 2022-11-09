@@ -15,7 +15,68 @@
 * [18 October 2022](#date-18-October-2022)
 * [26 October 2022](#date-26-October-2022)
 * [1 November 2022](#date-1-November-2022)
+* [8 November 2022](#date-8-November-2022)
 
+
+## Date: 8 November 2022
+
+**Check-in ritual**
+Last week's R workshops attendees somehow made no typos??
+
+### Project specific Reflection
+
+Things are really intense at the moment but I'm holding it together.
+I've been doing a lot of socialising with the community members this week which has been fantastic 💗
+- the R workshop went really well and I got some really nice feedback,
+- I've been prioritising meeting new hires in one-to-one chats which has been lovely
+- the ECR lunchtime session didn't have a massive turnout but we had a really nice chat and someone even fed back that they immediately had a use case for HackMD 🙀
+- I had a PI show up to the office hours which was really nice (he's part of the CoP for stats I'm building connections with)
+- I met up with another person from the CoP from MRC and she was absolutely lovely and has tons of relevant expertise
+   - EK - this sounds like great community building work! :raised_hands: 
+
+
+### Notes to discuss during 1:1
+
+I will have just had a meeting with the acting DPO so I'll probably want to catch you up on that.
+Points from the discussion:
+- can you get rid of someone data - look at chapter in TTW sensitive data chapters.
+- Can a search be done on GitHub for someones information - what about private repositories? how are they accessed by a search or someone that does not have access to them?
+- international data transfer
+
+#### Who did you help this week?
+
+I'm spending literally the entire day tomorrow travelling to and from Manchester for a panel I'm doing for the Skills team.
+   - EK - thanks for doing this. 
+
+#### Who helped you this week?
+
+SB is taking on meeting with our OLS6 mentor tomorrow while I'm in Manchester
+
+#### What did you achieve?
+
+the notes from above +
+- prepping for and delivering the R sessions and the ECR lunchtime sessions
+- doing some more work on Slack channels
+- participated in the panel for mental health yesterday
+
+#### What did you struggle with?
+
+- Time, obviously, but I know I'm doing too much right now.
+
+#### What would you like to work on next week?
+
+- More R workshops
+- Actually launch Slack and the info sharing on GitHub
+- Focus and do some writing on the report from the survey for the NIHR
+
+#### Where do you need help?
+
+- Have you ever set up a Slack bot?
+
+#### Any other topics
+
+- I have some questions about flexible working I'd like your input on
+- EK - working abroad - https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2304&SearchId=116655&utm_source=interact&utm_medium=quick_search&utm_term=working+ab
 
 ## Date: 1 November 2022
 
