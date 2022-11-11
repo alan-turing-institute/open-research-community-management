@@ -10,6 +10,60 @@
 * [12 October 2022](#date-12-October-2022)
 * [19 October 2022](#date-19-October-2022)
 * [2 November 2022](#date-2-November-2022)
+* [11 November 2022](#date-11-November-2022)
+
+
+
+## Date: 11 November 2022
+
+### Check-in ritual
+I've been having lots of lovely conversations with people within AIM and from the CoPs.
+
+### Project specific Reflection
+
+It's been a really busy couple of weeks: that's great on the one hand because I feel like I've gotten a lot done, but it's also starting to wear me out a little.
+
+### Notes to discuss during 1:1
+
+- How did the meeting with the PIs go?
+- Slack strategy
+
+#### Who did you help this week?
+
+- The Skills team by participating in the Careers panel for the CDT Connections conference.
+
+#### Who helped you this week?
+
+- AR is helping me with brainstorming about R.
+
+#### What did you achieve?
+
+- SSI Mental health panel + Careers panel
+- Prepping for and teaching the R workshops + office hours + making resources available after the workshop
+- Figuring out GDPR limitations
+- Setting up Slack channels/workflows
+- Building relationships with CoPs
+- One-to-ones with community members
+
+#### What did you struggle with?
+
+- I've been a bit rushed for time and unable to prep for things as well as I would have liked: e.g. adapting the Data Carpentry lesson for COVID-19 data and coming up with exercises.
+
+#### What would you like to work on next week?
+
+- More R workshops 💙
+- Collab Cafe next week
+- Follow up with people from meetings in the last couple of weeks
+- Follow up on GDPR things
+- Launch Slack on Monday
+- Survey
+- Book Dash?
+
+#### Where do you need help?
+
+- Realistically, the R workshop will take most of my time, so some help with the survey write-up would be very helpful!
+
+#### Any other topics
 
 
 ## Date: 2 November 2022
