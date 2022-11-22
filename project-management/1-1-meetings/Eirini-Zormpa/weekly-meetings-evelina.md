@@ -11,7 +11,7 @@
 * [19 October 2022](#date-19-October-2022)
 * [2 November 2022](#date-2-November-2022)
 * [11 November 2022](#date-11-November-2022)
-
+* [18 November 2022](#date-18-November-2022)
 
 
 ## Date: 11 November 2022
@@ -65,6 +65,50 @@ It's been a really busy couple of weeks: that's great on the one hand because I 
 
 #### Any other topics
 
+
+## Date: 18 November 2022
+
+### Check-in ritual
+
+### Project specific Reflection
+
+It's been a pretty good week - people do seem to be getting on to Slack which is nice and the R workshops are going well.
+We made some progress with branding.
+The people directory on GH has hit a bump on the road though.
+
+### Notes to discuss during 1:1
+
+- How to move forward with GitHub?
+
+#### Who did you help this week?
+
+- I didn't help much but I reassured one of the community members that they were asking a questtion that seemed straightforward but didn't have an easy answer (about adding coloured text boxes in a GH README)
+
+#### Who helped you this week?
+
+- RH helped out with the R workshop and SB helped me with setting up the all-contributors bot for the training repo.
+
+#### What did you achieve?
+
+- Launched Slack
+- Taught the R workshop
+- Led the Collaboration Cafe
+- Participated in the Book Dash (working on archives)
+
+#### What did you struggle with?
+
+* GitHub & GDPR
+
+#### What would you like to work on next week?
+
+- the next R workshop
+- getting engagement on Slack going
+
+#### Where do you need help?
+
+- GitHub and Slack?
+
+#### Any other topics
 
 ## Date: 2 November 2022
 
