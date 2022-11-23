@@ -12,7 +12,98 @@
 * [2 November 2022](#date-2-November-2022)
 * [11 November 2022](#date-11-November-2022)
 * [18 November 2022](#date-18-November-2022)
+* [23 November 2022](#date-23-November-2022)
 
+
+## Date: 23 November 2022
+
+### Check-in ritual
+I finally reached to PG who offered to help out with AIM training in the survey ✨
+
+### Project specific Reflection
+Not much has changed since Friday 😅 The data viz workshop went well and I got some really lovely feedback from two attendees at the beginning of the session 🥰
+
+### Notes to discuss during 1:1
+
+- Planning ECR events and Collab Cafes in 2023.
+- SB helped me set up an all-contributors bot for the training workshop. The idea is to acknowledge learners, helpers and instuctors that participate in the workshops. Do you have a preference on creating custom roles for these are trying to repurpose existing ones ([emoji-key](https://allcontributors.org/docs/en/emoji-key)?
+
+#### Who did you help this week?
+I'm not sure 🙈
+
+#### Who helped you this week?
+
+RK and EM helped out with the data viz workshop :blush:
+
+#### What did you achieve?
+
+- I prepped for the data viz workshop and delivered it.
+- I reached out to DynAIRx and it turns out they do have new hires! I'm waiting on a list from their project manager and I'll try to set up meetings with them. I'm also trying to set up a meeting with their new project manager as I haven't met them yet.
+
+#### What did you struggle with?
+
+- Prep for the data viz was kind of difficult this time - the visualisations were somehow not working as I was expecting them to. I mostly figured things out but there was a thing that should have worked that in the live demo didn't and that was quite annoying.
+- I'm conscious that I still haven't written up the survey outcomes 😬
+
+#### What would you like to work on next week?
+
+- Upload the materials from the workshop
+- Prep for the workshop in December
+- Make a list of the things I need to do once I'm back
+- See if I can make any progress on the survey
+- Plan events in 2023 (I also have a meeting with DC and SB about this)
+
+#### Where do you need help?
+
+- The R workshops have taken up most of my attention recently - is there something I have been neglecting?
+
+#### Any other topics
+
+
+
+## Date: 18 November 2022
+
+### Check-in ritual
+
+### Project specific Reflection
+
+It's been a pretty good week - people do seem to be getting on to Slack which is nice and the R workshops are going well.
+We made some progress with branding.
+The people directory on GH has hit a bump on the road though.
+
+### Notes to discuss during 1:1
+
+- How to move forward with GitHub?
+
+#### Who did you help this week?
+
+- I didn't help much but I reassured one of the community members that they were asking a questtion that seemed straightforward but didn't have an easy answer (about adding coloured text boxes in a GH README)
+
+#### Who helped you this week?
+
+- RH helped out with the R workshop and SB helped me with setting up the all-contributors bot for the training repo.
+
+#### What did you achieve?
+
+- Launched Slack
+- Taught the R workshop
+- Led the Collaboration Cafe
+- Participated in the Book Dash (working on archives)
+
+#### What did you struggle with?
+
+* GitHub & GDPR
+
+#### What would you like to work on next week?
+
+- the next R workshop
+- getting engagement on Slack going
+
+#### Where do you need help?
+
+- GitHub and Slack?
+
+#### Any other topics
 
 ## Date: 11 November 2022
 
@@ -66,49 +157,7 @@ It's been a really busy couple of weeks: that's great on the one hand because I 
 #### Any other topics
 
 
-## Date: 18 November 2022
 
-### Check-in ritual
-
-### Project specific Reflection
-
-It's been a pretty good week - people do seem to be getting on to Slack which is nice and the R workshops are going well.
-We made some progress with branding.
-The people directory on GH has hit a bump on the road though.
-
-### Notes to discuss during 1:1
-
-- How to move forward with GitHub?
-
-#### Who did you help this week?
-
-- I didn't help much but I reassured one of the community members that they were asking a questtion that seemed straightforward but didn't have an easy answer (about adding coloured text boxes in a GH README)
-
-#### Who helped you this week?
-
-- RH helped out with the R workshop and SB helped me with setting up the all-contributors bot for the training repo.
-
-#### What did you achieve?
-
-- Launched Slack
-- Taught the R workshop
-- Led the Collaboration Cafe
-- Participated in the Book Dash (working on archives)
-
-#### What did you struggle with?
-
-* GitHub & GDPR
-
-#### What would you like to work on next week?
-
-- the next R workshop
-- getting engagement on Slack going
-
-#### Where do you need help?
-
-- GitHub and Slack?
-
-#### Any other topics
 
 ## Date: 2 November 2022
 
