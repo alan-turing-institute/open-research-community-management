@@ -77,6 +77,8 @@
 
 - End of the year, just am super tired (and your advice 2 weeks ago about no new projects was 100% correct and is saving me now!) 
 
+- FAIR cookbook contributing guidelines - https://faircookbook.elixir-europe.org/content/recipes/help/how-to-create-recipe-with-gdoc.html
+
 ## Date: 8 November 2022
 
 ### Check-in ritual
