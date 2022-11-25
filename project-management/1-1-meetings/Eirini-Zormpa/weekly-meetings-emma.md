@@ -16,6 +16,50 @@
 * [26 October 2022](#date-26-October-2022)
 * [1 November 2022](#date-1-November-2022)
 * [8 November 2022](#date-8-November-2022)
+* [25 November 2022](#date-25-November-2022)
+
+
+## Date: 25 November 2022
+
+**Check-in ritual**
+I got some lovely feedback about the R workshops on Tuesday ✨
+
+### Project specific Reflection
+
+- The R sessions are going well - one left now
+- Slack is also going fine, though it is still fairly quiet
+- From previous weeks: we've made some progress with comms!
+- The GDPR question has stalled :(
+
+### Notes to discuss during 1:1
+
+- Slack and GDPR
+
+#### Who did you help this week?
+
+- I'm helping a bunch of people learn R? 💁‍♀️
+
+#### Who helped you this week?
+
+- RK and EM were great with helping at the data viz workshop :blush:
+
+#### What did you achieve?
+
+- R workshop
+- probation meeting
+
+#### What did you struggle with?
+
+- I've been working long hours the last couple of weeks and it's caught up with me
+
+#### What would you like to work on next week?
+
+- nothing! (On annual leave)
+
+#### Where do you need help?
+
+
+#### Any other topics
 
 
 ## Date: 8 November 2022
