@@ -18,8 +18,64 @@
 * [4 October 2022](#date-4-October-2022)
 * [11 October 2022](#date-10-October-2022)
 * [18 October 2022](#date-10-October-2022)
-* [8 Novemner 2022](#date-8-November-2022)
+* [8 November 2022](#date-8-November-2022)
+* [25 November 2022](#date-25-November-2022)
 
+
+
+## Date: 25 November 2022
+
+### Check-in ritual
+
+
+### Project specific Reflection
+
+* EZ has been doing amazing work with getting Slack up and running 🚀 so thrilled that it's starting to get people connected. 
+* PPIE meeting was awesome and we've identified clear plans for what we all want to work on - the difficult part now is staying connected in order to move things forward. 
+
+### Notes to discuss during 1:1
+
+* End of the year, almost there! 
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* OPTIMAL with scoping PPIE focus groups 
+* DECODE with help planning an in person PPIE event they are looking to run 
+* Helped EZ set up an all-contributors bot 
+* connecting the OPTIMAL PhD student with the DSxHE folk 
+* SSI selection day 
+
+#### Who helped you this week?
+
+*  EZ with so much awesome work on building momentum on Slack! 
+
+#### What did you achieve?
+
+* Updated the Glossary of Terms site based on feedback. 
+* Bookdash workshop 
+* Hashtag analysis for comms plan and developed a slide deck to support the decision conversations.  
+* Chaired the comms and events meeting
+* Went through Eventsforce training with KW
+* Events planning meeting with DC + EZ for next year 
+
+#### What did you struggle with?
+
+* Have been bouncing between tasks as I haven't been able to find deep work time enough to get something completely finished. 
+
+#### What would you like to work on next week?
+
+* Finsish Design Brief and get to AB -> Scriberia
+* Finish moving GitHub pages site across to the new framework and with the templates set up
+
+#### Where do you need help?
+
+* I'm doing okay, next week is very meeting heavy so I'm trying to block off time to get work done in between those. 
+
+#### Any other topics
+
+- End of the year, just am super tired (and your advice 2 weeks ago about no new projects was 100% correct and is saving me now!) 
 
 ## Date: 8 November 2022
 
