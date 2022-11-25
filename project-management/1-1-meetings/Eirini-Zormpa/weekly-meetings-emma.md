@@ -34,6 +34,7 @@ I got some lovely feedback about the R workshops on Tuesday ✨
 ### Notes to discuss during 1:1
 
 - Slack and GDPR
+- EK - great work with slack, please send the GDPR email response to MO.
 
 #### Who did you help this week?
 
