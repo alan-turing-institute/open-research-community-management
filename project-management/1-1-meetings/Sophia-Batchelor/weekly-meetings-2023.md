@@ -62,3 +62,4 @@ It's a high meeting week at the moment as folks are pushing to get work complete
 #### Any other topics
 
 * I want to scope out the paper contributions so that I don't dive in and spend time doing work that is not helpful. 
+* [AIM RSF People doc](https://github.com/alan-turing-institute/nihr-aim-rsf/blob/main/PEOPLE.md) for understanding the acronyms, Whitaker Lab slack for others. 
