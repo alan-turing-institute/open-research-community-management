@@ -36,13 +36,13 @@ It's a high meeting week at the moment as folks are pushing to get work complete
 
 #### What did you achieve?
 
-* Finished Design Brief and emailed AB
-* Met with RS about Hugo frameworks and found one that will meet our criteria 
-* DEI Training
-* Chaired RSF Seminar 
-* RSF Ops Meeting
-* Finished setting up RSF M365 group 
-* Presented at SSI Fellows Update
+* ✅ Finished Design Brief and emailed AB
+* ✅ Met with RS about Hugo frameworks and found one that will meet our criteria 
+* ✅ DEI Training
+* ✅ Chaired RSF Seminar 
+* ✅ RSF Ops Meeting
+* ✅ Finished setting up RSF M365 group 
+* ✅ Presented at SSI Fellows Update
 
 
 #### What did you struggle with?
