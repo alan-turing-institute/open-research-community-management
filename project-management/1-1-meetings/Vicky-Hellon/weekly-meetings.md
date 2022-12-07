@@ -47,6 +47,7 @@ Just catching-up and making sure loose ends are tied up to set me up for a good 
 #### Who did you help this week?
 * EZ with advice about slack bots/welcome messages
 * AB- onboarded into partnership
+ * EK - thanks for helping with slack. :raised_hands:
 
 #### Who helped you this week?
 * RC with joining comms chat last minute
@@ -73,7 +74,9 @@ Just catching-up and making sure loose ends are tied up to set me up for a good 
 
 #### Where do you need help?
 * How do I move Slack over- where is the request form? SB said EZ sent everyone a magic link for login but not sure how to do this so need to investigate... but want to take advantage of new year logging in!
+ * EK - contact IT services to arrange this.  
 * AI UK- keen for a partnership talk if possible in the health schedule
+ * EK - yes that would be good but it needs to be something that will spark excitement - new research. Lightning talk (10 mins).  
 
 #### Any other topics
 * For your chat with academic engagement- would like to pass on some feedback about working with the postdocs- keen to do this. 
