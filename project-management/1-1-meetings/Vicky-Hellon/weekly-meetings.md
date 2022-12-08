@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [07 December 2022](#date-09-november-2022)
 * [09 November 2022](#date-09-november-2022)
 * [02 November 2022](#date-02-november-2022)
 * [26 October 2022](#date-26-october-2022)
@@ -33,6 +34,52 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 07 December 2022
+
+### Check-in ritual
+Starting to get back into the swing of things after holidays!
+
+### Project specific Reflection
+Just catching-up and making sure loose ends are tied up to set me up for a good January!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* EZ with advice about slack bots/welcome messages
+* AB- onboarded into partnership
+ * EK - thanks for helping with slack. :raised_hands:
+
+#### Who helped you this week?
+* RC with joining comms chat last minute
+* AS as always, keeping things ticking along and covering!
+
+#### What did you achieve?
+* Published 'versus' video and promoted
+* Onboarded new funded project postdoc- AB
+* Planned Knowledge Share events with YZ for next year
+* Prepped December Knowledge Share 
+* Tracked funding applications to see what came from the workshop
+* Prepped newsletter to send out this week
+* Made slides on community achievements this year for Roche
+* Had end of year joint steering committee meeting
+
+#### What did you struggle with?
+* SM paper comms still a bit unclear
+* Getting website stuff uploaded 
+
+#### What would you like to work on next week?
+* Start planning for next year- how to work with funded projects and integrate community
+* Deliver December's Knowledge Share
+* Catch up on EZ's R workshops
+
+#### Where do you need help?
+* How do I move Slack over- where is the request form? SB said EZ sent everyone a magic link for login but not sure how to do this so need to investigate... but want to take advantage of new year logging in!
+ * EK - contact IT services to arrange this.  
+* AI UK- keen for a partnership talk if possible in the health schedule
+ * EK - yes that would be good but it needs to be something that will spark excitement - new research. Lightning talk (10 mins).  
+
+#### Any other topics
+* For your chat with academic engagement- would like to pass on some feedback about working with the postdocs- keen to do this. 
 
 ## Date 09 November 2022
 
