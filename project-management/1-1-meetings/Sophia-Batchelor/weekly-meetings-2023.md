@@ -30,13 +30,14 @@
 #### Who did you help this week?
 
 * Helped DC with markdown formatting of meeting notes. 
-
 * Added PPIE updates to the NIHR report (LC on leave).
-*  
+* Helped tps-community-managers with review tasks 
+* Helped MF with getting M365 set up.
+* TTW 3month updates meeting.
 
 #### Who helped you this week?
 
-Replace this text with a one/two-sentence description of who helped you this week and how.
+* LC with a united front during the PPIE Theory of Change meeting
 
 #### What did you achieve?
 
@@ -77,15 +78,12 @@ Replace this text with a one/two-sentence description of who helped you this wee
 
 #### Where do you need help?
 
-* Replace this text with a bullet point list of what you need help on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* In the new year, helping to find alignment on work remit
+* Plans for MLTC platform
 
 #### Any other topics
 
-- This space is yours to add to as needed.
-- Is there any particular reading/topic/task we want to explore and bring to our next meetings?
-
+* Not this week. 
 
 
 
