@@ -1,5 +1,6 @@
 ## ALS + MS check-ins
 
+* [2022-12-13](#2022-12-13)
 * [2022-11-02](#2022-11-02)
 * [2022-10-26](#2022-10-26)
 * [2022-10-11](#2022-10-11)
@@ -22,6 +23,20 @@
 * [2022-03-25](#2022-03-25)
 * [2022-08-23](#2022-08-23)
 
+# 2022-12-13
+- Ongoing newsletter draft: https://hackmd.io/HnWkW6m6Q3uo-Y92dUc_lg
+- Onboarding materials for core team: https://hackmd.io/pBysnLn2QxKMCHqPKvj9uA?both
+- Mozilla submission
+- RPM role: candidate update
+- Final review day before holidays?
+- Upcoming holiday dates and plans
+- Merch order: delayed to early 2023?
+
+### Ongoing Tasks
+- Sending off newsletter before the end of the year
+- Reminder about addresses
+- Fireside review form: - 460 unique sign-ups: https://docs.google.com/spreadsheets/d/1x7glptRAaXp_nEXfCZ33216k3zbKJ6B-iN749CIHiso/edit#gid=1876797524
+
 # 2022-11-02
 - Urgent updates from Monday/Tuesday?
 - Confirming Book Dash details (see below)
@@ -38,13 +53,26 @@
 - Book Dash
   - Accessibility chat: confirming this week: Thursday
   - Creating channel for github workshop with MS
-  - Creating accessibility talk/workhop channel
+  - Creating accessibility talk channel
+  - London Hub
+    - Booking room in Turing
+    - Buying own food + reimbursement afterwards
   - Following up with Asia/Aus hub
     - Email + slack reminder
-  - Booking room for London hub
+  - Booking room for London hub - Tuesday
   - Supporting development of Community Share-outs
+    - Planning agenda
+    - Send agenda to planning committee
   - Confirm: Zine workshop no longer happening?
   - Organising store with Redbubble vouchers.
+    - MS will respond
+  - Cards - ALS will send card update
+  - Signing up for workshop with OLS -
+  - Onboarding people
+  - MS:
+    - Will update Etherpad
+  - Note for assigning tasks after Book Dash during internal review
+  - Github issue: any tasks that need to get done, will post in planning committee channel - https://github.com/alan-turing-institute/the-turing-way/issues/2623
 - Working Groups
   - Ask groups for time for documentation
   - Scheduling kick-off for Maintainers WG (with agenda)
@@ -76,7 +104,6 @@
 - Setting up project board for reviewing fireside video transcripts: can offer redbubble
 - CoC training for CoC: Sending a response. Make sure to be prompt in response under 24/7 hours. Will let people know about it.
 - Data Conversations: MS will respond to Alisha
--
 
 ### Ongoing tasks
 - TPS Coffee Chats: booking speakers
