@@ -30,6 +30,7 @@
 - RPM role: candidate update
 - Final review day before holidays?
 - Upcoming holiday dates and plans
+- OLS- final mentor/mentee call
 - Merch order: delayed to early 2023?
 
 ### Ongoing Tasks
