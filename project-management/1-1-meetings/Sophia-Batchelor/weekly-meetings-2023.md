@@ -7,7 +7,6 @@
 ## Date: 13 December 2022
 
 ### 📍 Check-in 
-(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
 
 #### Project specific Reflection
 
@@ -23,20 +22,29 @@
 
 #### Focus for this week's 1:1
 * How to frame requests for input when details haven't been set in stone. 
+	* When is the right time to ask for input? Possibly too soon.  
 * What would a resource hub look like that maximizes usability. 
+	* Different people like to find resources in different formats. 
+	* Wikis
+		* Non-prescriptive formatting: can host many different types of information (link of links, long text)  
+		* You can use it without having to learn a specialist skill (ie. not GitHub) 
+	* How do you search for information 
+	* What types of resources will the resource hub contain?  
+	* How collaborative is the content? Will there be a discussion area on each page to discuss the content on that page, or a generalized discussion area? 
 
 ### 📚 Updates
 
 #### Who did you help this week?
 
 * Helped DC with markdown formatting of meeting notes. 
-
 * Added PPIE updates to the NIHR report (LC on leave).
-*  
+* Helped tps-community-managers with review tasks 
+* Helped MF with getting M365 set up.
+* TTW 3month updates meeting.
 
 #### Who helped you this week?
 
-Replace this text with a one/two-sentence description of who helped you this week and how.
+* LC with a united front during the PPIE Theory of Change meeting
 
 #### What did you achieve?
 
@@ -55,6 +63,8 @@ Replace this text with a one/two-sentence description of who helped you this wee
 * ✅ Followd up with NIHR about CoC ⚠️ will chase again on 14th if no response. 
 * ✅ Met to develop the PPIE Theory of Change framework, discussions to continue in the new year. 
 * ✅ Started mapping social communities for AutSPACEs ➡️ to reach out and network in the new year
+	* Spreedsheet format for the information capture is ideal.
+	* To convert to .csv and put on GitHub once it's in a state ready to be handed off.  
 * ✅ Met with SH and scoped out PPIE sessions for new year 
 * ✅ Met with Scriberia artist and provided an updated Design Brief ➡️ ETA  mid Jan 2023
 * 🛑 Eventsforce training (got rescheduled again - will need to watch recording in teh new year as session is scheduled when I'm on leave) 
@@ -67,6 +77,8 @@ Replace this text with a one/two-sentence description of who helped you this wee
 
 #### What would you like to work on next week?
 
+* Prep for tomorrow's events and comms group meeting
+	* Develop checklist for/of decisions that need to be made about the conf  
 * Capture RS's questions and ensure that the documentation processes are clear 
 * Send out PPIE updates email 
 * Finish feedback and data management plan for Optimal's PPIE study 
@@ -77,16 +89,21 @@ Replace this text with a one/two-sentence description of who helped you this wee
 
 #### Where do you need help?
 
-* Replace this text with a bullet point list of what you need help on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* In the new year, helping to find alignment on work remit
+* Plans for MLTC platform
 
 #### Any other topics
 
-- This space is yours to add to as needed.
-- Is there any particular reading/topic/task we want to explore and bring to our next meetings?
-
-
+* Finalize the date for the AutSPACEs January Meet Up.
+* Who has the decision power for the conf?
+* What decisions need to be made re. the conf?
+	* Inclusive/accessibility 
+	* Meaningful engagement for remote participants 
+	* Location, support for those who have caring responsibilities 
+	* Catering 
+	* Branding/Visuals
+* Mailing list for the PPIE Community of Practice (GDPR compliant) 
+	* Will need this list to invite the larger PPIE co-host session. 
 
 
 ## Date: 6 December 2022
