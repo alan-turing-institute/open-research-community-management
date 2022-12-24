@@ -108,12 +108,12 @@ everyone involved.
 If a participant does not abide by the Code of Conduct, we will use the 
 “restorative practices” approach to handle the situation (see [International Institute for Restorative Practices](https://www.iirp.edu/restorative-practices/what-is-restorative-practices)). 
 
-Restorative practices have
-their roots in “restorative justice,” a way of looking at wrongdoing that focuses on 
-repairing the harm done to people and the relationships rather than on punishing offenders or wrongdoers. 
-The term restorative justice was coined in 1970 in the context of social 
-work and justice systems, but the restorative practice has its roots in indigenous practices 
+Restorative practice has its roots in indigenous practices 
 employed in cultures all over the world.
+This is a way of looking at wrongdoing that focuses on 
+repairing the harm done to people and the relationships rather than on punishing offenders or wrongdoers. 
+Restorative practices form the basis for “restorative justice,”
+a term coined in 1970 in the context of social work and justice systems.
 
 Restorative practices are based on the belief that human beings are happier, more 
 cooperative and productive, and more likely to make positive changes in their behaviour 
