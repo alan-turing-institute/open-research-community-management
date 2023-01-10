@@ -25,10 +25,18 @@
 
 # 2022-01-10
 Happy new year! :)
-- We had talked about wanting to use January for goal-setting+setting the tone for the rest of the year, maybe through a reading day. How shall we do that?
+- MS: Bringing things meetings
+  - 1:1 meetings - where should this be? Logistical questions: these should be more about a space that you define? How can we reimagine these meetings? Length & Frequency!
+  - Every 2nd or 3rd month, have a meeting on career development (active feedback). Define a space for me? My role within Turing Way, open science hat? Do you want feedback from me on different things? Personal coaching?
+  - What other places enable this kind of project tracking in real time?   
+  - We had talked about wanting to use January for goal-setting+setting the tone for the rest of the year, maybe through a reading day. How shall we do that?
+  - ALS: Will bring to next week.
+- MS: Events calendar. Predictability of events. Way of accessing our events calendar. For external folks (in Turing). Will be posted on microsite.
+  - ALS: Create calendar system for upcoming talks + events.  Campaigning.
 - Upcoming events: Budgeting, Timing Questions.
   - FOSDEM - invitation to do in-person in Brussels (Feb 4-5). Feb 4 at 16hrs. Can do online.
-  - FOSS Backstage: invitation to do in-person in Berlin (Feb 6-7). Time not confirmed. Presenting with DG, can do online.
+    - MS: Should be able to do in person!
+  - FOSS Backstage: invitation to do in-person in Berlin (Mar 17-18). Time not confirmed. Presenting with DG, can do online.
   - Connections Workshop: In Newcastle. Scheduled for 7 Feb at 11:30am. Asked about dinner on 6th - possibility of co-presenting with TTW team member? Any other planning required?
   - AI CDT Fair Principles. Scheduled for 15 Feb.
   - OpenUK State of Open Con: In London with MS (Feb 7-8).
@@ -43,6 +51,9 @@ Happy new year! :)
   - ACM CHI: Submit by 19 January. Should we?
   - Royal Society Meeting - invited on May 23 by JA on 22-23 May in Glasgow. May overlap with Book Dash. Should other team member present?
   - Any other submissions/conferences we should keep in mind?
+- Upcoming Applications
+  - Enrichment Students: due by 31 January
+  - GSoD/GSoC:
 - Planning Book Dash Dates May 2023: week of 22-26 May?
 - Merch order: Following up with Hatch this week. Should order still be sent to MS address? ---> Will follow up with Fireside chat organisers + Core Team about addresses. Talking with KW about release form.
 - Fireside chats: Can bring some suggestions for topics & calendar to next meeting. Restart the series in February?
