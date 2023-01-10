@@ -59,11 +59,16 @@ A new colleague has joined the RSF 🎉
 - I'm meeting up with one AIM member who volunteered to teach some technical skills - really excited about that 🎉
 - I need to record my part of the OLS graduation presentation 🙈
 
+- EK - this all sounds great! Great work. :star:
+
 #### Where do you need help?
 
 - I mostly need a time machine 😄
 - Some tips on how to organise support on a topic I'm not familiar with would be helpful!
+   - EK - access to data -> SAIL database. Speak to the people that have done it and make the knowledge transparent and accessible somewhere. 
+   - EK - read the goldacre review - https://www.goldacrereview.org/
 - I also always feel a bit rubbish at networking so any tips for the meeting on Wednesday would be much appreciated.
+   - EK - wear your alan turing badge. Find out who is going and see you you want to meet, introduce yourself to people, tell them about AIM-RSF. 
 
 #### Any other topics
 
