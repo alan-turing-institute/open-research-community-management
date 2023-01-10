@@ -1,7 +1,61 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [10 January 2023](#date-10-January-2023)
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
+
+## Date: 10 January 2023
+
+### 📍 Check-in 
+HAPPY NEW YEAR! 
+
+#### Project specific Reflection
+
+* Full Team is getting formed as we head into 2023 which is super exciting
+	* PM is starting soon!! 
+	* New "RAM" working with Theme 6
+* So many things to juggle as we ramp back into work  
+
+#### Focus for this week's 1:1
+* Updates on work tasks heading into the year
+* Sync up on AutSPACEs meet up planning
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* EZ with general support stuff
+
+#### Who helped you this week?
+
+* New year's good vibes 
+
+#### What did you achieve?
+
+* Climbed many mountains 
+
+#### What did you struggle with?
+
+* Jet lag ✈️
+* So many things to do - so little daylight hours 
+
+#### What would you like to work on next week?
+
+* Prioritization and planning for the next 3mo 
+* Task Organization 
+* Zero Email Inbox (by the end of the week) 
+
+#### Where do you need help?
+
+* Scoping out user testing task 
+* Planning out tasks 
+
+#### Any other topics
+
+- There's an unknown about how to convert PPIE's Key Evaluation Questions into something that is measureable 
+	- It may be best to focus on **Qualitative data (not indicators)** as they may be more suited to address AIM RSF's goals
+	- i.e. talking to researchers and memebrs of the public and asking the q's 
+		- e.g. how did the participation change the research? 
 
 
 ## Date: 13 December 2022
