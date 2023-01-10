@@ -17,7 +17,62 @@
 * [1 November 2022](#date-1-November-2022)
 * [8 November 2022](#date-8-November-2022)
 * [25 November 2022](#date-25-November-2022)
+* [10 January 2023](#date-10-January-2023)
 
+
+## Date: 10 January 2023
+
+**Check-in ritual**
+A new colleague has joined the RSF 🎉
+
+### Project specific Reflection
+- Not much to report really as this is the first week back for most people!
+
+### Notes to discuss during 1:1
+
+- I'm meeting up with one of the Communities of Practice on Wednesday, partly to look for areas to collaborate
+- I'm a little stuck with trying to support consortia with getting access to data.
+
+#### Who did you help this week?
+
+- EI (our new colleague) with getting with GitHub and Slack.
+
+#### Who helped you this week?
+
+- Well I haven't spoken to many people this week 😂 But I was able to reuse some of SB's slides for the talk I'm giving about the RSF on Wednesday!
+- It has been reassuring to hear from people that they've struggled to get back to work after the holidays 💗
+
+#### What did you achieve?
+
+- I have a presentation for Wednesday!
+
+#### What did you struggle with?
+
+- Winter is always hard for me and my brain has been very uncooperative the last month. Thankfully that's improving 😊
+
+#### What would you like to work on next week?
+
+- Teaching the final R workshop today.
+- Presenting about the RSF on Wednesday and learning about other work on MLTC in the UK - I think this meeting could be super useful!
+- Looking forward to meeting with the whole RSF on Thursday.
+- I'm specifically trying to figure out how to develop guidance on applying for healthcare data. This is something that basically all the consortia have needed support with and there is now expertise on it both within the RSF and within the consortia. However, I feel like I myself don't understand enough about the topic and the difficulties to know how to organise this.
+- I'm meeting up with one AIM member who volunteered to teach some technical skills - really excited about that 🎉
+- I need to record my part of the OLS graduation presentation 🙈
+
+- EK - this all sounds great! Great work. :star:
+
+#### Where do you need help?
+
+- I mostly need a time machine 😄
+- Some tips on how to organise support on a topic I'm not familiar with would be helpful!
+   - EK - access to data -> SAIL database. Speak to the people that have done it and make the knowledge transparent and accessible somewhere. 
+   - EK - read the goldacre review - https://www.goldacrereview.org/
+- I also always feel a bit rubbish at networking so any tips for the meeting on Wednesday would be much appreciated.
+   - EK - wear your alan turing badge. Find out who is going and see you you want to meet, introduce yourself to people, tell them about AIM-RSF. 
+
+#### Any other topics
+
+- Happy New Year!
 
 ## Date: 25 November 2022
 
