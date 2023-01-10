@@ -23,10 +23,37 @@
 * [2022-03-25](#2022-03-25)
 * [2022-08-23](#2022-08-23)
 
+# 2022-01-10
+Happy new year! :)
+- We had talked about wanting to use January for goal-setting+setting the tone for the rest of the year, maybe through a reading day. How shall we do that?
+- Upcoming events: Budgeting, Timing Questions.
+  - FOSDEM - invitation to do in-person in Brussels (Feb 4-5). Feb 4 at 16hrs. Can do online.
+  - FOSS Backstage: invitation to do in-person in Berlin (Feb 6-7). Time not confirmed. Presenting with DG, can do online.
+  - Connections Workshop: In Newcastle. Scheduled for 7 Feb at 11:30am. Asked about dinner on 6th - possibility of co-presenting with TTW team member? Any other planning required?
+  - AI CDT Fair Principles. Scheduled for 15 Feb.
+  - OpenUK State of Open Con: In London with MS (Feb 7-8).
+  - FORCE22: Invited to speak about localisation on 19 April at 10am. Must respond by 15 January.
+  - Am I missing any other upcoming events?
+- Proposal status and upcoming submissions:
+  - Connections workshop: . Confirmed - any planning required?
+  - MozFest: proposal submitted. Waiting on status.
+  - csv,CONF: proposal submitted. Waiting on status.
+  - RightsCon: Submit by 19 January. Should we?
+  - ACM CHI: Submit by 19 January. Should we?
+  - Royal Society Meeting - invited on May 23 by JA on 22-23 May in Glasgow. May overlap with Book Dash. Should other team member present?
+- Planning Book Dash Dates May 2023: week of 22-26 May?
+- Merch order: Following up with Hatch this week. Should order still be sent to MS address? ---> Will follow up with Fireside chat organisers + Core Team about addresses. Talking with KW about release form.
+- Fireside chats: Can bring some suggestions for topics & calendar to next meeting. Restart the series in February?
+- Onboarding documents + meetings.
+  - Meeting with SL next Monday for onboarding.
+  - Invited AAA to Collab Cafe on 18 Jan.
+- Planning time for 2023 strategy: with KW, AB?
+- Upcoming working abroad plan: documents, timing.
+
 # 2022-12-13
 - Ongoing newsletter draft: https://hackmd.io/HnWkW6m6Q3uo-Y92dUc_lg
 - Onboarding materials for core team: https://hackmd.io/pBysnLn2QxKMCHqPKvj9uA?both
-- Mozilla submission
+- Mozilla submission:
 - RPM role: candidate update
 - Final review day before holidays?
 - Upcoming holiday dates and plans
