@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [11 January 2023](#date-11-january-2023)
 * [07 December 2022](#date-09-november-2022)
 * [09 November 2022](#date-09-november-2022)
 * [02 November 2022](#date-02-november-2022)
@@ -34,6 +35,48 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 11 January 2023
+
+### Check-in ritual
+Had a good ease back in week last week but feeling busy this week!
+
+### Project specific Reflection
+Starting to plan for 2023 which is nice, excited to have a bit more partnership team activitiy beyond the core team.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Onboarded JJ- new funded project postdoc
+* Connected LGBTQ+ network with Roche contacts
+
+#### Who helped you this week?
+* EZ with R training- have finished all her modules- they were great!
+
+#### What did you achieve?
+* R training over end of December and finished yesterday
+* Onboarded JJ
+* Planned out comms for SM paper- though still a question mark on blog- but can proceed either way
+* Chaired community team meeting
+* Promoted Knowledge Share meeting and planning for Feb and March
+* Starting to plan for quarterly all hands scientific/community meeting
+* Prepped January Newsletter
+
+#### What did you struggle with?
+* Ambassador scheme still languishing- think September launch will make the most sense at this point
+* Ensuring I'm in enough meetings to help with the community side- concious of making sure outputs from "scientific" meetings trickling back to me. All hands should help with this
+* Think a lot of people have not logged into the new Slack but hopefully they will trickle back in
+
+#### What would you like to work on next week?
+* Onboarding enrichment students on Monday
+* Inviting speakers for Feb Knowledge Share
+
+#### Where do you need help?
+* Comms plan for partnership- options of LinkedIn, GitHub page (less of a breakaway for comms but more work for me?) or website (we have funding but may be an issue politically but then very flexible for content/me to manage)
+* How did you get press e.g new scientist to pick up cough paper
+
+#### Any other topics
+N/A
+
 ## Date 07 December 2022
 
 ### Check-in ritual
