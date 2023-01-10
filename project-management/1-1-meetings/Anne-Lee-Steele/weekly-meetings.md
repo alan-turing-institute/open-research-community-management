@@ -38,15 +38,18 @@ Happy new year! :)
   - Connections workshop: . Confirmed - any planning required?
   - MozFest: proposal submitted. Waiting on status.
   - csv,CONF: proposal submitted. Waiting on status.
+  - MetaScience 2023: due 23 Jan. AB preparing proposal.
   - RightsCon: Submit by 19 January. Should we?
   - ACM CHI: Submit by 19 January. Should we?
   - Royal Society Meeting - invited on May 23 by JA on 22-23 May in Glasgow. May overlap with Book Dash. Should other team member present?
+  - Any other submissions/conferences we should keep in mind?
 - Planning Book Dash Dates May 2023: week of 22-26 May?
 - Merch order: Following up with Hatch this week. Should order still be sent to MS address? ---> Will follow up with Fireside chat organisers + Core Team about addresses. Talking with KW about release form.
 - Fireside chats: Can bring some suggestions for topics & calendar to next meeting. Restart the series in February?
 - Onboarding documents + meetings.
   - Meeting with SL next Monday for onboarding.
   - Invited AAA to Collab Cafe on 18 Jan.
+  - Preparing documentation.
 - Planning time for 2023 strategy: with KW, AB?
 - Upcoming working abroad plan: documents, timing.
 
