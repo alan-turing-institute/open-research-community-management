@@ -51,6 +51,7 @@ Starting to plan for 2023 which is nice, excited to have a bit more partnership 
 
 #### Who helped you this week?
 * EZ with R training- have finished all her modules- they were great!
+  - EK - Great that you have done this. Can you remember to put this on our next CM report. Do you have any feedback for EZ to improve the course? or anything that you would need to implement the use of this in your work?
 
 #### What did you achieve?
 * R training over end of December and finished yesterday
