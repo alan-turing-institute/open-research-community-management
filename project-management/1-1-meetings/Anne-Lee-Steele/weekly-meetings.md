@@ -37,18 +37,25 @@ Happy new year! :)
   - FOSDEM - invitation to do in-person in Brussels (Feb 4-5). Feb 4 at 16hrs. Can do online.
     - MS: Should be able to do in person!
   - FOSS Backstage: invitation to do in-person in Berlin (Mar 17-18). Time not confirmed. Presenting with DG, can do online.
+    - MS: Check with in-person with DG. Check about supporting travel.
   - Connections Workshop: In Newcastle. Scheduled for 7 Feb at 11:30am. Asked about dinner on 6th - possibility of co-presenting with TTW team member? Any other planning required?
-  - AI CDT Fair Principles. Scheduled for 15 Feb.
+    - MS: Go alone, and confirm.
+  - AI CDT Fair Principles. Scheduled for 25 Jan and 15 Feb.
+    - MS: EK confirmed. Presenting with EK and EZ. Double checking about bringing in MS.
   - OpenUK State of Open Con: In London with MS (Feb 7-8).
   - FORCE22: Invited to speak about localisation on 19 April at 10am. Must respond by 15 January.
   - Am I missing any other upcoming events?
 - Proposal status and upcoming submissions:
   - Connections workshop: . Confirmed - any planning required?
-  - MozFest: proposal submitted. Waiting on status.
+  - MozFest: proposal submitted. Waiting on status. JD interested in getting involved.
   - csv,CONF: proposal submitted. Waiting on status.
   - MetaScience 2023: due 23 Jan. AB preparing proposal.
   - RightsCon: Submit by 19 January. Should we?
+    - MS: Resubmit info from BA & LC. Ask if they're interested in getting involved.
   - ACM CHI: Submit by 19 January. Should we?
+    - MS: Can be more proactive about asking folks to present in these spaces! Signposting for folks about joining data science/AI/HCI platforms. The Carpentries have an etherpad where they have listed all the months with different conferences listed.
+    - MS: List for people attending conferences - can add their names to keep track of people attending. Jez & Patricia enabled that - can add advice?
+    - ALS: Thinking about how to make more open!
   - Royal Society Meeting - invited on May 23 by JA on 22-23 May in Glasgow. May overlap with Book Dash. Should other team member present?
   - Any other submissions/conferences we should keep in mind?
 - Upcoming Applications
@@ -56,12 +63,15 @@ Happy new year! :)
   - GSoD/GSoC:
 - Planning Book Dash Dates May 2023: week of 22-26 May?
 - Merch order: Following up with Hatch this week. Should order still be sent to MS address? ---> Will follow up with Fireside chat organisers + Core Team about addresses. Talking with KW about release form.
+  - MS: Change back to MS?
 - Fireside chats: Can bring some suggestions for topics & calendar to next meeting. Restart the series in February?
 - Onboarding documents + meetings.
   - Meeting with SL next Monday for onboarding.
   - Invited AAA to Collab Cafe on 18 Jan.
   - Preparing documentation.
 - Planning time for 2023 strategy: with KW, AB?
+  - MS: Plan for calendar time in person. Plan for online in February. AAA can observe online, will help AB. Feb better in terms of timing.
+- MS: Planning for Practitioners Hub: BridgeAI, OpenUK. RPM, PD, RAM work would be more focused on that at first. Microsite planning (will follow up with AB). RPM needs to make operational work set-up. Where do you struggle with PM? Where can you delegate this to RPM? Weekly, Monthly, Yearly tasks.
 - Upcoming working abroad plan: documents, timing.
 
 # 2022-12-13
