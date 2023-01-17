@@ -1,8 +1,82 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [18 January 2023](#18-January-2023)
 * [10 January 2023](#date-10-January-2023)
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
+
+
+## 18 January 2023
+
+### 📍 Check-in 
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+#### Project specific Reflection
+
+* New starters started and it's off to a roaring start getting them onboarding and integrated into the project. 
+
+#### Focus for this week's 1:1
+* Goals and workload for 2023 
+	* Cezanne Objective Setting
+	* Can we go through the drafts I've done and review the workload? 
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* BA and EI onboarding them into the project 
+* DC and team with taking and distributing notes during the major meetings 
+* DC with tech check and set up last week
+* EZ with finishing off OLS work 
+
+#### Who helped you this week?
+
+* 
+
+#### What did you achieve?
+
+* Onboard BA
+* Onboard EI
+* Led Comms group through webpage and scriberia planning 
+* Finalized workplan for Scriberia
+* Chaired AutSPACEs community Session 
+* Chaired PPIE Community Session
+* RSF Ops Meeting 
+* Met with CoP PPIE lead and planned out planned PPIE schedule until June 
+* First draft of mailing list and newsletter plan 
+* Dived back into work 
+
+#### What did you struggle with?
+
+* Have been pulled in lots of directions and lots is on my plate which has made it difficult to "ramp back" into work and feels more like diving in the deep end. 
+
+#### What would you like to work on next week?
+
+* Admin
+	* OLS Graduation Presentation: 18 Jan 2023 
+	* TPS Com-M goathearding
+	* Reply to emails 
+* AIM RSF PPIE 
+	* Intro to GitHub workshop 
+	* Combine Glossary of Terms 
+	* Develop first draft of Plain English Summaries for the projects - check with PIs, PMs, and PPIE Leads 
+	* Draft Public Enagagement Policy Docs 
+* AIM RSF
+	* Onboard and Update GitHub Project boards (with Batool) 
+	* Set up example of webpages wireframes for AIM RSF comms Group 
+	* Finalize Scriberia contract 
+* AutSPACEs 
+	* Meet with SF about AutSPACEs design work 
+	* Reach out to 5 community groups 
+	* Review the platform designs 
+	* Map out plan for designing and testing the remaining pages  
+
+#### Where do you need help?
+
+* Where can we reduce the admin workload with AutSPACEs for the next 2 weeks? 
+
+
+
 
 ## Date: 10 January 2023
 
