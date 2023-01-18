@@ -75,6 +75,8 @@ Fairly calm week so far, just prepping for Knowledge Share next week and plannin
 #### Any other topics
 * Excited to help out with TTW booth!
 
+* Enrichment scheme student as trial for amabassador tasks.
+
 ## Date 11 January 2023
 
 ### Check-in ritual
