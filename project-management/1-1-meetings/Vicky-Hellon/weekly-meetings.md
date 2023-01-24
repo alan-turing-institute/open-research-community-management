@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [18 January 2023](#date-18-january-2023)
 * [11 January 2023](#date-11-january-2023)
 * [07 December 2022](#date-09-november-2022)
 * [09 November 2022](#date-09-november-2022)
@@ -35,6 +36,47 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 18 January 2023
+
+### Check-in ritual
+All good! Was nice to see so many people in the office last week for the lab meeting :)
+
+### Project specific Reflection
+Fairly calm week so far, just prepping for Knowledge Share next week and planning more video content. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Onboarded ER into the partnership 
+* JD- helping her out with testing a user interview framework about Github data and consent
+
+#### Who helped you this week?
+* Helped BM with Knowledge Share slides
+
+#### What did you achieve?
+* Onboarded Enrichment Student- ER
+* Promoted Jan Knowledge Share 
+* Invited speakers for February Knowledge Share 
+* Put together a doc about moving the TR Slack to the Enterprise Grid for the Slack User Group
+* Sent out newsletter
+* Followed up with community member about demystifying video
+
+#### What did you struggle with?
+* Still waiting for paper comms to be confirmed (must be soon!) but discussing with Roche so should be aligned
+
+#### What would you like to work on next week?
+* Running Knowledge Share event
+* Am trying out a TR Community coffee chat on Friday- intrigued to see the take up!
+* Going to pick up some work in the TTW reviewers and editors group- been slacking
+
+#### Where do you need help?
+* None at the mo
+
+#### Any other topics
+* Excited to help out with TTW booth!
+
+* Enrichment scheme student as trial for amabassador tasks.
+
 ## Date 11 January 2023
 
 ### Check-in ritual
