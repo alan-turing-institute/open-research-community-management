@@ -18,7 +18,56 @@
 * [8 November 2022](#date-8-November-2022)
 * [25 November 2022](#date-25-November-2022)
 * [10 January 2023](#date-10-January-2023)
+* [24 January 2023](#date-24-January-2023)
 
+
+
+## Date: 24 January 2023
+
+**Check-in ritual**
+One of the project managers of the AIM consortia is a delight to work with - just super on top of things ✨
+
+### Project specific Reflection
+This is about two weeks ago since I was away last week:
+
+- The R workshop had very few attendees but I got very positive feedback from the people who were there.
+- It was very useful to attend the Community of Practice meeting - very interesting to hear about the common issues we're having and how the MRC consortia are approaching things differently.
+- It was also really nice to be in the office and see EI and KW in person 😊
+
+### Notes to discuss during 1:1
+
+- I don't have much to discuss really, I mostly need to get on with things.
+
+#### Who did you help this week?
+
+- I put RS in contact with someone from the consortia who should be able to help with a question/blocker.
+
+#### Who helped you this week?
+
+- SB has gotten a bunch of people on to the RSF Slack 🚀
+
+#### What did you achieve?
+
+- This week, I cleared my inbox and watched most the Bob's business stuff 😅
+- The week before my AL was super busy with the final R workshop, and travelling to Leicester and London.
+
+#### What did you struggle with?
+
+- The size of my post-holiday to-do list 💁‍♀️
+
+#### What would you like to work on next week?
+- FAIR data/open science workshop
+- Plan a new training series on version control/GitHub - with more people this time!
+- Lots of following up on things and chasing people
+- Need to review some things I promised I would review before going on holiday
+- Meetings!
+
+#### Where do you need help?
+- I'm alright mostly, mostly a question of sitting down and getting things done.
+
+#### Any other topics
+
+- Nope!
 
 ## Date: 10 January 2023
 
