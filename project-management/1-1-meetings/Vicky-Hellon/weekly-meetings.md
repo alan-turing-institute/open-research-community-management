@@ -69,9 +69,10 @@ Knowledge Share went well but still struggling with ambassador bits
 
 #### Where do you need help?
 * Maybe pushing MB on Ambassador funding
+  * EK - I can have a chat with MB about this. 
 
 #### Any other topics
-N/A
+* Environmental data science book - https://the-environmental-ds-book.netlify.app/welcome.html
 
 
 ## Date 18 January 2023
