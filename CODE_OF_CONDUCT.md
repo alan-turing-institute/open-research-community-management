@@ -292,10 +292,10 @@ If the reportee is a Turing employee, for instance, Community Managers and senio
 researchers and the incident is considered out of the scope of this Code of Conduct 
 due to the severity of the matter/case, an HR process (formal or informal), will be started.
 In this case, the report will be passed to the HR and/or appropriate personnel under the 
-Turing policies and their policy-related enforcement mechanism will take precedent over this 
-Code of Conduct enforcement.
+Turing policies and [the Turing's CoC policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2174&SearchId=0&utm_source=interact&utm_medium=category_search&utm_term=*) as well as enforcement mechanism will 
+take precedent over this Code of Conduct enforcement.
 
-All the Turing employees have the obligation to read and understand the staff policies, which include:
+All the Turing employees have the obligation to read and understand the [HR/People policies](https://mathison.turing.ac.uk/Interact/Pages/Section/ContentListing.aspx?subsection=3439&utm_source=interact&utm_medium=general_search&utm_term=HR+policies), which include, but not limited to:
 - [Workplace Guidelines](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2427&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
 - [Code of Conduct Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2174&SearchId=23863&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
 - [Disciplinary Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2215&SearchId=23863&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
@@ -309,6 +309,7 @@ All the Turing employees have the obligation to read and understand the staff po
 - [Wellbeing support services](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2228&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
 - [Research Ethics Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2241&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
 - [Data protection policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2184&SearchId=23865&utm_source=interact&utm_medium=general_search&utm_term=data+protection)
+- [Conflict of Interest Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2179&SearchId=183372&utm_source=interact&utm_medium=quick_search&utm_term=conflict+o)
 
 #### **12.2.2** If the reportee is not a Turing Employee
 
