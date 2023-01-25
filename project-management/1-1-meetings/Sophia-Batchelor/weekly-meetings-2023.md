@@ -1,10 +1,102 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [25 January 2023](#23-January-2023)
 * [18 January 2023](#18-January-2023)
 * [10 January 2023](#date-10-January-2023)
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
 
+## 23 January 2023
+
+### 📍 Check-in 
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+#### Project specific Reflection
+
+* **Conference Planning** 
+	* First working group meeting yesterday to finalize the schedule. It went fab ✨. Next meeting to decide content tbd but know that some folks are not going to get what they hope to out of the conference (from a ppie perspective) 
+* **PPIE CoP Meeting** 
+	* The group is leaning towards a true community of practice approach and I've said that I'm happy to support and contribute where I can. Really cool to be a part of it from the get go.  
+* **Sciberia** 
+	* Some delays but the contract is sitting with DC 🎉 
+* **Resource Hub -> Community Space**
+	* Online meeting in Feb to decide what this might look like and to understand how we stay in touch.  
+* **AutSPACEs** 
+	* Other than reaching out to community groups, did not pick up on the design work. 
+	* Moved the regular 4pm Monday meeting so I can attend the paper coworking sessions. 
+
+#### Focus for this week's 1:1
+* Asking better questions 
+	* I think I ask too "open ended" questions when in a group setting and get answered with 🦗. Are there better ways to frame open ended discussion questions? 
+* AutSPACEs Meet Up Planning
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* EZ with a blog post for the enrichment students 
+* CoP with meeting plans and suggestions 
+* EZ with leading Collab Cafe 
+* MELD-b with GitHub onboarding 
+* LC + CO with M365 debugging
+
+#### Who helped you this week?
+
+* Jessie (Turing's public engagement officer) with some fab resources on talking to the public about AI
+* KW with great meeting chairing 
+* LC with a good steer about PPIE 
+
+#### What did you achieve?
+
+* ✅ Added PPIE requests to the conference suggestions 
+* ✅ Finalized the Scriberia contract 
+* ✅ OLS Graduation Presentation: 18 Jan 2023 
+* ✅ TPS Com-M goathearding
+* ✅ Back on top of email inbox 🎉
+* ✅ Led MELD-b through a Intro to GitHub workshop 
+* ✅ Added their terms to the Glossary
+* ✅ Develop first draft of Plain English Summaries for MELD-b and DECODE - sent off to PIs, PMs, and PPIE Leads 
+* ✅ Drafted Public Enagagement Policy Docs and found the Public Engagement workshop docs that Turing ran last year.
+* ✅ Onboarded and Update GitHub Project boards (with Batool) 
+* ✅ Reached out to 5 community groups in the London area and have scheduled in their meeting times 
+* ✅ Chatted to Callum about AutSPACEs design plans 
+* 🛑 2023 Objectives
+* 🛑 AutSPACEs Design or Development work 
+
+#### What did you struggle with?
+
+* Feeling the effects of being ill last week so have been at 40% capacity. Still just trying to chug along 🚂
+
+#### What would you like to work on next week?
+
+* AIM Website
+	* Set up example of webpages wireframes for AIM RSF comms Group 
+	* Get first draft of Hugo sit up and running
+* AutSPACEs Community Meet Up 
+	* Plan 
+	* Deliver
+	* Notes 
+* PPIE Community session 
+	* Plan 
+	* Deliver 
+	* Notes 
+* Create Events Planing documentation and add to repo 
+* AutSPACEs repo refresh 
+* AutSPACEs design plan 
+* RSF Ops Meeting 
+* Plain English Summaries sent to consortia (and hopefully approved) 
+* Neurodiversity training 
+* Conference planning group meeting 
+* AIUK workshop draft 
+
+#### Where do you need help?
+
+* Getting the Hugo site up and running for AIM
+* Planning out the next AUtSPACEs meet up. 
+
+#### Any other topics
+
+* Feeling absolutely exhausted at the moment. Not sure if I should take a day to fully rest, or if it was just a bad virus so will just need to go slow and allow by body to recover. 
 
 ## 18 January 2023
 
