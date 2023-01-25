@@ -21,13 +21,14 @@
 	* Some delays but the contract is sitting with DC 🎉 
 * **Resource Hub -> Community Space**
 	* Online meeting in Feb to decide what this might look like and to understand how we stay in touch.  
-* AutSPACEs 
-	* Other than reaching out to community groups, did not pick up on the design work.  
+* **AutSPACEs** 
+	* Other than reaching out to community groups, did not pick up on the design work. 
+	* Moved the regular 4pm Monday meeting so I can attend the paper coworking sessions. 
 
 #### Focus for this week's 1:1
 * Asking better questions 
 	* I think I ask too "open ended" questions when in a group setting and get answered with 🦗. Are there better ways to frame open ended discussion questions? 
-
+* AutSPACEs Meet Up Planning
 
 ### 📚 Updates
 
@@ -59,6 +60,8 @@
 * ✅ Onboarded and Update GitHub Project boards (with Batool) 
 * ✅ Reached out to 5 community groups in the London area and have scheduled in their meeting times 
 * ✅ Chatted to Callum about AutSPACEs design plans 
+* 🛑 2023 Objectives
+* 🛑 AutSPACEs Design or Development work 
 
 #### What did you struggle with?
 
@@ -93,6 +96,7 @@
 
 #### Any other topics
 
+* Feeling absolutely exhausted at the moment. Not sure if I should take a day to fully rest, or if it was just a bad virus so will just need to go slow and allow by body to recover. 
 
 ## 18 January 2023
 
