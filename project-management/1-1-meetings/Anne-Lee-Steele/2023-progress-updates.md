@@ -13,10 +13,22 @@
   - Found it really interesting, and definitely in parallel to the workshops that Andrea & Liz ran at Book Dash.
   - Would really love to be able to write a profile about The Turing Way that explores all these different elements of accessibility: https://twitter.com/rcourt/status/1617601822159671297
 - Upcoming prep for Newcastle presentation: not sure what materials to look at?
+  - From MS: https://hackmd.io/0O7AVn7zSZS15QgqU8Af0Q
+  - From MS: https://hackmd.io/@turingway/100-min-relay
+  - MS: 1.5 hours minimum. 30 min for discuss, then report-out. Account for breaks, etc.
+  - ALS: Will follow up by email.
 - FOSDEM: Would you like to give feedback on the talk? (just a rapid-speed lightning talk, updated for 2022 developments in the project!)
 - Would really love to enroll in some of the mentorship-oriented programs: GSoD, GSoC, Outreachy, Enrichment Scheme
+  - ALS: Send message to AB + BA.
+  - MS: Will send ICNF a message. KW used to
+  - MS: Guide for Accessibility needs to be planned with GCHQ. Need momentum.
 - Fireside chat - what do we need to get started?
+  - ALS: Sending MK + PH for Fireside chat.
+  - MS: Had messaged.
+  - ALS: Will send email to those two.
 - Meeting with Netscape AI Working Group lead 1/2
+- Date for recording
+- Planning for TTW Update: building agenda + update deck
 
 ### 2023-01-17
 - Identify goals: at Turing, in open ecosystem,

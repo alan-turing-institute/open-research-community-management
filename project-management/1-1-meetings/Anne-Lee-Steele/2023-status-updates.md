@@ -15,3 +15,6 @@
 - Website brief
 - January Newsletter:
   - 1/31: ready to send!
+- Onboarding documents
+- Checklists
+- Reporting
