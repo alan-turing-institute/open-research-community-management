@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [25 January 2023](#date-25-january-2023)
 * [18 January 2023](#date-18-january-2023)
 * [11 January 2023](#date-11-january-2023)
 * [07 December 2022](#date-09-november-2022)
@@ -36,6 +37,44 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 25 January 2023
+
+### Check-in ritual
+A bit tired this week but doing ok!
+
+### Project specific Reflection
+Knowledge Share went well but still struggling with ambassador bits
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Had a productive meeting with Roche corporate comms
+
+#### Who helped you this week?
+* JF with getting comms paper announcement and website bits sorted
+
+#### What did you achieve?
+* Ran Knowledge Share on Monday and doing follow up bits from it
+* Secured speakers for Feb Knowledge Share 
+* Ran a coffee chat on friday
+
+#### What did you struggle with?
+* Multiple meetings with legal and data protection about the ambassador scheme... but we're getting there (said many times but I believe it this time!)
+* Ran website idea past partnership team- parked for now so just need to think about how to do future comms bits more efficiently
+
+#### What would you like to work on next week?
+* Create event page for Feb Knowledge Share
+* Sign off any ambassador bits
+* Plan a new video for YouTube channel
+
+#### Where do you need help?
+* Maybe pushing MB on Ambassador funding
+  * EK - I can have a chat with MB about this. 
+
+#### Any other topics
+* Environmental data science book - https://the-environmental-ds-book.netlify.app/welcome.html
+
+
 ## Date 18 January 2023
 
 ### Check-in ritual
