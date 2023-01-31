@@ -9,14 +9,18 @@ Probation Notes (Sept 2022): https://docs.google.com/document/d/1LLYxeTnyE7h6wrP
 TTW Review/Maintenance Maintenance: https://hackmd.io/IxTMNCnvSJ2z6fTN2spcKg
 
 ## Proposal for meeting cadence:
-- Weekly TTW Stand-up (Monday, 11-am BST): ALS sends Written progress updates with key questions. Can be reviewed on Monday?
+- Weekly TTW Stand-up (Monday, 11-am BST): ALS sends Written progress updates with key questions. Can be reviewed on Monday by MS?
   - Key issue: Other TTW team members may need MS for questions and discussions in real time.
   - Proposal: Expand time of stand-up?
-- Monthly 1:1 (Tuesday, 4-5pm):
+  - Develop template for team (grabbing AB's template for TPS)
+- Fortnightly 1:1 (Tuesday, 4-5pm):
   - Key issue: Is 1-month timeline enough?
   - I could use this time for written reflection during the off weeks?
-- 3 months: Career Strategy + Goals ()
-  -
+- 3 months: Career Strategy + Goals
+  - Blue sky discussions
+  - Feedback, Discussions, Format
+- Planning for meeting with KW + MS: Feb
+- Practitioners Hub Meeting: JS, AA, MS, AB, MS, ALS
 
 ## Key Deliverables for 2023 Year
 
