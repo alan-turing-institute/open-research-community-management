@@ -1,10 +1,115 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [31 January 2023](#31-January-2023)
 * [25 January 2023](#23-January-2023)
 * [18 January 2023](#18-January-2023)
 * [10 January 2023](#date-10-January-2023)
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
+
+## 31 January 2023
+
+### 📍 Check-in 
+Fab AutSPACEs coworking sessions 🎉
+
+#### Project specific Reflection
+
+* **Conference Planning** 
+	* Sessions scheduled for next week.
+* **PPIE Meeting** 
+	* Monthly community session 12-1 Wednesday. Still figuring out the agenda as I've got a call tomorrow and getting clarity around the DSGs is proving difficult. 
+* **DSG** 
+	* Call for input from consortia went out last week, trying to figure out in the team who is supporting what. 
+* **AIM RSF Project Management** 
+	*  Supporting BA getting up to speed 
+	*  Developing a RACI matrix for staying on top of DRIs/who's doing what 
+* **AIM Website**
+	* Got template site up and running and now need to start populating it with content 
+* **Scriberia** 
+	* Meeting scheduled for next friday.
+* **AutSPACEs** 
+	* Caught back up to speed on the design work.
+	* Need to scope out next steps and what can be user tested. 
+	* Identifying nitty gritty details to suport site for user testing.  
+	* No paper co-working session this week. 
+	* Community Meet up this week. GA handling outreach and calendar invites.
+
+#### Focus for this week's 1:1
+* Just a check in this week - 30min for short meeting due to workshop we're both attending. May keep it just to updates & download about autspaces this week. 
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* DC with conference figuring out 
+* DC + LC with PPIE budget draft
+* BA with RACI matrix 
+* BA with other onboarding and knowledge transfer 
+* AIM-MIXED with support developing the Plain Language summary
+
+#### Who helped you this week?
+
+* The fab coworking session on Friday 
+* CM + HD today going through some django quirks with me
+
+#### What did you achieve?
+
+* 🛑 2023 Objectives
+* 🛑 AutSPACEs Design or Development work 
+* ✅ AIM Website
+	* ➡️ Set up example of webpages wireframes for AIM RSF comms Group 
+	* ✅ Get first draft of Hugo site up and running
+* ➡️ AutSPACEs Community Meet Up 
+	* ✅ Plan 
+	* ➡️ Deliver
+	* ➡️ Notes 
+* ➡️ PPIE Community session 
+	* ✅ Plan 
+	* ➡️ Deliver 
+	* ➡️ Notes 
+* ✅ Create Events Planing documentation and add to repo 
+* ✅ AutSPACEs repo refresh 
+* 🛑 AutSPACEs design plan 
+* ✅ RSF Ops Meeting 
+* ✅ Plain English Summaries sent to consortia (and hopefully approved) 
+* ➡️ Neurodiversity training 
+* ✅ Conference planning group meeting 
+* ✅ AIUK workshop draft 
+* ✅ Updated the AIM RSF Code of Conduct from feedback
+
+#### What did you struggle with?
+
+* It's getting very muddly who is in charge of what with various work packages at the moment and it can undermine the progress of someone's work. 
+* Was very unwell mid week which made pushing through work a bit hard but rode out till the end of the week and was a-okay by friday/saturday.
+
+#### What would you like to work on next week?
+
+* AIM RSF PPIE January Newsletter
+* Neurodiversity training 
+* Support AIM MULTIPLY PPIE meeting and plans 
+* Meeting with IJPDLN journal editor to talk about PPIE and authorship
+* Meeting with Skills at Turing team to talk about GitHub for project management
+* PPIE Community session 
+	* Deliver 
+	* Notes 
+* Support AIM-MIXED in continuing to iterate on their plain language summary
+* AIM Website
+	* Set up example of webpages wireframes for AIM RSF comms Group 
+	* Set up CI/CD pipeline 
+	* Finish documentation
+* TTW Collab Cafe 
+	* Work on AI UK workshop (the other one) 
+* AutSPACEs Community Meet Up 
+	* Deliver
+	* Notes 
+* Get feedback on AIUK workshop plan 
+* Prep for PPIE Theory of Change deliverables meeting
+
+#### Where do you need help?
+
+* Identifying clear goals and work packages. 
+
+
 
 ## 23 January 2023
 
