@@ -29,6 +29,7 @@
 - Meeting with Netscape AI Working Group lead 1/2
 - Date for recording
 - Planning for TTW Update: building agenda + update deck
+- Website brief: timeline?
 
 ### 2023-01-17
 - Identify goals: at Turing, in open ecosystem,
