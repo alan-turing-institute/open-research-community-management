@@ -1,11 +1,174 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [6 February 2023](#7-February-2023)
 * [31 January 2023](#31-January-2023)
 * [25 January 2023](#23-January-2023)
 * [18 January 2023](#18-January-2023)
 * [10 January 2023](#date-10-January-2023)
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
+
+
+## 7 February 2022 
+
+### 📍 Check-in 
+DC has been a super🌟 this week. Really holding down the fort and managing the team super well. 
+
+#### Project specific Reflection
+
+* **Conference Planning** 
+	* Had meeting for sessions, leadership is getting input from PI's tomorrow
+	* Need to follow up with PI's and PM's about if PPIE folk will be attending an "all hands" project meeting. 
+* **PPIE** 
+	* Monthly community session last week
+		* Format was better
+		* Need to send out Agenda further ahead of time 
+		* Need more space for discussion 
+	* Need to plan next month's session 
+	* Need to follow up with the CoP for sessions
+	* Need to schedule meeting bwtn DC - BGT - Kw - LC - SB to identify and prioritize tasks 
+		* Then can finish the budget 
+* **DSG** 
+	* Working group has been set up 
+	* Need to find datasets that we'll have access to
+	* Push back for having PPIE involvement (but there is wiggle room if we find datasets that answer the questions)
+* **AIM RSF Project Management** 
+	*  Developing a RACI matrix for staying on top of DRIs/who's doing what 
+	*  Need to document the GitHub and Website workflow (IT - Comms and Engagement) for BA
+	*  Indicators meeting was this week. Work is coming through the pipeline. 
+* **AIM Website**
+	* Need to finish templating out the wireframes 
+* **Science Comm** 
+	* Meeting wth Scriberia scheduled for friday.
+		* Need to update project brief with additional questions
+	* Plain Language Summaries 
+		* Need to finish writing 3 consortia's sumamries based on feedback.  	
+* **AutSPACEs** 
+	* Community session last week 
+	* Lower attendance, need to address channels of engagement (were people busy? how did they hear about it?) 
+	* Attending Monday co-working for a bit 
+	* Need to add to list of UI snags 
+	* Won't be able to contribute to design work deeply outside of scheduled times
+* **PPIE AI Workshops**
+	* Need to plan 
+	* Need to find budget 
+	* Need to find speaker 
+
+
+#### Focus for this week's 1:1
+* Ideas for March's PPIE session. 
+* Get AutSPACEs up and running on my local machine
+
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* BGT, CM, + HD with knowledge transfer 
+* Skills at Turing team with GitHub workshop 
+* MS with planning out and organizing a meeting that was rescheduled
+* EZ with some cover as she was out ill
+* BA with PM work and documentation
+* BA with Code of Conduct for AIM RSF
+* DC on PPIE budget
+* AI-MULTIPLY on some PPIE scoping work 
+* TPS team (updated doc templates that were out of date) 
+* EI with finding various documents and getting info
+
+#### Who helped you this week?
+
+* DC with unblocking some work and scoping out project
+* DC with good project leadership
+* LC with activities ideas
+* KW with great "lead by example" in meetings
+* BGT with a super cool Open Humans presentation
+* DS with getting info about Turing bios 
+
+#### What did you achieve?
+
+* ✅ AIM RSF PPIE January Newsletter
+* ✅ Neurodiversity training 
+* ✅ First draft of PPIE budget
+* ✅ Identified knowledge gaps for PPIE priorities and followed up
+* ✅ Added list of PPIE questions to DSG documentation
+* ✅ Synced up with EG about DSGs 
+* ✅ Meeting with Skills at Turing team to talk about GitHub for project management
+* ✅ Had intro call with AI-MULTIPLY PPIE
+	* ➡️ Need to schedule follow ups. 
+* ✅ Meeting with IJPDLN journal editor to talk about PPIE and authorship
+	* ➡️ Need to finihs notes write up 
+	* ➡️ Need to sync with Kirstie re her Friday convo about authorship 
+* ✅ PPIE Community session 
+	* ✅ Deliver 
+	* ➡️ Notes 
+* ✅ Support AIM-MIXED in continuing to iterate on their plain language summary
+* ✅ TTW Collab Cafe 
+	* ➡️ Work on AI UK workshop (the other one) 
+* ✅ AutSPACEs Community Meet Up 
+	* ✅ Deliver
+	* ➡️ Make some of the feedback into Issues 
+* ✅ Gave feedback about the PPIE Theory of Change deliverables
+	* ➡️ CCM will need input on document by EOW. 
+* 🛑 Documented GitHub Pages knowledge for BA 
+* 🛑 AIM Website
+	* ✅ Worked on the template wireframes  
+	* 🛑 Set up example of webpages wireframes for AIM RSF comms Group 
+	* 🛑 Set up CI/CD pipeline 
+	* 🛑 Finish documentation
+
+
+#### What did you struggle with?
+
+* Getting very overburdened with time intensive tasks at the moment which is causing me to make small mistakes (happened a lot on Thursday last week), and leading to a bit of burn out by the end of the week. 
+* Struggling with workload and being pulled in multiple directions. 
+
+#### What would you like to work on next week?
+
+* **Admin**
+	* Bio for BA 
+	* Turing GDPR Training (Bob's Business) 
+	* Objectives 
+	* Emails
+	* Finish notes write up and get onto GitHub 
+	* Prep for Ops meeting 
+	* Documentation to BA about GitHub Pages
+
+* **DSG**
+	* DSG data search ([link](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets), [link](https://www.data.gov.uk/), [link](https://nhsrcommunity.com/category/datasets/), [link](https://www.nhs.uk/about-us/nhs-website-datasets/). 
+
+* **Plain English Summaries** 
+	* Finish AI-MULITPLY and send for feedback
+	* Finish OPTIMAL's and send for feedback
+
+* **PPIE Community**
+	* Prepare presentation for CoP meeting 
+	* Prepare notes for CoP meeting
+	* PPIE AI workshop planning 
+	* PPIE resource collation 
+
+* **PPIE work**
+	* Prep for remote offerings meeting (conference) 
+	* CCM PPIE indicators feedback 
+	* Meet with AI-MULTIPLY PPIE team 
+	* Follow up with PI's and PM's about if PPIE folk will be attending an "all hands" project meeting. 
+	* Schedule meeting bwtn DC - BGT - Kw - LC - SB to identify and prioritize tasks
+
+* **AutSPACEs**
+	* Chat with LC about SAIL data managament + consumer panel 
+	* Spend time syncing local version and start UI snaging 
+	* Open issues for the feedback from the community session
+
+* **Other Urgent + Important Tasks**
+	* Goathearding 
+	* Follow up with KW about authorship convo 
+	* Chat with JD about data management pipelines 
+
+
+#### Where do you need help?
+
+* Do you have 2 hours this week to divide and conquer the databases? Trying to match data that we have access to to questions that folks have asked. 
+
+
 
 ## 31 January 2023
 
