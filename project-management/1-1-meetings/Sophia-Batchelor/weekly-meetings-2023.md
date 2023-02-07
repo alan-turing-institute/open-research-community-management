@@ -130,10 +130,10 @@ DC has been a super🌟 this week. Really holding down the fort and managing the
 	* Emails
 	* Finish notes write up and get onto GitHub 
 	* Prep for Ops meeting 
-	* Documentation to BA about GitHub Pages
 
 * **DSG**
 	* DSG data search ([link](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets), [link](https://www.data.gov.uk/), [link](https://nhsrcommunity.com/category/datasets/), [link](https://www.nhs.uk/about-us/nhs-website-datasets/). 
+	* Reach out to consortia folk about datasets.
 
 * **Plain English Summaries** 
 	* Finish AI-MULITPLY and send for feedback
@@ -154,18 +154,11 @@ DC has been a super🌟 this week. Really holding down the fort and managing the
 
 * **AutSPACEs**
 	* Chat with LC about SAIL data managament + consumer panel 
-	* Spend time syncing local version and start UI snaging 
-	* Open issues for the feedback from the community session
 
 * **Other Urgent + Important Tasks**
 	* Goathearding 
 	* Follow up with KW about authorship convo 
 	* Chat with JD about data management pipelines 
-
-
-#### Where do you need help?
-
-* Do you have 2 hours this week to divide and conquer the databases? Trying to match data that we have access to to questions that folks have asked. 
 
 
 
