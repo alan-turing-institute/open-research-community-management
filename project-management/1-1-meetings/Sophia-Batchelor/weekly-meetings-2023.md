@@ -106,7 +106,6 @@ DC has been a super🌟 this week. Really holding down the fort and managing the
 	* ➡️ Work on AI UK workshop (the other one) 
 * ✅ AutSPACEs Community Meet Up 
 	* ✅ Deliver
-	* ➡️ Make some of the feedback into Issues 
 * ✅ Gave feedback about the PPIE Theory of Change deliverables
 	* ➡️ CCM will need input on document by EOW. 
 * ✅ Documented GitHub Pages knowledge for BA 
