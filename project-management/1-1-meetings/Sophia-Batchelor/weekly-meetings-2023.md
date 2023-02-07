@@ -1,6 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
-* [6 February 2023](#7-February-2023)
+* [7 February 2023](#7-February-2023)
 * [31 January 2023](#31-January-2023)
 * [25 January 2023](#23-January-2023)
 * [18 January 2023](#18-January-2023)
