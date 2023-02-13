@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [14 February 2023](#14-February-2023)
 * [7 February 2023](#7-February-2023)
 * [31 January 2023](#31-January-2023)
 * [25 January 2023](#23-January-2023)
@@ -7,6 +8,84 @@
 * [10 January 2023](#date-10-January-2023)
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
+
+## 14 February 2023 
+
+### 📍 Check-in 
+
+Work is nearing an untennable load right now and I'm really struggling. 
+
+#### Project specific Reflection
+
+* **Conference Planning** 
+	* DC working hard to move location forward 
+	* People resource will be very difficult (EZ + SB been charged to scope out) 
+	* Remote offering still uncertain 
+* **PPIE** 
+	* Building out resources, need to combine and synthesize into a single document  
+	* Need to plan next month's session 
+	* Following up with the CoP this week
+	* Meeting bwtn DC - BGT - Kw - LC - SB to identify and prioritize tasks has been postponed. 
+	* Have been asked for feedback on papers to be submitted. 
+* **AIM RSF Project Management** 
+	*  Working on it 🏃
+* **AIM Website**
+	* Need to finish templating out the wireframes 
+	* Unappreciative of the pressure that is being laid on thick right now, need breathing room and for folks to appropriately plan + scope requests. 
+* **Science Comm** 
+	* Scriberia first logo draft has been sent out. 
+	* Plain Language Summaries 
+		* Made an [issue](https://github.com/orgs/aim-rsf/projects/9/views/5?pane=issue&itemId=20109721) to track it 
+		* EI is putting a lot of pressure on  	
+* **AutSPACEs** 
+	* Deprioritized for right now 
+* **PPIE AI Workshops**
+	* Need to plan 
+	* Need to find budget 
+	* Need to find speaker 
+
+#### Focus for this week's 1:1
+
+* Objectives 
+* Workload
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+Replace this text with a one/two-sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+Replace this text with a one/two-sentence description of who helped you this week and how.
+
+#### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+* It's ok if your list is only one bullet point long!
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list.
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+- This space is yours to add to as needed.
+- Is there any particular reading/topic/task we want to explore and bring to our next meetings?
+
+
 
 
 ## 7 February 2022 
