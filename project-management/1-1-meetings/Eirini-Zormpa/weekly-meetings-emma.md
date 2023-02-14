@@ -19,7 +19,49 @@
 * [25 November 2022](#date-25-November-2022)
 * [10 January 2023](#date-10-January-2023)
 * [24 January 2023](#date-24-January-2023)
+* [14 February 2023](#date-14-February-2023)
 
+## Date: 14 February 2023
+
+**Check-in ritual**
+
+### Project specific Reflection
+Last week was a little slow while I was adjusting to being back to work after COVID. I seem to still be getting migraines more, so we'll see how that goes. Other than that, I've made some progress on getting my inbox and to-do lists to be more organised and made some progress with event planning.
+
+### Notes to discuss during 1:1
+- Team expansion
+- I volunteered for a project working on materials for code reproducibility
+
+#### Who did you help this week?
+- I've had to do a bit more Carpentries stuff then usual last week (our lesson moved to a new infrastructure and I've had to take on a bit more responsibility within the Curriculum Advisory Board)
+
+#### Who helped you this week?
+- Everyone in TPS/RSF has been really understanding when I need to duck out of meetings.
+
+#### What did you achieve?
+- I have everything ready to open registrations for a Shiny workshop on 1 March
+- I invited the consortia to the Collab Cafe this week, highlighting the DSG
+- I onboarded 4 new ECRs :tada:
+- I'm getting my tasks back on the GitHub project board
+- I made some headway with planning the ECR sessions further into the future
+- I'm following up with people about sharing outputs from the consortia
+- Lots of meetings 😫
+
+#### What did you struggle with?
+- Online meetings take it out of me in a way they didn't used to?
+- Reshuffling responsibilities as the team expands
+- Prioritising
+
+#### What would you like to work on next week?
+- Actually advertise the Shiny workshop
+- Organise workshops series on version control
+- Run the Collab Cafe on Thursday
+- Create a Zenodo community for the RSF
+
+#### Where do you need help?
+- I'm alright actually!
+
+#### Any other topics
 
 
 ## Date: 24 January 2023
