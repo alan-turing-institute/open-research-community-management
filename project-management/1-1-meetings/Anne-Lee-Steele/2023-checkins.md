@@ -18,6 +18,7 @@
   - Website usability review (starting this week)
   - Fireside chat planning (message 14 Feb)
   - Enrichment Scheme (submit by 16 Feb)
+  - Newsletter (draft for next week)
 - Reviewing working styles
 - Planning event calendar
 
