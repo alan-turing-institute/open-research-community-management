@@ -8,6 +8,19 @@
 
 ## 1:1 meetings
 
+### 2023-02-14
+- Ongoing tasks
+  - TTW Year in Review (due 15 Feb)
+    - ALS: How to structure, recommended resources
+  - Goal-setting: resources you would recommend? (due 15 Feb)
+  - TTW 2022 year in review: struggling with format of review (17 Feb)
+  - AI-UK Merch order (email coming 15 Feb)
+  - Website usability review (starting this week)
+  - Fireside chat planning (message 14 Feb)
+  - Enrichment Scheme (submit by 16 Feb)
+- Reviewing working styles
+- Planning event calendar
+
 ### 2023-01-31
 - Accessibility workshop
   - Found it really interesting, and definitely in parallel to the workshops that Andrea & Liz ran at Book Dash.
