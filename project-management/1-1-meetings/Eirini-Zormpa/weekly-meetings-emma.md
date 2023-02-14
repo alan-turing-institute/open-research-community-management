@@ -51,6 +51,7 @@ Last week was a little slow while I was adjusting to being back to work after CO
 - Online meetings take it out of me in a way they didn't used to?
 - Reshuffling responsibilities as the team expands
 - Prioritising
+   - EK - hang in there as it will get smoother once you have sorted out what everyones roles are.  
 
 #### What would you like to work on next week?
 - Actually advertise the Shiny workshop
@@ -62,7 +63,7 @@ Last week was a little slow while I was adjusting to being back to work after CO
 - I'm alright actually!
 
 #### Any other topics
-
+- we must do your performance objectives - please draft for me to review next week. 
 
 ## Date: 24 January 2023
 
