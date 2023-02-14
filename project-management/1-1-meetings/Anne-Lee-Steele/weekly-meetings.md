@@ -1,5 +1,13 @@
 ## ALS + MS check-ins
 
+* [2022-12-13](#2022-12-13)
+* [2022-11-02](#2022-11-02)
+* [2022-10-26](#2022-10-26)
+* [2022-10-11](#2022-10-11)
+* [2022-10-04](#2022-10-04)
+* [2022-09-27](#2022-09-27)
+* [2022-09-20](#2022-09-20)
+* [2022-09-06](#2022-09-06)
 * [2022-08-30](#2022-08-30)
 * [2022-08-16](#2022-08-16)
 * [2022-08-09](#2022-08-09)
@@ -16,6 +24,410 @@
 * [2022-03-29](#2022-03-29)
 * [2022-03-25](#2022-03-25)
 * [2022-08-23](#2022-08-23)
+
+# 2022-01-10
+Happy new year! :)
+- MS: Bringing things meetings
+  - 1:1 meetings - where should this be? Logistical questions: these should be more about a space that you define? How can we reimagine these meetings? Length & Frequency!
+  - Every 2nd or 3rd month, have a meeting on career development (active feedback). Define a space for me? My role within Turing Way, open science hat? Do you want feedback from me on different things? Personal coaching?
+  - What other places enable this kind of project tracking in real time?   
+  - We had talked about wanting to use January for goal-setting+setting the tone for the rest of the year, maybe through a reading day. How shall we do that?
+  - ALS: Will bring to next week.
+- MS: Events calendar. Predictability of events. Way of accessing our events calendar. For external folks (in Turing). Will be posted on microsite.
+  - ALS: Create calendar system for upcoming talks + events.  Campaigning.
+- Upcoming events: Budgeting, Timing Questions.
+  - FOSDEM - invitation to do in-person in Brussels (Feb 4-5). Feb 4 at 16hrs. Can do online.
+    - MS: Should be able to do in person!
+  - FOSS Backstage: invitation to do in-person in Berlin (Mar 17-18). Time not confirmed. Presenting with DG, can do online.
+    - MS: Check with in-person with DG. Check about supporting travel.
+  - Connections Workshop: In Newcastle. Scheduled for 7 Feb at 11:30am. Asked about dinner on 6th - possibility of co-presenting with TTW team member? Any other planning required?
+    - MS: Go alone, and confirm.
+  - AI CDT Fair Principles. Scheduled for 25 Jan and 15 Feb.
+    - MS: EK confirmed. Presenting with EK and EZ. Double checking about bringing in MS.
+  - OpenUK State of Open Con: In London with MS (Feb 7-8).
+  - FORCE22: Invited to speak about localisation on 19 April at 10am. Must respond by 15 January.
+  - Am I missing any other upcoming events?
+- Proposal status and upcoming submissions:
+  - Connections workshop: . Confirmed - any planning required?
+  - MozFest: proposal submitted. Waiting on status. JD interested in getting involved.
+  - csv,CONF: proposal submitted. Waiting on status.
+  - MetaScience 2023: due 23 Jan. AB preparing proposal.
+  - RightsCon: Submit by 19 January. Should we?
+    - MS: Resubmit info from BA & LC. Ask if they're interested in getting involved.
+  - ACM CHI: Submit by 19 January. Should we?
+    - MS: Can be more proactive about asking folks to present in these spaces! Signposting for folks about joining data science/AI/HCI platforms. The Carpentries have an etherpad where they have listed all the months with different conferences listed.
+    - MS: List for people attending conferences - can add their names to keep track of people attending. Jez & Patricia enabled that - can add advice?
+    - ALS: Thinking about how to make more open!
+  - Royal Society Meeting - invited on May 23 by JA on 22-23 May in Glasgow. May overlap with Book Dash. Should other team member present?
+  - Any other submissions/conferences we should keep in mind?
+- Upcoming Applications
+  - Enrichment Students: due by 31 January
+  - GSoD/GSoC:
+- Planning Book Dash Dates May 2023: week of 22-26 May?
+- Merch order: Following up with Hatch this week. Should order still be sent to MS address? ---> Will follow up with Fireside chat organisers + Core Team about addresses. Talking with KW about release form.
+  - MS: Change back to MS?
+- Fireside chats: Can bring some suggestions for topics & calendar to next meeting. Restart the series in February?
+- Onboarding documents + meetings.
+  - Meeting with SL next Monday for onboarding.
+  - Invited AAA to Collab Cafe on 18 Jan.
+  - Preparing documentation.
+- Planning time for 2023 strategy: with KW, AB?
+  - MS: Plan for calendar time in person. Plan for online in February. AAA can observe online, will help AB. Feb better in terms of timing.
+- MS: Planning for Practitioners Hub: BridgeAI, OpenUK. RPM, PD, RAM work would be more focused on that at first. Microsite planning (will follow up with AB). RPM needs to make operational work set-up. Where do you struggle with PM? Where can you delegate this to RPM? Weekly, Monthly, Yearly tasks.
+- Upcoming working abroad plan: documents, timing.
+
+# 2022-12-13
+- Ongoing newsletter draft: https://hackmd.io/HnWkW6m6Q3uo-Y92dUc_lg
+- Onboarding materials for core team: https://hackmd.io/pBysnLn2QxKMCHqPKvj9uA?both
+- Mozilla submission:
+- RPM role: candidate update
+- Final review day before holidays?
+- Upcoming holiday dates and plans
+- OLS- final mentor/mentee call
+- Merch order: delayed to early 2023?
+
+### Ongoing Tasks
+- Sending off newsletter before the end of the year
+- Reminder about addresses
+- Fireside review form: - 460 unique sign-ups: https://docs.google.com/spreadsheets/d/1x7glptRAaXp_nEXfCZ33216k3zbKJ6B-iN749CIHiso/edit#gid=1876797524
+
+# 2022-11-02
+- Urgent updates from Monday/Tuesday?
+- Confirming Book Dash details (see below)
+- Newsletter
+  - Adding to Tinyletter
+  - Tiny edits re: RPM job description
+  - Adding zenodo links
+- Talks
+  - BA - RiotScience
+  - DG - FOSS Backstage
+
+### Ongoing tasks
+- Full updates here: https://github.com/orgs/alan-turing-institute/projects/27/views/1
+- Book Dash
+  - Accessibility chat: confirming this week: Thursday
+  - Creating channel for github workshop with MS
+  - Creating accessibility talk channel
+  - London Hub
+    - Booking room in Turing
+    - Buying own food + reimbursement afterwards
+  - Following up with Asia/Aus hub
+    - Email + slack reminder
+  - Booking room for London hub - Tuesday
+  - Supporting development of Community Share-outs
+    - Planning agenda
+    - Send agenda to planning committee
+  - Confirm: Zine workshop no longer happening?
+  - Organising store with Redbubble vouchers.
+    - MS will respond
+  - Cards - ALS will send card update
+  - Signing up for workshop with OLS -
+  - Onboarding people
+  - MS:
+    - Will update Etherpad
+  - Note for assigning tasks after Book Dash during internal review
+  - Github issue: any tasks that need to get done, will post in planning committee channel - https://github.com/alan-turing-institute/the-turing-way/issues/2623
+- Working Groups
+  - Ask groups for time for documentation
+  - Scheduling kick-off for Maintainers WG (with agenda)
+- OLS: checking in
+- Ordering cards: sending AB + MLS info for ordering cards
+- Fireside chat: following up with participants + co-organisers
+  - Address collection
+  - Retrospective release forms
+  - Ordering + sending cards
+
+### Proposal Updates
+- FOSS Backstage - 13 Nov - deadline extended
+- FOSDEM 2023 - due 15 Nov - submission in progress
+- csv,CONF 2023 - due 25 Nov - submission in progress
+
+# 2022-11-02
+
+### To review with MS
+- Will be starting annual review in the comming weeks (appraisal, annual review)
+- Introducing a PM and task tracking system for my everyday/long term work.: https://github.com/orgs/alan-turing-institute/projects/27/views/1
+- Finishing up newsletter draft this afternoon. Have a couple of things to field from various teams in TTW: https://hackmd.io/YEu81jOKRwim7cWFgIJELA
+  - MS: Collaboration cafe will review.
+  - MS: Keep color photos. Will use second photo.
+  - MS: Create a one pager summary of fireside chats. Postal address form address for people. Secure way to accept address with GDPR.
+- Send budget document for RedBubble. Incoming for greeting cards.
+  - MS: Will be sending feedback.
+- Book Dash planning: reaching out to Mars, Liz, Andrea about accessibility social hour talk. Confirm times that this would be possible: Thursday, 14-15:30 hours?  https://pad.sfconservancy.org/p/ttw-bookdash-nov2022-day3
+- Fireside Chat: sending review survey to attendees for Nov and Oct fireside.  
+- Setting up project board for reviewing fireside video transcripts: can offer redbubble
+- CoC training for CoC: Sending a response. Make sure to be prompt in response under 24/7 hours. Will let people know about it.
+- Data Conversations: MS will respond to Alisha
+
+### Ongoing tasks
+- TPS Coffee Chats: booking speakers
+  - JD+Hugging Face team: first group
+  - Danny: second talk
+    - MS: Timing might not be good.
+
+### Proposal updates
+  - RDA Alliance Plenary 2023 - due 31 Oct - did not submit. MS: was invited to attend. It should be all right.
+  - FOSS Backstage - 6 Nov - submission in progress. Adding submission for Danny there.
+  - FOSDEM 2023 - due 15 Nov
+  - csv,CONF 2023 - due 25 Nov
+  - MozFest - open
+  - RightsCon - open
+
+### Event Updates
+- RIOT Science - following up with BA this week
+
+# 2022-10-26
+### Questions for MS
+- How was your holiday?!
+- Invited to join FORRT - MS: grassroots, alignment with TTW, focused in neuroscience, attend meeting
+- OpenUK - invited to in-person
+- OSM: invited to give talk about research
+- Reporting update - anything I need to add?
+- What is the best way for me to get started with Book Dash scheduling?
+  - Data Conversations: reached out to MM (LA - Argentinian health center as health center)
+  - Mars Lee interested in accessibility sessions <- other social chat?
+  - Preparing "gift bags"
+  - Next steps?
+- Thank you illustrations (Scriberia) - order some cards! (bulk!)
+- Gifts for everyone for Fireside Chat (!)
+
+### Ongoing tasks
+- Planning for BTS (all set for tomorrow?)
+- October Fireside <-- Make ask to share explicit, since we are great!
+- Book Dash planning
+- TPS Coffee Chats: booking speakers
+  - JD+Hugging Face team: first group
+- Newsletter: draft tomorrow morning, to send by Friday morning?
+- TPS + Public Policy team project (Practioner Hub project) - MS: Research Ethics handbook, Turing Commons, TTW
+- TTW upcoming postdoc role
+  - PM for TTW: content & reporting, newsletter, eventbrite, operational focus, etc.
+  - Postdoc for TTW: strategic work, partnership management, domain-specific organisation, impact in context, case studies, coordination + research oriented
+  - 5 months of freelance/writing: CM paper, RAM paper, TTW papers
+
+### Thank yous
+- GA for October fireside chat planning!
+- JD + AB for planning BTS hackathon (piloting a new model!)
+- SB for sharing training info
+
+### Event Updates
+- Hacktoberfest (all of October) - not too many participants so far?
+- Turing Enrichment students (11 Oct) - today!
+- Genomics England Health Equity Conference (20 Oct) - success!
+- King's college- Telling Stories with Data (27 Oct) - moved to next year
+- Big Team Science (27 Oct) -
+- Book Dash (14 - 18 Nov) - planning ongoing
+- Community Share out + Governance forum (18 Nov)
+- RIOT Science (30 Nov) - recent addition
+- Malvika keynote (November)
+- McGill Open Science event (November)
+- TPS Chats December (December)
+- Last Collaboration Cafe celebration! (7 December) - Closed until the second week of January
+
+### Proposal updates
+- FORCE11 2022 - submitted!
+- RDA Alliance Plenary 2023 - due 31 Oct - in progress (MS: post in #community channel)
+- FOSS Backstage - 6 Nov
+- FOSDEM 2023 - due 15 Nov
+- csv,CONF 2023 - due 25 Nov
+MS: Ask people about getting involved with upcoming notes!
+
+# 2022-10-11
+### Ongoing tasks
+- Research Fish: need invitation to join TTW report
+- TTW reporting: due by 13th - emphasise key findings and narrative impact
+- Newsletter: need to carve out time this week (huge amount of updates from September)
+- Feedback loop for working groups & fireside chat
+- October fireside chat: possibly someone from NASA citizen science, any recommendations?: https://science.nasa.gov/citizenscience
+- Book Dash internal process: review form to review applicants, share sheet of applicants with committee
+- Planning for 2023:
+  - Submissions for upcoming conferences + talks
+  - Planning for 5-6 workshops next year:
+    - Facilitation workshops
+    - GitHub
+    - BinderHub
+    - Reproducibility Workshop (w/ centre for doctoral training)
+- Conflict of interest document
+- Sending email for ATI newsletter
+- Working Groups: People have professional accountability with each other, slow down!    
+
+### Thank yous
+- GA for October fireside chat
+
+### Event Updates
+- Hacktoberfest (all of October)
+- Turing Enrichment students (11 Oct) - today!
+- Genomics England Health Equity Conference (20 Oct)
+- King's college- Telling Stories with Data (27 Oct)
+- Big Team Science (27 Oct)
+- Book Dash (14 - 18 Nov)
+- Community Share out + Governance forum (18 Nov)
+- RIOT Science (30 Nov) - recent addition
+- Malvika keynote (November)
+- McGill Open Science event (November)
+- TPS Chats December (December)
+- Last Collaboration Cafe celebration! (7 December) - Closed until the second week of January
+
+### Proposal updates
+- FORCE 2022 - due 20 Oct
+- RDA Alliance Plenary 2023 - due 31 Oct
+- FOSS Backstage - 6 Nov
+- FOSDEM 2023 - due 15 Nov
+- csv,CONF 2023 - due 25 No
+
+# 2022-10-04
+### Ongoing tasks
+- Will be sending out the survey for the fireside out this week, to the September attendees & August attendees
+- Refashioning the "October Fireside into a kind of Fireside Forum – and sending off information this week about having representatives from the working groups at the forum.
+- In terms of Hacktoberfest? I can start to post information around about this in various channels? Looking at the info, it seems like a lot of things we are doing already can count towards the contribution count? Will read up on it more.
+  - Glossary
+  - Tagging CarpentryCon issues
+  - Asking working groups
+  - Post in the slack - SB + PO were previous wrangers!
+- Posted the Book Dash post internally, but looks like it didn't go in the Turing newsletter. I'll be reaching out to folks this week, and be making a Twitter thread. We have 11 applications so far.
+  - Catering + 1 day in person
+  - Need to confirm which day is in person
+  - Add extension to hub application (might not be able to support)
+  - Asia-Australia hub: ask people about hubs
+    - Saranjeet, Johanna, Losia, Paula Andrea Martinez, Rowland M
+- Newsletter
+- Cancel all meetings for December !
+
+### Thank yous
+- JD & AB for prepping Big Team Science
+- EZ for King's college
+
+### Event Updates
+- Hacktoberfest (all of October)
+- King's college- DRIVE-HEALTH CDT Seminars (5 Oct)
+- Genomics England (20 Oct, moved from 5 Oct due to strikes)
+- King's college- Telling Stories with Data (27 Oct)
+- Big Team Science (27 Oct)
+- RiotScience (November 30)
+- Malvika keynote (November)
+- McGill Open Science event (November)
+- TPS Chats December (December)
+- Last Collaboration Cafe celebration! (7 December) - Closed until the second week of January
+
+### Other info
+
+# 2022-09-27
+### Questions for MS
+### Ongoing tasks
+- Focus is primarily on documentation:
+  - Last community research update (~6 month review): https://github.com/alan-turing-institute/the-turing-way/discussions/2552
+  - Phase 2 planning: https://github.com/alan-turing-institute/the-turing-way/discussions/2610
+  - Working Group documentation: https://github.com/alan-turing-institute/the-turing-way/discussions/2646
+  - Communication review: https://github.com/alan-turing-institute/the-turing-way/discussions/2644
+- Message to infrastructure channel about formalisation (today)
+- Message to book dash planning committee about meeting (today)
+- Book Dash Updates
+  - Promotion for book dash applications (tomorrow) -> ATI slack + Twitter + slack channels
+  - Direct people to contact about joining
+  - Lena: planning for data conversation
+  - HackMD: create HackMD for all Book Dash events (MS will make)
+  - Send a when2meet to channel
+  - Scheduling social sessions:
+    - Data Conversations: Tuesday
+    - Accessibility session (suggest other workshop format later)
+- Fireside chat planning is almost complete, low sign-up rates
+- Newsletter: https://hackmd.io/YEu81jOKRwim7cWFgIJELA
+- Blog for TTW? Asma writing a post about her experience with Outreachy.
+  - Add to case study: https://github.com/alan-turing-institute/the-turing-way/pull/2202
+- December coffee chats
+- Book Dash invitees
+  - Susanna (enrichment student)
+  - Lucy (enrichment student)
+- October fireside chats: low-key engagement for October -->
+
+### Thank yous
+- JA for co-planning fireside (total rockstar)
+- JD for writing submission to NeuroIPS
+- EK for planning genomics england workshop
+- EZ for co-giving presentation on 5 oct
+- LK for being in contributor record: https://the-turing-way.netlify.app/afterword/contributors-record.html#vrije-universiteit-amsterdam
+
+### Event Updates
+- Genomics england moved to Oct 20 because of strikes
+- Big Team Science on Oct 15
+- Proposed shift for workshop @ king's on Oct 27
+- Riotsclub talk - ask JD?
+
+### Proposal updates
+- Upcoming proposal for research data alliance: https://rd-alliance.org/rda%E2%80%99s-20th-plenary-call-sessions-now-open
+
+### Other info
+- New Guide for Accessibility: GCHQ & Defense Ministry (December or 2023)
+- Community Health Report (move to 2023)
+- Governance Task Force (move to 2023)
+- Scriberia images: other ways of communicating our projects in simple ways --> what is the other creative thing we're doing with people?
+- SM new chapter idea -->
+- Turing Commons: developing a case study repository
+- Add that form for Book Dash to Newsletter
+- What has happened (what exists), what is documented, what can be shared
+
+# 2022-09-20
+### Questions for MS
+- Outreachy: planning for next season after conversations with OLS team :) BA - go through OSSA. Need to plan for having money. Planning for Outreachy for GSoD. Worked in 2020 on this: weren't historically recorded before. CZI & wellcome started funding. Can we offer her more support or co-write some proposals for TTW with her? +: We don't have to talk to ATI. Ask about working with BA on this. BA - collab cafe about Outreachy.
+- Fireside chat: sent all the info. Making all the events.
+- Ask from Sophia: connecting AIM to Scriberia (short dash?).
+  - MS: Send chapter from Scriberia, will forward email with CC.
+- Collaboration Cafe: Batool & Asma presenting, time used by TTW team for organising teams, MN from Genomics England may be setting up community room, will check-in about other tasks.
+- Slack Audit: ready to propose changes: https://docs.google.com/spreadsheets/d/11MmzROZGpSkzoB01ATOTpklXrIg86eKSm1xUmPZuhlA/edit#gid=547657140 (post on slack + github discussion)
+- Book Dash: ongoing tasks for this week?
+  - Connecting with Scriberia <- AIM team interested
+  - Applications: currently 6 applications.
+  - Hub: pending application, should reach out to AR from Bristol?
+  - VU Data Conversations: social chats
+  - 4 social sessions planned: show & tell lunch, ... other hubs take over a social session
+  - Reminder for book dash PC channel: application for book dash is closing in 10 days. Separate call for planning conversations + do meeting review + event planning.
+- Check-in about probationary report
+- Working half-days next week: visiting family in NYC!
+- Governance Task Force
+- Presenting TTW, normalising presenting TTW in different spaces
+
+### Ongoing tasks
+- September fireside chat: sent out invites, initial data, promotion starting this week (will embed survey into this process)
+- Civic tech database: now featured
+- Organising infrastructure team: conversation with SG, now reaching out to infra channel + AR + AL.
+- Adding documentation here: https://github.com/alan-turing-institute/the-turing-way/discussions/2610
+- Invited for reccurring calls with SG (will set up) & M
+- Newsletter
+- Half-day: governance working group
+
+### Thank yous
+- Many thank yous! MS for probationary report preparation, SG for infrastructure help, core team for working group prep, JD+AC for other organisational help!
+
+### Event Updates
+- Mozilla WG update: presented last week.
+- Genomics workshop (5 Oct)
+- King's college workshop (5 Oct) - will connect w Eirini
+- Connections workshop (26/27 Sept) - will connect with team
+
+### Proposal updates
+- Searching for additional proposals for fall 2022 season
+- Research Data Alliance (due 31 Oct): https://rd-alliance.org/rda%E2%80%99s-20th-plenary-call-sessions-now-open
+
+# 2022-09-06
+### Questions for MS
+- Additional support: outreachy intern?
+- Help for keynote topic (RSE Unconference)
+- Review audit documents (need help!)
+
+### Ongoing tasks
+- September fireside chat:
+- Slide deck for
+- Community Health Report
+- Community Research Updates
+- "Internal Audit" <-- tools proposed by SG
+- Core team meeting
+- Governance Task force
+- Maintenance Reflections
+- Feedback loops: survey
+- Invited for reocurring calls with SG & MN
+
+### Proposal updates
+N/A
+- Mozilla WG: invited for event at MozFest 2022
 
 # 2022-08-30
 ### Ongoing Tasks
@@ -50,6 +462,8 @@ N/A
 - Nothing upcoming so far!
 
 # 2022-08-16
+
+# 2022-08-09
 ### Questions for MS
 - Upcoming Fireside chat topics + upcoming planning
 - Should I apply for the SSI fellowship?
@@ -75,7 +489,7 @@ N/A
 
 ### Event updates
 Full schedule [here](https://hackmd.io/GHjxNTyZS1CYQgQst2kKKg)
-Key updates: invited to keynote early career RSE, 
+Key updates: invited to keynote early career RSE,
 
 ### Proposal updates
 N/A

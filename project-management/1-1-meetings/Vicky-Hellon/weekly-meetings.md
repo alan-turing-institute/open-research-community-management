@@ -1,5 +1,17 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [25 January 2023](#date-25-january-2023)
+* [18 January 2023](#date-18-january-2023)
+* [11 January 2023](#date-11-january-2023)
+* [07 December 2022](#date-09-november-2022)
+* [09 November 2022](#date-09-november-2022)
+* [02 November 2022](#date-02-november-2022)
+* [26 October 2022](#date-26-october-2022)
+* [19 October 2022](#date-19-october-2022)
+* [12 October 2022](#date-12-october-2022)
+* [05 October 2022](#date-5-october-2022)
+* [14 September 2022](#date-14-september-2022)
+* [31 August 2022](#date-31-august-2022)
 * [17 August 2022](#date-17-august-2022)
 * [27 July 2022](#date-27-july-2022)
 * [20 July 2022](#date-20-july-2022)
@@ -25,6 +37,507 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 25 January 2023
+
+### Check-in ritual
+A bit tired this week but doing ok!
+
+### Project specific Reflection
+Knowledge Share went well but still struggling with ambassador bits
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Had a productive meeting with Roche corporate comms
+
+#### Who helped you this week?
+* JF with getting comms paper announcement and website bits sorted
+
+#### What did you achieve?
+* Ran Knowledge Share on Monday and doing follow up bits from it
+* Secured speakers for Feb Knowledge Share 
+* Ran a coffee chat on friday
+
+#### What did you struggle with?
+* Multiple meetings with legal and data protection about the ambassador scheme... but we're getting there (said many times but I believe it this time!)
+* Ran website idea past partnership team- parked for now so just need to think about how to do future comms bits more efficiently
+
+#### What would you like to work on next week?
+* Create event page for Feb Knowledge Share
+* Sign off any ambassador bits
+* Plan a new video for YouTube channel
+
+#### Where do you need help?
+* Maybe pushing MB on Ambassador funding
+  * EK - I can have a chat with MB about this. 
+
+#### Any other topics
+* Environmental data science book - https://the-environmental-ds-book.netlify.app/welcome.html
+
+
+## Date 18 January 2023
+
+### Check-in ritual
+All good! Was nice to see so many people in the office last week for the lab meeting :)
+
+### Project specific Reflection
+Fairly calm week so far, just prepping for Knowledge Share next week and planning more video content. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Onboarded ER into the partnership 
+* JD- helping her out with testing a user interview framework about Github data and consent
+
+#### Who helped you this week?
+* Helped BM with Knowledge Share slides
+
+#### What did you achieve?
+* Onboarded Enrichment Student- ER
+* Promoted Jan Knowledge Share 
+* Invited speakers for February Knowledge Share 
+* Put together a doc about moving the TR Slack to the Enterprise Grid for the Slack User Group
+* Sent out newsletter
+* Followed up with community member about demystifying video
+
+#### What did you struggle with?
+* Still waiting for paper comms to be confirmed (must be soon!) but discussing with Roche so should be aligned
+
+#### What would you like to work on next week?
+* Running Knowledge Share event
+* Am trying out a TR Community coffee chat on Friday- intrigued to see the take up!
+* Going to pick up some work in the TTW reviewers and editors group- been slacking
+
+#### Where do you need help?
+* None at the mo
+
+#### Any other topics
+* Excited to help out with TTW booth!
+
+* Enrichment scheme student as trial for amabassador tasks.
+
+## Date 11 January 2023
+
+### Check-in ritual
+Had a good ease back in week last week but feeling busy this week!
+
+### Project specific Reflection
+Starting to plan for 2023 which is nice, excited to have a bit more partnership team activitiy beyond the core team.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Onboarded JJ- new funded project postdoc
+* Connected LGBTQ+ network with Roche contacts
+
+#### Who helped you this week?
+* EZ with R training- have finished all her modules- they were great!
+  - EK - Great that you have done this. Can you remember to put this on our next CM report. Do you have any feedback for EZ to improve the course? or anything that you would need to implement the use of this in your work?
+
+#### What did you achieve?
+* R training over end of December and finished yesterday
+* Onboarded JJ
+* Planned out comms for SM paper- though still a question mark on blog- but can proceed either way
+* Chaired community team meeting
+* Promoted Knowledge Share meeting and planning for Feb and March
+* Starting to plan for quarterly all hands scientific/community meeting
+* Prepped January Newsletter
+
+#### What did you struggle with?
+* Ambassador scheme still languishing- think September launch will make the most sense at this point
+* Ensuring I'm in enough meetings to help with the community side- concious of making sure outputs from "scientific" meetings trickling back to me. All hands should help with this
+* Think a lot of people have not logged into the new Slack but hopefully they will trickle back in
+
+#### What would you like to work on next week?
+* Onboarding enrichment students on Monday
+* Inviting speakers for Feb Knowledge Share
+
+#### Where do you need help?
+* Comms plan for partnership- options of LinkedIn, GitHub page (less of a breakaway for comms but more work for me?) or website (we have funding but may be an issue politically but then very flexible for content/me to manage)
+* How did you get press e.g new scientist to pick up cough paper
+
+#### Any other topics
+N/A
+
+## Date 07 December 2022
+
+### Check-in ritual
+Starting to get back into the swing of things after holidays!
+
+### Project specific Reflection
+Just catching-up and making sure loose ends are tied up to set me up for a good January!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* EZ with advice about slack bots/welcome messages
+* AB- onboarded into partnership
+ * EK - thanks for helping with slack. :raised_hands:
+
+#### Who helped you this week?
+* RC with joining comms chat last minute
+* AS as always, keeping things ticking along and covering!
+
+#### What did you achieve?
+* Published 'versus' video and promoted
+* Onboarded new funded project postdoc- AB
+* Planned Knowledge Share events with YZ for next year
+* Prepped December Knowledge Share 
+* Tracked funding applications to see what came from the workshop
+* Prepped newsletter to send out this week
+* Made slides on community achievements this year for Roche
+* Had end of year joint steering committee meeting
+
+#### What did you struggle with?
+* SM paper comms still a bit unclear
+* Getting website stuff uploaded 
+
+#### What would you like to work on next week?
+* Start planning for next year- how to work with funded projects and integrate community
+* Deliver December's Knowledge Share
+* Catch up on EZ's R workshops
+
+#### Where do you need help?
+* How do I move Slack over- where is the request form? SB said EZ sent everyone a magic link for login but not sure how to do this so need to investigate... but want to take advantage of new year logging in!
+ * EK - contact IT services to arrange this.  
+* AI UK- keen for a partnership talk if possible in the health schedule
+ * EK - yes that would be good but it needs to be something that will spark excitement - new research. Lightning talk (10 mins).  
+
+#### Any other topics
+* For your chat with academic engagement- would like to pass on some feedback about working with the postdocs- keen to do this. 
+
+## Date 09 November 2022
+
+### Check-in ritual
+Feel like I'm in a battle this week not to switch on the heating! But doing good :) And was nice to see Roche last week! 
+
+### Project specific Reflection
+Tying up loose ends before holidays and planning for end of year activities!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* RC with Enrichment submission
+* Team with email text for expert panel
+
+#### Who helped you this week?
+* MOG did a great job running the strategy meeting 
+* LL with versus video
+
+#### What did you achieve?
+* Had strategy meeting- some good brainstorming on long term goals, legacy
+* Had a meeting with UKRN- joined TPS team- sounds like we will be strengthening connections!
+* Had training on filling in Equality Impact Assessments (EIA)- will have to do a few of these!
+* Did some TTW reviewing- think next steps will be decided at the bookdash
+* Versus video is almost up! 
+* Ran knowledge share event 
+ - EK - I'm excited to see the video. 
+
+#### What did you struggle with?
+* Not many responses on my workshop feedback survey (as expected!)- will chase
+* Expert panel discussions but reached a conclusion!
+* No reply from events and comms on certain bits but will chase up 
+* Still waiting on ambassador scheme- considering other options
+
+#### What would you like to work on next week?
+* Publish and promote versus video
+* Upload knowledge share video and do follow up
+
+#### Where do you need help?
+* Just be on standby for any cover for holiday- but AS should be sorted
+- EK yes - this is fine, just email me with what you need covered.
+
+#### Any other topics
+N/A
+
+
+## Date 02 November 2022
+
+### Check-in ritual
+Feeling good- not too much to report this week!
+
+### Project specific Reflection
+Good to have a bit more calmness for now but think it will be interesting to see what comes out of the strategic meeting and how this will change my workload/community plans!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Helped with a few funding call queries
+* Onboarded CB to partnership
+
+#### Who helped you this week?
+* MOG has been helpful with Roche's perspective on the agenda, will be finalising today hopefully 
+
+#### What did you achieve?
+* Put together and sent out workshop survey to participants
+* Ran prep meeting with speakers for next week's Knowledge Share 
+* Put together newsletter- will be going out on Friday
+* Ran second funding call co-working session
+* Caught up with Roche comms
+
+#### What did you struggle with?
+* Know I need to dive back into reviewing the ambassador scheme but hard to get motivated!
+
+#### What would you like to work on next week?
+* Started prepping for December's Knowledge Share so I'm organised with upcoming Nov annual leave- have Roche speaker confirmed, just need to recruit Turing one
+* Review ambassador docs
+* Run Knowledge Share and do follow up from it e.g uploading video
+
+#### Where do you need help?
+* None at the mo- will fill you in on how strategic day went next week!
+
+#### Any other topics
+* EK - we need to discuss slack enterprise next week and how it has gone with Turing-RSS workspace.
+ * TMF project - can you please suggest some contacts that would be good to come the health summitt.  
+
+## Date 26 October 2022
+
+### Check-in ritual
+Nice to be in the office a bit this week and have some social time :)
+
+### Project specific Reflection
+Feeling a bit more on top of things this week and have some breathing space.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Workshop attendees in co-working session- hopefully some further collaboration
+* AS with partnership reporting
+
+#### Who helped you this week?
+* RC, CH and AS with co-working session
+* SM with bullet points about partnership publication to send to comms
+
+#### What did you achieve?
+* Delivered first virtual co-working session post the workshop
+* Watched Turing-Roche versus video and sent back edits
+* Emailed comms about having partnership publication featured as news/blog, waiting to hear back
+* Finalised workshop report- just waiting for BM input
+* Did some co-working with HS on TTW
+* Knowledge Share event promotion
+
+#### What did you struggle with?
+* Strategy day agenda... will see how we go!
+* Worried about AS with IP queries but not much I can do- co-working ended up as a bit of a Q&A
+
+#### What would you like to work on next week?
+* Will be onboarding new postdoc CB tomorrow 
+* Catching up with Roche comms
+* Prepping for November Knowledge Share 
+* Strategy Day!
+
+#### Where do you need help?
+* None at the mo
+
+#### Any other topics
+N/A
+
+## Date 19 October 2022
+
+### Check-in ritual
+Still feeling busy but mainly good busy ha!
+
+### Project specific Reflection
+Lots of post workshop bits but seems like there has been some good collaboration which is promising! 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* MB with overview of community management within the partnership
+* RC with setting up Slack channels for him to talk to workshop attendees
+
+#### Who helped you this week?
+* BM gave good endorsment of community management at SM funded project kick off meeting
+* RC has been really helpful with engaging with the workshop attendees in the slack and via email and planning next steps
+
+#### What did you achieve?
+* Kick off meeting for SM projects- did some slides on community management and was good to meet the teams 
+* Started workshop report
+* Met with CS and gave him instructions for his demystifying video- he will be prepping in a few weeks
+
+#### What did you struggle with?
+* Strategy meeting for partnership has been put in the diary for November 4th. Helping out with agenda but worry it might end up a bit aimless like last year
+ * EK - you can only but keep trying to move them in the right direction! Hopefully MB will help you with this.
+
+#### What would you like to work on next week?
+* Versus video has been sent over so need to check editing.. and maybe fight the YouTube fight again
+* Hosting first post workshop virtual co-working on Thursday
+* Will be preparing a survey for workshop attendees
+* Making event page for November's Knowledge Share 
+
+#### Where do you need help?
+* Really appreciate your comments on my objectives- looking forward to finalising!
+ * EK - we got this finished! Please do now add to Cezanne. 
+
+#### Any other topics
+N/A 
+
+
+## Date 12 October 2022
+
+### Check-in ritual
+Workshop done- a success!
+* Well done - the success is all down to your hard work! :star:
+
+### Project specific Reflection
+Feels like a big tick off the list- will now be working on follow up and other bits for the year e.g new PDRA starting, strategy day November 4th. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Partnership team with workshop
+
+#### Who helped you this week?
+* AS with all the organisation
+
+#### What did you achieve?
+* Knowledge Share event went well
+* Workshop!
+
+#### What did you struggle with?
+* Packing everything in but should have more time from now on
+
+#### What would you like to work on next week?
+* Kick off meeting with structured missingness- need to think about what I want from them community wise 
+* Objectives
+* De-mystifying video with Cameron
+* Community manager report 
+
+#### Where do you need help?
+* Will do objectives next week and we can review :)
+ * EK - Yes happy to review them before next weeks meeting.
+
+#### Any other topics
+N/A
+
+## Date 05 October 2022
+
+### Check-in ritual
+Feeling refreshed but coming back to busy times!
+
+### Project specific Reflection
+Mostly focusing on the workshop next week! 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Partnership team with getting everything in order for the workshop
+
+#### Who helped you this week?
+* AS with great cover!
+* EK with event promotion 
+
+#### What did you achieve?
+* Catching up on inbox
+* Prepping for October Knowledge share next week and getting speakers sorted for November's
+* Recorded Turing-Roche versus video with SM and BM
+* Finalising workshop agenda and logistics, contacting attendees
+* Prepping newsletter to send out hopefully this week
+* Goatherding
+
+#### What did you struggle with?
+* Still feel like the workshop lacks a bit of structure in the breakout sessions but probably just my personal preference and will be fine on the night!
+* Catching up with TTW work
+* DW not being available for video recording
+ * EK - send an email and copy me and MB in if there is any problems with this. 
+
+#### What would you like to work on next week?
+* Knowledge Share event and workshop Monday and Tuesday respectively
+* Any workshop follow-up
+* TTW reviewing bits
+
+#### Where do you need help?
+* Objective setting- next week after the workshop is probably a good time
+ * EK - Please make a google doc to start drafting this and we can discuss it in the next few weeks. Thanks for highlighting this. 
+
+#### Any other topics
+N/A
+
+
+## Date 14 September 2022
+
+### Check-in ritual
+Very busy week but grateful for efficient team working! Really enjoyed myself at RSECon- felt good to connect with people in a conference setting again!
+
+### Project specific Reflection
+Funding call launched successfully- good amount of initial interest but need to ensure comms is maintained to get workshop applications in time etc. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Connected someone from RSECon to UKRN team
+  * EK - Can you feedback to the lab about RSECon please. 
+* KP with slides for a talk to ABPI that NG is giving
+
+#### Who helped you this week?
+* AS with support as always!
+* Roche colleagues with putting together slides for Q&A session 
+
+#### What did you achieve?
+* Knowledge Share on Monday
+* Initial planning meeting for workshop and putting together agenda, logistics
+* Slides and planning for Q&A session
+* Comms for workshops and funding call- posting on slack, organising with Turing comms
+* Started brainstorming TTW activities with HS and JD
+  * EK - data wrangler team are looking to join in more with TTW and need a project.  
+
+#### What did you struggle with?
+* Feels like a lot packed in with the bank holiday!
+* Support for AS
+  * EK - I can highlight this to MB. 
+
+#### What would you like to work on next week?
+Finishing up this week:
+* Knowledge Share follow up- uploading to YouTube, sending email round to attendees
+* Q&A for funding call session on Friday and any follow-up
+* Handing over workshop stuff to Alvaro 
+
+#### Where do you need help?
+* Really struggling to recruit a speaker for October's Knowledge Share- have tried for weeks. Can send you across info about where I'm at- would really appreciate if you could cover for me whilst I'm away!
+   * EK - I can cover this!  
+
+#### Any other topics
+* Need 1:1's cancelling for next 2 weeks
+
+## Date 31 August 2022
+
+### Check-in ritual
+Nice to have people back after hols- bit of new year energy!
+
+### Project specific Reflection
+Will be feeling good when the funding call is launched next week- trying to get organised for all the associated community activities especially as I'm away for the last 2 weeks of September.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Gave some advice to potential applicants for T-R PDRA role
+* Me and AS continue to support each other during this busy time! 
+
+#### Who helped you this week?
+* Met with FD- had a good discussion around comms and messaging around partnership news stories
+   * EK - let's discuss Linkedin for the health programme more. 
+* YZ on it with planning 
+
+#### What did you achieve?
+* Filmed demystfying video! 
+* Started finding speakers for October Knowledge Share
+* Working with website team to get funding call and workshop info uploaded
+   * EK - well done getting the first video done :star: and all the prep for autumn events/funding calls. 
+
+#### What did you struggle with?
+* Think strategy for partnership will rear its head again
+
+#### What would you like to work on next week?
+* Will be at RSECon Mon-Weds so looking forward to a bit of networking- haven't been to a conference for years!
+* Prepping and sending newsletter
+* Prepping for Knowledge Share- speaker prep, choose polls and plan networking bit at the end
+* Uploading demystifying video
+
+#### Where do you need help?
+* Bouncing ideas for Q&A and workshop as I get further down the planning stage
+
+#### Any other topics
+* Will be away for our 1:1 next week as at RSECon
 
 ## Date 17 August 2022
 

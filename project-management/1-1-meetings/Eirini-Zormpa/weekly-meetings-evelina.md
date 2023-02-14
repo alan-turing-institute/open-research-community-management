@@ -5,7 +5,336 @@
 * [29 June 2022](#date-29-June-2022)
 * [8 July 2022](#date-8-July-2022)
 * [15 July 2022](#date-15-July-2022)
-* [29 JUly 2022](#date-29-July-2022)
+* [29 July 2022](#date-29-July-2022)
+* [5 October 2022](#date-5-October-2022)
+* [12 October 2022](#date-12-October-2022)
+* [19 October 2022](#date-19-October-2022)
+* [2 November 2022](#date-2-November-2022)
+* [11 November 2022](#date-11-November-2022)
+* [18 November 2022](#date-18-November-2022)
+* [23 November 2022](#date-23-November-2022)
+
+
+## Date: 23 November 2022
+
+### Check-in ritual
+I finally reached to PG who offered to help out with AIM training in the survey ✨
+
+### Project specific Reflection
+Not much has changed since Friday 😅 The data viz workshop went well and I got some really lovely feedback from two attendees at the beginning of the session 🥰
+
+### Notes to discuss during 1:1
+
+- Planning ECR events and Collab Cafes in 2023.
+- SB helped me set up an all-contributors bot for the training workshop. The idea is to acknowledge learners, helpers and instuctors that participate in the workshops. Do you have a preference on creating custom roles for these are trying to repurpose existing ones ([emoji-key](https://allcontributors.org/docs/en/emoji-key)?
+
+#### Who did you help this week?
+I'm not sure 🙈
+
+#### Who helped you this week?
+
+RK and EM helped out with the data viz workshop :blush:
+
+#### What did you achieve?
+
+- I prepped for the data viz workshop and delivered it.
+- I reached out to DynAIRx and it turns out they do have new hires! I'm waiting on a list from their project manager and I'll try to set up meetings with them. I'm also trying to set up a meeting with their new project manager as I haven't met them yet.
+
+#### What did you struggle with?
+
+- Prep for the data viz was kind of difficult this time - the visualisations were somehow not working as I was expecting them to. I mostly figured things out but there was a thing that should have worked that in the live demo didn't and that was quite annoying.
+- I'm conscious that I still haven't written up the survey outcomes 😬
+
+#### What would you like to work on next week?
+
+- Upload the materials from the workshop
+- Prep for the workshop in December
+- Make a list of the things I need to do once I'm back
+- See if I can make any progress on the survey
+- Plan events in 2023 (I also have a meeting with DC and SB about this)
+
+#### Where do you need help?
+
+- The R workshops have taken up most of my attention recently - is there something I have been neglecting?
+
+#### Any other topics
+
+
+
+## Date: 18 November 2022
+
+### Check-in ritual
+
+### Project specific Reflection
+
+It's been a pretty good week - people do seem to be getting on to Slack which is nice and the R workshops are going well.
+We made some progress with branding.
+The people directory on GH has hit a bump on the road though.
+
+### Notes to discuss during 1:1
+
+- How to move forward with GitHub?
+
+#### Who did you help this week?
+
+- I didn't help much but I reassured one of the community members that they were asking a questtion that seemed straightforward but didn't have an easy answer (about adding coloured text boxes in a GH README)
+
+#### Who helped you this week?
+
+- RH helped out with the R workshop and SB helped me with setting up the all-contributors bot for the training repo.
+
+#### What did you achieve?
+
+- Launched Slack
+- Taught the R workshop
+- Led the Collaboration Cafe
+- Participated in the Book Dash (working on archives)
+
+#### What did you struggle with?
+
+* GitHub & GDPR
+
+#### What would you like to work on next week?
+
+- the next R workshop
+- getting engagement on Slack going
+
+#### Where do you need help?
+
+- GitHub and Slack?
+
+#### Any other topics
+
+## Date: 11 November 2022
+
+### Check-in ritual
+I've been having lots of lovely conversations with people within AIM and from the CoPs.
+
+### Project specific Reflection
+
+It's been a really busy couple of weeks: that's great on the one hand because I feel like I've gotten a lot done, but it's also starting to wear me out a little.
+
+### Notes to discuss during 1:1
+
+- How did the meeting with the PIs go?
+- Slack strategy
+
+#### Who did you help this week?
+
+- The Skills team by participating in the Careers panel for the CDT Connections conference.
+
+#### Who helped you this week?
+
+- AR is helping me with brainstorming about R.
+
+#### What did you achieve?
+
+- SSI Mental health panel + Careers panel
+- Prepping for and teaching the R workshops + office hours + making resources available after the workshop
+- Figuring out GDPR limitations
+- Setting up Slack channels/workflows
+- Building relationships with CoPs
+- One-to-ones with community members
+
+#### What did you struggle with?
+
+- I've been a bit rushed for time and unable to prep for things as well as I would have liked: e.g. adapting the Data Carpentry lesson for COVID-19 data and coming up with exercises.
+
+#### What would you like to work on next week?
+
+- More R workshops 💙
+- Collab Cafe next week
+- Follow up with people from meetings in the last couple of weeks
+- Follow up on GDPR things
+- Launch Slack on Monday
+- Survey
+- Book Dash?
+
+#### Where do you need help?
+
+- Realistically, the R workshop will take most of my time, so some help with the survey write-up would be very helpful!
+
+#### Any other topics
+
+
+
+
+## Date: 2 November 2022
+
+### Check-in ritual
+Massive respect to all the attendees in yesterday's R workshop who, somehow, did not make typos???? 🤯
+
+### Project specific Reflection
+Last week was pretty busy: I did a lot of work 1) restructuring repos to share more information with AIM members and doing so in a GDPR-compliant way and 2) getting ready for the R workshops, which at least for yesterday seems to have paid out ✨
+
+### Notes to discuss during 1:1
+- It'd be nice to clarify my line management after January
+
+#### Who did you help this week?
+- I'm doing some of the GDPR research that'll be helpful for the RSF and CMs in general
+- I've been making sure not to overload SB who's still recovering
+
+#### Who helped you this week?
+- EM was a great helper yesteday.
+
+#### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+* It's ok if your list is only one bullet point long!
+
+#### What did you struggle with?
+- I'm doing okay at the moment, though I'm a bit rushed.
+- The survey analysis has fallen through the cracks
+
+#### What would you like to work on next week?
+- ECR lunchtime session
+- Share resources from yesterday's session with attendees
+- Office hours for R
+- Prep for next workshop
+- Do some documentattion on running events
+- Slack prep
+
+#### Where do you need help?
+- There's a lot of things I'm planning on doing and I know how to do at least most of them, but I don't think I have time to. Some help with prioritising things would be helpful.
+
+#### Any other topics
+
+
+## Date: 19 October 2022
+
+### Project specific Reflection
+
+- Things have been alright - I've been working on the GitHub workshop for yesterday afternoon mostly. It honestly didn't go as well as I would have liked, but at least we can learn from the things that went wrong.
+- Being in the office on Thursday and Friday last week stole a lot of the focus time I had reserved 😢
+- I started having weekly meetings with SB and DC on Monday which is nice!
+
+### Notes to discuss during 1:1
+
+- Lessons learned from yesterday's GitHub workshop: we mostly had issues with write access in the repos: the general AIM consortia team didn't give write access to any of the repo + external folk that we couldn't add as members in the organisation had to work with forks.
+- People are being interviewed for RSF positions :tada:
+
+#### Who did you help this week?
+
+Uhm not sure, my memory is terrible 🙈
+
+#### Who helped you this week?
+
+- CO has been fantastic with finding people to step in for the Collab Cafe this Thursday
+- RS was a huge help in the workshop yesterday
+
+#### What did you achieve?
+
+- Did lots of prep work on the GitHub workshop
+- Delivered the GitHub workshop. Despite the difficulties we did get people to make a commit and submit pull requests! We have 6 merged already, 3 approved and 1 that still needs to be edited. So all in all just over half of the attendees? I'll email the slides to everyone and remind them they can come get help at the Collab Cafe tomorrow.
+- Linked up with the MRC (!) Statistics CoP on MLTC who in turn introduced me to the NIHR Statistics CoP 🤷‍♀️
+
+#### What did you struggle with?
+
+- I have not made any progress on the survey. I was in the office at the time I was planning on working on it and it's not great for focused work.
+- Permissions on GitHub were a pain at the workshop yesterday but at least now we know and can improve the delivery for next time
+
+#### What would you like to work on next week?
+
+- Survey (3rd time lucky? 🤞)
+- Collab Cafe
+- Do some documentation writing on running events
+
+#### Where do you need help?
+
+- I keep waiting to fix the survey a bit more before I share it, but I guess I might just give up and share it right after I commit this.
+
+#### Any other topics
+
+- I've joined a Code Club to get a bit better on my R skills (it's about writing functions, creating packages etc)
+
+## Date: 12 October 2022
+
+### Check-in ritual
+I asked three people from the AIM consortia to help out with the R sessions and they all said yes 🥰
+
+### Project specific Reflection
+Last week was pretty full on with non-RSF things: the King's talk, TTW Collab Cafe, OLS, a panel I'm doing for the SSI. Since Monday I've been focusing on RSF things, which has been lovely.
+
+### Notes to discuss during 1:1
+
+- CO can't make it to the Collab Cafe next week after all - the plan was to discuss data ethics applications and a couple of the project managers said they'd be there to discuss that. Any tips on how to approach that?
+
+#### Who did you help this week?
+
+- SP from the Skills team with a course they've been working on
+- DC with chairing yesterday's open seminar
+
+#### Who helped you this week?
+
+- RH, EM, and RK agreed to be helpers for the R workshops :blush:
+
+#### What did you achieve?
+
+- Gave the talk at King's with ALS
+- Had the ECR Lunchtime talk - not a huge number of attendees but it was nice!
+- I sent off a *video* recording of myself after only 5 tries. I mean, I still hate it but :joy:
+- I've managed to make some progress on the survey analysis this week
+- I advertised the R workshops yesterday and got 12 sign ups
+
+#### What did you struggle with?
+
+* I've been trying to stick to 9:00-17:30 and pomodoro everything. I like it when it works but it doesn't come naturally.
+
+#### What would you like to work on next week?
+
+* Actually finish making the plots for the survey and start working on the text.
+    * I'm sorry I forgot to share it, will do so ASAP
+* Prep for the GitHub workshops
+* Advertise the Collab Cafe
+
+#### Where do you need help?
+
+I think I'm alright for now!
+
+#### Any other topics
+
+
+## Date: 5 October 2022
+
+### Check-in ritual
+I had some really nice responses from people about working on data ethics applications in the Collab Cafe :sparkles:
+
+### Project specific Reflection
+Things have been good if stressful - I was kind of out of commission by the end of last week. This week I've been working on advertising GitHub training this month and analysing the survey data to present in the ECR session on Thursday.
+
+### Notes to discuss during 1:1
+- I'm hoping to use the survey as a way to start a more general conversation either about training or about reproducible documents (it's in R Markdown) - any tips on how to get that started?
+- I've been struggling to find time to reach out to consortia and I end up leading/presenting at more events than I would like. Any ideas about people/topics for ECR events or people to help out with R training would be super helpful!
+
+#### Who did you help this week?
+- I'm presenting with ALS about TTW at King's
+
+#### Who helped you this week?
+- DC preemptively asked if I can actually give a talk I don't really have the capacity to work on
+- SB has been great with RoPA and file sharing stuff
+
+#### What did you achieve?
+- I had a very nice conversation with people from CISC/UoE about data ethics and collaboration cafes
+- I worked on data survey analysis
+- I advertised the GitHub workshops for this month and got a pretty good response
+- I've been working on the new mentors/trainers WG for the Turing Way
+
+#### What did you struggle with?
+- Outlook. Apparently the ECR Lunchtime session appeared as cancelled for some people :sob:
+
+#### What would you like to work on next week?
+- Finish analysing the survey data
+- TTW talk at King's
+- ECR lunchtime session
+- Reach out to RSF and general AIM members to invite them as speakers/discussants to AIM events
+
+#### Where do you need help?
+- The topics I mentioned above
+- I'll ask for some feedback on the survey analysis/write-up once I'm done
+- Prioritising continues to be difficult 😅
+
+#### Any other topics
+Not really!
 
 ## Date: 29 July 2022
 
