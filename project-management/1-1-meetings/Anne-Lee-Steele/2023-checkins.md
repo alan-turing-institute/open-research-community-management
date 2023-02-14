@@ -21,6 +21,7 @@
   - Newsletter (draft for next week)
 - Reviewing working styles
 - Planning event calendar
+- csv,CONF planning
 
 ### 2023-01-31
 - Accessibility workshop
