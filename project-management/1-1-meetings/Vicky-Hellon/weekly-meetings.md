@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [1 February 2023](#date-1-february-2023)
 * [25 January 2023](#date-25-january-2023)
 * [18 January 2023](#date-18-january-2023)
 * [11 January 2023](#date-11-january-2023)
@@ -37,6 +38,47 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+
+## Date 1 February 2023
+
+### Check-in ritual
+Feeling a bit more energised this week, probably because January has finally ended!
+
+### Project specific Reflection
+Been a good week with the first publication out- seems like the buzz around it should create some more opportunities for community activities 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week
+* Core team with paper promoting
+
+#### Who helped you this week?
+* DC- getting us a talk at one of the AIM-RSF seminars
+* SM with pushing Roche comms
+
+#### What did you achieve?
+* Sent round follow up for Knowledge Share
+* Coordinated comms for paper- working with Turing marketing team and Roche at the mo, but annoucement and co-author tweets seem to be getting some traction
+* Checked in with postdoc and enrichment student
+* Have put some TTW AI-UK slides together, going to check in with AC at collab cafe
+* Neurodiversity training
+* Met with new Roche colleague who is going to be helping with Knowledge Share going forward- good to have another contact
+
+#### What did you struggle with?
+* Open access paper drama...
+
+#### What would you like to work on next week?
+* Need to get Feb Knowledge Share event page made but just waiting on speakers for info
+* Finalise ambassador scheme(!)
+* Get a decision on potential missing data symposium so can put a preliminary plan together
+
+#### Where do you need help?
+* Can we work on ambassador docs asap?
+
+#### Any other topics
+* Interested in how involved you are with the RSS lab/DECOVID papers- BM mentioned to me that I could get involved next time
+
+
 ## Date 25 January 2023
 
 ### Check-in ritual
