@@ -19,6 +19,13 @@
   - Fireside chat planning (message 14 Feb)
   - Enrichment Scheme (submit by 16 Feb)
   - Newsletter (draft for next week)
+- Onboarding (AAA, BGT)
+  - AAA: what you want to carry on, be honest about you're doing (to be held accountable/support)
+  - BGT: onboarding, strengthen relationship with AutSPACES, is GA writing a chapter, existing resources to TTW, working model that makes sense for their own work (ACC is an example)
+- Ongoing PRs (by April) 
+  - Foreward
+  - Pathways/personas
+  - Emergent strategy
 - Reviewing working styles
 - Planning event calendar
 - csv,CONF planning
