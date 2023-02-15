@@ -62,7 +62,9 @@ Mainly trucking along, hoping to have some focus time for the agenda for the all
 * Got event page up for Feb Knowledge Share
 * Prepped newsletter
 * Prepped comms for annoucement of predictive modelling funded project
+  * EK - disappointing about the one project. 
 * Drafted a one pager on content for the partnership for the Turing Way
+ * EK - speak to MS about content and where in TTW this should go. 
 
 #### What did you struggle with?
 * Not feeling very creative for the all hands lab meeting agenda!
