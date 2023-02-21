@@ -61,7 +61,7 @@ Things ticking along nicely- excited for the knowledge share next week
 * Worked on TTW AI slides- do you need any more help with this as have some time. Briefly spoke to SB about her doing a zero to GitHub demo
 * Finalised attendance for all hands meeting
 * Recruited Roche speaker for March KS event
-
+Started a draft for TTW partnership chapter
 #### What did you struggle with?
 * Recruitment delays meaning newsletter and predictive modelling comms are delayed, hoping it will get sorted this week
 * Need to chase up the funded projects to finalise all hands agenda
