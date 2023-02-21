@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [21 February 2023](#21-February-2023)
 * [14 February 2023](#14-February-2023)
 * [7 February 2023](#7-February-2023)
 * [31 January 2023](#31-January-2023)
@@ -8,6 +9,57 @@
 * [10 January 2023](#date-10-January-2023)
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
+
+
+## 21 February 2023
+
+### 📍 Check-in 
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+#### Project specific Reflection
+
+* Priorities for March are the conference. 
+
+#### Focus for this week's 1:1
+
+* Needs to find where to offload tasks and take an afternoon 
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* BA
+* EI
+* EZ
+* DC + AIM RSF Chairing the Open Invitation Seminar
+
+#### Who helped you this week?
+
+* BGT 
+* KW with a steer on priorities for March
+* MS + AS 
+
+#### What did you achieve?
+
+* Many things ;) 
+* Had a better week than all the weeks previously at monotasking and got a lot done because of it
+
+#### What did you struggle with?
+
+* Very overwhelmed.
+
+#### What would you like to work on next week?
+
+* Website
+* Scriberia
+* AI workshop
+* AI MULTIPLY PPIE planning
+* Prep Glossary for AI UK 
+* PPIE Community Session
+* MELD-B paper 
+* Conference planning
+
+
 
 ## 14 February 2023 
 
@@ -48,44 +100,6 @@ Work is nearing an untennable load right now and I'm really struggling.
 
 * Objectives 
 * Workload
-
-### 📚 Updates
-
-#### Who did you help this week?
-
-Replace this text with a one/two-sentence description of who you helped this week and how.
-
-#### Who helped you this week?
-
-Replace this text with a one/two-sentence description of who helped you this week and how.
-
-#### What did you achieve?
-
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
-
-#### What did you struggle with?
-
-* Replace this text with a bullet point list.
-
-#### What would you like to work on next week?
-
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
-
-#### Where do you need help?
-
-* Replace this text with a bullet point list of what you need help on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
-
-#### Any other topics
-
-- This space is yours to add to as needed.
-- Is there any particular reading/topic/task we want to explore and bring to our next meetings?
-
-
 
 
 ## 7 February 2022 
