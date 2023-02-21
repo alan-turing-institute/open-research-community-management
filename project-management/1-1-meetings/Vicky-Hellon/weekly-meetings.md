@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [15 February 2023](#date-15-february-2023)
 * [1 February 2023](#date-1-february-2023)
 * [25 January 2023](#date-25-january-2023)
 * [18 January 2023](#date-18-january-2023)
@@ -38,6 +39,48 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 15 February 2023 
+
+### Check-in ritual
+Had a nice day in the office yesterday, got to see EZ and HM!
+
+### Project specific Reflection
+Mainly trucking along, hoping to have some focus time for the agenda for the all hands lab meeting in March
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* DC- got partnership members to agree to do AIM RSF Seminar- will be a nice crossover!
+* AA- chatted to her about ambassador scheme and things she needs to consider for practitioner hub 
+
+#### Who helped you this week?
+* AY for Knowledge Share comms
+
+#### What did you achieve?
+* Connected RC with another Enrichment Student
+* Got Turing Comms out about SM paper- some good engagement on LinkedIn
+* Got event page up for Feb Knowledge Share
+* Prepped newsletter
+* Prepped comms for annoucement of predictive modelling funded project
+  * EK - disappointing about the one project. 
+* Drafted a one pager on content for the partnership for the Turing Way
+ * EK - speak to MS about content and where in TTW this should go. 
+
+#### What did you struggle with?
+* Not feeling very creative for the all hands lab meeting agenda!
+* Ambassador scheme still dragging on..
+* Roche not being the most response for Knowledge Share speakers
+
+#### What would you like to work on next week?
+* Start drafting partnership content for TTW
+* Have all hands lab meeting agenda close to being finalised 
+
+#### Where do you need help?
+* All hands lab meeting agenda
+* Thoughts on partnership content going in the TTW
+
+#### Any other topics
+N/A 
 
 ## Date 1 February 2023
 
