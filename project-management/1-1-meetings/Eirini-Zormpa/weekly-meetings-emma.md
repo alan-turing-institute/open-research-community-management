@@ -20,6 +20,48 @@
 * [10 January 2023](#date-10-January-2023)
 * [24 January 2023](#date-24-January-2023)
 * [14 February 2023](#date-14-February-2023)
+* [23 February 2023](#date-23-February-2023)
+
+## Date: 23 February 2023
+
+**Check-in ritual**
+One of the ECRs invited me to in-person coffee next week 💖 
+
+### Project specific Reflection
+I've had a fair amount of contact with ECRs this week which is nice - new starters and people interested in the DSG/who want access to the GitHub org.
+There's been decent registration numbers for the Shiny workshop.
+
+Otherwise, I've not been very productive 🙈 This is partly because of meetings/admin/external obligations and partly because I'm still struggling with my concentration.
+The logo discussions have also been a bit intense.
+
+### Notes to discuss during 1:1
+- The year goals!
+
+#### Who did you help this week?
+- SB with some organisational stuff about the logo and illustrations
+
+#### Who helped you this week?
+- MM is getting in touch with one of the consortia to help me with publishing some of their outputs
+- RB (not within AIM) has been helpful with (maybe) finding a speaker for the ECR session last-minute.
+
+#### What did you achieve?
+- Organised and chaired the Collab Cafe
+- General Shiny workshop organisation stuff
+- Admin (reporting/goal-setting)
+
+#### What did you struggle with?
+- I'm struggling with focusing on a single task
+- The logo stuff has been stressing me out
+
+#### What would you like to work on next week?
+- Find someone for the ECR session
+- Facilitate the workshop next week
+- Catch up on some facilitation training
+
+#### Where do you need help?
+- Setting my goals!
+
+#### Any other topics
 
 ## Date: 14 February 2023
 
