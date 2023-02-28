@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [28 February 2023](#28-February-2023)
 * [21 February 2023](#21-February-2023)
 * [14 February 2023](#14-February-2023)
 * [7 February 2023](#7-February-2023)
@@ -9,6 +10,71 @@
 * [10 January 2023](#date-10-January-2023)
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
+
+
+## 28 February 2023
+
+### 📍 Check-in 
+
+Flagged to DC + BM last week that I was overhelmed and needed to assess the workload. Everyone was super proactive with identifying areas to hand-off and being able to give support. 
+
+#### Project specific Reflection
+
+*Review your current projects, relation and skill-building that you are working on. *
+(Since last week, review the progress you’ve made towards your goals. Any challenges to mention? Review if we can attract any attention or help highlight your work.)
+
+#### Focus for this week's 1:1
+* PPIE Resources / Community chat 
+* Giving feedback + input on papers 
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* MS with onboarding into AIM's workpackages 
+* PPIE CoP with workshop planning 
+* PPIE CoP re. Slack 
+* AI MULTIPLY with resources
+* MELD-B with paper feedback
+
+#### Who helped you this week?
+
+* DC + BGT with a review and offloading of tasks 
+* BM with sharing the tasks for Scriberia 
+* AC + JD with kindness and support while in office 
+* EK with information about the AI health summit
+* RS with looking into the Google Forms bug 
+
+#### What did you achieve?
+
+* PPIE CoP Workshop
+* PPIE Resources conversations w. Clau/Turing Commons, + AL & GT/EDoN
+* Scriberia Logo and Description image is almost done!!
+* Draft website wireframe is done! (And we went through it during the Comms meeting) 
+* Chatted with MS w. EZ about Community Management for AIM 
+
+#### What did you struggle with?
+
+* Was feeling very overwhelmed and pulled in so many directions - starting to struggle with effective communication.
+* Need to cancel March's PPIE Community Meeting unless LC can chair it. 
+
+#### What would you like to work on next week?
+
+* AutSPACEs meet up
+* PPIE Community Meet Up 
+* MELD-B paper 
+* AI MULTIPLY Resources 
+* Website 
+* Scriberia 
+* AIM RSF Seminar series 
+* PPIE Resource conversations 
+* Getting Slack set up for the PPIE CoP
+
+#### Where do you need help?
+
+* PPIE Resource conversations - is this something we can identify as a bigger TPS task? 
+
+
 
 
 ## 21 February 2023
