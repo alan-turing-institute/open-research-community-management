@@ -60,7 +60,10 @@ Flagged to DC + BM last week that I was overhelmed and needed to assess the work
 
 #### What would you like to work on next week?
 
-* AutSPACEs meet up
+* **AutSPACEs meet up**
+* **Getting Slack set up for the PPIE CoP**
+* **PPIE Conference Session Abstracts**
+* **Review EU Citizen Science Prize Sumbission**
 * PPIE Community Meet Up 
 * MELD-B paper 
 * AI MULTIPLY Resources 
@@ -68,7 +71,6 @@ Flagged to DC + BM last week that I was overhelmed and needed to assess the work
 * Scriberia 
 * AIM RSF Seminar series 
 * PPIE Resource conversations 
-* Getting Slack set up for the PPIE CoP
 
 #### Where do you need help?
 
