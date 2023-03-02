@@ -21,6 +21,57 @@
 * [24 January 2023](#date-24-January-2023)
 * [14 February 2023](#date-14-February-2023)
 * [23 February 2023](#date-23-February-2023)
+* [2 March 2023](#date-2-March-2023)
+
+
+
+## Date: 2 March 2023
+
+**Check-in ritual**
+
+### Project specific Reflection
+
+Very meeting-heavy week so far with little time to actually do things. However, some of those meetings were great: e.g. meeting up with ECRs, having the Shiny workshop on Wednesday and the ECR session happening later today :blush:
+
+### Notes to discuss during 1:1
+- not much, unless there's anything we still need to discuss about my year objectives?
+
+#### Who did you help this week?
+
+I was a helper at the Shiny workshop, does that count? :joy:
+
+#### Who helped you this week?
+
+I'm super grateful to the guest speaker at today's ECR session for agreeing to do it so last minute 💖
+   * EK - great - well done getting this organised last minute. 
+
+#### What did you achieve?
+
+- Met with ECRs for onboarding 🥰
+- I set up everything on a planning/chairing side for the Shiny workshop, which I think went pretty well. I'm gonna ask people who could only make it for part of it to join the next Collab Cafe for a flipped classroom experiment!
+- We have a logo? :scream: (I didn't achieve that but that's still a relief)
+   * EK - great that everyone has finally agreed!
+- Carpentries stuff - I had to organise the first meeting of the Curriculum Advisoty Committee for my lesson and it's a pain wiht an 11-hour timezone span 🙈
+- We have an RSF Zenodo community :muscle:
+
+
+#### What did you struggle with?
+
+- Time. This week has been contnuous meetings more or less.
+
+#### What would you like to work on next week?
+
+- Some urgent RSF things - feeback on more images, conference planning
+- Editing and sharing video from workshop
+- Archiving materials
+
+#### Where do you need help?
+
+- I'm fine, just need time.
+
+#### Any other topics
+* EK - I like the idea of flipped classroom approach to reuse the material from your training. Try to schedule time to get these courses into moodle at some point as this will help you track the use of the materials/courses. 
+
 
 ## Date: 23 February 2023
 
