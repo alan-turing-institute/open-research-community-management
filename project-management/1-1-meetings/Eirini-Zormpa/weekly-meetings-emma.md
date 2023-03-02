@@ -70,6 +70,7 @@ I'm super grateful to the guest speaker at today's ECR session for agreeing to d
 - I'm fine, just need time.
 
 #### Any other topics
+* EK - I like the idea of flipped classroom approach to reuse the material from your training. Try to schedule time to get these courses into moodle at some point as this will help you track the use of the materials/courses. 
 
 
 ## Date: 23 February 2023
