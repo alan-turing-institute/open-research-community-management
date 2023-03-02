@@ -43,14 +43,17 @@ I was a helper at the Shiny workshop, does that count? :joy:
 #### Who helped you this week?
 
 I'm super grateful to the guest speaker at today's ECR session for agreeing to do it so last minute 💖
+   * EK - great - well done getting this organised last minute. 
 
 #### What did you achieve?
 
 - Met with ECRs for onboarding 🥰
 - I set up everything on a planning/chairing side for the Shiny workshop, which I think went pretty well. I'm gonna ask people who could only make it for part of it to join the next Collab Cafe for a flipped classroom experiment!
 - We have a logo? :scream: (I didn't achieve that but that's still a relief)
+   * EK - great that everyone has finally agreed!
 - Carpentries stuff - I had to organise the first meeting of the Curriculum Advisoty Committee for my lesson and it's a pain wiht an 11-hour timezone span 🙈
 - We have an RSF Zenodo community :muscle:
+
 
 #### What did you struggle with?
 
