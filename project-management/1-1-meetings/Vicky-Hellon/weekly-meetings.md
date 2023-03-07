@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [22 February 2023](#date-22-february-2023)
 * [15 February 2023](#date-15-february-2023)
 * [1 February 2023](#date-1-february-2023)
 * [25 January 2023](#date-25-january-2023)
@@ -39,6 +40,45 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 22 February 2023
+
+### Check-in ritual
+All good :) Enjoyed the health summit to break up the week!
+
+### Project specific Reflection
+Things ticking along nicely- excited for the knowledge share next week
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Had a coffee chat with BA to run her through how I do the Knowledge Share events
+
+#### Who helped you this week?
+* CH and BM with aims and agenda shaping for all hands meeting
+
+#### What did you achieve?
+* Ran prep meeting for Knowledge Share
+* Worked on TTW AIUK slides- do you need any more help with this as have some time. Briefly spoke to SB about her doing a zero to GitHub demo
+* Finalised attendance for all hands meeting
+* Recruited Roche speaker for March KS event
+* Started a draft for TTW partnership chapter
+
+#### What did you struggle with?
+* Recruitment delays meaning newsletter and predictive modelling comms are delayed, hoping it will get sorted this week
+* Need to chase up the funded projects to finalise all hands agenda
+
+#### What would you like to work on next week?
+* Knowledge Share event and follow up 
+* Do all the prep for all hands meeting as AS not here on the day so need to make sure I'm prepped 
+* May be onboarding new enrichment student for the partnership 
+
+#### Where do you need help?
+* Any explainable AI health speaker suggestions?
+ *  contact David Leslie.
+
+#### Any other topics
+N/A
+
 ## Date 15 February 2023 
 
 ### Check-in ritual
