@@ -22,7 +22,55 @@
 * [14 February 2023](#date-14-February-2023)
 * [23 February 2023](#date-23-February-2023)
 * [2 March 2023](#date-2-March-2023)
+* [7 March 2023](#date-7-March-2023)
 
+## Date: 7 March 2023
+
+**Check-in ritual**
+I heard again about the R sessions in November being useful!
+
+### Project specific Reflection
+- The ECR session went OK, but not accessible to everyone
+  - EK: write a guide for the speakers (e.g. we want the talks to be accessible)
+- DSG planning is going well and we're trying to use one of the questions suggested by members of the public, sources by SB 💖
+- Collaborative workshop on MLTC with Communities of Practice at Society of Academic Primary Care conference.
+
+### Notes to discuss during 1:1
+
+- Coding lists - which repository to use?
+  - EK: consortium want ownership but the RSF is a hub and could bring more visibility. perhaps share on both?
+
+### Who did you help this week?
+
+
+#### Who helped you this week?
+
+- XL spoke at the ECR session very last minute 💗
+
+#### What did you achieve?
+
+- ECR Session running and archiving materials
+- Sharing materials from Shiny workshop (editing video, archiving materials)
+- DSG planning
+- Admin stuff (e.g. AI UK speaker bio, conference sessions planning for AIM RSF)
+
+#### What did you struggle with?
+
+- Time, as always.
+
+#### What would you like to work on next week?
+
+- Feedback on DSG application
+- Refine sessions for the AIM RSF conference
+- Protect some time to work on the drug coding lists
+- Plan the Collaboration Cafe next week
+- Work on the collaborative session with the other Communities of Practice.
+
+#### Where do you need help?
+
+- I'm fine, just behind.
+
+#### Any other topics
 
 
 ## Date: 2 March 2023
