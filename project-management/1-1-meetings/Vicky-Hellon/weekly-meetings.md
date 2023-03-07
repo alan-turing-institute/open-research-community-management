@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [08 March 2023](#date-08-march-2023)
 * [22 February 2023](#date-22-february-2023)
 * [15 February 2023](#date-15-february-2023)
 * [1 February 2023](#date-1-february-2023)
@@ -40,6 +41,47 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 08 March 2023
+
+### Check-in ritual
+Good but tired! In the office quite a lot this week so has been good to see a few faces- sad to have missed AM's leaving do last week
+
+### Project specific Reflection
+All hands lab meeting went really well in the end- glad we have the next one booked in the diary to keep the momentum going. Now just picking up normal bits like the newsletter, knowledge share etc.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Team with coordinating all hands meeting
+
+#### Who helped you this week?
+* MB was a trooper with stepping in to help at the all hands meeting!
+* OS with room set up
+
+#### What did you achieve?
+* Ran all hands lab meeting 
+* Onboarded our two new Enrichment Students
+* Ran Knowledge Share event and confirmed speakers for March's
+* Catch-up with Roche Comms
+* Spoke to MS about TTW entry on Academic-Industry partnerships 
+
+#### What did you struggle with?
+* Knowledge Share speakers not being the most reponsive again, trying to sort April's now to give me some breathing room
+* Team won't budge on journals re: open access
+* All hands ended up being a bit last minute (BM and RC had to join online) but all ok in the end
+* General ambassadors stuff
+
+#### What would you like to work on next week?
+* Hope to be able to get event page up for March Knowledge Share and speakers invited for April's
+* Prep and send out newsletter
+* Follow up from all hands
+
+#### Where do you need help?
+* Think we're sorted for AI UK? Have a bit less capacity for it this week- XB reminded me about health tickets 
+
+#### Any other topics
+* UKRN survey- think would be good to get involved in? (Have sent you email for context)
+
 ## Date 22 February 2023
 
 ### Check-in ritual
