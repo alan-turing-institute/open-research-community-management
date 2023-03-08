@@ -78,9 +78,12 @@ All hands lab meeting went really well in the end- glad we have the next one boo
 
 #### Where do you need help?
 * Think we're sorted for AI UK? Have a bit less capacity for it this week- XB reminded me about health tickets 
+ * EK - I think we are sorted and thanks so much for all your help with this.  
 
 #### Any other topics
 * UKRN survey- think would be good to get involved in? (Have sent you email for context)
+ * EK - love this - please do send an email to KW and MS about this and how we can make this happen. 
+ * EK - please can you write a short piece for the new health linkedin page about the structured missingness talk at AIUK. 
 
 ## Date 22 February 2023
 
