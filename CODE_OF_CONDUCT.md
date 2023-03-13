@@ -41,7 +41,7 @@ visible or invisible disabilities.
 - 4.2 **Be welcoming**: we strive to build a welcoming and supportive team.
   As community facilitators, we also strive to apply this value in creating 
   Communities of Practice that welcome and support members of all backgrounds 
-  and identities, while uphholding our commitment and diversity statement (see 2.).
+  and identities, while upholding our commitment and diversity statement (see 2.).
 
 - 4.3 **Be considerate**: Your work will be used by other people, and you in turn
   will depend on the work of others. Any decision you take will affect users and
