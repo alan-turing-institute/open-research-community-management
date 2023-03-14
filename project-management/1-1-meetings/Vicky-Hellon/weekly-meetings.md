@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [15 March 2023](#date-15-march-2023)
 * [08 March 2023](#date-08-march-2023)
 * [22 February 2023](#date-22-february-2023)
 * [15 February 2023](#date-15-february-2023)
@@ -41,6 +42,45 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## Date 15 March 2023
+
+### Check-in ritual
+Finally a bit of a quieter week which is nice to reset!
+
+### Project specific Reflection
+Usual regular bits going on for me, think AS is dealing with a lot behind the scenes with KP and project agreements so expect some more bits coming my way in the next few weeks.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* AG with feedback on Gender Pay Gap Strategy
+* MB with where data is stored for the partnership... expect this to come back to me as well!
+
+#### Who helped you this week?
+* Feedback from All Hands Lab meeting attendees
+* EK with AI UK tickets for T-R postdocs- they are very grateful!
+
+#### What did you achieve?
+* Follow up from All Hands Lab meeting
+* Attended all day UKRN annual meeting
+* Sent newsletter out
+* TTW Slides
+* Got started on TTW academic-industry collaboration chapter writing
+* Comms for March Knowledge Share 
+
+#### What did you struggle with?
+* Still no response from Roche side for April Knowledge Share
+
+#### What would you like to work on next week?
+* AI UK!
+* More chapter writing
+
+#### Where do you need help?
+* Still no response on UKRN from KW or MS- poke?
+
+#### Any other topics
+* Was nice to watch a AIM-RSF Turing-Roche Crossover seminar yesterday!
+
 ## Date 08 March 2023
 
 ### Check-in ritual
