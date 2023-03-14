@@ -41,6 +41,7 @@ The DSG and conference planning finally caught up with me last week and I had to
 
 - BM with conference admin.
 - SG and CW with the Data Hazards workshop
+* EK - thanks for helping with data hazards workshop :star:
 
 #### Who helped you this week?
 
@@ -58,6 +59,7 @@ The DSG and conference planning finally caught up with me last week and I had to
 
 - Prioritising tasks, but I did get a steer from EG to focus on the conference for now.
 - Number of meetings, but I've started sending apologies for the ones I can't make.
+  * EK - good idea to do this to carve out more time for focused work. 
 
 #### What would you like to work on next week?
 
@@ -73,7 +75,7 @@ The DSG and conference planning finally caught up with me last week and I had to
 - I'm fine!
 
 #### Any other topics
-
+* EK - changing one of our meetings into a co-working session - to do joint efforts for TTW book or resource documentation.
 
 ## Date: 7 March 2023
 
