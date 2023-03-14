@@ -23,6 +23,59 @@
 * [23 February 2023](#date-23-February-2023)
 * [2 March 2023](#date-2-March-2023)
 * [7 March 2023](#date-7-March-2023)
+* [14 March 2023](#date-14-March-2023)
+
+## Date: 14 March 2023
+
+**Check-in ritual**
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+### Project specific Reflection
+
+The DSG and conference planning finally caught up with me last week and I had to spend a fair amount of time on reading/writing/planning.
+
+### Notes to discuss during 1:1
+
+
+#### Who did you help this week?
+
+- BM with conference admin.
+- SG and CW with the Data Hazards workshop
+* EK - thanks for helping with data hazards workshop :star:
+
+#### Who helped you this week?
+
+
+#### What did you achieve?
+
+- Reviewed the DSG submission
+- Planning for the Theme 3 conference sessions
+- Reviewed the abstract submission for the conference sessions with the CoPs
+- Prep work for the Collaboration Cafe on Thursday
+- Prep work for the Fireside Chat at the end of the month
+- Helped out with the Data Hazards workshop
+
+#### What did you struggle with?
+
+- Prioritising tasks, but I did get a steer from EG to focus on the conference for now.
+- Number of meetings, but I've started sending apologies for the ones I can't make.
+  * EK - good idea to do this to carve out more time for focused work. 
+
+#### What would you like to work on next week?
+
+- Collaboration Cafe on Thursday
+- EIA for the conference
+- Continue looking for speakers for one of the conference sessions
+- Plan ahead for ECR sessions and training
+- Make some graphs on which consortia have been attending our events
+- Work on documentation of the coding lists repo - I've flagged to EG that there is disagreemnt on which repo to use and she will take it forward.
+
+#### Where do you need help?
+
+- I'm fine!
+
+#### Any other topics
+* EK - changing one of our meetings into a co-working session - to do joint efforts for TTW book or resource documentation.
 
 ## Date: 7 March 2023
 
