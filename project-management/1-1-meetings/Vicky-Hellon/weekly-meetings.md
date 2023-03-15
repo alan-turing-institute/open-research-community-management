@@ -77,9 +77,12 @@ Usual regular bits going on for me, think AS is dealing with a lot behind the sc
 
 #### Where do you need help?
 * Still no response on UKRN from KW or MS- poke?
+* EK - I've sent a message to KW about this and forwarded the email again. 
 
 #### Any other topics
 * Was nice to watch a AIM-RSF Turing-Roche Crossover seminar yesterday!
+
+* EK - let's use one of these session every 2 weeks to co working together - can you think of things that we could work on together please. 
 
 ## Date 08 March 2023
 
