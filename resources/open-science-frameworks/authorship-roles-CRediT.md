@@ -8,7 +8,7 @@ The roles described here will help us give fair credit and recognition for each 
 
 | Research stage | Definition | Direct Contributors | CM responsibilities |
 |:-----|:-----------|:-----------------------|:--------|
-| Design | Template, technical recommendation | Project team (at the funding stage) | Set up a version-controlled repository |
+| Design | Template, technical recommendation | Project team (at the funding stage) | Set up a version controlled repository. Ensure all stakeholders have created ORCID and are aware of DOI (Digital Object Identifiers) |
 | Conceptualisation | Ideas; formulation or evolution of overarching research goals and aims | PI, lead/core research team | Begin developing project charter with the vision defined at the conceptualisation stage |
 | Methodology | Development or design of methodology; creation of models | lead/core research team as well as Community Manager (CM) and Research Software Engineers (RSE) if in team | Enable collaborative spaces such as coworking, team meetings, in-person scoping event, shared documentation and contribution guideline |
 | Software | Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components | lead/core research team, RSE | Ensure that open licensing has been recommended and included in the repository, provide a collaborative process for reference collection |
