@@ -1,8 +1,7 @@
 # Contributor Roles
 
-CRediT (Contributor Roles Taxonomy) is a high-level taxonomy to ensure the recognition of all participants involved at different stages of research.
-I have adopted and extended the CRediT taxonomy for the community management team to guide the inclusion of a broader audience from the community as authors and contributors and ensure fair recognition of their work.
-The roles described here will help us give fair credit and recognition for each contributor’s specific contribution to the communication output.
+CRediT (Contributor Roles Taxonomy) is a high-level taxonomy to ensure the recognition of authors and different kinds of contributions they make to the development of a research article or outcome.
+I have adopted and extended the CRediT taxonomy for the community management team to guide the inclusion of broad range of contribution types aiming to ensure fair recognition of their work as authors and contributors.
 
 ## Direct Contributor Roles for Authorship
 
