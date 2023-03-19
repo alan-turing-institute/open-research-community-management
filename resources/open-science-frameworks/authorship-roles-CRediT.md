@@ -1,43 +1,5 @@
 # Contributor Roles
 
-I have adopted and extended the [CRediT – Contributor Roles Taxonomy](https://casrai.org/credit/) to guide the inclusion of a broader audience.
-CRediT is a high-level taxonomy, including many roles ASG community members can take throughout the course of their participation in the co-creation of the ASG white papers as well as related communication outputs.
-These roles will help us give fair credit and recognition for each contributor’s specific contribution to the communication output.
-
-## Direct Contributor Roles for Authorship
-
-| Research stage | Definition | Direct Contributors | CM responsibilities |
-|:-----|:-----------|:-----------------------|:--------|
-| Design | Template, technical recommendation | Project team (at the funding stage) | Set up a version controlled repository. Ensure all stakeholders have created ORCID and are aware of DOI (Digital Object Identifiers) |
-| Conceptualisation | Ideas; formulation or evolution of overarching research goals and aims | PI, lead/core research team | Begin developing project charter with the vision defined at the conceprualisation stage |
-| Methodology | Development or design of methodology; creation of models | lead/core research team as well as Community Manager (CM) and Research Software Engineers (RSE) if in team | Enable collabortive spaces such as a coworking, team meeting, in person scoping event, shared documentation and contribution guideline |
-| Software | Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components | lead/core research team, RSE | Ensure that open licensing have been recommended and included in the repository, provide collaborative process for reference collection |
-| Validation | Verification, whether as a part of the activity or separate, of the overall replication/ reproducibility of results/experiments and other research outputs - generalisable | lead/core research team, Research Engineers, CM, external reviewers (expert consultation such as from  community)  | Enable discussion on reproducibility, support research team in collecting tools/metgods to ensure reproducibility, involve Research Application Managers (RAM) |
-| Investigation | Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection | PI, lead/core research team | Create spaces for sharing progress, create roadmap to share on the repository, provide community-wide reports or newsletters |
-| Resources | Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools | PI, lead/core research team, RSE, CM, RAM, IT, external partners | Coordinate with project management team and contribute to a transparent record. Support partnership and sharing of resources. Ensure accessibility.  |
-| Data Curation | Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later reuse (including licensing) | lead/core research team, partneing projects, data wranglers (if in place), RSE | Ensure GDPR/legal and ethical iuse of data, ensure open licensing or licensing agreement is in place. Provide access to TRE in collaboration with RSE. Ensure data protecton guidelie is implemented and FAIR principles are applied. Share metadata on the repo. |
-| Writing - Original Draft | Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation) | lead/core research team, RSE, CM, RAM, data stewards | Ensure a clear understanding of who will be author. Ensure contributors are not left out. Apply inclusive approach for authorship. Ensure open access avenue for the article. Establish agreement to submit preprint. |
-| Writing - Review & Editing | Preparation, creation and/or presentation of the published work by those from the research group, specifically critical review, commentary or revision – including pre-or postpublication stages | All members (including invited reviewers) + comms team | Ensure that the choice of co-authoring article is collaborative (shared online document). Give access to all contributors and reviewers. All contributors of research not involved in writing stage should be invited at this stage. Keep record of who the authors are and their contribution types. |
-| Visualisation  | Preparation, creation and/or presentation of the published work, specifically visualisation/ data presentation | lead/core research team, REG, external contractors for handsketched or digital graphics | Ensure code for data visualisation is shared with data. Support the use of literate programming with description of data visualisation. Ensure centralisation and independent release of illustration on Zenodo for reuse. |
-| Supervision | Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team | lead/core research team, REG |
-
-## Contributorship
-
-| Term | Definition | Contributors | CM responsibilities |
-|:-----|:-----------|:-----------------------|:--------|
-| Project administration | Management and coordination responsibility for the research activity planning and execution | Programme Manager and Research Project Manager | Ensure alignment with community management tasks and goals |
-| Funding acquisition | Acquisition of the financial support for the project leading to the research and publications |  |
-| Community Engagement  Connecting with members, enabling collaboration, identifying resources etc |CM + RPM + RAMs |
-| Transparent Communication | Making all communication transparent for the stakeholders | Everyone + CM + RAMs |
-| Accessibility | Accessibility of resources, consideration of disability | REG + CM + EDI team/committee |
-| Cross-exchange | Worshops, skill building | Community |
-| EDI and Ethics | Embedding EDI principles in research | Ethics committee, EDI committee, community members |
-| Public engagement | Communications beyond Turing | CM + community members + communications team + RAMs |
-| Engagement with policy-makers / funders | Pre-publication (review) but also post-publication, reaching out actively | At UK level |
-| Recognition and credit | Assessing incentives, creating fair value system, fair recognition of all contributord | CM and leadership |
-
-# Contributor Roles
-
 CRediT (Contributor Roles Taxonomy) is a high-level taxonomy to ensure the recognition of all participants involved at different stages of research.
 I have adopted and extended the CRediT taxonomy for the community management team to guide the inclusion of a broader audience from the community as authors and contributors and ensure fair recognition of their work.
 The roles described here will help us give fair credit and recognition for each contributor’s specific contribution to the communication output.
@@ -87,6 +49,4 @@ The roles described here will help us give fair credit and recognition for each 
 - "Auto-updates: time-saving and trust-building." ORCID, [https://support.orcid.org/hc/en-us/articles/360006896394-Auto-updates-time-saving-and-trust-building](https://support.orcid.org/hc/en-us/articles/360006896394-Auto-updates-time-saving-and-trust-building)
 - "ICMJE | Recommendations | Defining the Role of Authors and Contributors.", [www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html).
 - Colbert, Melissa C., Robert B. Nussenblatt, and Michael M. Gottesman. "Integrity in Research: Principles for the Conduct of Research." Principles and Practice of Clinical Research. Academic Press, 2018. 33-46.
-
-
 
