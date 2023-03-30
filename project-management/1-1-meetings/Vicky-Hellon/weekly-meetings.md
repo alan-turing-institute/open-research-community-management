@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [31 March 2023](#date-31-march-2023)
 * [15 March 2023](#date-15-march-2023)
 * [08 March 2023](#date-08-march-2023)
 * [22 February 2023](#date-22-february-2023)
@@ -42,6 +43,50 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## 
+
+## Date 31 March 2023
+
+### Check-in ritual
+Really enjoyed AI UK! And now just trying to get organised before the Easter break
+
+### Project specific Reflection
+AS has done a really good handover so hoping the transition is smooth-ish! Ambassador scheme has now gone to Roche (finally!) for sign off so probably need to start reviewing docs and familarising myself again after the break.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Helped with advice in Slack User Group meeting
+* Helped RC think about code checking for future
+
+#### Who helped you this week?
+* AY- caught up on new university network model which is useful for event promotion
+* AS with finishing everything up
+* MS with thinking about community strategy
+
+#### What did you achieve?
+* AI UK!!
+* Onboarded new Enrichment Student
+* Put together more tracking docs- tracking who has engaged with the partnership and when
+* Wrote 6-month partnership report for internal reporting
+* Have made a start on TTW Academic-Industry collaboration chapter
+* Knowledge Share Event on Tuesday went well
+
+#### What did you struggle with?
+* Started CM briefing paper but will definitely need help developing this
+
+#### What would you like to work on next week?
+Will be a shorter week so hope to solidify these two:
+* April Newsletter
+* April Knowledge Share promotion
+
+#### Where do you need help?
+* Maybe we could co-work on CM briefing paper when you're back. Will also like your eyes on the TTW chapter when its a bit more established
+
+#### Any other topics
+* The UKHSA talk has a mini clash with my Knowledge Share- will have to leave early
+
+
 ## Date 15 March 2023
 
 ### Check-in ritual
