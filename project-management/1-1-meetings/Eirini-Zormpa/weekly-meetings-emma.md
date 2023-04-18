@@ -24,6 +24,58 @@
 * [2 March 2023](#date-2-March-2023)
 * [7 March 2023](#date-7-March-2023)
 * [14 March 2023](#date-14-March-2023)
+* [18 April 2023](#date-18-April-2023)
+
+## Date: 18 April 2023
+
+**Check-in ritual**
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+### Project specific Reflection
+
+- We're all focusing on the conference planning happening next week.
+- Data visulisation interest group forming within AIM - link up with [the Turing one](https://www.turing.ac.uk/research/interest-groups/visualization)!
+- DSG moved forward to September
+
+### Notes to discuss during 1:1
+
+- Nothing much - things are a bit stressful right now.
+
+#### Who did you help this week?
+
+- BM a bit with the conference.
+
+#### Who helped you this week?
+
+- BM with the conference!
+
+#### What did you achieve?
+
+- Made a start with the FAIR publishing workshop
+- Organised the first meeting for the data viz group
+- Organised the Collab Cafe
+- Onboarding ECRs from two consortia
+- Helped out at tne BCSWomen Lovelace colloquium
+- Worked on a presentation to introduct TTW at the seminar on Thursday
+
+#### What did you struggle with?
+
+- Time and stress!
+
+#### What would you like to work on next week?
+
+- The JS visit on Thursday
+- The Collaboration Cafe on Thursday
+- The conference!!!
+
+#### Where do you need help?
+
+- I'm good!
+
+#### Any other topics
+
+- Sanger centre talk about TTW.
+- Remindet to add to the 6-month report.
 
 ## Date: 14 March 2023
 
