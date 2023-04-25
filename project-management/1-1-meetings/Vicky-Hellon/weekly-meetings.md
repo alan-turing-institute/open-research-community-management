@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [18 April 2023](#date-18-april-2023)
 * [15 March 2023](#date-15-march-2023)
 * [08 March 2023](#date-08-march-2023)
 * [22 February 2023](#date-22-february-2023)
@@ -42,6 +43,55 @@
 * [30 November 2021](#date-30-november-2021)
 * [23 November 2021](#date-23-november-2021)
 -----
+## 
+
+## Date 18 April 2023
+
+### Check-in ritual
+Really enjoyed AI UK and Easter break was nice!
+
+### Project specific Reflection
+AS has done a really good handover so hoping the transition is smooth-ish! Ambassador scheme has now gone to Roche (finally!) for sign off so probably need to start reviewing docs and familarising myself again after the break.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Helped with advice in Slack User Group meeting
+* Helped RC think about code checking for future
+* Helping MB get up to speed with Roche
+
+#### Who helped you this week?
+* AY- caught up on new university network model which is useful for event promotion
+* AS with finishing everything up
+* MS with thinking about community strategy
+* SM with some suggestions for the TTW chapter
+
+#### What did you achieve?
+* AI UK!!
+* Onboarded new Enrichment Student
+* Put together more tracking docs- tracking who has engaged with the partnership and when
+* Wrote 6-month partnership report for internal reporting
+* Have drafted TTW Academic-Industry collaboration chapter
+* March Knowledge Share Event went well, planning for April's and May's
+* April newsletter 
+
+#### What did you struggle with?
+* Started CM briefing paper but will definitely need help developing this
+
+#### What would you like to work on next week?
+* April Knowledge Share promotion
+* Community Management talk at Turing Catchup
+* Also giving a talk about the partnership at the Crick next week- need to prepare slide
+* Enrichment and Ambassador Scheme need reviewing again- meeting with KP and MB this week to sort
+
+#### Where do you need help?
+* Maybe we could co-work on CM briefing paper when you're back. Will also like your eyes on the TTW chapter when you have a bit of time
+
+#### Any other topics
+* The UKHSA talk has a mini clash with my Knowledge Share- will have to leave early
+
+
+
 ## Date 15 March 2023
 
 ### Check-in ritual
