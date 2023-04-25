@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [26 April 2023](#date-26-april-2023)
 * [18 April 2023](#date-18-april-2023)
 * [15 March 2023](#date-15-march-2023)
 * [08 March 2023](#date-08-march-2023)
@@ -44,6 +45,50 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 26 April 2023
+
+### Check-in ritual
+Feeling very busy at the moment and think it will continue till June! But good for making the week go quick 😅
+
+### Project specific Reflection
+MB has done a good job of keeping everything going- have got strategy meeting coming up in a few weeks so will be a busy period. AM will be taking over.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Ran MB and KP through ambassador bits
+* AIM-RSF, discussed how to faciliate my 2 sessions with the organisers
+
+#### Who helped you this week?
+* MB with general partnership support
+
+#### What did you achieve?
+* Community Manager talk at Turing Catchup
+* UKHSA Turing Way talk
+* Knowledge Share Event
+* Have got team input on the Turing Way chapter so ready for further review from you and then ready for book dash!
+* Did the (hopefully) final review of ambassador docs
+* Prepared slides for Crick talk on Friday 
+
+#### What did you struggle with?
+* Lot of co-working in the diary, finding it hard to balance at the mo
+* Still push back on OA with partnership papers
+
+#### What would you like to work on next week?
+* Crick talk on Friday
+* AIM-RSF facilitation
+* Work out SM section for wikipedia for team
+* Knowledge Share follow up and prepping May's
+
+#### Where do you need help?
+* Review of TTW chapter
+* Work on briefing paper or leave till the CM team day?
+
+#### Any other topics
+* Me and AC signed up for the UKRN summer retreat- will keep you posted. Presume travel costs would be fine
+* SM preprint finally up! https://arxiv.org/abs/2304.01429
+
 
 ## Date 18 April 2023
 
