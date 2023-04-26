@@ -66,14 +66,17 @@ MB has done a good job of keeping everything going- have got strategy meeting co
 #### What did you achieve?
 * Community Manager talk at Turing Catchup
 * UKHSA Turing Way talk
+ * EK - thanks for doing this talk with me - they were very happy with it.  
 * Knowledge Share Event
 * Have got team input on the Turing Way chapter so ready for further review from you and then ready for book dash!
 * Did the (hopefully) final review of ambassador docs
+ * Month deadline is fine and then can always extend for another two.  
 * Prepared slides for Crick talk on Friday 
 
 #### What did you struggle with?
 * Lot of co-working in the diary, finding it hard to balance at the mo
 * Still push back on OA with partnership papers
+  * EK - Please escalate this to KP so that she can speak about the partnership agreement in this area.   
 
 #### What would you like to work on next week?
 * Crick talk on Friday
@@ -83,11 +86,15 @@ MB has done a good job of keeping everything going- have got strategy meeting co
 
 #### Where do you need help?
 * Review of TTW chapter
+* EK - please send to me so I can review. 
 * Work on briefing paper or leave till the CM team day?
+* EK - I think you have enough prepared and I'll get clarity from MS on what the day will be focused on. 
 
 #### Any other topics
 * Me and AC signed up for the UKRN summer retreat- will keep you posted. Presume travel costs would be fine
+* EK - please check with AB.
 * SM preprint finally up! https://arxiv.org/abs/2304.01429
+ * EK - Great :tada: 
 
 
 ## Date 18 April 2023
