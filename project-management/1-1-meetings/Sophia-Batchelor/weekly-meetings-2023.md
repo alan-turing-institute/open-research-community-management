@@ -66,10 +66,14 @@
 * Feeling very worn down and am on very low work outputs. 
 
 #### Plans for going forward 
+- Take off week May 8th
+	- make sure to setup autoresponders that implicate Bastian for responses 
 - Schedule 2h slot for meeting with KW & BGT to give them an update on 
 	- where PPIE work is, incl. rumblings amongst PPI contributors
 	- roadmap for next steps 
-- Take off week May 8th 
+	- SB start conversation with BGT & KW to schedule this for week of 15th
+- PPIE meetup tomorrow: 
+	- potentially chat about conference & potential survey 
 
 ## 28 February 2023
 
