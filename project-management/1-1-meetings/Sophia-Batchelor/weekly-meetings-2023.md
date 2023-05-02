@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [2 May 2023](#2-May-2023)
 * [28 February 2023](#28-February-2023)
 * [21 February 2023](#21-February-2023)
 * [14 February 2023](#14-February-2023)
@@ -10,6 +11,60 @@
 * [10 January 2023](#date-10-January-2023)
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
+
+
+
+## 2 May 2023
+
+#### Project specific Reflection
+
+*Review your current projects, relation and skill-building that you are working on. *
+(Since last week, review the progress you’ve made towards your goals. Any challenges to mention? Review if we can attract any attention or help highlight your work.)
+
+#### Focus for this week's 1:1
+- Plans for meetings going forward 
+- Catch up on conference outputs
+- Update on annual leave plans
+- Tomorrow's PPIE session
+- Ethics approval and semi-structured interviews 
+- Discussion for identifying next steps for PPIE plans 
+
+### 📚 Updates
+
+#### Who did you help this week?
+
+* BA with banners, booklets, and hand outs 
+* BA with hotel and conference bookings
+* PPIE contributors with getting set up at the conference
+* EZ with ECR session this week
+
+#### Who helped you this week?
+
+* BA + Birmingham team with markers + paper for the workshop session
+
+#### What did you achieve?
+
+* Conference!!
+
+#### What did you struggle with?
+
+* Very much stuck in a customer support role with no channels to take action and it's quite difficult. 
+* Was unable to take leave in April so am very low on energy and resources, and there's a high priority event each week until the end of May. 
+
+#### What would you like to work on next week?
+
+* PPIE Lunch Session
+* Scope out ethics for the PPIE resources 
+* CM documentation sprint
+
+#### Where do you need help?
+
+* Prioritization plan for PPIE
+
+#### Any other topics
+
+* Feeling very worn down and am on very low work outputs. 
+
 
 
 ## 28 February 2023
