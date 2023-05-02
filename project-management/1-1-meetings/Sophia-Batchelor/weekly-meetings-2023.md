@@ -65,7 +65,11 @@
 
 * Feeling very worn down and am on very low work outputs. 
 
-
+#### Plans for going forward 
+- Schedule 2h slot for meeting with KW & BGT to give them an update on 
+	- where PPIE work is, incl. rumblings amongst PPI contributors
+	- roadmap for next steps 
+- Take off week May 8th 
 
 ## 28 February 2023
 
