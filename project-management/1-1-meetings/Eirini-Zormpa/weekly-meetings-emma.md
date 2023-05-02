@@ -25,6 +25,51 @@
 * [7 March 2023](#date-7-March-2023)
 * [14 March 2023](#date-14-March-2023)
 * [18 April 2023](#date-18-April-2023)
+* [2 May 2023](#date-2-May-2023)
+
+
+## Date: 2 May 2023
+
+**Check-in ritual**
+Meeting so many lovely people in-person at the RSF Conference was :sparkles: excellent :sparkles:
+
+### Project specific Reflection
+
+- I talked to many ECRs at the conference, which was really nice for relationship-building
+- Some new ideas about collaboration - interest group in methods/clustering?
+- I'm happy with how the theme 3 sessions went - lots of questions for the publishing presentation!
+
+### Notes to discuss during 1:1
+- How to keep the momentum from the conference going?
+
+#### Who did you help this week?
+- I helped with the conference organisation!
+
+#### Who helped you this week?
+- The lovely TPS people who helped with online facilitation :heart:
+- BM is a superstar :star2:
+
+#### What did you achieve?
+
+* Conference!
+* Submitted the management programme application.
+
+#### What did you struggle with?
+
+* Conference!
+
+#### What would you like to work on next week?
+
+* Keep momentum going from conference
+* Catch up on everything else!
+* Educators programme starting this week.
+
+#### Where do you need help?
+
+#### Any other topics
+
+- Performance review at meeting next week.
+- R training
 
 ## Date: 18 April 2023
 
