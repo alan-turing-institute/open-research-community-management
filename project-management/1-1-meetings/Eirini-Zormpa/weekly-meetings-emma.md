@@ -32,6 +32,7 @@
 
 **Check-in ritual**
 Meeting so many lovely people in-person at the RSF Conference was :sparkles: excellent :sparkles:
+* EK - Congrats on a great conference. It went very well from my perspective. :tada:
 
 ### Project specific Reflection
 
@@ -41,6 +42,7 @@ Meeting so many lovely people in-person at the RSF Conference was :sparkles: exc
 
 ### Notes to discuss during 1:1
 - How to keep the momentum from the conference going?
+* EK - follow up mass email or slack messages. Also following up personal contacts to engage them further. 
 
 #### Who did you help this week?
 - I helped with the conference organisation!
@@ -69,7 +71,7 @@ Meeting so many lovely people in-person at the RSF Conference was :sparkles: exc
 #### Any other topics
 
 - Performance review at meeting next week.
-- R training
+- R training - we have arranged a meeting today to follow this up. 
 
 ## Date: 18 April 2023
 
