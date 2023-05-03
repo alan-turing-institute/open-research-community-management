@@ -71,6 +71,7 @@ Now handing over to MB as RPM, definitely feeling a bit of an in between stage b
 * Knowledge Share follow up and promotion for next months
 * Facilited at AIM RSF conference
 * Clinical AI/Turing Roche chat
+* Did references and chapter links in TTW chapter
 
 #### What did you struggle with?
 * Finding out about new RPM at the same time as Roche bit chaotic... but I think good news overall
