@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [16 May 2023](#16-May-2023)
 * [2 May 2023](#2-May-2023)
 * [28 February 2023](#28-February-2023)
 * [21 February 2023](#21-February-2023)
@@ -12,6 +13,61 @@
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
 
+
+
+## 16 May 2023
+
+### 📍 Check-in 
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+#### Project specific Reflection
+
+**Big Tasks**
+* CoP Plans / PPIE Strategy plans 
+* Need to Reschedule AC
+
+**AutSPACEs**
+* Addressing invitations and reminders: Shared calendar - calendar invites 
+* Address and plan structure for the meet up 
+* Next meet up 1st June - plan for a mini UX exploration
+* The talk from February got good engagement + attendance, can we explore who to invite for talks
+        * Sensory St? Neurodivergent Game of Life? 
+
+**June PPIE Session**
+* Talking about data
+        * Knowledge share: how to explain what data is and how it is used 
+        * Q&A
+        * **Who is the audience:** professional PPIE people, patients & public, PPIE reps 
+* Post meeting: send out to consortia "we had our june meeting, this is what the topic was, this is what we came up with / discussed - would you like to have input/add anything" 
+
+#### Focus for this week's 1:1
+
+* Catch up and scope out work for the next week. 
+* Next PPIE Meeting
+* PPIE Plans 
+* AI Fairness Survey 
+* Planning next meet up 
+
+### 📚 Updates
+
+Returning from sick leave. 
+
+#### What would you like to work on next week?
+
+* Catch up on emails 
+* All Tasks Board update 
+* plan autspaces meeting 
+* plan PPIE meeting 
+* reschedule Antony 
+
+#### Where do you need help?
+
+* Strategic plan for PPIE priorities 
+
+#### Any other topics
+
+* Can work on ethics submission together 
+* Platform is unlikely
 
 
 ## 2 May 2023
