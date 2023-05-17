@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [03 May 2023](#date-03-may-2023)
 * [26 April 2023](#date-26-april-2023)
 * [18 April 2023](#date-18-april-2023)
 * [15 March 2023](#date-15-march-2023)
@@ -45,6 +46,45 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 03 May 2023
+
+### Check-in ritual
+Things have definitely got a bit calmer this week which is nice- will just be ensuring I'm on top of everything as quite a lot of leave coming up.
+
+### Project specific Reflection
+Now handing over to MB as RPM, definitely feeling a bit of an in between stage but know she will get up to speed quick!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Met with FS and HW for follow up after knowledge share
+* Looked into wikipedia for the team's structured missingness chapter
+* Meeting with MB on Friday to run through bits
+
+#### Who helped you this week?
+* EK with TTW chapter review!
+* MS with catchup and thinking about community strategy
+
+#### What did you achieve?
+* Gave talk about the partnership at the Crick
+* Knowledge Share follow up and promotion for next months
+* Facilited at AIM RSF conference
+* Clinical AI/Turing Roche chat
+* Did references and chapter links in TTW chapter
+
+#### What did you struggle with?
+* Finding out about new RPM at the same time as Roche bit chaotic... but I think good news overall
+* Changing the ambassador name.... legal docs need to be re-done
+
+#### What would you like to work on next week?
+* Will be on leave for most of the week. When I'm back will be at Community Manager day and preparing the newsletter 
+
+#### Where do you need help?
+* Check Clinical AI doc ok to go over to everyone
+
+#### Any other topics
+* Need next week's meeting cancelling as well as 31st May and 7th June if we want to be super organised ha
 
 ## Date 26 April 2023
 
