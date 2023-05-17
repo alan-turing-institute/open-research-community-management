@@ -73,6 +73,7 @@ Two all day meetings and book dash next week and holiday the week after means I 
 
 #### What did you struggle with?
 * Lot of talk at the strategy about comms strategy and events- need to think about how best to manage this with Turing teams etc
+ * EK - we will be writing a health RCM comms strategy so we can include Turing-roche as a key part of this. Let's plan to work on this together.  
 * Knowledge Share speaker not recruited for June yet, hoping to sort this week
 
 * #### What would you like to work on next week?
