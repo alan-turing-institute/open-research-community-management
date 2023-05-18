@@ -1,5 +1,7 @@
 # Ask and Offer
 
+*This document is not maintained online. There is a live document that is used by the team members to organise team meetings.*
+
 We want to encourage everyone to find opportunities to exchange their skills, ideas and expertise.
 This document is a place to gather different 'asks' (what you would like to learn from others) and 'offers' (what you would like to teach and share with others).
 These 'asks' and 'offers' will also help us find themes for our weekly [team meetings](./team-meetings.md).

@@ -8,6 +8,8 @@
 * [2022-09-27](#2022-09-27)
 * [2022-09-20](#2022-09-20)
 * [2022-09-06](#2022-09-06)
+* [2022-08-30](#2022-08-30)
+* [2022-08-16](#2022-08-16)
 * [2022-08-09](#2022-08-09)
 * [2022-07-26](#2022-07-26)
 * [2022-06-28](#2022-06-28)
@@ -426,6 +428,40 @@ MS: Ask people about getting involved with upcoming notes!
 ### Proposal updates
 N/A
 - Mozilla WG: invited for event at MozFest 2022
+
+# 2022-08-30
+### Ongoing Tasks
+- September Fireside chat: hardware!
+  - MS: Ask LA for a recommendation (someone else from her team), JA for recommendations, Suggested Thomas Mboa
+  - MS: Citizen Science (with GA) -> October, OLS, Citizen Science
+- Book Dash: wait until next week! (Next month newsletter)
+- MOOC: planning 
+- Fireside chat survey
+  - MS: Survey =
+- Planning Genomics England workshop --> pt 1 at workshop, pt 2 at collaboration cafe
+  - MS: Structural missingness -> merge result, the data is very different. There is structural missingness that is not representative of population, possible grabbing postdoc from VH : https://www.mindthegap.health/post/heterogeneity-turing-roche-partnership
+- Newsletter draft: https://hackmd.io/Gt69xhqjRGSHqdtnwEM8mw?both (idea to split community news and book updates for this month due to length of update?)
+- Planning Governance Task force: documents in preparation
+- Community Research --> Community Audit --> Community Health Report
+- Pull Requests: 
+  - Forward: https://github.com/alan-turing-institute/the-turing-way/pull/2080
+  - UX: https://github.com/alan-turing-institute/the-turing-way/issues/2071
+  - Emergent strategy w/ KW
+
+### Thank yous
+- SG for brainstorming 
+- JD, EK, AL for brainstorming workshop
+
+### Event updates
+Full schedule [here](https://hackmd.io/GHjxNTyZS1CYQgQst2kKKg)
+- Planning Genomics Englad workshop
+- Video for Code4All due by end of week
+
+### Proposal updates
+N/A
+- Nothing upcoming so far!
+
+# 2022-08-16
 
 # 2022-08-09
 ### Questions for MS

@@ -67,7 +67,6 @@ You are, of course, encouraged to join *The Turing Way* that she co-leads alongs
 
 #### Community Managers
 
-- Achintya Rao, Community Manager; [AI for Science and Government Research Programme](https://www.turing.ac.uk/research/asg)
 - Anne Lee Steele, Community Manager; [*The Turing Way*](https://www.turing.ac.uk/research/research-projects/turing-way)
 - Arron Lacey, Senior Community Manager; [Early Detection of Neurodegenerative Diseases (EDoN)](https://edon-initiative.org/)
 - Eirini Zormpa, Community Manager; [AI for Multiple Long Term Conditions Research Support Facility (AIM RSF)](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) - Open Collaboration
@@ -75,13 +74,17 @@ You are, of course, encouraged to join *The Turing Way* that she co-leads alongs
 - Sophia Batchelor, Community Manager; [AI for Multiple Long Term Conditions Research Support Facility (AIM RSF)](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) - PPIE
 - Vicky Hellon, Community Manager; [Turing-Roche Strategic Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership)
 
-### Collaborators from TPS/*The Turing Way* projects in Community Roles
+#### Collaborators from TPS/*The Turing Way* projects in Community Roles
 
 - Ayesha Dunk, [AI and Data Science Educators Programme](https://www.turing.ac.uk/data-science-and-ai-educators-programme), The Alan Turing Institute
 - Claudia Fischer, Research Assistant; [Turing Commons](https://turing-commons.netlify.app/), The Alan Turing Institute
 - Sarah Gibson, JupyterHub Community Development Lead, [2i2c](https://2i2c.org/) and [JupyterHub](https://jupyter.org/hub)
 
 *If you are interested in joining this team, please reach out to Malvika Sharan (msharan@turing.ac.uk).*
+
+#### Previous members
+
+- Achintya Rao, Community Manager; [AI for Science and Government Research Programme](https://www.turing.ac.uk/research/asg)
 
 ## Guiding Principles
 
