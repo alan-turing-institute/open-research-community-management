@@ -1,7 +1,24 @@
-#
-
-
 ## 1:1 meetings
+
+### 2023-05-18
+- Community Call: preparing agenda & getting form responses
+- Upcoming talks
+  - Reproducibility Network (Online, 19 May)
+  - OSPO++ (Online, 25 May) - invited to give same talk from FOSS Backstage
+  - Lunch & Learn (London, 1 June) - drafting introductory slides (slightly altered based on how project has grown in 3+ years)
+  - Graduate Institute Democracy & Technology (Geneva, 12-15 June) - invited to present research and participate in podcast
+  - Data Justice Conference (Cardiff, 19-20) - accepted proposal, in process of booking
+- Professional Development: Send draft review to MS by 19 May (Start of Day UK time)
+- Risk Assessment form: checking with EZ, send by 19 May
+- Book Dash
+  - Leading sessions (extra session on Thursday)
+  - Richard Acton Application
+  - Writing
+
+- General tasks:
+  - Website user experience
+  - Mapping TTW: https://hackmd.io/GD_ZBGalRZOtiQjbnlEebg
+  - Coworking call
 
 ### 2023-04-25
 - Applying for different professional development programms
