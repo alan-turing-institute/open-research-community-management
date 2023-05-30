@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: wiki
+
+website:
+  title: "rcm-wiki"
+  repo-url: https://github.com/alan-turing-institute/open-community-building.git
+  repo-actions: [edit, issue]
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - wiki/about.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Basics"
+        contents:
+          - index.qmd
+          - wiki/testpage.qmd
+      - section: "Layout"
+        contents:
+          - index.qmd
+          - wiki/about.qmd
+          - wiki/testpage.qmd
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+
+
