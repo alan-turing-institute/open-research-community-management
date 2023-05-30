@@ -10,7 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - docs/about.qmd
+      - about.qmd
   sidebar:
     style: "docked"
     search: true
@@ -18,12 +18,12 @@ website:
       - section: "Basics"
         contents:
           - index.qmd
-          - docs/testpage.qmd
+          - testpage.qmd
       - section: "Layout"
         contents:
           - index.qmd
-          - docs/about.qmd
-          - docs/testpage.qmd
+          - about.qmd
+          - testpage.qmd
 
 format:
   html:
