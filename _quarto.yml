@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: wiki
+  output-dir: docs
 
 website:
   title: "rcm-wiki"
@@ -10,7 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - wiki/about.qmd
+      - docs/about.qmd
   sidebar:
     style: "docked"
     search: true
@@ -18,12 +18,12 @@ website:
       - section: "Basics"
         contents:
           - index.qmd
-          - wiki/testpage.qmd
+          - docs/testpage.qmd
       - section: "Layout"
         contents:
           - index.qmd
-          - wiki/about.qmd
-          - wiki/testpage.qmd
+          - docs/about.qmd
+          - docs/testpage.qmd
 
 format:
   html:
