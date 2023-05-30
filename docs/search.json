@@ -593,5 +593,19 @@
     "title": "rcm-wiki",
     "section": "",
     "text": "How to contribute?\nFirst of all, thanks for taking the time to contribute to this repository! 🎉👍\nThis repository is a place to share resources for the Open Research Community Building team and we welcome suggestions and contributions, especially drawing from the projects we participate in. As an open source repository, we encourage anyone reading this repository to report mistakes and errors, propose changes in our existing resources or suggest new resources.\nWe have a Code of Conduct that applies to all the activities and projects involved in this event.\nWhatever is your interest and availability, there is a way to contribute to this GitHub repository.\n🏃 I only have 5 minutes, but I want to know if I can reuse materials from this repository\n\nThis work is licensed under a Creative Commons Attribution 4.0 International license. You are free to share and adapt the material for any purpose, even commercially, as long as you provide attribution (give appropriate credit, provide a link to the license, and indicate if changes were made) in any reasonable manner, but not in any way that suggests the licensor endorses you or your use, and with no additional restrictions. (see License).\n⏳ I am interested to contribute - tell me how to start\n\nPlease read the documents hosted in this repository. For open tasks in this repository, please see the Issues section. Reply under any issue by using the comment feature. You are welcome to create new issues or open Pull Requests to suggest changes, update or addition or materials as useful for your work as a community manager and open researcher.\n🎉 I want to regularly contribute to this repository! 🛠\n\n\nRaise mistakes, errors or missing information on this repository by opening a Pull Request\n\nRead details on how to open a Pull Request\nSubmit trivial fixes (for example, a typo, a broken link or an obvious error)\nStart work on a contribution that is already listed as an issue or something you’ve already discussed\nA pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Please mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.\n\n\nContact\n\nFor any organisation related queries or concerns, you can directly reach out to the team lead by dropping an email to Malvika Sharan (mailto:msharan@turing.ac.uk)."
+  },
+  {
+    "objectID": "wiki-resources/testpage.html",
+    "href": "wiki-resources/testpage.html",
+    "title": "Test Page",
+    "section": "",
+    "text": "This is a test page"
+  },
+  {
+    "objectID": "wiki-resources/about.html",
+    "href": "wiki-resources/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
