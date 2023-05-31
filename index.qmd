@@ -2,7 +2,6 @@
 title: "Research Community Managers Wiki"
 ---
 
-![](images/community-managers.png)
-
+<img src="images/community-managers.png" width="300">
 ## Community Managers Wiki
 Welcome to the Research Community Mangers Wiki.
