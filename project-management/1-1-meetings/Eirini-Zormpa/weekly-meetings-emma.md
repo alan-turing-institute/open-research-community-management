@@ -26,7 +26,48 @@
 * [14 March 2023](#date-14-March-2023)
 * [18 April 2023](#date-18-April-2023)
 * [2 May 2023](#date-2-May-2023)
+* [6 June 2023](#date-6-June-2023)
 
+
+## Date: 6 June 2023
+
+**Check-in ritual**
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+### Project specific Reflection
+I'm mostly focused on ECR things these days: the Lunchtime session last week and thinking about the version control workshops. We also have an in-person meeting with the whole RSF next week to hammer out a delivery plan as well, so that'll be interesting to see. The RSF team is getting smaller with two people leaving, so I'm slightly worried about how that's going to affect the workload of the remaining team members.
+
+### Notes to discuss during 1:1
+- Performance review mostly I think!
+
+#### Who did you help this week?
+- RS with the version control workshop.
+- MC with an event for RSEs this Friday.
+
+#### Who helped you this week?
+- Also RS with the version control workshops 💖 I've really loved working together with her on this!
+- LF with the session I'm running with MC for the RSE event.
+
+#### What did you achieve?
+- Ran the ECR session last week
+- Did some prep with RS on the version control workshops
+- Did some work on the RSE event for this Friday
+- Coaching/mentoring meetings for the management development course and DS & AI educators programme
+
+#### What did you struggle with?
+- Not being on holiday anymore?
+
+#### What would you like to work on next week?
+- Finish the materials for the RSE session
+- Work on my version control workshop
+- Lots of meetings :cry:
+
+#### Where do you need help?
+- I'm alright!
+
+#### Any other topics
+- EK - briefing note try to finish the first draft of this.
+- TTW collaboration cafe chapter - lets work on this next week. 
 
 ## Date: 2 May 2023
 
