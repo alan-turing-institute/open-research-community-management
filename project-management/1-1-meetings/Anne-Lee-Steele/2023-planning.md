@@ -39,8 +39,13 @@ TTW Review/Maintenance Maintenance: https://hackmd.io/IxTMNCnvSJ2z6fTN2spcKg
   - Social science - pro! but also weakness! 
   - Working long hours, and juggling lots of things 
   - Be confident in cancelling meetings! 
-  - Be  
+  - Working groups: were supported in created them, roles is not established, processes are not clear for staff and don't have clear direction
+    - When do you step in and when do you step back?
+    - Tied to ethnographic experience - not sure what to do next
+    - CM is sometimes filling the gap where where community needs help, and then pass it on to the community (but give a framework)
+    - Check-in list with working groups & discussions: this has stalled in the time since
 - Reviewing calendar and schedules
-  - Ongoing recurring calls:
-- Reviewing agendas: core team & 
+  - Ongoing recurring calls
+  - Recurring responsibilities
+- Reviewing agendas: core team & core delivery team
   - 
