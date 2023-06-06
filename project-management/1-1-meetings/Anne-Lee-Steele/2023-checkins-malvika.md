@@ -1,18 +1,32 @@
 ## 1:1 meetings
 
 ### 2023-06-06
+- Agenda: 
+  - Start scheduling for each Monday
 - Check-in with KW: happening 8 June
 - Community check-in: happening 9 June
 - Event invitations
   - UN OSPO: 21 June
   - ACM-REP 28 June 
 - Fireside Chat: planning in progress
-- Slack check-ins: 
+  - GK to shadow for future events
+  - Invite CM to co-facilitate
+  - JB has confirmed
+  - Save EM for 
+  - Push for new chapter to be released by the timeline (launch!)
+- Slack check-ins -> restarting this week
 - Upcoming conferences
   - Graduate Institute Democracy & Technology (Geneva, 12-15 June) - invited to present research and participate in podcast (they cover costs)
   - Data Justice Conference (Cardiff, 19-20) - accepted proposal, in process of booking
+    - AAA: check with budget, book information
+    - MS: Send over slides
 - General tasks
   - Website: mapping user experience (review of first design?)
+- Reviewing professional development points next week
+- Prioritisation
+  - Fireside Chat
+  - Community health work
+  - Governance data: 
 
 ### 2023-05-18
 - Community Call: preparing agenda & getting form responses
