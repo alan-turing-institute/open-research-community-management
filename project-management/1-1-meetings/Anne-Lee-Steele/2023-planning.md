@@ -29,3 +29,18 @@ TTW Review/Maintenance Maintenance: https://hackmd.io/IxTMNCnvSJ2z6fTN2spcKg
 |backlog  |         |                   |completed       |
 |         |         |in-progress        |                |
 |         |to-do    |                   |                ||
+
+## Quarterly meetings
+
+
+### 06-06-2023
+
+- Feedback from annual review
+  - Social science - pro! but also weakness! 
+  - Working long hours, and juggling lots of things 
+  - Be confident in cancelling meetings! 
+  - Be  
+- Reviewing calendar and schedules
+  - Ongoing recurring calls:
+- Reviewing agendas: core team & 
+  - 
