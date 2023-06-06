@@ -66,7 +66,8 @@ I'm mostly focused on ECR things these days: the Lunchtime session last week and
 - I'm alright!
 
 #### Any other topics
-
+- EK - briefing note try to finish the first draft of this.
+- TTW collaboration cafe chapter - lets work on this next week. 
 
 ## Date: 2 May 2023
 
