@@ -1,5 +1,19 @@
 ## 1:1 meetings
 
+### 2023-06-06
+- Check-in with KW: happening 8 June
+- Community check-in: happening 9 June
+- Event invitations
+  - UN OSPO: 21 June
+  - ACM-REP 28 June 
+- Fireside Chat: planning in progress
+- Slack check-ins: 
+- Upcoming conferences
+  - Graduate Institute Democracy & Technology (Geneva, 12-15 June) - invited to present research and participate in podcast (they cover costs)
+  - Data Justice Conference (Cardiff, 19-20) - accepted proposal, in process of booking
+- General tasks
+  - Website: mapping user experience (review of first design?)
+
 ### 2023-05-18
 - Community Call: preparing agenda & getting form responses
 - Upcoming talks
@@ -14,7 +28,6 @@
   - Leading sessions (extra session on Thursday)
   - Richard Acton Application
   - Writing
-
 - General tasks:
   - Website user experience
   - Mapping TTW: https://hackmd.io/GD_ZBGalRZOtiQjbnlEebg
