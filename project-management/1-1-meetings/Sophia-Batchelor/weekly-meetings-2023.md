@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [5 June 2023](#5-June-2023)
 * [2 May 2023](#2-May-2023)
 * [28 February 2023](#28-February-2023)
 * [21 February 2023](#21-February-2023)
@@ -12,23 +13,18 @@
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
 
-## Date: DD-MM-YYYY
+## 5 June 2023
 
-> project check in and updates 
-
-### 📍 Check-in 
-(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
-
-### Focus for this week's 1:1
+#### Focus for this week's 1:1
 * Redesign the weekly checkin notes 
 * Plan out week's work and projects 
 
+### Project Updates
+> updates on the main pieces of work in progress 
 
-#### Project Updates
-
-* Fairness in HealthAI Survey 
+* **Fairness in HealthAI Survey**
 	* Ethics submission in the works. Meeting last week with the team to sync. 
-* PPIE CoP Survey
+* **PPIE CoP Survey**
 	* Ethics for public involvement work in workshops and focus groups 
 		* Next steps: Check in w. Jenna and Steph about if this was the direction they wanted to go in
 		* What is the purpose of the paper 
@@ -43,23 +39,23 @@
 	* Sending a survey about how people got involved in general is okay (don’t need to ethics / publishing the results)
 		- There is not be a paper in there (i.e. no need for ethics) as it's a scoping task 
 	* Are the sessions in Sept -> a "training session" for researchers vs a study/project. 
-* Widening Participation Summer School
+* **Widening Participation Summer School**
 	* Git Good workshops are being planned and drafted.  
-* PPIE Monthly Session Wed 7 June
+* **PPIE Monthly Session Wed 7 June**
 	* Data Wranglers talking about "what is data" 
 	* Write up from the session planned  
-* Glossary
+* **Glossary**
 	* It's still a core objective. 
 	* Add terms from the monthly session to it.   
-* PPIE Outputs
+* **PPIE Outputs**
 	* Conference informal write up
 	* Glossary
 	* "what is data" write up
 	* community maping   
-* RCM Brief needed to be addressed 
+* **RCM Brief needed to be addressed** 
 	* https://docs.google.com/document/d/1wxnM3gVBlLloln6zc09plc0WEbwElFmY/edit
 
-#### What would you like to work on next week?
+### What would you like to work on next week?
 
 * Git Good workshop for summer school 
 * PPIE Monthly Session 
@@ -80,8 +76,7 @@
 
 * EZ - was unable to attend the RCM planning meeting so we had an async catch up
 
-
-#### Any other topics
+### Any other topics
 
 * Feeling incredibly burnt out and with a lack of planned next steps. Hopefully the delivery planning meeting next week will sort out the ambiguous pieces. 
 * Would like to revisit my training and development plan to formalize my time/resource commitments. 
