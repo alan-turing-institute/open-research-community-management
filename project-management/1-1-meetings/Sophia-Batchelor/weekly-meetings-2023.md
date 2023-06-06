@@ -12,6 +12,79 @@
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
 
+## Date: DD-MM-YYYY
+
+> project check in and updates 
+
+### 📍 Check-in 
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+### Focus for this week's 1:1
+* Redesign the weekly checkin notes 
+* Plan out week's work and projects 
+
+
+#### Project Updates
+
+* Fairness in HealthAI Survey 
+	* Ethics submission in the works. Meeting last week with the team to sync. 
+* PPIE CoP Survey
+	* Ethics for public involvement work in workshops and focus groups 
+		* Next steps: Check in w. Jenna and Steph about if this was the direction they wanted to go in
+		* What is the purpose of the paper 
+			* Qualitative approach
+			- What was your involvement in the community and was it useful 
+			- Learning ppie from each other (there is a paper in here)
+			- Here are case studies as examples for what changed 
+			- Examples of how members of the public gave input 
+			- Framing: why Communities of Practice were useful (submit to participatory medicine journal) 
+			- We can say that all of the consortia have their own ethics for their own projects 
+			- Offering authorship and support for everyone 
+	* Sending a survey about how people got involved in general is okay (don’t need to ethics / publishing the results)
+		- There is not be a paper in there (i.e. no need for ethics) as it's a scoping task 
+	* Are the sessions in Sept -> a "training session" for researchers vs a study/project. 
+* Widening Participation Summer School
+	* Git Good workshops are being planned and drafted.  
+* PPIE Monthly Session Wed 7 June
+	* Data Wranglers talking about "what is data" 
+	* Write up from the session planned  
+* Glossary
+	* It's still a core objective. 
+	* Add terms from the monthly session to it.   
+* PPIE Outputs
+	* Conference informal write up
+	* Glossary
+	* "what is data" write up
+	* community maping   
+* RCM Brief needed to be addressed 
+	* https://docs.google.com/document/d/1wxnM3gVBlLloln6zc09plc0WEbwElFmY/edit
+
+#### What would you like to work on next week?
+
+* Git Good workshop for summer school 
+* PPIE Monthly Session 
+* "What is Data" write up
+* Replan for AC office visit 
+* Sync w. JS + SH about the PPIE CoP survey
+
+#### Where do you need help?
+
+* Strategic plan for what the community looks like. I'm still very confused about what our expected level of responsibility and involvement is. 
+* Relationship management with the community and letting people know why we are withdrawing support.
+
+#### Who did you help this week?
+
+* MM + RS with prepping the slide deck for wednesday 
+
+#### Who helped you this week?
+
+* EZ - was unable to attend the RCM planning meeting so we had an async catch up
+
+
+#### Any other topics
+
+* Feeling incredibly burnt out and with a lack of planned next steps. Hopefully the delivery planning meeting next week will sort out the ambiguous pieces. 
+* Would like to revisit my training and development plan to formalize my time/resource commitments. 
 
 
 ## 2 May 2023
