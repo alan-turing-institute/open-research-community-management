@@ -8,22 +8,36 @@ website:
   repo-actions: [edit, issue]
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        file: index.qmd
+      - text: "Contributing"
+        file: contributing.qmd
   sidebar:
-    style: "docked"
-    search: true
-    contents:
-      - section: "Basics"
-        contents:
-          - index.qmd
-          - testpage.qmd
-      - section: "Layout"
-        contents:
-          - index.qmd
-          - about.qmd
-          - testpage.qmd
+    - title: "Home"
+      style: "docked"
+      search: true
+      contents:
+        - section: "Basics"
+          contents:
+            - index.qmd
+            - testpage.qmd
+        - section: "Layout"
+          contents:
+            - index.qmd
+            - about.qmd
+            - testpage.qmd
+
+    - title: "Contributing"
+      contents:
+        - section: "Basics"
+          contents:
+            - index.qmd
+            - testpage.qmd
+        - section: "Layout"
+          contents:
+            - index.qmd
+            - about.qmd
+            - testpage.qmd
 
 format:
   html:

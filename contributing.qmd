@@ -1,0 +1,60 @@
+---
+title: "Contributing"
+---
+
+## How is the Wiki built?
+
+The SRE Wiki is built with Quarto.
+Unlike Jupyter Book or RMarkdown, it isn't a package that belongs to a programming language, it's a javascript based Command Line Ibterface (cli) program that supports embedding multple languages within Quarto documents. 
+
+The Wiki is deployed via GitHub Pages on the `gh-pages` branch. This means if you want create a Pull Request to edit the wiki, you will want to merge any branches with `gh-pages` rather than `main`.
+
+## Do I need to download any software to contribute?
+
+At the moment - yes. You need a local install of Quarto to render `.qmd` files.
+ Some IDEs already come included with Quarto:
+- VSCode + [VSCode Quarto Extension](https://marketplace.visualstudio.com/items?itemName=quarto.quarto)
+- RStudio
+
+Or you could download the [Quarto CLI](https://quarto.org/docs/download/) if you like working on a terminal. 
+
+#### Can I just edit directly on GitHub?
+Soon! We are working on integrating the Quarto GitHub Action and Deploy Preview to allow rendering and deployment entirely from with the GitHub repository.
+
+### How do I work with Quarto to edit the Wiki?
+Working with Quarto is largely working with markdown files. 
+Where GitHub and HackMD use vanilla `.md` markdown files to write README files, Quarto has it's own flavour of markdown file called a `.qmd` file.
+If you have ever edited a markdown file before, you will be at home with writing markdown files in Quarto - and this is *mostly* all you need to build this wiki.
+
+### The `_quarto.yml` file
+The other important file for this Wiki, and for Quarto in general is the `_quarto.yml` file. 
+The reason you see links on the navigation bar, or sections on the left sidebar is because they are specified to look that way in the `_quarto.yml`.
+
+
+## I'm getting the hang of Quarto - what next?
+Once you are comfortable editing `.qmd` files and slotting them into the `_quarto.yml` file, you can *change the way this wiki looks* by:
+
+- Cloning the repository to your local SRE desktop
+- Create an switch to the new branch with `git checkout -b mynewbranch`
+- Edit or create `.qmd` file(s)
+- Make changes to the `_quarto.yml` file (if needed)
+- Commit your changes with `git commit -a -m "change I have made"`
+- Push the change to GitHub `git push --set-upstream origin mynewbranch`
+- In the Pull Request ensure that you are merging to the `gh-pages` branch, not the `main` branch.
+
+::: callout-note
+##
+You can also click on "Edit this page" on the right hand side of this page. This takes you directly to the page on the GitLab website and you can edit directly - don't forget to create a new branch at the bottom of the page on GitLab when you commit these changes!
+:::
+
+### How do I render the Wiki locally?
+You may want to see how the wiki looks before pushing your changes to GitHub. Here a few ways of doing that:
+
+- **In VSCode**:
+Use the Quarto Extension and press "Render" when you have any `.qmd` file open
+- **In RStudio**:
+Press "Render" when you have any `.qmd` file open
+- **On the Command Line**:
+At the top of the local cloned directory you can run `quarto preview index.qmd` and this will provide you with a `localhost` URL that you can visit and check your changes.
+
+

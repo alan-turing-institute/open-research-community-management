@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>rcm-wiki – contributing</title>
+<title>rcm-wiki - Contributing</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -63,7 +63,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -80,129 +80,119 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">
+    <a class="nav-link" href="./index.html">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">
- <span class="menu-text">About</span></a>
+    <a class="nav-link active" href="./contributing.html" aria-current="page">
+ <span class="menu-text">Contributing</span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"></h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
-      </button>
-    </div>
-  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
-      <div class="mt-2 flex-shrink-0 align-items-center">
-        <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
-        </div>
-      </div>
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Basics</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">Research Community Managers Wiki</a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./testpage.html" class="sidebar-item-text sidebar-link">Test Page</a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Layout</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">Research Community Managers Wiki</a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./about.html" class="sidebar-item-text sidebar-link">About</a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./testpage.html" class="sidebar-item-text sidebar-link">Test Page</a>
-  </div>
-</li>
-      </ul>
-  </li>
-    </ul>
-    </div>
-</nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#how-to-contribute" id="toc-how-to-contribute" class="nav-link active" data-scroll-target="#how-to-contribute">How to contribute?</a></li>
+  <li><a href="#how-is-the-wiki-built" id="toc-how-is-the-wiki-built" class="nav-link active" data-scroll-target="#how-is-the-wiki-built">How is the Wiki built?</a></li>
+  <li><a href="#do-i-need-to-download-any-software-to-contribute" id="toc-do-i-need-to-download-any-software-to-contribute" class="nav-link" data-scroll-target="#do-i-need-to-download-any-software-to-contribute">Do I need to download any software to contribute?</a>
+  <ul class="collapse">
+  <li><a href="#how-do-i-work-with-quarto-to-edit-the-wiki" id="toc-how-do-i-work-with-quarto-to-edit-the-wiki" class="nav-link" data-scroll-target="#how-do-i-work-with-quarto-to-edit-the-wiki">How do I work with Quarto to edit the Wiki?</a></li>
+  <li><a href="#the-_quarto.yml-file" id="toc-the-_quarto.yml-file" class="nav-link" data-scroll-target="#the-_quarto.yml-file">The <code>_quarto.yml</code> file</a></li>
+  </ul></li>
+  <li><a href="#im-getting-the-hang-of-quarto---what-next" id="toc-im-getting-the-hang-of-quarto---what-next" class="nav-link" data-scroll-target="#im-getting-the-hang-of-quarto---what-next">I’m getting the hang of Quarto - what next?</a>
+  <ul class="collapse">
+  <li><a href="#how-do-i-render-the-wiki-locally" id="toc-how-do-i-render-the-wiki-locally" class="nav-link" data-scroll-target="#how-do-i-render-the-wiki-locally">How do I render the Wiki locally?</a></li>
+  </ul></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/alan-turing-institute/open-community-building.git/edit/main/CONTRIBUTING.md" class="toc-action">Edit this page</a></p><p><a href="https://github.com/alan-turing-institute/open-community-building.git/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/alan-turing-institute/open-community-building.git/edit/main/contributing.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/alan-turing-institute/open-community-building.git/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Contributing</h1>
+</div>
 
 
-<section id="how-to-contribute" class="level1">
-<h1>How to contribute?</h1>
-<p>First of all, thanks for taking the time to contribute to this repository! 🎉👍</p>
-<p>This repository is a place to share resources for the Open Research Community Building team and we welcome suggestions and contributions, especially drawing from the projects we participate in. As an open source repository, we encourage anyone reading this repository to report mistakes and errors, propose changes in our existing resources or suggest new resources.</p>
-<p>We have a <a href="./CODE_OF_CONDUCT.html">Code of Conduct</a> that applies to all the activities and projects involved in this event.</p>
-<p>Whatever is your interest and availability, there is a way to contribute to this GitHub repository.</p>
-<p>🏃 I only have 5 minutes, but I want to know if I can reuse materials from this repository</p>
-<hr>
-<p>This work is licensed under a Creative Commons Attribution 4.0 International license. You are free to share and adapt the material for any purpose, even commercially, as long as you provide attribution (give appropriate credit, provide a link to the license, and indicate if changes were made) in any reasonable manner, but not in any way that suggests the licensor endorses you or your use, and with no additional restrictions. (see <a href=".LICENSE.md">License</a>).</p>
-<p>⏳ I am interested to contribute - tell me how to start</p>
-<hr>
-<p>Please read the documents hosted in this repository. For open tasks in this repository, please see the <a href="https://github.com/alan-turing-institute/open-community-building/issues">Issues section</a>. Reply under any issue by using the comment feature. You are welcome to create <a href="https://github.com/alan-turing-institute/open-community-building/issues/new?assignees=&amp;labels=&amp;template=GENERAL_ISSUE.md">new issues</a> or open <a href="https://github.com/alan-turing-institute/open-community-building/pulls">Pull Requests</a> to suggest changes, update or addition or materials as useful for your work as a community manager and open researcher.</p>
-<p>🎉 I want to regularly contribute to this repository! 🛠</p>
-<hr>
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="how-is-the-wiki-built" class="level2">
+<h2 class="anchored" data-anchor-id="how-is-the-wiki-built">How is the Wiki built?</h2>
+<p>The SRE Wiki is built with Quarto. Unlike Jupyter Book or RMarkdown, it isn’t a package that belongs to a programming language, it’s a javascript based Command Line Ibterface (cli) program that supports embedding multple languages within Quarto documents.</p>
+<p>The Wiki is deployed via GitHub Pages on the <code>gh-pages</code> branch. This means if you want create a Pull Request to edit the wiki, you will want to merge any branches with <code>gh-pages</code> rather than <code>main</code>.</p>
+</section>
+<section id="do-i-need-to-download-any-software-to-contribute" class="level2">
+<h2 class="anchored" data-anchor-id="do-i-need-to-download-any-software-to-contribute">Do I need to download any software to contribute?</h2>
+<p>At the moment - yes. You need a local install of Quarto to render <code>.qmd</code> files. Some IDEs already come included with Quarto: - VSCode + <a href="https://marketplace.visualstudio.com/items?itemName=quarto.quarto">VSCode Quarto Extension</a> - RStudio</p>
+<p>Or you could download the <a href="https://quarto.org/docs/download/">Quarto CLI</a> if you like working on a terminal.</p>
+<section id="can-i-just-edit-directly-on-github" class="level4">
+<h4 class="anchored" data-anchor-id="can-i-just-edit-directly-on-github">Can I just edit directly on GitHub?</h4>
+<p>Soon! We are working on integrating the Quarto GitHub Action and Deploy Preview to allow rendering and deployment entirely from with the GitHub repository.</p>
+</section>
+<section id="how-do-i-work-with-quarto-to-edit-the-wiki" class="level3">
+<h3 class="anchored" data-anchor-id="how-do-i-work-with-quarto-to-edit-the-wiki">How do I work with Quarto to edit the Wiki?</h3>
+<p>Working with Quarto is largely working with markdown files. Where GitHub and HackMD use vanilla <code>.md</code> markdown files to write README files, Quarto has it’s own flavour of markdown file called a <code>.qmd</code> file. If you have ever edited a markdown file before, you will be at home with writing markdown files in Quarto - and this is <em>mostly</em> all you need to build this wiki.</p>
+</section>
+<section id="the-_quarto.yml-file" class="level3">
+<h3 class="anchored" data-anchor-id="the-_quarto.yml-file">The <code>_quarto.yml</code> file</h3>
+<p>The other important file for this Wiki, and for Quarto in general is the <code>_quarto.yml</code> file. The reason you see links on the navigation bar, or sections on the left sidebar is because they are specified to look that way in the <code>_quarto.yml</code>.</p>
+</section>
+</section>
+<section id="im-getting-the-hang-of-quarto---what-next" class="level2">
+<h2 class="anchored" data-anchor-id="im-getting-the-hang-of-quarto---what-next">I’m getting the hang of Quarto - what next?</h2>
+<p>Once you are comfortable editing <code>.qmd</code> files and slotting them into the <code>_quarto.yml</code> file, you can <em>change the way this wiki looks</em> by:</p>
 <ul>
-<li>Raise mistakes, errors or missing information on this repository by opening a <a href="https://github.com/alan-turing-institute/open-community-building/pulls">Pull Request</a>
-<ul>
-<li>Read details on <a href="https://opensource.guide/how-to-contribute/#opening-a-pull-request">how to open a Pull Request</a></li>
-<li>Submit trivial fixes (for example, a typo, a broken link or an obvious error)</li>
-<li>Start work on a contribution that is already listed as an issue or something you’ve already discussed</li>
-<li>A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Please mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.</li>
-</ul></li>
+<li>Cloning the repository to your local SRE desktop</li>
+<li>Create an switch to the new branch with <code>git checkout -b mynewbranch</code></li>
+<li>Edit or create <code>.qmd</code> file(s)</li>
+<li>Make changes to the <code>_quarto.yml</code> file (if needed)</li>
+<li>Commit your changes with <code>git commit -a -m "change I have made"</code></li>
+<li>Push the change to GitHub <code>git push --set-upstream origin mynewbranch</code></li>
+<li>In the Pull Request ensure that you are merging to the <code>gh-pages</code> branch, not the <code>main</code> branch.</li>
 </ul>
-<p>Contact</p>
-<hr>
-<p>For any organisation related queries or concerns, you can directly reach out to the team lead by dropping an email to Malvika Sharan (mailto:msharan@turing.ac.uk).</p>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>You can also click on “Edit this page” on the right hand side of this page. This takes you directly to the page on the GitLab website and you can edit directly - don’t forget to create a new branch at the bottom of the page on GitLab when you commit these changes!</p>
+</div>
+</div>
+<section id="how-do-i-render-the-wiki-locally" class="level3">
+<h3 class="anchored" data-anchor-id="how-do-i-render-the-wiki-locally">How do I render the Wiki locally?</h3>
+<p>You may want to see how the wiki looks before pushing your changes to GitHub. Here a few ways of doing that:</p>
+<ul>
+<li><strong>In VSCode</strong>: Use the Quarto Extension and press “Render” when you have any <code>.qmd</code> file open</li>
+<li><strong>In RStudio</strong>: Press “Render” when you have any <code>.qmd</code> file open</li>
+<li><strong>On the Command Line</strong>: At the top of the local cloned directory you can run <code>quarto preview index.qmd</code> and this will provide you with a <code>localhost</code> URL that you can visit and check your changes.</li>
+</ul>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
