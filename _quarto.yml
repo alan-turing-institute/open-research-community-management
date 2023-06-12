@@ -11,7 +11,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "Contributing"
-        file: CONTRIBUTING.qmd
+        file: contributing.qmd
   sidebar:
     - title: "Home"
       style: "docked"
