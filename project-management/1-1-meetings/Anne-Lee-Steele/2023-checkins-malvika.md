@@ -1,5 +1,12 @@
 ## 1:1 meetings
 
+### 2023-06-13
+- Widening participation program - I am unable to make the trainings due to the Fireside Chat and conference (29 or 12 June). Is this something I can deproritise while planning for an August break?
+- Fireside Chat - Confirmed with all speakers, AAA is following up in group email
+  - Following up with group about new chapter.
+- Data Justice Conference - problem with booking hotel (currently following up with Gray Dawes). Will follow up with presentation deck this week.
+- Draft 2 of governance document: goal to complete working draft at end of June
+
 ### 2023-06-06
 - Agenda: 
   - Start scheduling for each Monday
