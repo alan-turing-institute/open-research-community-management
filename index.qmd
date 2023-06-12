@@ -6,7 +6,7 @@ title: "Research Community Managers Wiki"
 
 ## Welcome to the Research Community Managers Wiki
 
-Community Managers at the Turing invest in engaging, training and empowering a diverse group of researchers, research engineers, programme management, and business team members by fostering diverse communities of practice. 
+Research Community Managers at the Turing invest in engaging, training and empowering a diverse group of researchers, research engineers, programme management, and business team members by fostering diverse communities of practice. 
 They collaborate closely with others and identify where they can surface implicit knowledge and make information explicitly available so that everyone who wants to can participate. 
 Through the active adoption of open research, reproducibility and collaborative approaches in data science projects, they contribute toward building interconnected systems of open source software, datasets, communities and processes.
 
