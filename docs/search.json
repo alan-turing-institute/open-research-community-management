@@ -18,7 +18,7 @@
     "href": "_site/contributing/index.html",
     "title": "Contributing",
     "section": "",
-    "text": "The SRE Wiki is built with Quarto. Unlike Jupyter Book or RMarkdown, it isn’t a package that belongs to a programming language, it’s a javascript based Command Line Ibterface (cli) program that supports embedding multple languages within Quarto documents.\nThe Wiki is deployed via GitHub Pages on the gh-pages branch. This means if you want create a Pull Request to edit the wiki, you will want to merge any branches with gh-pages rather than main."
+    "text": "The Research Community Managers Wiki is built with Quarto. Unlike Jupyter Book or RMarkdown, it isn’t a package that belongs to a programming language, it’s a javascript based Command Line Ibterface (cli) program that supports embedding multple languages within Quarto documents.\nThe Wiki is deployed via GitHub Pages on the gh-pages branch. This means if you want create a Pull Request to edit the wiki, you will want to merge any branches with gh-pages rather than main."
   },
   {
     "objectID": "_site/contributing/index.html#do-i-need-to-download-any-software-to-contribute",
