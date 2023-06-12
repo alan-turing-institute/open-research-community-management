@@ -26,5 +26,26 @@
     "title": "Contributing",
     "section": "How do I work with Quarto to edit the Wiki?",
     "text": "How do I work with Quarto to edit the Wiki?\nWorking with Quarto is largely working with markdown files. Where GitHub and HackMD use vanilla .md markdown files to write README files, Quarto has it’s own flavour of markdown file called a .qmd file. If you have ever edited a markdown file before, you will be at home with writing markdown files in Quarto - and this is mostly all you need to build this wiki.\n\nThe _quarto.yml file\nThe other important file for this Wiki, and for Quarto in general is the _quarto.yml file. The reason you see links on the navigation bar, or sections on the left sidebar is because they are specified to look that way in the _quarto.yml.\n\n\nFile structure of the website\nThe index.qmd at the base of the repository serves the homepage. Any other sections on the website exist as a subdirectory of _site/. For example, the page you are viewing now is built from _site/contributing/index.qmd. In the quarto.yml file there will be a reference to this file path in the section that defines the top navigation pane."
+  },
+  {
+    "objectID": "index.html#welcome-to-the-research-community-managers-wiki",
+    "href": "index.html#welcome-to-the-research-community-managers-wiki",
+    "title": "Research Community Managers Wiki",
+    "section": "Welcome to the Research Community Managers Wiki",
+    "text": "Welcome to the Research Community Managers Wiki\nResearch Community Managers at the Turing invest in engaging, training and empowering a diverse group of researchers, research engineers, programme management, and business team members by fostering diverse communities of practice. They collaborate closely with others and identify where they can surface implicit knowledge and make information explicitly available so that everyone who wants to can participate. Through the active adoption of open research, reproducibility and collaborative approaches in data science projects, they contribute toward building interconnected systems of open source software, datasets, communities and processes.\nTogether as a team, we ensure that the research that happens at the Institute is created to be maintained, sustained, remixed and reused to make research and innovation more efficient and effective across the national and international data science ecosystem for commercial and public interest technologies alike."
+  },
+  {
+    "objectID": "index.html#project-aims",
+    "href": "index.html#project-aims",
+    "title": "Research Community Managers Wiki",
+    "section": "Project aims",
+    "text": "Project aims\nMembers of Open Research Community Building team will ensure that research and data-driven AI solutions at the Turing use and build on open source tools, practices and systems by empowering people in the research community with open research skills. Building on the successes of the Tools, Practices and Systems research programme, Community Managers advance and scale the bidirectional flow of knowledge, resources and evidence for high-quality research within the Institute, as well as connect them across national and international data science communities. The aim is to empower Communities of Practice (CoP) at the Turing and more widely by granting them access to the skills and support they need to participate, collaborate and build something that is bigger than the sum of its part."
+  },
+  {
+    "objectID": "index.html#current-research-community-managers-team",
+    "href": "index.html#current-research-community-managers-team",
+    "title": "Research Community Managers Wiki",
+    "section": "Current Research Community Managers Team",
+    "text": "Current Research Community Managers Team\n\nArron Lacey"
   }
 ]
