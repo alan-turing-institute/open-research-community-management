@@ -2,6 +2,10 @@ project:
   type: website
   output-dir: docs
 
+  render:
+    - index.qmd
+    - _site/contributing/index.qmd
+
 website:
   title: "rcm-wiki"
   repo-url: https://github.com/alan-turing-institute/open-community-building.git
@@ -11,7 +15,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "Contributing"
-        file: contributing.qmd
+        file: _site/contributing/index.qmd
   sidebar:
     - title: "Home"
       style: "docked"
@@ -44,6 +48,3 @@ format:
     theme: minty
     css: styles.css
     toc: true
-
-
-
