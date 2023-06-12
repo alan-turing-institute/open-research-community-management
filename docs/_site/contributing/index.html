@@ -103,15 +103,13 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#how-is-the-wiki-built" id="toc-how-is-the-wiki-built" class="nav-link active" data-scroll-target="#how-is-the-wiki-built">How is the Wiki built?</a></li>
-  <li><a href="#do-i-need-to-download-any-software-to-contribute" id="toc-do-i-need-to-download-any-software-to-contribute" class="nav-link" data-scroll-target="#do-i-need-to-download-any-software-to-contribute">Do I need to download any software to contribute?</a>
+  <li><a href="#do-i-need-to-download-any-software-to-contribute" id="toc-do-i-need-to-download-any-software-to-contribute" class="nav-link" data-scroll-target="#do-i-need-to-download-any-software-to-contribute">Do I need to download any software to contribute?</a></li>
+  <li><a href="#how-do-i-work-with-quarto-to-edit-the-wiki" id="toc-how-do-i-work-with-quarto-to-edit-the-wiki" class="nav-link" data-scroll-target="#how-do-i-work-with-quarto-to-edit-the-wiki">How do I work with Quarto to edit the Wiki?</a>
   <ul class="collapse">
-  <li><a href="#how-do-i-work-with-quarto-to-edit-the-wiki" id="toc-how-do-i-work-with-quarto-to-edit-the-wiki" class="nav-link" data-scroll-target="#how-do-i-work-with-quarto-to-edit-the-wiki">How do I work with Quarto to edit the Wiki?</a></li>
   <li><a href="#the-_quarto.yml-file" id="toc-the-_quarto.yml-file" class="nav-link" data-scroll-target="#the-_quarto.yml-file">The <code>_quarto.yml</code> file</a></li>
+  <li><a href="#file-structure-of-the-website" id="toc-file-structure-of-the-website" class="nav-link" data-scroll-target="#file-structure-of-the-website">File structure of the website</a></li>
   </ul></li>
-  <li><a href="#im-getting-the-hang-of-quarto---what-next" id="toc-im-getting-the-hang-of-quarto---what-next" class="nav-link" data-scroll-target="#im-getting-the-hang-of-quarto---what-next">I’m getting the hang of Quarto - what next?</a>
-  <ul class="collapse">
-  <li><a href="#how-do-i-render-the-wiki-locally" id="toc-how-do-i-render-the-wiki-locally" class="nav-link" data-scroll-target="#how-do-i-render-the-wiki-locally">How do I render the Wiki locally?</a></li>
-  </ul></li>
+  <li><a href="#im-getting-the-hang-of-quarto---what-next" id="toc-im-getting-the-hang-of-quarto---what-next" class="nav-link" data-scroll-target="#im-getting-the-hang-of-quarto---what-next">I’m getting the hang of Quarto - what next?</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/alan-turing-institute/open-community-building.git/edit/main/_site/contributing/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/alan-turing-institute/open-community-building.git/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -137,38 +135,51 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="how-is-the-wiki-built" class="level2">
 <h2 class="anchored" data-anchor-id="how-is-the-wiki-built">How is the Wiki built?</h2>
-<p>The Research Community Managers Wiki is built with Quarto. Unlike Jupyter Book or RMarkdown, it isn’t a package that belongs to a programming language, it’s a javascript based Command Line Ibterface (cli) program that supports embedding multple languages within Quarto documents.</p>
+<p>The Research Community Managers Wiki is built with Quarto. Unlike Jupyter Book or RMarkdown, it isn’t a package that belongs to a programming language, it’s a javascript based Command Line Interface (cli) program that supports embedding multple languages within Quarto documents.</p>
 <p>The Wiki is deployed via GitHub Pages on the <code>gh-pages</code> branch. This means if you want create a Pull Request to edit the wiki, you will want to merge any branches with <code>gh-pages</code> rather than <code>main</code>.</p>
 </section>
 <section id="do-i-need-to-download-any-software-to-contribute" class="level2">
 <h2 class="anchored" data-anchor-id="do-i-need-to-download-any-software-to-contribute">Do I need to download any software to contribute?</h2>
-<p>At the moment - yes. You need a local install of Quarto to render <code>.qmd</code> files. Some IDEs already come included with Quarto: - VSCode + <a href="https://marketplace.visualstudio.com/items?itemName=quarto.quarto">VSCode Quarto Extension</a> - RStudio</p>
+<p>At the moment - yes. You need a local install of Quarto to render <code>.qmd</code> files. Some IDEs already come included with Quarto:</p>
+<ol type="1">
+<li>VSCode + <a href="https://marketplace.visualstudio.com/items?itemName=quarto.quarto">VSCode Quarto Extension</a></li>
+<li>RStudio (comes with Quarto)</li>
+</ol>
 <p>Or you could download the <a href="https://quarto.org/docs/download/">Quarto CLI</a> if you like working on a terminal.</p>
 <section id="can-i-just-edit-directly-on-github" class="level4">
 <h4 class="anchored" data-anchor-id="can-i-just-edit-directly-on-github">Can I just edit directly on GitHub?</h4>
 <p>Soon! We are working on integrating the Quarto GitHub Action and Deploy Preview to allow rendering and deployment entirely from with the GitHub repository.</p>
 </section>
-<section id="how-do-i-work-with-quarto-to-edit-the-wiki" class="level3">
-<h3 class="anchored" data-anchor-id="how-do-i-work-with-quarto-to-edit-the-wiki">How do I work with Quarto to edit the Wiki?</h3>
-<p>Working with Quarto is largely working with markdown files. Where GitHub and HackMD use vanilla <code>.md</code> markdown files to write README files, Quarto has it’s own flavour of markdown file called a <code>.qmd</code> file. If you have ever edited a markdown file before, you will be at home with writing markdown files in Quarto - and this is <em>mostly</em> all you need to build this wiki.</p>
 </section>
+<section id="how-do-i-work-with-quarto-to-edit-the-wiki" class="level2">
+<h2 class="anchored" data-anchor-id="how-do-i-work-with-quarto-to-edit-the-wiki">How do I work with Quarto to edit the Wiki?</h2>
+<p>Working with Quarto is largely working with markdown files. Where GitHub and HackMD use vanilla <code>.md</code> markdown files to write README files, Quarto has it’s own flavour of markdown file called a <code>.qmd</code> file. If you have ever edited a markdown file before, you will be at home with writing markdown files in Quarto - and this is <em>mostly</em> all you need to build this wiki.</p>
 <section id="the-_quarto.yml-file" class="level3">
 <h3 class="anchored" data-anchor-id="the-_quarto.yml-file">The <code>_quarto.yml</code> file</h3>
 <p>The other important file for this Wiki, and for Quarto in general is the <code>_quarto.yml</code> file. The reason you see links on the navigation bar, or sections on the left sidebar is because they are specified to look that way in the <code>_quarto.yml</code>.</p>
+</section>
+<section id="file-structure-of-the-website" class="level3">
+<h3 class="anchored" data-anchor-id="file-structure-of-the-website">File structure of the website</h3>
+<p>The <code>index.qmd</code> at the base of the repository serves the homepage. Any other sections on the website exist as a subdirectory of <code>_site/</code>. For example, the page you are viewing now is built from <code>_site/contributing/index.qmd</code>. In the <code>quarto.yml</code> file there will be a reference to this file path in the section that defines the top navigation pane.</p>
 </section>
 </section>
 <section id="im-getting-the-hang-of-quarto---what-next" class="level2">
 <h2 class="anchored" data-anchor-id="im-getting-the-hang-of-quarto---what-next">I’m getting the hang of Quarto - what next?</h2>
 <p>Once you are comfortable editing <code>.qmd</code> files and slotting them into the <code>_quarto.yml</code> file, you can <em>change the way this wiki looks</em> by:</p>
-<ul>
+<ol type="1">
 <li>Cloning the repository to your local SRE desktop</li>
 <li>Create an switch to the new branch with <code>git checkout -b mynewbranch</code></li>
 <li>Edit or create <code>.qmd</code> file(s)</li>
 <li>Make changes to the <code>_quarto.yml</code> file (if needed)</li>
-<li>Commit your changes with <code>git commit -a -m "change I have made"</code></li>
+<li>Render the website (and show a preview):
+<ul>
+<li><strong>In VSCode</strong>: Use the Quarto Extension and press “Render” when you have any <code>.qmd</code> file open</li>
+<li><strong>In RStudio</strong>: Press “Render” when you have any <code>.qmd</code> file open</li>
+<li><strong>On the Command Line</strong>: At the top of the local cloned directory you can run <code>quarto preview index.qmd</code> and this will provide you with a <code>localhost</code> URL that you can visit and check your changes.</li>
+</ul></li>
 <li>Push the change to GitHub <code>git push --set-upstream origin mynewbranch</code></li>
 <li>In the Pull Request ensure that you are merging to the <code>gh-pages</code> branch, not the <code>main</code> branch.</li>
-</ul>
+</ol>
 <div class="callout-note callout callout-style-default callout-captioned">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -182,17 +193,8 @@ ul.task-list li input[type="checkbox"] {
 <p>You can also click on “Edit this page” on the right hand side of this page. This takes you directly to the page on the GitLab website and you can edit directly - don’t forget to create a new branch at the bottom of the page on GitLab when you commit these changes!</p>
 </div>
 </div>
-<section id="how-do-i-render-the-wiki-locally" class="level3">
-<h3 class="anchored" data-anchor-id="how-do-i-render-the-wiki-locally">How do I render the Wiki locally?</h3>
-<p>You may want to see how the wiki looks before pushing your changes to GitHub. Here a few ways of doing that:</p>
-<ul>
-<li><strong>In VSCode</strong>: Use the Quarto Extension and press “Render” when you have any <code>.qmd</code> file open</li>
-<li><strong>In RStudio</strong>: Press “Render” when you have any <code>.qmd</code> file open</li>
-<li><strong>On the Command Line</strong>: At the top of the local cloned directory you can run <code>quarto preview index.qmd</code> and this will provide you with a <code>localhost</code> URL that you can visit and check your changes.</li>
-</ul>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
