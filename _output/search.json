@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html#welcome-to-the-research-community-managers-wiki",
+    "href": "index.html#welcome-to-the-research-community-managers-wiki",
+    "title": "Research Community Managers Wiki",
+    "section": "Welcome to the Research Community Managers Wiki",
+    "text": "Welcome to the Research Community Managers Wiki\nResearch Community Managers at the Turing invest in engaging, training and empowering a diverse group of researchers, research engineers, programme management, and business team members by fostering diverse communities of practice. They collaborate closely with others and identify where they can surface implicit knowledge and make information explicitly available so that everyone who wants to can participate. Through the active adoption of open research, reproducibility and collaborative approaches in data science projects, they contribute toward building interconnected systems of open source software, datasets, communities and processes.\nTogether as a team, we ensure that the research that happens at the Institute is created to be maintained, sustained, remixed and reused to make research and innovation more efficient and effective across the national and international data science ecosystem for commercial and public interest technologies alike."
+  },
+  {
+    "objectID": "index.html#project-aims",
+    "href": "index.html#project-aims",
+    "title": "Research Community Managers Wiki",
+    "section": "Project aims",
+    "text": "Project aims\nMembers of Open Research Community Building team will ensure that research and data-driven AI solutions at the Turing use and build on open source tools, practices and systems by empowering people in the research community with open research skills. Building on the successes of the Tools, Practices and Systems research programme, Community Managers advance and scale the bidirectional flow of knowledge, resources and evidence for high-quality research within the Institute, as well as connect them across national and international data science communities. The aim is to empower Communities of Practice (CoP) at the Turing and more widely by granting them access to the skills and support they need to participate, collaborate and build something that is bigger than the sum of its part."
+  },
+  {
+    "objectID": "_site/contributing/index.html",
+    "href": "_site/contributing/index.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "The SRE Wiki is built with Quarto. Unlike Jupyter Book or RMarkdown, it isn’t a package that belongs to a programming language, it’s a javascript based Command Line Ibterface (cli) program that supports embedding multple languages within Quarto documents.\nThe Wiki is deployed via GitHub Pages on the gh-pages branch. This means if you want create a Pull Request to edit the wiki, you will want to merge any branches with gh-pages rather than main."
+  },
+  {
+    "objectID": "_site/contributing/index.html#do-i-need-to-download-any-software-to-contribute",
+    "href": "_site/contributing/index.html#do-i-need-to-download-any-software-to-contribute",
+    "title": "Contributing",
+    "section": "Do I need to download any software to contribute?",
+    "text": "Do I need to download any software to contribute?\nAt the moment - yes. You need a local install of Quarto to render .qmd files. Some IDEs already come included with Quarto: - VSCode + VSCode Quarto Extension - RStudio\nOr you could download the Quarto CLI if you like working on a terminal.\n\nCan I just edit directly on GitHub?\nSoon! We are working on integrating the Quarto GitHub Action and Deploy Preview to allow rendering and deployment entirely from with the GitHub repository.\n\n\nHow do I work with Quarto to edit the Wiki?\nWorking with Quarto is largely working with markdown files. Where GitHub and HackMD use vanilla .md markdown files to write README files, Quarto has it’s own flavour of markdown file called a .qmd file. If you have ever edited a markdown file before, you will be at home with writing markdown files in Quarto - and this is mostly all you need to build this wiki.\n\n\nThe _quarto.yml file\nThe other important file for this Wiki, and for Quarto in general is the _quarto.yml file. The reason you see links on the navigation bar, or sections on the left sidebar is because they are specified to look that way in the _quarto.yml."
+  },
+  {
+    "objectID": "_site/contributing/index.html#im-getting-the-hang-of-quarto---what-next",
+    "href": "_site/contributing/index.html#im-getting-the-hang-of-quarto---what-next",
+    "title": "Contributing",
+    "section": "I’m getting the hang of Quarto - what next?",
+    "text": "I’m getting the hang of Quarto - what next?\nOnce you are comfortable editing .qmd files and slotting them into the _quarto.yml file, you can change the way this wiki looks by:\n\nCloning the repository to your local SRE desktop\nCreate an switch to the new branch with git checkout -b mynewbranch\nEdit or create .qmd file(s)\nMake changes to the _quarto.yml file (if needed)\nCommit your changes with git commit -a -m \"change I have made\"\nPush the change to GitHub git push --set-upstream origin mynewbranch\nIn the Pull Request ensure that you are merging to the gh-pages branch, not the main branch.\n\n\n\n\n\n\n\n\n\n\n\nYou can also click on “Edit this page” on the right hand side of this page. This takes you directly to the page on the GitLab website and you can edit directly - don’t forget to create a new branch at the bottom of the page on GitLab when you commit these changes!\n\n\n\nHow do I render the Wiki locally?\nYou may want to see how the wiki looks before pushing your changes to GitHub. Here a few ways of doing that:\n\nIn VSCode: Use the Quarto Extension and press “Render” when you have any .qmd file open\nIn RStudio: Press “Render” when you have any .qmd file open\nOn the Command Line: At the top of the local cloned directory you can run quarto preview index.qmd and this will provide you with a localhost URL that you can visit and check your changes."
+  }
+]

@@ -1,6 +1,10 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: _output
+
+  render:
+    - index.qmd
+    - _site/contributing/index.qmd
 
 website:
   title: "rcm-wiki"
@@ -11,7 +15,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "Contributing"
-        file: contributing.qmd
+        file: _site/contributing/index.qmd
   sidebar:
     - title: "Home"
       style: "docked"
