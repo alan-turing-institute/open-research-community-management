@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [19 June 2023](#19-June-2023)
 * [5 June 2023](#5-June-2023)
 * [16 May 2023](#16-May-2023)
 * [2 May 2023](#2-May-2023)
@@ -13,6 +14,77 @@
 * [10 January 2023](#date-10-January-2023)
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
+
+
+## 19 June 2023
+
+#### Focus for this week's 1:1
+* RCM Brief 
+* PPIE Honorarium policy
+* AC Office visit
+* Email Mario re. consortia PPIE
+
+### Project Updates
+> updates on the main pieces of work in progress 
+
+* **Fairness in HealthAI Survey**
+	* Coworking for ethics planned for tomorrow
+* **PPIE CoP Resources**
+	* Workshop on friday is getting downsized (low attendance)
+	* ➡️ MOOP planning doc getting scoped (in progress)
+ 	* ➡️ Need to send out email to evaluate timings of Community Sessions
+	* ➡️ Need to plan our "Intro to AI and ML" session
+ 	* ➡️ Need to plan out July's healthAI Fairness Survey input session
+ * **Widening Participation Summer School**
+	* ✅ Safeguarding training last week  
+	* ➡️ Git Good workshops are being drafted : **DUE: Tuesday 20 June**
+* **PPIE Monthly Session Wed 7 June**
+	* Write up from the session planned  
+* **Glossary**
+	* Add terms from the monthly session to it.
+ 	* Get in touch with Antony re. other Glossary    
+* **PPIE Outputs**
+	* Conference informal write up
+	* Glossary
+	* "what is data" write up
+	* community maping
+ 	* MOOP    
+* **RCM Brief needed to be addressed** 
+	* https://docs.google.com/document/d/1wxnM3gVBlLloln6zc09plc0WEbwElFmY/edit
+
+### What would you like to work on this week?
+
+* AIM meeting schedules (~2 hours)
+* Git Good workshop for summer school (~4 hours)
+* healthAI fairness survey (~3 hours)
+* "What is Data" write up (~4 hours)
+* Replan for AC office visit (~4 hours)
+* Honorarium policy
+* Mon stakeholder file update (~2 hours)
+* Bob's Business Training 
+
+#### Where do you need help?
+
+* Honorarium policy
+* AC office visit
+* MOOP scoping
+
+#### Who did you help this week?
+
+* EZ with Alt-text slides
+* CoP researcher connecting them to PPIE folk
+
+#### Who helped you this week?
+
+* EZ with chairing Alt-text conversation
+* BGT with delivery plan
+
+### Any other topics
+
+* Struggling with the added burden of being on crutches/managing pain level and lack of sleep. Trying to avoid taking time off as a lot of big pieces are coming up. 
+
+
+
 
 ## 5 June 2023
 
