@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [19 June 2023](#19-June-2023)
 * [5 June 2023](#5-June-2023)
 * [16 May 2023](#16-May-2023)
 * [2 May 2023](#2-May-2023)
@@ -13,6 +14,86 @@
 * [10 January 2023](#date-10-January-2023)
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
+
+
+## 19 June 2023
+
+#### Focus for this week's 1:1
+* RCM Brief
+	* Document in [gDrive](https://docs.google.com/document/d/1wxnM3gVBlLloln6zc09plc0WEbwElFmY/edit)
+* PPIE Honorarium policy
+	* BGT and DS taking lead/ No need to be looped in. Turing specific policy.
+ 	* give feedback to CoP policy, but don't need to take action. 
+* AC Office visit
+	* best scheduled for a thursday
+ 	* waiting on response 
+* Email Mario re. consortia PPIE
+	* I take lead (cc' BGT) 
+
+### Project Updates
+> updates on the main pieces of work in progress 
+
+* **Fairness in HealthAI Survey**
+	* Coworking for ethics planned for tomorrow
+* **PPIE CoP Resources**
+	* Workshop on friday is getting downsized (low attendance)
+	* ➡️ MOOP planning doc getting scoped (in progress)
+ 	* ➡️ Need to send out email to evaluate timings of Community Sessions
+  	* Next month's PPIE session 
+		* ➡️ "Intro to AI and ML" session
+ 			* ask Arron re. session 
+ 		* ➡️ healthAI Fairness Survey input session (either present sections for feedback, or have general discussion)
+ * **Widening Participation Summer School**
+	* ✅ Safeguarding training last week  
+	* ➡️ Git Good workshops are being drafted : **DUE: Tuesday 20 June**
+* **PPIE Monthly Session Wed 7 June**
+	* Write up from the session planned  
+* **Glossary**
+	* Add terms from the monthly session to it.
+ 	* Get in touch with Antony re. other Glossary    
+* **PPIE Outputs**
+	* Conference informal write up
+	* "what is data" write up
+	* community maping (MF)
+ 	* MOOP    
+* **RCM Brief needed to be addressed** 
+	* https://docs.google.com/document/d/1wxnM3gVBlLloln6zc09plc0WEbwElFmY/edit
+
+### What would you like to work on this week?
+
+* Git Good workshop for summer school
+* Mon stakeholder file update
+* Bob's Business Training
+* Start planning for July PPIE session (reach out to AL, plan for health AI survey session)
+* AIM meeting schedules
+* healthAI fairness survey 
+* "What is Data" write up
+* MOOP brainstorming
+* Friday PPIE workshop session
+
+#### Where do you need help?
+
+* Honorarium policy
+	* in hand - BGT and DS taking it forward 
+* AC office visit
+* MOOP scoping
+
+#### Who did you help this week?
+
+* EZ with Alt-text slides
+* CoP researcher connecting them to PPIE folk
+
+#### Who helped you this week?
+
+* EZ with chairing Alt-text conversation
+* BGT with delivery plan
+
+### Any other topics
+
+* Struggling with the added burden of being on crutches/managing pain level and lack of sleep. Trying to avoid taking time off as a lot of big pieces are coming up. 
+
+
+
 
 ## 5 June 2023
 
