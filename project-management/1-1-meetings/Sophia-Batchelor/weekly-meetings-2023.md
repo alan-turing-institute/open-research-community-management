@@ -19,10 +19,16 @@
 ## 19 June 2023
 
 #### Focus for this week's 1:1
-* RCM Brief 
+* RCM Brief
+	* Document in [gDrive](https://docs.google.com/document/d/1wxnM3gVBlLloln6zc09plc0WEbwElFmY/edit)
 * PPIE Honorarium policy
+	* BGT and DS taking lead/ No need to be looped in. Turing specific policy.
+ 	* give feedback to CoP policy, but don't need to take action. 
 * AC Office visit
+	* best scheduled for a thursday
+ 	* waiting on response 
 * Email Mario re. consortia PPIE
+	* I take lead (cc' BGT) 
 
 ### Project Updates
 > updates on the main pieces of work in progress 
@@ -33,8 +39,10 @@
 	* Workshop on friday is getting downsized (low attendance)
 	* ➡️ MOOP planning doc getting scoped (in progress)
  	* ➡️ Need to send out email to evaluate timings of Community Sessions
-	* ➡️ Need to plan our "Intro to AI and ML" session
- 	* ➡️ Need to plan out July's healthAI Fairness Survey input session
+  	* Next month's PPIE session 
+		* ➡️ "Intro to AI and ML" session
+ 			* ask Arron re. session 
+ 		* ➡️ healthAI Fairness Survey input session (either present sections for feedback, or have general discussion)
  * **Widening Participation Summer School**
 	* ✅ Safeguarding training last week  
 	* ➡️ Git Good workshops are being drafted : **DUE: Tuesday 20 June**
@@ -45,27 +53,28 @@
  	* Get in touch with Antony re. other Glossary    
 * **PPIE Outputs**
 	* Conference informal write up
-	* Glossary
 	* "what is data" write up
-	* community maping
+	* community maping (MF)
  	* MOOP    
 * **RCM Brief needed to be addressed** 
 	* https://docs.google.com/document/d/1wxnM3gVBlLloln6zc09plc0WEbwElFmY/edit
 
 ### What would you like to work on this week?
 
-* AIM meeting schedules (~2 hours)
-* Git Good workshop for summer school (~4 hours)
-* healthAI fairness survey (~3 hours)
-* "What is Data" write up (~4 hours)
-* Replan for AC office visit (~4 hours)
-* Honorarium policy
-* Mon stakeholder file update (~2 hours)
-* Bob's Business Training 
+* Git Good workshop for summer school
+* Mon stakeholder file update
+* Bob's Business Training
+* Start planning for July PPIE session (reach out to AL, plan for health AI survey session)
+* AIM meeting schedules
+* healthAI fairness survey 
+* "What is Data" write up
+* MOOP brainstorming
+* Friday PPIE workshop session
 
 #### Where do you need help?
 
 * Honorarium policy
+	* in hand - BGT and DS taking it forward 
 * AC office visit
 * MOOP scoping
 
