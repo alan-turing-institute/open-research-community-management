@@ -8,7 +8,7 @@ project:
 
 website:
   title: "rcm-wiki"
-  repo-url: https://github.com/alan-turing-institute/open-community-building.git
+  repo-url: https://github.com/alan-turing-institute/open-community-building/tree/gh-pages
   repo-actions: [edit, issue]
   navbar:
     left:
