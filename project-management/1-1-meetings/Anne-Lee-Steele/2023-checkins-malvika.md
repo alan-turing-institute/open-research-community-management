@@ -10,6 +10,7 @@
 - Received invitation to apply to STS Summer School. Requires line manager sign-off & recommendation (applications due by 26 June). Costs covered during week, but not transit (would cover personally): https://stsprogram.org/summerschool/
 - June Fireside Chat: all 1:1s complete (except for CMO). Excited for this chat!
 - July Fireside Chat: topic for July? Need to nail down information ASAP.
+- Widening participation workshop - pending engagement for August
 
 ### 2023-06-13
 - Widening participation program - I am unable to make the trainings due to the Fireside Chat and conference (29 or 12 June). Is this something I can deproritise while planning for an August break?
