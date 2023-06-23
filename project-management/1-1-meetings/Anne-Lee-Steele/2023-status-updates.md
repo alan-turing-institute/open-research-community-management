@@ -2,12 +2,13 @@
 
 ### 2023-07-27
 Listing longer term projects
-- Governance status draft 2.0
-- Decision-making tasks sheet review
+- Governance status draft 2.0 - 13 July
+- Decision-making tasks sheet review - 26 June
 - Annual (1.5y) review blogs (learnings from year) - pending topics
   - Practice of digital community management vs studying digital communities as scholar
   - Researching governance approaches & literature review of models
   - Template approaches for community research 
+- Book Dash report - 7 July
 - Community health report
 
 ### 2023-03
