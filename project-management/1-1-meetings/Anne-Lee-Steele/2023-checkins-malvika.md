@@ -2,9 +2,9 @@
 
 ### 2023-06-28
 - Outcomes from conferences (DemTech + Data Justice)
-  - Invited to support advisory of Tech Hub 
-  - Connected EdTech researchers with Skills team
-  - Connecting with researchers from HCI/human rights/etc - Related to PP team @ Turing.
+  - Positive reactions to both presentations!! There is HUGE interest in learning from TTW & practitioner perspectives more broadly. But building trust in these communities is a slow process, and lateral connections take time.
+  - Connecting EdTech researchers with Skills team
+  - Connecting with researchers from HCI/human rights/etc - Related to PP team @ ATI.
   - Writing notes - to publish next week in slack w/ recorded video
 - Received invitation to supervise Enrichment student from 16/01/2024 - 12/07/2024 (forwarded email)
 - Received invitation to apply to STS Summer School. Requires line manager sign-off & recommendation (applications due by 26 June). Costs covered during week, but not transit (would cover personally): https://stsprogram.org/summerschool/
