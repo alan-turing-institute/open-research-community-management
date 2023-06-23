@@ -1,5 +1,16 @@
 ## 1:1 meetings
 
+### 2023-06-28
+- Outcomes from conferences (DemTech + Data Justice)
+  - Invited to support advisory of Tech Hub 
+  - Connected EdTech researchers with Skills team
+  - Connecting with researchers from HCI/human rights/etc - Related to PP team @ Turing.
+  - Writing notes - to publish next week in slack w/ recorded video
+- Received invitation to supervise Enrichment student from 16/01/2024 - 12/07/2024 (forwarded email)
+- Received invitation to apply to STS Summer School. Requires line manager sign-off & recommendation (applications due by 26 June). Costs covered during week, but not transit (would cover personally): https://stsprogram.org/summerschool/
+- June Fireside Chat: all 1:1s complete (except for CMO). Excited for this chat!
+- July Fireside Chat: topic for July? Need to nail down information ASAP.
+
 ### 2023-06-13
 - Widening participation program - I am unable to make the trainings due to the Fireside Chat and conference (29 or 12 June). Is this something I can deproritise while planning for an August break?
 - Fireside Chat - Confirmed with all speakers, AAA is following up in group email
