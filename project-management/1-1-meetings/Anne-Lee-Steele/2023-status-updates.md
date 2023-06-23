@@ -1,6 +1,17 @@
 # 2023 Status Updates
 
+### 2023-07-27
+Listing longer term projects
+- Governance status draft 2.0
+- Decision-making tasks sheet review
+- Annual (1.5y) review blogs (learnings from year) - pending topics
+  - Practice of digital community management vs studying digital communities as scholar
+  - Researching governance approaches & literature review of models
+  - Template approaches for community research 
+- Community health report
+
 ### 2023-03
+
 #### Upcoming events
 - Tentatively planning a test run
 - DG: Confirming travel for FOSS Backstage
