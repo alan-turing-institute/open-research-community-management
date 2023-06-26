@@ -4,7 +4,7 @@ project:
 
   render:
     - index.qmd
-    - _site/contributing/index.qmd
+    - website/*
 
 website:
   title: "rcm-wiki"
@@ -15,7 +15,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "Contributing"
-        file: _site/contributing/index.qmd
+        file: website/contributing/index.qmd
   sidebar:
     - title: "Home"
       style: "docked"
