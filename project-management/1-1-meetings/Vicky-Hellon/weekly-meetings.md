@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [17 May 2023](#date-17-may-2023)
 * [03 May 2023](#date-03-may-2023)
 * [26 April 2023](#date-26-april-2023)
 * [18 April 2023](#date-18-april-2023)
@@ -46,6 +47,47 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+## Date 17 May 2023
+
+### Check-in ritual
+Feeling ok, was nice to see everyone at Turing-Roche meeting yesterday and had a drink and a catchup with SM :)
+
+### Project specific Reflection
+Two all day meetings and book dash next week and holiday the week after means I am quite busy! But feeling fairly productive
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* MA with logisitics bits 
+
+#### Who helped you this week?
+* SL with some background around deploying AI in the NHS
+* NS with being very flexible with moving out of Engima
+
+#### What did you achieve?
+* Prepared newsletter
+* TR All Day Strategy Meeting
+* All day CM meeting
+* Prepping Knowledge Share Event
+* Will be meeting with FO on Thursday to discuss AI standards hub link into the workshop 
+
+#### What did you struggle with?
+* Lot of talk at the strategy about comms strategy and events- need to think about how best to manage this with Turing teams etc
+ * EK - we will be writing a health RCM comms strategy so we can include Turing-roche as a key part of this. Let's plan to work on this together.  
+* Knowledge Share speaker not recruited for June yet, hoping to sort this week
+
+* #### What would you like to work on next week?
+* Book Dash Chapter
+* Hosting knowledge share
+* Setting up a further Clinical AI meeting for more planning
+* Starting to organise next All Hands Lab Meeting 
+
+#### Where do you need help?
+* Book Dash next week 
+* Briefing paper?
+
+#### Any other topics
+N/A
 
 ## Date 03 May 2023
 
