@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [26 June](#26-June-2023)
 * [19 June 2023](#19-June-2023)
 * [5 June 2023](#5-June-2023)
 * [16 May 2023](#16-May-2023)
@@ -14,6 +15,72 @@
 * [10 January 2023](#date-10-January-2023)
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
+
+## 26 June 2023
+
+* MOOP scoping / paper scoping
+* healthAI Fairness survery - are we prepped for next week?
+	* let's leave it off the agenda and then just reserve the second half hour 
+
+### Project Updates
+
+* **PPIE Community**
+	* Session next week -> finalize agenda and send out emails this week
+	* AL is prepped for talking about intro to AI/ML
+ 	* Newsletter to be written - should we formalize it into a mailing list?
+  		* no strong opinions, could be formalized but no bother
+    		* possibly formalizing just the monthly round up email (tinyletter (which has a public archive) or MailChimp)    
+* **Fairness in HealthAI Survey**
+	* check on presentation readiness 
+* **PPIE CoP Resources**
+	* Workshop on friday went super well - no idea how to write it all up in the end
+ 	* ➡️ send out email for session timings, can revise as Wednesdays seemed weird and yet wednesdays seemed to work best. 
+ * **Widening Participation Summer School**
+	* ✅ Git Good workshop slides are done and set up
+* **Glossary**
+	* Add terms from the monthly session to it.
+ 	* Get in touch with Antony re. other Glossary    
+* **PPIE Outputs**
+	* Conference informal write up
+	* "what is data" write up
+	* community maping (MF)
+ 	* MOOP    
+* **AIM RSF GitHub Org**
+	* BA will be making the org public
+ 	* figure out what can be taken out and move it
+  	* where can notes go so that they can be found online   
+
+### What would you like to work on this week?
+
+* July PPIE session
+* Mon stakeholder file update
+* AutSPACEs paper review 
+* BA re. website
+* MOOP
+* PPIE Newsletter 
+
+#### Where do you need help?
+
+* MOOP scoping
+* Survey - publishing agregate data only, pseudonymise the responses
+
+
+#### Who did you help this week?
+
+* BA, EZ, BGT with Alt-text
+* JS + SH asked help chairing the friday workshop
+* GK help with prepping for the workshop
+* 
+
+#### Who helped you this week?
+
+* Cass - super helpful with the workshop draft
+* EK - data sharing policy with external researchers 
+
+### Any other topics
+
+* 
+* 
 
 
 ## 19 June 2023
