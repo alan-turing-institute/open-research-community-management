@@ -82,5 +82,61 @@
     "title": "Contributing",
     "section": "I’m getting the hang of Quarto - what next?",
     "text": "I’m getting the hang of Quarto - what next?\nOnce you are comfortable editing .qmd files and slotting them into the _quarto.yml file, you can change the way this wiki looks by:\n\nCloning the repository to your local SRE desktop\nCreate an switch to the new branch with git checkout -b mynewbranch\nEdit or create .qmd file(s)\nMake changes to the _quarto.yml file (if needed)\nRender the website (and show a preview):\n\nIn VSCode: Use the Quarto Extension and press “Render” when you have any .qmd file open\nIn RStudio: Press “Render” when you have any .qmd file open\nOn the Command Line: At the top of the local cloned directory you can run quarto preview index.qmd and this will provide you with a localhost URL that you can visit and check your changes.\n\nPush the change to GitHub git push --set-upstream origin mynewbranch\nIn the Pull Request ensure that you are merging to the gh-pages branch, not the main branch.\n\n\n\n\n\n\n\n\n\n\n\nYou can also click on “Edit this page” on the right hand side of this page. This takes you directly to the page on the GitLab website and you can edit directly - don’t forget to create a new branch at the bottom of the page on GitLab when you commit these changes!"
+  },
+  {
+    "objectID": "website/meetings/index.html",
+    "href": "website/meetings/index.html",
+    "title": "Meetings Schedule",
+    "section": "",
+    "text": "A bi-weekly meeting for the RCM Team to share and plan work amongst the wider team\n\n\n\n\nProblem solving clinic - CMs bring problems and blockers to present to team for discussion and help.\n\nCM skills - presentation on a topic that will help with promoting cm skills in our team. Can be from CM team member or outside speaker.\nProject updates x 2 - project update from CM Team member on their project or community activities.\nOccasional meeting type - Project updates from all CMs - one slide updates.\nMid-term and end of the year reflections.\nWe welcome suggestions for meeting themes."
+  },
+  {
+    "objectID": "website/meetings/index.html#useful-links",
+    "href": "website/meetings/index.html#useful-links",
+    "title": "Meetings Schedule",
+    "section": "",
+    "text": "Project repository: https://github.com/alan-turing-institute/open-community-building\n\nWays of working: Project management directory on GitHub\nBiweekly meeting: team meeting details\nResource sharing: Community resources you have developed or found useful in your work &lt;– Excel sheet to be updated every second week\nQuarterly reports: Shared drive\n\n\n\n\n\nPlease login to your GitHub account to read and write into these documents. Older notes should be archived at the bottom of this page\n\n\nTeam meeting HackMDs are linked to the schedule: https://hackmd.io/@cm-team/goatherd-schedule-2023\nStandard template: https://hackmd.io/@cm-team/team-meeting-template\nCommunity clinic: https://hackmd.io/@cm-team/community-clinic"
+  },
+  {
+    "objectID": "website/meetings/index.html#team-meetings",
+    "href": "website/meetings/index.html#team-meetings",
+    "title": "Meetings Schedule",
+    "section": "",
+    "text": "Team calendar: There is community manager “Team” account with a mailing list: communitybuilding@turing.ac.uk. Please ask Vicky Hellon to add you, if you are a team member but have not been added there.\n\n\nSubscribe to calendar: https://calendar.google.com/calendar/u/0/r?cid=theturingway@gmail.com&cid=pkek5gsldr9pada67812rhkbio@group.calendar.google.com&cid=en.uk%23holiday@group.v.calendar.google.com"
+  },
+  {
+    "objectID": "website/meetings/index.html#team-meeting-archives",
+    "href": "website/meetings/index.html#team-meeting-archives",
+    "title": "Meetings Schedule",
+    "section": "",
+    "text": "Goatherd schedule 2022: https://hackmd.io/@cm-team/goatherd-schedule-2022\n3 Feb: https://hackmd.io/@cm-team/20220203\n17 Feb: https://hackmd.io/@cm-team/20220217\n03 March: https://hackmd.io/@cm-team/20220303\n17 March: https://hackmd.io/@cm-team/20220317\n31 March: https://hackmd.io/@cm-team/20220331 &lt;– No meeting\n14 April: https://hackmd.io/@cm-team/20220428\n28 April: https://hackmd.io/@cm-team/20220414\n12 May: https://hackmd.io/@cm-team/20220512\n26 May: https://hackmd.io/@cm-team/20220526\n09 June: https://hackmd.io/@cm-team/20220609\n23 June: https://hackmd.io/@cm-team/20220623 &lt;– Clinic, continued on 30 June\n07 July: https://hackmd.io/@cm-team/20220707\n21 July: https://hackmd.io/@cm-team/20220721\n4 August: https://hackmd.io/@cm-team/20220804\n18 August: https://hackmd.io/@cm-team/r1EUQVH6q\n15 September: https://hackmd.io/@cm-team/r1ByENST5\n29 September: https://hackmd.io/@cm-team/rJP-4EHa9\n27 October: https://hackmd.io/WuqwjexoRWCnWJip8vZiyw\n24 November: https://hackmd.io/@cm-team/HkIrBxONo\n08 December: https://hackmd.io/@cm-team/rJaOBx_Vs"
+  },
+  {
+    "objectID": "website/meetings/index.html#bi-weekly-rcm-only-team-meeting",
+    "href": "website/meetings/index.html#bi-weekly-rcm-only-team-meeting",
+    "title": "Meetings Schedule",
+    "section": "",
+    "text": "A bi-weekly meeting for the RCM Team to share and plan work amongst the wider team\n\n\n\n\nProblem solving clinic - CMs bring problems and blockers to present to team for discussion and help.\n\nCM skills - presentation on a topic that will help with promoting cm skills in our team. Can be from CM team member or outside speaker.\nProject updates x 2 - project update from CM Team member on their project or community activities.\nOccasional meeting type - Project updates from all CMs - one slide updates.\nMid-term and end of the year reflections.\nWe welcome suggestions for meeting themes."
+  },
+  {
+    "objectID": "website/meetings/index.html#bi-weekly-rcm-collabs-meeting",
+    "href": "website/meetings/index.html#bi-weekly-rcm-collabs-meeting",
+    "title": "Meetings Schedule",
+    "section": "Bi-weekly RCM + Collabs Meeting",
+    "text": "Bi-weekly RCM + Collabs Meeting\nA bi-weekly meeting that invites RCM adjacent roles within the Turing #### Mondays at 4pm via Zoom\n\nTopics and speakers for RCM Team Meetings\n\nProblem solving clinic - CMs bring problems and blockers to present to team for discussion and help.\n\nCM skills - presentation on a topic that will help with promoting cm skills in our team. Can be from CM team member or outside speaker.\nProject updates x 2 - project update from CM Team member on their project or community activities.\nOccasional meeting type - Project updates from all CMs - one slide updates.\nRCM support across the wider Alan Turing Institute.\nWe welcome suggestions for meeting themes."
+  },
+  {
+    "objectID": "website/meetings/index.html#weekly-rcm-co-working",
+    "href": "website/meetings/index.html#weekly-rcm-co-working",
+    "title": "Meetings Schedule",
+    "section": "Weekly RCM Co-working",
+    "text": "Weekly RCM Co-working\nA weekly Collaboration Cafe style meeting\n\nWednesdays at 10am via Zoom\n\nPatricipants suggest topics for Breakout Rooms and then co-work within them\nIdeas for Breakout Room topics can also come from the RCM GitHub Issues Board\n\n\n\nGoatherd Schedule:\n\nWhat is Goatherding?\nA team member takes responsibility of the organisation of the Team for one week, including chairing the RCM meetings. We rotate the responsibility - so you only do it rarely.\n\nGoatherd schedule 2023 and HackMDs: Link\nGoatherd checklist: Link\n\n\n\n\nMeeting notes\nPlease login to your GitHub account to read and write into these documents. Older notes should be archived at the at the bottom of this page\n\n\nTeam meeting HackMDs are linked to the schedule: https://hackmd.io/@cm-team/goatherd-schedule-2023\nStandard template: https://hackmd.io/@cm-team/team-meeting-template\nCommunity clinic: https://hackmd.io/@cm-team/community-clinic"
+  },
+  {
+    "objectID": "website/meetings/index.html#team-calendar",
+    "href": "website/meetings/index.html#team-calendar",
+    "title": "Meetings Schedule",
+    "section": "Team Calendar",
+    "text": "Team Calendar\nThere is community manager “Team” account with a mailing list: communitybuilding@turing.ac.uk. Please ask Vicky Hellon to add you, if you are a team member but have not been added there.\n\n\nSubscribe to calendar via this link"
   }
 ]
