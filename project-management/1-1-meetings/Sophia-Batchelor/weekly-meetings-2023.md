@@ -1,6 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
-* [26 June](#26-June-2023)
+* [26 June 2023](#26-June-2023)
 * [19 June 2023](#19-June-2023)
 * [5 June 2023](#5-June-2023)
 * [16 May 2023](#16-May-2023)
@@ -52,10 +52,10 @@
 
 ### What would you like to work on this week?
 
-* July PPIE session
-* Mon stakeholder file update
+* July PPIE session prep
+* ✅ Mon stakeholder file update
 * AutSPACEs paper review 
-* BA re. website
+* ✅ BA re. website
 * MOOP
 * PPIE Newsletter 
 
