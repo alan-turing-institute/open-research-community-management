@@ -83,6 +83,7 @@ All good apart from the cold!
 
 #### Where do you need help?
 * UKRN survey- all fine to just start distributing?
+ * Email comms first about Mathison blog and then into slack. 
 * Clinical AI- for the invite maybe want to put some health programme context?
 * Need to think about REG support for software
 
