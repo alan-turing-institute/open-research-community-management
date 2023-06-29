@@ -44,11 +44,14 @@ As a team, RCMs conduct research, build shared frameworks, create opportunities 
 
 ## Members and Collaborators
 
-Please note, that this team is constituted of the Turing staff members who have dedicated responsibilities towards different projects within the organisation, often on behalf of the TPS research programme.
-Members from the community or participatory projects currently collaborating with TPS or *The Turing Way* are very welcome to join this team.
-All resources created by them in their projects will be shared using open science and FAIR (Findable, Accesible, Interoperable, Reusable) practices, while following the principle of "as open as possible, as closed as necessary", especially when working with sensitive data. Practices and case studies learned from their work with be included in *The Turing Way*.
+The **Open Research Community Management** team members are RCMs who are TPS researchers at the Turing staff who provide community management across different teams, projects and programmes in the organisation, often involving statkeholders from different groups and institutes.
+The team also hosts a few members with community-oriented roles currently collaborating with TPS or *The Turing Way*
 
-New Community Managers at the Turing and collaborators in community positions will be onboarded in Open Research Community Management team by the project lead and added as a contributor to this project repository.
+All resources needed to support their roles created in the RCM team, or the project they involve in will be shared on this repository (by removing any project-specific sensitive information).
+All members are supported to open science and FAIR (Findable, Accesible, Interoperable, Reusable) practices, while following the principle of "as open as possible, as closed as necessary", especially when working with sensitive data. 
+Practices and case studies learned from their work with be shared in *The Turing Way* wherever possible.
+
+New RCMs at the Turing and collaborators in community roles will be onboarded in Open Research Community Management team by the project lead and added as a contributor to this project repository.
 Please [create an issue for your induction](https://github.com/alan-turing-institute/community-manager-team/issues/new?assignees=&labels=onboarding&template=NEW_MEMBERS.md&title=%5BINDUCTION%5D) (if not already created by the project lead).
 
 If you are not already collaborating with TPS, but are interested in community management, please contact [Malvika Sharan](mailto:msharan@turing.ac.uk) who can invite you to internal training for her team members.
