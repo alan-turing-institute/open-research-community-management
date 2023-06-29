@@ -1,11 +1,11 @@
-# Open Research Community Building at The Alan Turing Institute
+# Open Research Community Management at The Alan Turing Institute
 
 *Establishing cross-community collaborations and promoting open research in data science*
 
 The [Tools, Practices and Systems (TPS)](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) programme at The Alan Turing Institute under the leadership of Dr. Kirstie Whitaker represents a cross-cutting set of initiatives which seek to build open source infrastructure that is accessible to all and to empower a global, decentralised network of people who connect data with domain experts.
 
 Led by Dr. Malvika Sharan, TPS Senior Researcher for Open Research, TPS hosts a team of Community Managers funded by different projects at the Institute.
-All Community Managers are brought together as the [Open Research Community Building](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) team.
+All Community Managers are brought together as the [Open Research Community Management](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) team.
 Members from within the Turing programmes working in similar positions, as well as members from projects collaborating with TPS/*The Turing Way* outside the Turing, referred to as "collaborators in community roles" in this document, are also invited to join this team.
 
 All members of this team also participate in [*The Turing Way*](https://the-turing-way.netlify.app/welcome) -- an Open Source, Open Collaboration and Community-driven guide to data science, co-led by Kirstie (who is also the founder of the project) and Malvika.
@@ -13,9 +13,9 @@ A part (~10%) of Community Managers' role involves engaging with and contributin
 Anyone interested in the work of this team from outside the Turing or non-collaborators is invited to collaborate with us on *The Turing Way*.
 For further questions and information, please get in touch with Malvika by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 
-## Open Research Community Building Team
+## Open Research Community Management Team
 
-Members of the Open Research Community Building team are Community Managers and collaborators in community roles who invest in engaging, training and empowering a diverse group of members such as researchers, research engineers, programme/project management and the business side of the organisation.
+Members of the Open Research Community Management team are Community Managers and collaborators in community roles who invest in engaging, training and empowering a diverse group of members such as researchers, research engineers, programme/project management and the business side of the organisation.
 They foster diverse Communities of Practice within and outside the Turing through community building and engagement roles in their respective projects. 
 
 Through the active adoption of open research, reproducibility and collaborative approaches primarily drawn from [*The Turing Way*](https://github.com/alan-turing-institute/the-turing-way/), they contribute toward building interconnected systems of open source software, datasets, communities and processes.
@@ -30,15 +30,15 @@ These background works involve approaches for collaboration, maintenance, acknow
 As the word 'background' suggests, working in a community space often stays hidden and hence, can feel unsupported.
 This is especially challenging when community managers don't have access to an appropriate support system or opportunities to exchange best practices with other community developers.
 
-The **Open Research Community Building** team at The Alan Turing Institute provides a space for connection, support and skill-building for the community managers and collaborators in community roles working in participatory and community-oriented projects.
+The **Open Research Community Management** team at The Alan Turing Institute provides a space for connection, support and skill-building for the community managers and collaborators in community roles working in participatory and community-oriented projects.
 
 ![the illustration shows three siloed groups of users, researchers and developers, who are connecting with each other based on commonly useful projects.](https://zenodo.org/api/iiif/v2/867e0f11-b7cb-460e-9c3b-487ac75ada36:1794300f-5dd7-47ac-af5a-007cc1b52bee:community-managers.jpg/full/750,/0/default.jpg)
 
 *This image was created by Scriberia for The Turing Way community and is used under CC-BY 4.0 licence. [DOI: 10.5281/zenodo.5706310](https://doi.org/10.5281/zenodo.5706310)*
 
-### Community Managers at the Turing
+### Research Community Managers (RCM) at the Turing
 
-The Turing community managers join the [Tools, Practices and Systems](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) (TPS) Research Programme's [Open Research Community Building](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) project.
+The Turing RCMs join the [Tools, Practices and Systems](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) (TPS) Research Programme's [Open Research Community Management](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) project.
 
 They are assigned to specific projects where they collaborate closely with others and identify where they can surface implicit knowledge and make information explicitly available so that everyone who wants to can participate. 
 As a team, we ensure that the research that happens at the Institute is created to be maintained, sustained, remixed and reused.
@@ -53,7 +53,7 @@ Please note, that this team is constituted of the Turing staff members who have 
 Members from the community or participatory projects currently collaborating with TPS or *The Turing Way* are very welcome to join this team.
 All resources created by them in their projects will be shared using open science and FAIR (Findable, Accesible, Interoperable, Reusable) practices, while following the principle of "as open as possible, as closed as necessary", especially when working with sensitive data. Practices and case studies learned from their work with be included in *The Turing Way*.
 
-New Community Managers at the Turing and collaborators in community positions will be onboarded in Open Research Community Building team by the project lead and added as a contributor to this project repository.
+New Community Managers at the Turing and collaborators in community positions will be onboarded in Open Research Community Management team by the project lead and added as a contributor to this project repository.
 Please [create an issue for your induction](https://github.com/alan-turing-institute/community-manager-team/issues/new?assignees=&labels=onboarding&template=NEW_MEMBERS.md&title=%5BINDUCTION%5D) (if not already created by the project lead).
 
 If you are not already collaborating with TPS, but are interested in community management, please contact [Malvika Sharan](mailto:msharan@turing.ac.uk) who can invite you to internal training for her team members.
@@ -100,7 +100,7 @@ You are, of course, encouraged to join *The Turing Way* that she co-leads alongs
 - Create a **safe and non-judgemental environment** to engage each other, celebrate successes, admit errors and draw learnings from our mistakes.
 - Be willing to **work through conflicts to resolution**.
 - Ensure that **transparent reporting practices and effective communications** become a regular and ongoing component of our community-building process.
-- Collaborate with individuals and institutions beyond the team that **expand and extend our mission for open research and community building**.
+- Collaborate with individuals and institutions beyond the team that **expand and extend our mission for open Research Community Management**.
 
 To realise these principles, build shared perspectives that underpin these guiding principles (taken from _Bassler, A. et al., "Developing Effective Citizen Engagement: A How-to Guide for Community Leaders." Center for Rural Pennsylvania, 2008_.):
 
@@ -111,12 +111,12 @@ To realise these principles, build shared perspectives that underpin these guidi
 ## Important Documents for the Team Members
 
 - [Code of Conduct](https://github.com/alan-turing-institute/open-community-building/blob/main/CODE_OF_CONDUCT.md): Please familiarise yourself with the Code of Conduct, and enforcement procedure to help us create a welcoming and safe space for everyone who contributes to the team and this project repository.
-- [Project Management](./project-management): Please find details about how we manage the Open Research Community Building team.
-- [Ways of Working](./project-management/ways-of-working.md): This document describes the structure and organisation of the Open Research Community Building Team, clarifying expectations and support structure to help enable your work. The Turing members should also check the [Governance](https://www.turing.ac.uk/about-us/governance) to understand the organisation's structure and policies that apply to them.
+- [Project Management](./project-management): Please find details about how we manage the Open Research Community Management team.
+- [Ways of Working](./project-management/ways-of-working.md): This document describes the structure and organisation of the Open Research Community Management Team, clarifying expectations and support structure to help enable your work. The Turing members should also check the [Governance](https://www.turing.ac.uk/about-us/governance) to understand the organisation's structure and policies that apply to them.
 
 ### Working with *The Turing Way*
 
-All members of the Open Research Community Building team should take time to learn details in [*The Turing Way* core documents](./the-turing-way-core).
+All members of the Open Research Community Management team should take time to learn details in [*The Turing Way* core documents](./the-turing-way-core).
 All community managers are onboarded as the core staff members of The *Turing Way* as part of their time is allocated to TPS and *The Turing Way*. 
 
 Their engagement with *The Turing Way* project and community should help them understand how they can:
