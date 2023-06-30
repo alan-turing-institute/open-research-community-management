@@ -44,6 +44,24 @@ As a team, RCMs conduct research, build shared frameworks, create opportunities 
 
 ### Members and Collaborators
 
+The **Open Research Community Management** team members, RCMs, are TPS researchers at the Turing who provide community management expertise in the Turing's teams, projects and programmes in the organisation.
+As a core capability of the Turing, the RCM team supports the convening power of the Turing Institute across different interdisciplinary and multi-stakeholder projects.
+They also work closely with other core capabilities including the Research Application Management team, the Skills Team and the Research Engineering Group.
+
+RCM team members apply open science and FAIR (Findable, accessible, Interoperable, Reusable) practices in the development, maintenance and sharing of community/research resources.
+Many of the RCMs work on projects under the Health Programme or projects involving sensitive/confidential data, where they ensure and operationalise the principle of "as open as possible, as closed as necessary".
+
+All resources developed to support/facilitate their work as RCMs and as experts from their respective projects will be shared via this repository (by removing any project-specific sensitive information).
+Practices and case studies learned from their work with be shared in *The Turing Way* wherever possible.
+
+The RCM team also hosts members with community-oriented roles currently collaborating with TPS or *The Turing Way*
+
+New members are onboarded by the team lead and added as a contributor to this project repository.
+Please [create an issue for your induction](https://github.com/alan-turing-institute/community-manager-team/issues/new?assignees=&labels=onboarding&template=NEW_MEMBERS.md&title=%5BINDUCTION%5D) (if not already created by the project lead).
+
+If you are not already collaborating with TPS, but are interested in community management, please join *The Turing Way* community.
+You can also contact [Malvika Sharan](mailto:msharan@turing.ac.uk) for any questions or resources regarding community management developed by the team.
+
 #### TPS Senior Researcher and Team Lead
 
 - Malvika Sharan, TPS Senior Researcher - Open Research
@@ -97,26 +115,6 @@ As a team, RCMs conduct research, build shared frameworks, create opportunities 
 - Achintya Rao, Community Manager
 -  Projects: [GitHub](https://github.com/alan-turing-institute/asg-research-communications/)
     - [AI for Science and Government Research Programme](https://www.turing.ac.uk/research/asg)
-
-### About the Team
-
-The **Open Research Community Management** team members, RCMs, are TPS researchers at the Turing who provide community management expertise in the Turing's teams, projects and programmes in the organisation.
-As a core capability of the Turing, the RCM team supports the convening power of the Turing Institute across different interdisciplinary and multi-stakeholder projects.
-They also work closely with other core capabilities including the Research Application Management team, the Skills Team and the Research Engineering Group.
-
-RCM team members apply open science and FAIR (Findable, accessible, Interoperable, Reusable) practices in the development, maintenance and sharing of community/research resources.
-Many of the RCMs work on projects under the Health Programme or projects involving sensitive/confidential data, where they ensure and operationalise the principle of "as open as possible, as closed as necessary".
-
-All resources developed to support/facilitate their work as RCMs and as experts from their respective projects will be shared via this repository (by removing any project-specific sensitive information).
-Practices and case studies learned from their work with be shared in *The Turing Way* wherever possible.
-
-The RCM team also hosts members with community-oriented roles currently collaborating with TPS or *The Turing Way*
-
-New members are onboarded by the team lead and added as a contributor to this project repository.
-Please [create an issue for your induction](https://github.com/alan-turing-institute/community-manager-team/issues/new?assignees=&labels=onboarding&template=NEW_MEMBERS.md&title=%5BINDUCTION%5D) (if not already created by the project lead).
-
-If you are not already collaborating with TPS, but are interested in community management, please join *The Turing Way* community.
-You can also contact [Malvika Sharan](mailto:msharan@turing.ac.uk) for any questions or resources regarding community management developed by the team.
 
 ## Guiding Principles
 
