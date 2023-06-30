@@ -38,7 +38,7 @@ I have adopted and extended the CRediT taxonomy for the community management tea
 ## Reference
 
 - CRediT - Contributor Roles Taxonomy: https://casrai.org/credit. Reproduced from Brand et al. (2015), Learned Publishing 28(2).
-- — The Turing Way. https://the-turing-way.netlify.app/communication/citable.html?highlight=orcid
+- The Turing Way. https://the-turing-way.netlify.app/communication/citable.html?highlight=orcid
 - The Turing Way Chapters: [https://the-turing-way.netlify.app/welcome.html](https://the-turing-way.netlify.app/welcome.html) - cite as: The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo. doi: 10.5281/zenodo.7625728
   - Project Ownership; Making Research Objects Citable, Tips for Getting Authorship Right and Acknowledging Contributors; Research Infrastructure Roles; Creating project repositories. 
 - [Providing Equitable Opportunities and Credit for Contributors to Results](https://github.com/opensciency/sprint-content/blob/main/open-results/lesson-4-opportunities-and-credits.md) co-authored by Daniela Saderi and Malvika Sharan with reviews from Natasha Batalha and Chris Erdmann, as a part of OpenSciency project, develop at the NASA TOPS OpenCore Sprint 2022: OpenSciency Contributors (2023, February 22). Opensciency - A core open science curriculum by and for the research community. Zenodo. https://doi.org/10.5281/zenodo.7662732
