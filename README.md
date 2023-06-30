@@ -42,7 +42,63 @@ As a team, RCMs conduct research, build shared frameworks, create opportunities 
 
 *This image was created by Scriberia for The Turing Way community and is used under CC-BY 4.0 licence. [DOI: 10.5281/zenodo.5706310](https://doi.org/10.5281/zenodo.5706310)*
 
-## Members and Collaborators
+### Members and Collaborators
+
+#### TPS Senior Researcher and Team Lead
+
+- Malvika Sharan, TPS Senior Researcher - Open Research
+
+#### Research Community Managers
+
+- Emma Karoune, Senior Research Community Manager
+  - Projects: 
+    - [Health Programme/Grand Challenge](https://www.turing.ac.uk/research/transformation-healthcare)
+    - [Skills Policy Award](https://github.com/alan-turing-institute/professionalising-data-science-roles) - Skills Team
+    - [Clinical AI](https://www.turing.ac.uk/research/interest-groups/clinical-ai) - Special Interest Group
+    - Other Health Prjects
+      - [Turing-RSS Health Data Lab](https://www.turing.ac.uk/research/research-projects/turing-rss-health-data-lab)
+      - [DECOVID](https://www.turing.ac.uk/research/research-projects/decovid)
+- Arron Lacey, Senior Research Community Manager
+  - Projects:  
+    - [Early Detection of Neurodegenerative Diseases (EDoN)](https://edon-initiative.org/)
+    - [Data Safe Haven](https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud)
+- Gabin Wilfried Kayumbi, Senior Research Community Manager  
+  - Project:
+    - [Data Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering) (DCE)
+- Cassandra Gould Van Praag, Senior Research Community Manager
+  - Project: 
+    - [Turing Research and Innovation Cluster in Digital Twins](https://www.turing.ac.uk/research/harnessing-power-digital-twins/turing-research-and-innovation-cluster-digital-twins) (TRIC:DT)
+      - TPS Team: Trustworthy Systems (Led by Chris Burr)
+- Vicky Hellon, Research Community Manager
+  - Project: [GitHub Research](https://github.com/alan-turing-institute/turing-roche-partnership/)
+    - [Turing-Roche Strategic Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership)
+- Anne Lee Steele, Research Community Manager
+  - Project: 
+    - [*The Turing Way*](https://www.turing.ac.uk/research/research-projects/turing-way)
+- Eirini Zormpa, Community Research Manager
+  - Projects: 
+    - [AI for Multiple Long Term Conditions Research Support Facility (AIM RSF)](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) - Open Collaboration
+- Sophia Batchelor, Research Community Manager
+  - Projects: 
+    - [AI for Multiple Long Term Conditions Research Support Facility (AIM RSF)](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) - PPIE
+    - [AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs)
+
+#### Collaborators from TPS/*The Turing Way* projects in Community Roles
+
+- Ayesha Dunk, Skills Team, [AI and Data Science Educators Programme](https://www.turing.ac.uk/data-science-and-ai-educators-programme), The Alan Turing Institute
+- Bridget Nea, Skills Team, [Data Skills Taskforce](https://www.dataskillstaskforce.com/) and Skills Policy Award, The Alan Turing Institute
+- Claudia Fischer, Research Assistant; [Turing Commons](https://turing-commons.netlify.app/), The Alan Turing Institute
+- Sarah Gibson, JupyterHub Community Development Lead, [2i2c](https://2i2c.org/) and [JupyterHub](https://jupyter.org/hub)
+
+*If you are interested in joining this team, please reach out to Malvika Sharan (msharan@turing.ac.uk).*
+
+#### Previous members
+
+- Achintya Rao, Community Manager
+-  Projects: [GitHub](https://github.com/alan-turing-institute/asg-research-communications/)
+    - [AI for Science and Government Research Programme](https://www.turing.ac.uk/research/asg)
+
+### About the Team
 
 The **Open Research Community Management** team members, RCMs, are TPS researchers at the Turing who provide community management expertise in the Turing's teams, projects and programmes in the organisation.
 As a core capability of the Turing, the RCM team supports the convening power of the Turing Institute across different interdisciplinary and multi-stakeholder projects.
@@ -61,36 +117,6 @@ Please [create an issue for your induction](https://github.com/alan-turing-insti
 
 If you are not already collaborating with TPS, but are interested in community management, please join *The Turing Way* community.
 You can also contact [Malvika Sharan](mailto:msharan@turing.ac.uk) for any questions or resources regarding community management developed by the team.
-
-### Members
-
-#### TPS Senior Researcher and Team Lead
-
-- Malvika Sharan, TPS Senior Researcher - Open Research
-
-#### Community Managers
-
-- Emma Karoune, Senior Community Manager; [Turing-RSS Health Data Lab](https://www.turing.ac.uk/research/research-projects/turing-rss-health-data-lab) and DECOVID
-- Arron Lacey, Senior Community Manager; [Early Detection of Neurodegenerative Diseases (EDoN)](https://edon-initiative.org/)
-- Gabin Wilfried Kayumbi, Senior Community Manager, [Data Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering) (DCE)
-- Cassandra Gould Van Praag, Senior Community Manager, [Turing Research and Innovation Cluster in Digital Twins](https://www.turing.ac.uk/research/harnessing-power-digital-twins/turing-research-and-innovation-cluster-digital-twins) (TRIC:DT)
-- Vicky Hellon, Community Manager; [Turing-Roche Strategic Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership)
-- Anne Lee Steele, Community Manager; [*The Turing Way*](https://www.turing.ac.uk/research/research-projects/turing-way)
-- Eirini Zormpa, Community Manager; [AI for Multiple Long Term Conditions Research Support Facility (AIM RSF)](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) - Open Collaboration
-- Sophia Batchelor, Community Manager; [AI for Multiple Long Term Conditions Research Support Facility (AIM RSF)](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) - PPIE
-
-#### Collaborators from TPS/*The Turing Way* projects in Community Roles
-
-- Ayesha Dunk, Skills Team, [AI and Data Science Educators Programme](https://www.turing.ac.uk/data-science-and-ai-educators-programme), The Alan Turing Institute
-- Bridget Nea, Skills Team, [Data Skills Taskforce](https://www.dataskillstaskforce.com/) and Skills Policy Award, The Alan Turing Institute
-- Claudia Fischer, Research Assistant; [Turing Commons](https://turing-commons.netlify.app/), The Alan Turing Institute
-- Sarah Gibson, JupyterHub Community Development Lead, [2i2c](https://2i2c.org/) and [JupyterHub](https://jupyter.org/hub)
-
-*If you are interested in joining this team, please reach out to Malvika Sharan (msharan@turing.ac.uk).*
-
-#### Previous members
-
-- Achintya Rao, Community Manager; [AI for Science and Government Research Programme](https://www.turing.ac.uk/research/asg)
 
 ## Guiding Principles
 
