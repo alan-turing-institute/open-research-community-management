@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [3 July 2023](#3-July-2023)
 * [26 June 2023](#26-June-2023)
 * [19 June 2023](#19-June-2023)
 * [5 June 2023](#5-June-2023)
@@ -15,6 +16,49 @@
 * [10 January 2023](#date-10-January-2023)
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
+
+
+## 3 July 2023
+
+
+### Project Updates
+
+* **PPIE Community**
+	* Session this week
+ 	* Newsletter to be written and sent
+* **Fairness in HealthAI Survey**
+	* meeting today
+* **Glossary**
+	* worked on the plain lang summaries PR
+  * **PPIE Outputs**
+	* Conference informal write up
+	* "what is data" write up
+	* community maping (MF)
+ 	* MOOP    
+* **AIM RSF GitHub Org**
+	* Moved files from repo
+ 	* plain lang summaries needed to be updated, and then can give the go ahead
+* **PPIE Website**   
+	* Emailed the website team and requested a meeting based off the guidance on Mathison about microsites 
+
+### What would you like to work on this week?
+
+* July PPIE session prep
+* AutSPACEs meet up
+* MOOP
+* PPIE Newsletter + into formalized mailing list
+* Plain Lang Summaries merged
+* GitHub fies organized ready to make the repo public
+
+#### Where do you need help?
+
+* MOOP mentoring
+
+### Any other topics
+
+* Had a chat with JP re. PPIE at Turing which was super helpful to see where things will fit together. 
+* 
+
 
 ## 26 June 2023
 
@@ -77,10 +121,6 @@
 * Cass - super helpful with the workshop draft
 * EK - data sharing policy with external researchers 
 
-### Any other topics
-
-* 
-* 
 
 
 ## 19 June 2023
