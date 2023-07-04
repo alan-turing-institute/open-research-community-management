@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [28 June 2023](#date-28-june-2023)
 * [17 May 2023](#date-17-may-2023)
 * [03 May 2023](#date-03-may-2023)
 * [26 April 2023](#date-26-april-2023)
@@ -47,6 +48,49 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+## Date 28 June 2023
+
+### Check-in ritual
+All good apart from the cold!
+
+### Project specific Reflection
+* Really relieved that the scholar scheme is up! Has given me a lot more breathing room to catch up on other bits.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* CB with prepping for the knowledge share- been good to jointly discuss how to make it a bit more interactive
+* MB and CH with their slides for the scholar Q&A session
+
+#### Who helped you this week?
+* AB with volunteering to do a demystifying video
+* ZS wants to get involved in more stuff community wise which is great- planning a TTW missing data chapter
+* JS from flexigrant and comms been really helpful for the scholar scheme
+
+#### What did you achieve?
+* Launched the scheme!!
+* Knowledge Share event- grateful for a bit of a break in July and August
+* Did EIA for scheme
+* Ran all hands lab meeting on Tuesday
+
+#### What did you struggle with?
+* Still think there may be some teething problems with data protection etc but will see how we go when it starts
+
+#### What would you like to work on next week?
+* Q&A webinar
+* Start planning the scheme in practice
+* Shadowing with EZ
+
+#### Where do you need help?
+* UKRN survey- all fine to just start distributing?
+ * Email comms first about Mathison blog and then into slack. 
+* Clinical AI- for the invite maybe want to put some health programme context?
+* Need to think about REG support for software
+
+#### Any other topics
+N/A
+
+
 ## Date 17 May 2023
 
 ### Check-in ritual
