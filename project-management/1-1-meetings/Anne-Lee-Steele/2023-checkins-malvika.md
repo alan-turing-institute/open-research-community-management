@@ -1,5 +1,8 @@
 ## 1:1 meetings
 
+### 2023-07-04
+- Reviewing check-ins with KW
+
 ### 2023-06-28
 - Outcomes from conferences (DemTech + Data Justice)
   - Positive reactions to both presentations!! There is HUGE interest in learning from TTW & practitioner perspectives more broadly. But building trust in these communities is a slow process, and lateral connections take time.
@@ -9,13 +12,14 @@
   - Podcast uploaded online: https://www.graduateinstitute.ch/podcast-series
   - Invited to submit to special issue of Big Data & Society for the DJC
 - Invited to collaborate with JD on research
+- Invited to co-facilitate conversation at Geneva Peace Week on 
 - Invited to co-facilitate OSM discussion on AI-assisted mapping
 - Received invitation to supervise Enrichment student from 16/01/2024 - 12/07/2024 (forwarded email)
+  - Asking SG & EK about their experiences!
 - Received invitation to apply to STS Summer School. Requires line manager sign-off & recommendation (applications due by 26 June). Costs covered during week, but not transit (would cover personally): https://stsprogram.org/summerschool/
 - June Fireside Chat: all 1:1s complete (except for CMO). Excited for this chat!
 - July & August Fireside Chats cancelled.
 - Widening participation workshop - pending engagement for August
-- 
 
 ### 2023-06-13
 - Widening participation program - I am unable to make the trainings due to the Fireside Chat and conference (29 or 12 June). Is this something I can deproritise while planning for an August break?
