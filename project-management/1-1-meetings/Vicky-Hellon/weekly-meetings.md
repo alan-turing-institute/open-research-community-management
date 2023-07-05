@@ -61,6 +61,9 @@ Think things will pick up again soon as CH and SM get back from holiday. Still f
 
 #### Who did you help this week?
 * Agreed with MS to be part of TTW practioners hub- slightly way of time commitment but will see how we go
+ * resources for case studies
+ * https://docs.google.com/presentation/d/16Ay3xqEcy-yYvh5LHerFKclzvmD1pY5mkNr46dJjhK4/edit#slide=id.g22dbbd969e6_0_34
+ * https://hackmd.io/O1RwUTnmQLGPZmFWbD37ww?view
 
 #### Who helped you this week?
 * Me and EZ did in-person shadowing yesterday- she gave some good feedback on my Q&A webinar slides
@@ -78,9 +81,11 @@ Think things will pick up again soon as CH and SM get back from holiday. Still f
 * Start drafting onboarding doc for scheme
 * July newsletter
 * Sort out knowledge share for september
+ * EK - good luck with the scholar q and a - hope it all goes well.  
 
 #### Where do you need help?
 * Would like your eyes on the scholar onboarding document once drafted
+ * EK - yes of course :rocket: 
 
 #### Any other topics
 * Me and AC all booked for UKRN retreat so should be good!
