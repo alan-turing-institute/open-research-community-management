@@ -27,7 +27,49 @@
 * [18 April 2023](#date-18-April-2023)
 * [2 May 2023](#date-2-May-2023)
 * [6 June 2023](#date-6-June-2023)
+* [30 June 2023](#date-30-June-2023)
 
+
+## Date: 30 June 2023
+
+**Check-in ritual**
+Lovely feedback on the second GitHub workshop 💖
+
+### Project specific Reflection
+- Working on the delivery plan, with a focus on planning the in-person ECR events
+- Version control workshops planning and delivery
+- Planning for ECR session next week on auditing past and scoping in-person event
+
+### Notes to discuss during 1:1
+- Delivery plan
+
+#### Who did you help this week?
+- BM with the EAG prep
+
+#### Who helped you this week?
+- RS and PG helped out with the VC workshops
+- BGT gave me useful tips for working with all-contributors
+
+#### What did you achieve?
+- Version control workshop
+- Progress on planning ECR in-person events and delivery plan
+
+#### What did you struggle with?
+- Delivery plan
+
+#### What would you like to work on next week?
+- final version control sessions
+- last ecr session before the summer
+- planning  (delivery & in-person events)
+- figure out software sustainability for RSF
+
+#### Where do you need help?
+* delivery plan
+
+#### Any other topics
+
+- This space is yours to add to as needed.
+- Is there any particular reading/topic/task we want to explore and bring to our next meetings?
 
 ## Date: 6 June 2023
 
