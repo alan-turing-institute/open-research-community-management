@@ -1,12 +1,36 @@
 # Kayumbi + Malvika 1:1 Catch-up Minutes
 
-* [06 July 2023](#date-07-June-2023)
+* [06 July 2023](#date-06-July-2023)
+* [22 June 2023](#date-22-June-2023)
 * [07 June 2023](#date-07-June-2023)
 * [Template](#template)
 
 ### Date: 2023-07-06
 
-*You can move points from your reflections to the following sections as needed.* 
+*Specific hightlight* 
+
+- CETAS: new PDRA joining, will work in DCE for 6 months
+- AI foundation's PM (RD) invitated to co-organise joint event in Nov/Dec
+  - <add details> 
+  - DCE led research landscape/horizon scanning for security, interconnected systems, automative electronic systems innovation network
+- Designing workshops with Skills - need to consult with TPS members
+  - <add details>
+- Skills gap analysis: who should do this?
+  - skills discussion panel at the launch
+  - Community meeting notes - planning to get people's opinion
+  - Journal of DCE: who is pulishing there, how industry practice vs academia look like, what skills do readers need
+  - Knowledge exchange between acedemia and industry (look at the ECS report: https://es.catapult.org.uk/insight/bridging-the-gap/)
+- Meeting with DCE journal: planning to put together resources from journel, conference and programme to reactivate community
+  - LRF advocacy fund: Open access, TPS
+  - <add details>  
+- Recruitment:
+  - PDRA for project short strait
+  - PDRAs for another project funded by MT
+- Onboarding
+  - GitHub + internal TPS onboarding
+- NSO report is submitted
+  - First step in data collection has been conducted
+  - Second step will require harmonising of data   
 
 #### Who did you help this week?
 
@@ -30,7 +54,8 @@ Replace this text with a one/two-sentence description of who helped you this wee
 
 #### Where do you need help?
 
-* Replace this text with a bullet point list of what you need help on.
+* Discussion on skills workshop
+* Skill roadmap + DCE launch
 
 #### Any other topics
 
