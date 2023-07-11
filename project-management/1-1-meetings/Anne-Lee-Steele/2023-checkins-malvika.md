@@ -3,13 +3,14 @@
 ### 2023-07-11
 - Priority: WG documentation for team
 - Reviewing Delivery team meeting - anything else to add?
-- TTW Briefing
+- TTW Briefing - due by 25 July - emphasise ethnographic work in this piece, social sciences, connecting with the community, show strengths
 - Communications
   - Mastodon & Twitter post about newsletter
   - Updating start.page with all meetings
 - Accessibility WG meeting happened yesterday
 - Book Dash November 2023 tasks
 - Big Data & Society - will sent abstract (due by 17 July) - is there anyone else I can contact?
+- Take toolkit for community research - process design work - can this be something 
 
 ### 2023-07-04
 - Reviewing check-ins with KW
