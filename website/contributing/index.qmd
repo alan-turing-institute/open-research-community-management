@@ -37,7 +37,7 @@ The `index.qmd` at the base of the repository serves the homepage. Any other sec
 ## I'm getting the hang of Quarto - what next?
 Once you are comfortable editing `.qmd` files and slotting them into the `_quarto.yml` file, you can *change the way this wiki looks* by:
 
-1. Cloning the repository to your local SRE desktop
+1. Cloning the repository to your local desktop
 2. Create an switch to the new branch with `git checkout -b mynewbranch`
 3. Edit or create `.qmd` file(s)
 4. Make changes to the `_quarto.yml` file (if needed)
