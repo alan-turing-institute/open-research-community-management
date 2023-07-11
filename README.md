@@ -1,4 +1,4 @@
-## Wiki Page here https://alan-turing-institute.github.io/open-community-building/ 
+## Wiki Page here https://alan-turing-institute.github.io/open-research-community-management/ 
 
 # Open Research Community Building at The Alan Turing Institute
 
