@@ -214,15 +214,14 @@ Together we strive to foster an environment where everyone feels valued, respect
 
 If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
 by contacting the Team Lead, Malvika Sharan (email: msharan@turing.ac.uk). Malvika will involve
-the Senior Community Managers, Arron Lacey and Emma Karoune except when any potential conflict of interest
+the Senior Research Community Managers except when any potential conflict of interest
 with any of them may arise.
 
-To report an issue involving the team lead, please email directly to Arron Lacey (email: alacey@turing.ac.uk) and/or
+To report an issue involving the team lead, please email directly to
 Emma Karoune (email: ekaroune@turing.ac.uk).
 
-You can directly contact the Tools, Practices and Systems Programme Director, Kirstie Whitaker. 
-Since she is currently on maternity leave, please contact TPS
-Programme Manager Arielle Bennett (abennett@turing.ac.uk) - who is also our ombudsperson. 
+You can directly contact the Tools, Practices and Systems Programme Director, Kirstie Whitaker (kwhitaker@turing.ac.uk). 
+You can also reach out to our Programme Manager Arielle Bennett (abennett@turing.ac.uk) - who is also our appointed ombudsperson. 
 
 **10.2** In your report please include:
 
@@ -313,7 +312,7 @@ All the Turing employees have the obligation to read and understand the [HR/Peop
 
 #### **12.2.2** If the reportee is not a Turing Employee
 
-An appropriate (external) authority (such as the reportee's employee or a law enforcement mechanism) will be identified who can respond to the reported incident with the appropriate action.
+An appropriate (external) authority (such as the reportee's employee) will be identified who can respond to the reported incident with the appropriate action.
 The report will be passed to the external authority with an agreement to receive an update from their enforcement process.
 
 An internal resolution will be agreed upon to provide support for the reporter and the person(s) harmed, as well as the continued participation of the reportee (see **13**).
@@ -331,8 +330,8 @@ clarity around the nature of the violation and an explanation of why the
 behaviour was inappropriate.
 1. an apology to the person harmed or the team/community as a whole - this will be done via the person handling the report.
 1. an action plan for the reportee to improve their awareness and correct future behaviours.
-1. reportee will have no unsolicited interaction with the reporter
-1. reportee will have no unsolicited interaction with reporter (in rare cases, when reporter is not anonymous) and those enforcing the Code of Conduct. This includes avoiding interactions in community spaces as well as external channels like social media.
+1. reportee will have no interaction with the reporter (reporter name will be kept anonymous)
+1. reportee will have no unsolicited interaction with the reporter (in rare cases, when the reporter is not anonymous) and those enforcing the Code of Conduct. This includes avoiding interactions in community spaces as well as external channels like social media.
 1. not publishing the content (code, documents, media or other materials) that violated the Code of Conduct, until necessary changes have been made and agreed upon by the person handling the report.
 1. An imposed suspension, such as asking reportee to “take a week or month off” from the GitHub repo or team activity.
 1. recommended training activity relevant to correcting the behaviour or building awareness/understanding required to right the wrongs.
@@ -346,7 +345,6 @@ They will ask if this resolution is acceptable and must note feedback for the re
 
 The reportee will be contacted via email informing them of the resolution.
 A final meeting may be conducted if necessary.
-
 The person handling the report will maintain records of all reports so that they may be reviewed if stronger measures are required when repeated violations occur by the same individual as well as to improve our Code of Conduct for future participation.
 
 ## 14. Conflict of Interest
