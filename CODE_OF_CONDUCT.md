@@ -1,11 +1,11 @@
-# 1. Code of Conduct for the Open Research Community Building Team
+# 1. Code of Conduct for the Open Research Community Management Team
 
 > _A code of conduct is a set of rules outlining the norms, roles, and responsibilities or proper practices of an individual party or an organization._
 
 This Code of Conduct document outlines our expectations for 
 participants within the team as well as this online repository (and the 
 ideas, projects, and collaborations that might emerge from it).
-We also provide steps to reporting any concern, uncomfortable situation 
+We also provide steps to reporting any concern, an uncomfortable situation 
 or unacceptable behaviour by other participants. 
 We are committed to providing a welcoming, collaborative and inspiring experience 
 for all members of this team and expect our code of conduct to be honoured.
@@ -19,10 +19,10 @@ diverse, inclusive, and healthy team, as well as the communities we facilitate.
 We encourage everyone in the team to participate in all team activities and work.
 
 We are committed to facilitating Communities of Practice that are connected with 
-each others' work. Although we will fail at times, we seek to treat everyone both as
+each others' work. Although we will fail at times, we seek to treat everyone as
 fairly and equally as possible. Whenever a member has made a mistake, we
 expect them to take responsibility for it. If someone has been harmed or
-offended, it is our responsibility to listen carefully and respectfully, and do
+offended, it is our responsibility to listen carefully and respectfully and do
 our best to right the wrong.
 
 ## 3. Diversity Statement
@@ -39,7 +39,7 @@ visible or invisible disabilities.
 - 4.1 **Be friendly and patient.**
 
 - 4.2 **Be welcoming**: we strive to build a welcoming and supportive team.
-  As community facilitators, we also strive to apply this value in creating 
+  As community facilitators, we also strive to apply this value to creating 
   Communities of Practice that welcome and support members of all backgrounds 
   and identities, while upholding our commitment and diversity statement (see 2.).
 
@@ -141,7 +141,7 @@ and make necessary amends.
 1. Empowers change and growth for all involved.
 1. Enhances responsibility for actions and attitudes of all involved.
 
-Restorative Practice Principles and Disciplines should guide the Open Research Community Building Team 
+Restorative Practice Principles and Disciplines should guide the Open Research Community Management Team 
 in creating a safe, friendly and enjoyable space for collaboration and support.
 
 **We will apply restorative practices in report handling and enforcement as described in 
@@ -159,7 +159,7 @@ Restorative Practice Principles are based on Amstutz and Mullet (2005). Restorat
 ## 7. Scope
 
 **7.1** This Code of Conduct applies to all team members participating in the activities, 
-events and processes taking place within the **Open Research Community Building Team**. 
+events and processes taking place within the **Open Research Community Management Team**. 
 Specifically, our Code of Conduct applies to any conduct:
 - in interactions within the team/community
 - at any team activity, communication or event
@@ -175,7 +175,7 @@ a representative at an online or offline event.
 **7.3** This Code of Conduct also applies to individuals engaging with this repository 
 
 for instance, in interactions on GitHub issues and Pull Requests or activities taking 
-place in the context of the **Open Research Community Building Team**.
+place in the context of the **Open Research Community Management Team**.
 
 **7.4** Mediating interaction or communication between reporter and reportee 
 is not in the scope of this Code of Conduct to maintain reporters' confidentiality (see **10.3**).
@@ -200,7 +200,7 @@ decisions when appropriate.
 Instances of trolling, harassing, abusive, or otherwise unacceptable behaviour should be
 reported to the community leaders responsible for enforcement.
 If noticed by community leaders, incidents should be recorded and shared with one or more 
-members of the Open Research Community Building Team for transparency.
+members of the Open Research Community Management Team for transparency.
 
 All reports will be reviewed and investigated promptly and fairly.
 
@@ -316,9 +316,9 @@ All the Turing employees have the obligation to read and understand the [HR/Peop
 An appropriate (external) authority (such as the reportee's employee or a law enforcement mechanism) will be identified who can respond to the reported incident with the appropriate action.
 The report will be passed to the external authority with an agreement to receive an update from their enforcement process.
 
-An internal resolution will be agreed to provide support for the reporter and the person(s) harmed, as well as the continued participation of the reportee (see **13**).
+An internal resolution will be agreed upon to provide support for the reporter and the person(s) harmed, as well as the continued participation of the reportee (see **13**).
 The resolution or decision made by the external authority may or may not have an impact on the internal resolution.
-A transparency report will be shared with the members of the Open Research Community Building team.
+A transparency report will be shared with the members of the Open Research Community Management team.
 
 ## 13. Resolutions for reports in the scope of this Code of Conduct
 
@@ -353,7 +353,7 @@ The person handling the report will maintain records of all reports so that they
 
 All reports will be kept confidential with details shared only with people involved in report handling. 
 If a person handling the report (team lead or programme director) is linked with the ongoing issue, they will declare their Conflict of Interest and remove themselves from any discussion related to the report handling.
-Resolution action may also include identifying appropriate members from within the Open Research Community Building Team if more support for the person handling the report is needed.
+Resolution action may also include identifying appropriate members from within the Open Research Community Management Team if more support for the person handling the report is needed.
 
 ## 15. Attribution & Acknowledgements
 
