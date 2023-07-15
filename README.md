@@ -73,13 +73,9 @@ You can also contact [Malvika Sharan](mailto:msharan@turing.ac.uk) for any quest
     - [Health Programme/Grand Challenge](https://www.turing.ac.uk/research/transformation-healthcare)
     - [Skills Policy Award](https://github.com/alan-turing-institute/professionalising-data-science-roles) - Skills Team
     - [Clinical AI](https://www.turing.ac.uk/research/interest-groups/clinical-ai) - Special Interest Group
-    - Other Health Prjects
+    - Other Health projects
       - [Turing-RSS Health Data Lab](https://www.turing.ac.uk/research/research-projects/turing-rss-health-data-lab)
       - [DECOVID](https://www.turing.ac.uk/research/research-projects/decovid)
-- Arron Lacey, Senior Research Community Manager
-  - Projects:  
-    - [Early Detection of Neurodegenerative Diseases (EDoN)](https://edon-initiative.org/)
-    - [Data Safe Haven](https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud)
 - Gabin Wilfried Kayumbi, Senior Research Community Manager  
   - Project:
     - [Data Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering) (DCE)
@@ -112,8 +108,12 @@ You can also contact [Malvika Sharan](mailto:msharan@turing.ac.uk) for any quest
 
 #### Previous members
 
+- Arron Lacey, Senior Research Community Manager
+  - Projects:  
+    - [Early Detection of Neurodegenerative Diseases (EDoN)](https://edon-initiative.org/)
+    - [Data Safe Haven](https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud)
 - Achintya Rao, Community Manager
--  Projects: [GitHub](https://github.com/alan-turing-institute/asg-research-communications/)
+  -  Projects: [GitHub](https://github.com/alan-turing-institute/asg-research-communications/)
     - [AI for Science and Government Research Programme](https://www.turing.ac.uk/research/asg)
 
 ## Guiding Principles
