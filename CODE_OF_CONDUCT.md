@@ -108,10 +108,10 @@ everyone involved.
 If a participant does not abide by the Code of Conduct, we will use the 
 “restorative practices” approach to handle the situation (see [International Institute for Restorative Practices](https://www.iirp.edu/restorative-practices/what-is-restorative-practices)). 
 
-Restorative practice has its roots in indigenous practices 
+The restorative practice has its roots in indigenous practices 
 employed in cultures all over the world.
 This is a way of looking at wrongdoing that focuses on 
-repairing the harm done to people and the relationships rather than on punishing offenders or wrongdoers. 
+repairing the harm done to people and relationships rather than on punishing offenders or wrongdoers. 
 Restorative practices form the basis for “restorative justice,”
 a term coined in 1970 in the context of social work and justice systems.
 
@@ -124,11 +124,11 @@ and make necessary amends.
 
 ### 6.1 Restorative Practice Principles in this Code of Conduct
 
-1. Focuses on harms rather than the intention of wrongdoers.
+1. Focuses on harm rather than the intention of wrongdoers.
 1. Prioritises persons affected and the consequent needs of victims and safety in communities.
 1. Addresses obligations of the wrongdoer resulting from those harms, as well as the team/community’s obligations to both victims and wrongdoers.
-1. Creates opportunity for all individuals in this team, who have a legitimate stake in a given situation, to be heard and their concerns addressed.
-1. Seeks to right the wrongs that have been done so that victims feel safe and valued, and wrongdoers feel restored to the team/community.
+1. Creates an opportunity for all individuals in this team, who have a legitimate stake in a given situation, to be heard and their concerns addressed.
+1. Seeks to right the wrongs that have been done so that victims feel safe and valued, and when possible and safe, wrongdoers feel restored to the team/community.
 1. Uses inclusive, collaborative processes giving fair opportunity to right the wrongs.
 
 ### 6.2. Restorative Disciplines in this Code of Conduct
@@ -137,7 +137,7 @@ and make necessary amends.
 1. Must establish policies and procedures that handle incident reports in a way that strengthens relationships.
 1. Focuses on harms done rather than rules broken.
 1. Gives voice to the person who has been harmed.
-1. Engages in collaborative problem solving.
+1. Engages in collaborative problem-solving.
 1. Empowers change and growth for all involved.
 1. Enhances responsibility for actions and attitudes of all involved.
 
@@ -178,7 +178,7 @@ for instance, in interactions on GitHub issues and Pull Requests or activities t
 place in the context of the **Open Research Community Building Team**.
 
 **7.4** Mediating interaction or communication between reporter and reportee 
-is not in the scope of this Code of Conduct to maintain reproters' confidentiality (see **10.3**).
+is not in the scope of this Code of Conduct to maintain reporters' confidentiality (see **10.3**).
 The collaboration and dialogues based on restorative practices will take place between 
 the reporter and the person handling the Code of Conduct, as well as between the reportee 
 and the person handling the Code of Conduct separately.
@@ -257,9 +257,9 @@ to determine the cause and consequences that violated this Code of Conduct and t
 ### **12.1** If the breach is considered within the scope of this Code of Conduct
 
 Community leaders will reach out to the reporter to ask for further information if the 
-submitted report is not complete or needs some additional context.
-Community leaders will also ensure that person impacted or harmed by the reported incident 
-is safe and identify how they can be further supported.
+the submitted report is not complete or needs some additional context.
+Community leaders will also ensure that the person impacted or harmed by the reported incident 
+is safe and identifies how they can be further supported.
 
 **12.1.1** A meeting with the reportee will be scheduled where the person 
 handling the report will discuss these restorative questions:
@@ -285,15 +285,15 @@ is not in the scope of this Code of Conduct.
 
 #### **12.2.1** If the reportee is an employee of the Turing 
 
-Code of Conduct should be considered as a norm-setting mechanism for the Open Research 
+The code of Conduct should be considered a norm-setting mechanism for the Open Research 
 Community Building Team before any involvement of HR in the interactions that take place within the team. 
 
 If the reportee is a Turing employee, for instance, Community Managers and senior 
 researchers and the incident is considered out of the scope of this Code of Conduct 
 due to the severity of the matter/case, an HR process (formal or informal), will be started.
-In this case, the report will be passed to the HR and/or appropriate personnel under the 
-Turing policies and [the Turing's CoC policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2174&SearchId=0&utm_source=interact&utm_medium=category_search&utm_term=*) as well as enforcement mechanism will 
-take precedent over this Code of Conduct enforcement.
+In this case, the report will be passed to HR and/or appropriate personnel under the 
+Turing policies and [the Turing's CoC policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2174&SearchId=0&utm_source=interact&utm_medium=category_search&utm_term=*), as well as enforcement mechanism, will 
+take precedence over this Code of Conduct enforcement.
 
 All the Turing employees have the obligation to read and understand the [HR/People policies](https://mathison.turing.ac.uk/Interact/Pages/Section/ContentListing.aspx?subsection=3439&utm_source=interact&utm_medium=general_search&utm_term=HR+policies), which include, but not limited to:
 - [Workplace Guidelines](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2427&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
