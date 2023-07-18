@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [5 July 2023](#date-5-july-2023)
 * [28 June 2023](#date-28-june-2023)
 * [17 May 2023](#date-17-may-2023)
 * [03 May 2023](#date-03-may-2023)
@@ -48,6 +49,48 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+## 05 July 2023
+
+### Check-in ritual
+Just about recovered from my cold last week!
+
+### Project specific Reflection
+Think things will pick up again soon as CH and SM get back from holiday. Still focusing on community scholars but know other stuff will come back onto the radar e.g clinical AI meeting
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Agreed with MS to be part of TTW practioners hub- slightly way of time commitment but will see how we go
+ * resources for case studies
+ * https://docs.google.com/presentation/d/16Ay3xqEcy-yYvh5LHerFKclzvmD1pY5mkNr46dJjhK4/edit#slide=id.g22dbbd969e6_0_34
+ * https://hackmd.io/O1RwUTnmQLGPZmFWbD37ww?view
+
+#### Who helped you this week?
+* Me and EZ did in-person shadowing yesterday- she gave some good feedback on my Q&A webinar slides
+* Skills team helped promote scholar scheme a bit further
+
+#### What did you achieve?
+* Been answering quite a few queries around the scholar scheme
+* EIA all signed off for the scheme
+
+#### What did you struggle with?
+* Being ill- but luckily had quite a quiet week 
+
+#### What would you like to work on next week?
+* Delivering Q&A scholar webinar this afternoon
+* Start drafting onboarding doc for scheme
+* July newsletter
+* Sort out knowledge share for september
+ * EK - good luck with the scholar q and a - hope it all goes well.  
+
+#### Where do you need help?
+* Would like your eyes on the scholar onboarding document once drafted
+ * EK - yes of course :rocket: 
+
+#### Any other topics
+* Me and AC all booked for UKRN retreat so should be good!
+
+
 ## Date 28 June 2023
 
 ### Check-in ritual
