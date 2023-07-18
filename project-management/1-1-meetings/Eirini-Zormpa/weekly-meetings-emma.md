@@ -31,10 +31,7 @@
 * [07 July 2023](#date-07-July-2023)
 
 
-Date: 2023--07-18
-
-**Check-in ritual**
-
+## Date: 07 July 2023
 
 ### Meeting notes
 * Discussed 
