@@ -1,6 +1,7 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
-* [5 July 2023](#date-5-july-2023)
+* [19 July 2023](#date-19-july-2023)
+* [05 July 2023](#date-05-july-2023)
 * [28 June 2023](#date-28-june-2023)
 * [17 May 2023](#date-17-may-2023)
 * [03 May 2023](#date-03-may-2023)
@@ -20,7 +21,7 @@
 * [26 October 2022](#date-26-october-2022)
 * [19 October 2022](#date-19-october-2022)
 * [12 October 2022](#date-12-october-2022)
-* [05 October 2022](#date-5-october-2022)
+* [05 October 2022](#date-05-october-2022)
 * [14 September 2022](#date-14-september-2022)
 * [31 August 2022](#date-31-august-2022)
 * [17 August 2022](#date-17-august-2022)
@@ -49,7 +50,52 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
-## 05 July 2023
+
+## Date 19 July 2023
+
+### Check-in ritual
+Been good to have some breathing room this week for focus time.
+
+### Project specific Reflection
+Trying to get organised before the scholar scheme closes in a couple of weeks.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Queries around scholar scheme
+* AB going to be doing 2 demystifying videos for the partnership
+
+#### Who helped you this week?
+* AL with great quarto training session
+
+#### What did you achieve?
+* Ran info session for scholar scheme and updated FAQ doc
+* Finished community management briefing paper
+* Met with MY and team- deciding how we might be able to work with REG
+* Refreshed partnership publication policy and sent round a reminder to team
+* Have drafted an onboarding document and draft rejection and welcome emails for the scholar scheme
+* Sent newsletter
+* CM goatherder this week
+
+#### What did you struggle with?
+* MA being off- just worried about PM stuff going to be a last minute rush
+* Clinical AI workshop- not much engagement from team for adding names
+
+#### What would you like to work on next week?
+* Updating a few bits on th TR repository- MS has opened some issues with some helpful additions
+* Am catching up with CB about TEA-DH and how partnership might engage 
+* Chatting with TZ about community management with you!
+* Scheduling the panel meeting for the scholar scheme and working out assessment process
+* Want to try and get events up for September and October Knowledge Shares so I don't have to worry about it later
+
+#### Where do you need help?
+* Would love your comments on the community scholar onboarding doc [here](https://docs.google.com/document/d/1BysOEDX2qy7ZYvUWHb2MKXQl3d6Hvv07/edit#heading=h.1pk560se0l3i). 
+If you need any extra context- email doc [here](https://docs.google.com/document/d/1UXUHMpId_LftVEh9Rf3-UKnNzplGpruY70JiLWH-weI/edit) and my brain dump of how to run it [here](https://docs.google.com/document/d/1c8ZaauI-v8-zWPFRxOvfT3itOchzOPIXs9dcyK3G-Ss/edit)
+
+#### Any other topics
+N/A
+
+## Date 05 July 2023
 
 ### Check-in ritual
 Just about recovered from my cold last week!
