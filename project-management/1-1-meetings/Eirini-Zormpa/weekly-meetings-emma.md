@@ -28,6 +28,20 @@
 * [2 May 2023](#date-2-May-2023)
 * [6 June 2023](#date-6-June-2023)
 * [30 June 2023](#date-30-June-2023)
+* [07 July 2023](#date-07-July-2023)
+
+
+Date: 2023--07-18
+
+**Check-in ritual**
+
+
+### Meeting notes
+* Discussed 
+ * ECR in person document that EZ had prepared and EK had made comments on
+  * EK - now send to KW for comments
+ *  Delivery plan - EK - needs to be finished with EG and then we can work on activities and outputs to go with the deliverables to get agreed by KW.
+ *  Wellbeing - use of wellbeing services at Turing and taking sicknees time off if needed - log in Cezanne or if taken flexibly to send email to get agreement/response from EK. 
 
 
 ## Date: 30 June 2023
