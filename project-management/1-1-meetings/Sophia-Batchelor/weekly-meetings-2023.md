@@ -35,16 +35,16 @@
 * **PPIE Website**   
 	* Had meeting with microsites team.
  	* Information needed from BA re. funding, discussion with decision team re. agency vs us.
-  	* Brief needs to be mocked up  
+  	* Brief needs to be mocked up
+  		* **explore where are we able to fold this into our internal resources instead of outsourcing**
 
 ### What would you like to work on this week?
 
 * MOOP
 * PPIE Newsletter
-* Prep for workshops next week
-* Plain Language Summaries
-* Reschedule the focused sessions - plan out the procedures
-
+* Set up meeting w. HealthAI team
+	* What needs to be prepared ahead of time for the meeting? (PES, large font size, inclusion/exclusion criteria) 
+* Invites for next community session
 
 
 
