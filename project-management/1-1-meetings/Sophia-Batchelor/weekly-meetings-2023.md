@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [19 July 2023](#19-July-2023)
 * [3 July 2023](#3-July-2023)
 * [26 June 2023](#26-June-2023)
 * [19 June 2023](#19-June-2023)
@@ -16,6 +17,37 @@
 * [10 January 2023](#date-10-January-2023)
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
+
+
+## 19 July 2023
+
+
+### Project Updates
+
+* **PPIE Community**
+ 	* Newsletter to be written and sent
+  	* Send out invitation and agenda for the next session
+* **Fairness in HealthAI Survey**
+	* Sessions need to be rescheduled and formalized
+* **MOOP**
+	* Preparing for discussion during next Community Session
+ 	* Discussion re. editors and contribution guidance 
+* **PPIE Website**   
+	* Had meeting with microsites team.
+ 	* Information needed from BA re. funding, discussion with decision team re. agency vs us.
+  	* Brief needs to be mocked up  
+
+### What would you like to work on this week?
+
+* MOOP
+* PPIE Newsletter
+* Prep for workshops next week
+* Plain Language Summaries
+* Reschedule the focused sessions - plan out the procedures
+
+
+
+
 
 
 ## 3 July 2023
@@ -57,7 +89,6 @@
 ### Any other topics
 
 * Had a chat with JP re. PPIE at Turing which was super helpful to see where things will fit together. 
-* 
 
 
 ## 26 June 2023
