@@ -91,9 +91,9 @@ Trying to get organised before the scholar scheme closes in a couple of weeks.
 #### Where do you need help?
 * Would love your comments on the community scholar onboarding doc [here](https://docs.google.com/document/d/1BysOEDX2qy7ZYvUWHb2MKXQl3d6Hvv07/edit#heading=h.1pk560se0l3i). 
 If you need any extra context- email doc [here](https://docs.google.com/document/d/1UXUHMpId_LftVEh9Rf3-UKnNzplGpruY70JiLWH-weI/edit) and my brain dump of how to run it [here](https://docs.google.com/document/d/1c8ZaauI-v8-zWPFRxOvfT3itOchzOPIXs9dcyK3G-Ss/edit)
-
+- EK - yes will look over these for you. 
 #### Any other topics
-N/A
+- chatted about working with PMs and also clinical ai workshop. 
 
 ## Date 05 July 2023
 
