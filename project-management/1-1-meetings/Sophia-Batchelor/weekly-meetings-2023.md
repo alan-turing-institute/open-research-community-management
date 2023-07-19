@@ -41,6 +41,7 @@
 ### What would you like to work on this week?
 
 * MOOP
+	* Shift to "design of outline" rather than writing text, to enable contributors to understand where to add content to draft
 * PPIE Newsletter
 * Set up meeting w. HealthAI team
 	* What needs to be prepared ahead of time for the meeting? (PES, large font size, inclusion/exclusion criteria) 
