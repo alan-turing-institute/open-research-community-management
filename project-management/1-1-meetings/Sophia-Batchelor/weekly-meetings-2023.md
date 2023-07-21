@@ -40,13 +40,17 @@
 
 ### What would you like to work on this week?
 
-* MOOP
-	* Shift to "design of outline" rather than writing text, to enable contributors to understand where to add content to draft
+* ➡️ MOOP (ongoing task)
+	* ✅ Shift to "design of outline" rather than writing text, to enable contributors to understand where to add content to draft
+ 	* Discussion in document indicates that as a community we need to write the summary 
 * PPIE Newsletter
-* Set up meeting w. HealthAI team
-	* What needs to be prepared ahead of time for the meeting? (PES, large font size, inclusion/exclusion criteria) 
+	* ➡️ In progress
+ 	* Have got a copy of Arron's Intro to AI talk to be attached 
+* ✅ Set up meeting w. HealthAI team
+	* What needs to be prepared ahead of time for the meeting? (PES, large font size, inclusion/exclusion criteria)
+ 	* Add these to the meeting notes and agenda 
 * Invites for next community session
-
+	* To be sent as part of the newsletter  
 
 
 
@@ -76,12 +80,15 @@
 
 ### What would you like to work on this week?
 
-* July PPIE session prep
-* AutSPACEs meet up
-* MOOP
-* PPIE Newsletter + into formalized mailing list
-* Plain Lang Summaries merged
-* GitHub fies organized ready to make the repo public
+* ✅ July PPIE session prep
+	* Reflection from session is to work closely with speakers to review slides and content beforehand to better match content to the community 
+* ✅ AutSPACEs meet up
+* ➡️ MOOP (ongoing)
+* ➡️ PPIE Newsletter
+	* ✅ into formalized mailing list
+* ✅ Plain Lang Summaries merged (PR [here](https://github.com/aim-rsf/community-management/pull/205))
+	* and added to Glossary (PR [here](https://github.com/aim-rsf/Glossary-of-Terms/pull/69)
+* ✅ GitHub fies organized ready to make the repo public ([PR here](https://github.com/aim-rsf/community-management/pull/214))
 
 #### Where do you need help?
 
@@ -128,12 +135,12 @@
 
 ### What would you like to work on this week?
 
-* July PPIE session prep
+* ➡️ July PPIE session prep
 * ✅ Mon stakeholder file update
-* AutSPACEs paper review 
+* ✅ AutSPACEs paper review 
 * ✅ BA re. website
-* MOOP
-* PPIE Newsletter 
+* ➡️ MOOP
+* ➡️ PPIE Newsletter 
 
 #### Where do you need help?
 
@@ -200,15 +207,15 @@
 
 ### What would you like to work on this week?
 
-* Git Good workshop for summer school
-* Mon stakeholder file update
-* Bob's Business Training
-* Start planning for July PPIE session (reach out to AL, plan for health AI survey session)
-* AIM meeting schedules
-* healthAI fairness survey 
-* "What is Data" write up
-* MOOP brainstorming
-* Friday PPIE workshop session
+* ✅ Git Good workshop for summer school
+* ➡️ Mon stakeholder file update
+* ✅ Bob's Business Training
+* ✅ Start planning for July PPIE session (reach out to AL, plan for health AI survey session)
+* ✅ AIM meeting schedules
+* ✅ healthAI fairness survey 
+* ➡️ "What is Data" write up
+* ✅ MOOP brainstorming
+* ✅ Friday PPIE workshop session
 
 #### Where do you need help?
 
@@ -278,11 +285,11 @@
 
 ### What would you like to work on next week?
 
-* Git Good workshop for summer school 
-* PPIE Monthly Session 
-* "What is Data" write up
-* Replan for AC office visit 
-* Sync w. JS + SH about the PPIE CoP survey
+* ✅ Git Good workshop for summer school 
+* ✅ PPIE Monthly Session 
+* ➡️ "What is Data" write up
+* ✅ Replan for AC office visit 
+* ✅ Sync w. JS + SH about the PPIE CoP survey
 
 #### Where do you need help?
 
@@ -342,11 +349,11 @@ Returning from sick leave.
 
 #### What would you like to work on next week?
 
-* Catch up on emails 
-* All Tasks Board update 
-* plan autspaces meeting 
-* plan PPIE meeting 
-* reschedule Antony 
+* ✅ Catch up on emails 
+* ➡️ All Tasks Board update 
+* ✅ plan autspaces meeting 
+* ✅ plan PPIE meeting 
+* ➡️ reschedule Antony 
 
 #### Where do you need help?
 
