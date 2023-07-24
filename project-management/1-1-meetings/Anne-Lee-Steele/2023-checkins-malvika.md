@@ -1,5 +1,20 @@
 ## 1:1 meetings
 
+### 2023-07-18
+- Open Access Week & Fireside Chat - date overlap and planning, overlaps 23-29
+- Upcoming Fireside Chats
+  - September: would only plan for after in-person meeting on 27th
+  - October: week of open access event, tied to this (tied to open access) --> knowledge infrastructures & digital public goods (open access!)... hidden aspect of knowledge production! 
+  - November: book dash!
+- KW -> Just drop something into her calendar. Proactively use same time slot!
+- Infrastructure WG: possibility of paid person for infra role?
+  - Can someone help aside from JM or DG? (Nick Barlow - upstreaming, JM research open source)
+  - Can this be shared? [Mozilla Infra Fund](https://foundation.mozilla.org/en/data-futures-lab/grantmaking/infrastructure-fund/)
+  - CZI not open until October, theory of change
+- Pursuit of £££ on behalf of TTW: high-priority policy
+- Next paid role for TTW should be maintainer-focused, open source perhaps?
+- ALS: Write a task list for the REG-open source team
+
 ### 2023-07-11
 - Priority: WG documentation for team
 - Reviewing Delivery team meeting - anything else to add?
