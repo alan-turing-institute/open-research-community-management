@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [24 July 2023](#24-July-2023)
 * [19 July 2023](#19-July-2023)
 * [3 July 2023](#3-July-2023)
 * [26 June 2023](#26-June-2023)
@@ -19,8 +20,106 @@
 * [6 December 2022](#date-6-December-2022)
 
 
-## 19 July 2023
 
+## 24 July 2023 
+
+### Project Updates
+
+* **PPIE Community**
+	* Cancel and or transfer over next week's meet up (?)
+ 		* will be unable to because we need to introduce the MOOP and I'm unable to hand over the task to someone else this week
+ 	* Scienta Scripta + JG got back to us about workshops - leads would like to schedule 2 workshops
+  		* **would like clarity on budget and funding for a workshop** 
+  	* Meeting set between all of us for later this week   
+* **Fairness in HealthAI Survey**
+	* Meeting scheduled for later this week
+ 	* Agenda points, documents, and prep needs to be done 
+* **MOOP**
+ 	* Discussion re. editors and contribution guidance to happen later this week
+  	* Draft notes need to be removed (and shared somewhere else)
+* **PPIE Website**   
+	* BA met with microsites team, notes need to be reviewed and actions made. 
+ 	* Information needed from BA re. funding, discussion with decision team re. agency vs us.
+  		* **explore where are we able to fold this into our internal resources instead of outsourcing**
+* **GitHub reorganization**
+	* Made the PR to move files out of GitHub and open up the repo
+ 	* Needs reviewing and confirmation re. commit history 
+* **Glossary of Terms Updates**
+	* Made PR to add the Plain Language Summaries of the projects into the Glossary (needs reviewing)
+
+
+
+### What would you like to work on this week?
+> full list outlined based on Monday am's meeting.
+
+* Git Good workshop
+	* final preparation
+ 	* delivery
+  	* debrief and adjustments
+ * RCM meeting
+ * RCM co-working (tasks decided during co-working)
+ * TPS team meeting
+ * Ops group Meeting
+ 	* completing document
+  	* action items decided in meeting
+* HealthAI Fairness Survey meeting
+	* document preparation
+ 	* further actions decided in meeting
+* RCM mandatory attendance Practitioners Hub Keynote Panel
+* CoP Sync up meeting (MOOP)
+	* Prepare notes for meeting
+ 	* Prepare MOOP for meeting
+  	* furter action items decided in meeting        
+* Friday meeting
+* Plan for July + August
+* work packages documentation and preparation
+* JG + Scienta Scripta workshop planning and logistics
+	* Notes, emails, follow up tasks.
+ 	* BA re. budget and operations planning 
+* Prepare for RCM in person day next week
+	* task hand off
+ 	* documentation
+  	* task preparation
+  	* reading documentation in preparation
+  	* watching Quarto workshop and familiaerizing myself with the set up
+* Prepare for PPIE Community Session
+ 	* Send meeting invites
+  	* Finalize agenda
+   	* Prepare MOOP
+   	* Finish newsletter and incorporate into the meeting invite   
+* Prepare for AutSPACEs meeting
+* RCM Shadowing
+	* Watch videos + respond
+ 	* Scope tasks, write scaffold for explanation
+  	* Record videos
+  	* Edit and upload them to the shared folder   
+* Bio for RCM team
+* TPS question asking
+	* Scope out question
+ 	* Ask it
+  	* Link it and respond to Geekbot
+* TPS work sharing
+	* scope out relevant piece of work to share
+	* write up and share   
+* Work with Batool to approve the PR and move files into Sharepoint 
+
+
+
+#### Where do you need help?
+* We have continued the cycle where I am unable to cancel an event and feel like I "have" to complete a task because of external circumstances
+* Next week I will be unable to work on tasks outside of the RCM day, the PPIE session, and the AutSPACEs session.
+* Access to work and HR accomodations
+* Who do I go to when you're on leave?
+* Answers about the budghet questions - I need to plan these workshops and 
+
+
+
+
+### Anything else?
+
+
+
+## 19 July 2023
 
 ### Project Updates
 
@@ -53,6 +152,11 @@
 	* To be sent as part of the newsletter  
 
 
+
+
+
+### Any other topics
+* I would like to add back in the "who helped you and who did you help" because it's a positive piece that is not currently being captured
 
 
 ## 3 July 2023
