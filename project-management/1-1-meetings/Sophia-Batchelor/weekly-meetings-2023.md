@@ -101,7 +101,8 @@
 * TPS work sharing
 	* scope out relevant piece of work to share
 	* write up and share   
-* Work with Batool to approve the PR and move files into Sharepoint 
+* Work with Batool to approve the PR and move files into Sharepoint
+* RCM briefings due next week
 
 
 
