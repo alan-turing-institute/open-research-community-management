@@ -52,15 +52,16 @@
 ### What would you like to work on this week?
 > full list outlined based on Monday am's meeting.
 
-* Git Good workshop
-	* final preparation
- 	* delivery
-  	* debrief and adjustments
- * RCM meeting
+* ✅ Git Good workshop
+	* ✅ final preparation
+ 	* ✅ delivery
+  	* debrief and adjustments 
+  	* update Issue [#247](https://github.com/alan-turing-institute/open-research-community-management/issues/247) with feedback and information
+ * ✅ RCM meeting
  * RCM co-working (tasks decided during co-working)
  * TPS team meeting
  * Ops group Meeting
- 	* completing document
+ 	* completing [document](https://thealanturininstitute.sharepoint.com/:w:/s/AIMRSFTeamsworkspace2/EfNnUUJDQLRPtTI8tlOeWqYB0TeIDhUxGrNhU3PtFl1PXw?e=35h86K) with theme updates
   	* action items decided in meeting
 * HealthAI Fairness Survey meeting
 	* document preparation
@@ -71,11 +72,13 @@
  	* Prepare MOOP for meeting
   	* furter action items decided in meeting        
 * Friday meeting
+* Email SG with summary meeting points
 * Plan for July + August
 * work packages documentation and preparation
 * JG + Scienta Scripta workshop planning and logistics
 	* Notes, emails, follow up tasks.
- 	* BA re. budget and operations planning 
+ 	* ➡️ BA re. budget and operations planning
+  		* Document/answers questions outlined by BA in email
 * Prepare for RCM in person day next week
 	* task hand off
  	* documentation
@@ -86,24 +89,29 @@
  	* Send meeting invites
   	* Finalize agenda
    	* Prepare MOOP
-   	* Finish newsletter and incorporate into the meeting invite   
+   	* Finish newsletter and incorporate into the meeting invite
+   	* ➡️ Find alternative host
+   	* ➡️ Create documetation to support BT and BGT hosting
+   	* ➡️ Send documentation to team
 * Prepare for AutSPACEs meeting
+	* ➡️ Find alternative host  
 * RCM Shadowing
 	* Watch videos + respond
- 	* Scope tasks, write scaffold for explanation
-  	* Record videos
+ 	* ➡️ Scope tasks, write scaffold for explanation
+  	* ➡️ Record videos
   	* Edit and upload them to the shared folder   
 * Bio for RCM team
 * TPS question asking
 	* Scope out question
  	* Ask it
   	* Link it and respond to Geekbot
-* TPS work sharing
-	* scope out relevant piece of work to share
-	* write up and share   
-* Work with Batool to approve the PR and move files into Sharepoint
+* ✅ ~TPS work sharing~
+	* ✅ scope out relevant piece of work to share
+	* ✅ write up and share
+* ➡️ Work with Batool to approve the PR and move files into Sharepoint
+	* BA to action on Thursday, and meeting suggested for 2nd August 
 * RCM briefings due next week
-
+* Summarize Reverse Focus Groups doc and sent to SH to send on to workshop facilitator.
 
 
 #### Where do you need help?
