@@ -32,7 +32,7 @@
     "href": "index.html#welcome-to-the-research-community-managers-wiki",
     "title": "Research Community Managers Wiki",
     "section": "Welcome to the Research Community Managers Wiki",
-    "text": "Welcome to the Research Community Managers Wiki\nResearch Community Managers at the Turing invest in engaging, training and empowering a diverse group of researchers, research engineers, programme management, and business team members by fostering diverse communities of practice. They collaborate closely with others and identify where they can surface implicit knowledge and make information explicitly available so that everyone who wants to can participate. Through the active adoption of open research, reproducibility and collaborative approaches in data science projects, they contribute toward building interconnected systems of open source software, datasets, communities and processes.\nTogether as a team, we ensure that the research that happens at the Institute is created to be maintained, sustained, remixed and reused to make research and innovation more efficient and effective across the national and international data science ecosystem for commercial and public interest technologies alike."
+    "text": "Welcome to the Research Community Managers Wiki\nResearch Community Managers (RCMs) at the Turing invest in engaging, training and scaffolding agency within diverse groups of researchers, research engineers, programme management, and business team members by fostering diverse communities of practice.\nThrough the active adoption of open research, reproducibility and collaborative approaches in research projects, they contribute toward building interconnected systems of open source software, datasets, communities and processes."
   },
   {
     "objectID": "index.html#project-aims",
@@ -46,21 +46,21 @@
     "href": "index.html#current-research-community-managers-team",
     "title": "Research Community Managers Wiki",
     "section": "Current Research Community Managers Team",
-    "text": "Current Research Community Managers Team\n\nArron Lacey\nVicky Hellon\nEmma Karoune"
+    "text": "Current Research Community Managers Team\n\nArron Lacey\nVicky Hellon\nEmma Karoune\nCass Gould van Praag"
   },
   {
     "objectID": "website/contributing/index.html",
     "href": "website/contributing/index.html",
     "title": "Contributing",
     "section": "",
-    "text": "The Research Community Managers Wiki is built with Quarto. Unlike Jupyter Book or RMarkdown, it isn’t a package that belongs to a programming language, it’s a javascript based Command Line Interface (cli) program that supports embedding multple languages within Quarto documents.\nThe Wiki is deployed via GitHub Pages on the gh-pages branch. This means if you want create a Pull Request to edit the wiki, you will want to merge any branches with gh-pages rather than main."
+    "text": "The RCM Wiki is built with Quarto, an open-source scientific and technical publishing system. ==By using quarto on git(hub)== we are developing and modeling best practice in recording and communicating research in data science. We practice in this way so that we may support our communities in doing the same :).\nWe invite you to contribute to develop your own skill and practices with these tools."
   },
   {
     "objectID": "website/contributing/index.html#how-is-the-wiki-built",
     "href": "website/contributing/index.html#how-is-the-wiki-built",
     "title": "Contributing",
     "section": "",
-    "text": "The Research Community Managers Wiki is built with Quarto. Unlike Jupyter Book or RMarkdown, it isn’t a package that belongs to a programming language, it’s a javascript based Command Line Interface (cli) program that supports embedding multple languages within Quarto documents.\nThe Wiki is deployed via GitHub Pages on the gh-pages branch. This means if you want create a Pull Request to edit the wiki, you will want to merge any branches with gh-pages rather than main."
+    "text": "The RCM Wiki is built with Quarto, an open-source scientific and technical publishing system. ==By using quarto on git(hub)== we are developing and modeling best practice in recording and communicating research in data science. We practice in this way so that we may support our communities in doing the same :).\nWe invite you to contribute to develop your own skill and practices with these tools."
   },
   {
     "objectID": "website/contributing/index.html#do-i-need-to-download-any-software-to-contribute",
@@ -81,6 +81,41 @@
     "href": "website/contributing/index.html#im-getting-the-hang-of-quarto---what-next",
     "title": "Contributing",
     "section": "I’m getting the hang of Quarto - what next?",
-    "text": "I’m getting the hang of Quarto - what next?\nOnce you are comfortable editing .qmd files and slotting them into the _quarto.yml file, you can change the way this wiki looks by:\n\nCloning the repository to your local desktop\nCreate an switch to the new branch with git checkout -b mynewbranch\nEdit or create .qmd file(s)\nMake changes to the _quarto.yml file (if needed)\nRender the website (and show a preview):\n\nIn VSCode: Use the Quarto Extension and press “Render” when you have any .qmd file open\nIn RStudio: Press “Render” when you have any .qmd file open\nOn the Command Line: At the top of the local cloned directory you can run quarto preview index.qmd and this will provide you with a localhost URL that you can visit and check your changes.\n\nPush the change to GitHub git push --set-upstream origin mynewbranch\nIn the Pull Request ensure that you are merging to the gh-pages branch, not the main branch.\n\n\n\n\n\n\n\n\n\n\n\nYou can also click on “Edit this page” on the right hand side of this page. This takes you directly to the page on the GitLab website and you can edit directly - don’t forget to create a new branch at the bottom of the page on GitLab when you commit these changes!"
+    "text": "I’m getting the hang of Quarto - what next?\nOnce you are comfortable editing .qmd files and slotting them into the _quarto.yml file, you can change the way this wiki looks by:\n\nCloning the repository to your local desktop\nCreate an switch to the new branch with git checkout -b mynewbranch\nEdit or create .qmd file(s)\nMake changes to the _quarto.yml file (if needed)\nRender the website (and show a preview):\n\nIn VSCode: Use the Quarto Extension and press “Render” when you have any .qmd file open\nIn RStudio: Press “Render” when you have any .qmd file open\nOn the Command Line: At the top of the local cloned directory you can run quarto preview index.qmd and this will provide you with a localhost URL that you can visit and check your changes.\n\nPush the change to GitHub git push --set-upstream origin mynewbranch\nIn the Pull Request ensure that you are merging to the gh-pages branch, not the main branch."
+  },
+  {
+    "objectID": "index.html#about-this-wiki",
+    "href": "index.html#about-this-wiki",
+    "title": "Research Community Managers Wiki",
+    "section": "About this wiki",
+    "text": "About this wiki\nThese pages are the central RCM knowlege management resource. They inlcude links to training and onboarding resources, the communities we support, ==archived and active RCM team project management resources=="
+  },
+  {
+    "objectID": "index.html#the-rcm-team",
+    "href": "index.html#the-rcm-team",
+    "title": "Research Community Managers Wiki",
+    "section": "The RCM Team",
+    "text": "The RCM Team\n==photos and links out to pur communities==\n\nArron Lacey\nVicky Hellon\nEmma Karoune\nCass Gould van Praag"
+  },
+  {
+    "objectID": "index.html#contributing",
+    "href": "index.html#contributing",
+    "title": "Research Community Managers Wiki",
+    "section": "Contributing",
+    "text": "Contributing\n==link to contributing page, and some blerb=="
+  },
+  {
+    "objectID": "website/contributing/index.html#practice-here",
+    "href": "website/contributing/index.html#practice-here",
+    "title": "Contributing",
+    "section": "Practice here!",
+    "text": "Practice here!\nThis is an open space to pracice editing this repository :). Feel free to add your name, or favourite pizza topping in the space below and submit a Pull Request!\n\nCass thinks pinenuts make pizza a bit posh!\n\n\n\n\n\n\n\n\n\n\n\nYou can also click on “Edit this page” on the right hand side of this page. This takes you directly to the page on the GitLab website and you can edit directly - don’t forget to create a new branch at the bottom of the page on GitLab when you commit these changes!"
+  },
+  {
+    "objectID": "website/contributing/index.html#where-to-start",
+    "href": "website/contributing/index.html#where-to-start",
+    "title": "Contributing",
+    "section": "Where to start",
+    "text": "Where to start\n==Prerequisits, e.g. git, github accounts. Link to resources==\n\nThe Wiki is deployed via GitHub Pages on the gh-pages branch. This means if you want create a Pull Request to edit the wiki, you will want to merge any branches with gh-pages rather than main."
   }
 ]
