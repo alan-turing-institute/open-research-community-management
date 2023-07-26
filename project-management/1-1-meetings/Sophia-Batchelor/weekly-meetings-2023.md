@@ -84,7 +84,7 @@
  	* documentation
   	* task preparation
   	* reading documentation in preparation
-  	* watching Quarto workshop and familiaerizing myself with the set up
+  	* watching Quarto workshop and familiarizing myself with the set up
 * Prepare for PPIE Community Session
  	* Send meeting invites
   	* Finalize agenda
@@ -111,6 +111,7 @@
 * ➡️ Work with Batool to approve the PR and move files into Sharepoint
 	* BA to action on Thursday, and meeting suggested for 2nd August 
 * RCM briefings due next week
+	* MS granted extension based on the proximity of leave.  
 * Summarize Reverse Focus Groups doc and sent to SH to send on to workshop facilitator.
 
 
@@ -119,7 +120,7 @@
 * Next week I will be unable to work on tasks outside of the RCM day, the PPIE session, and the AutSPACEs session.
 * Access to work and HR accomodations
 * Who do I go to when you're on leave?
-* Answers about the budghet questions - I need to plan these workshops and 
+* Answers about the budghet questions - ~As part of workshop planning (facilitator avaliability and their pricing) I am still unclear on how to request budget (knowing if we could have a particular facilitator or if they would be out of budget).~ (update: emailed Batool) 
 
 
 
