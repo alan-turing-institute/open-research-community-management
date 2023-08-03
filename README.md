@@ -124,19 +124,23 @@ You can also contact [Malvika Sharan](mailto:msharan@turing.ac.uk) for any quest
 - Sarah Gibson, JupyterHub Community Development Lead, [2i2c](https://2i2c.org/) and [JupyterHub](https://jupyter.org/hub)
 - Bridget Nea, Skills Team, [Data Skills Taskforce](https://www.dataskillstaskforce.com/) and Skills Policy Award, The Alan Turing Institute
 
-## Guiding Principles
+## Operationalising the Turing's Values in community management
  
-- Prioritise **transparency** and **clarity** through open communication -- this our responsibility and duty towards each others as peers and colleagues.
-- Operationalise **open leadership practices** in all community engagement activities and our community-building process.
-- Maintain **respect, empathy and integrity** in the team and the communities we build.
-- Embed **diversity, equity, inclusion and accessibility** approaches in all our work.
+- **Transparency**: Prioritise transparency and clarity in all our interactions and work -- this our responsibility and duty towards each others as peers and colleagues.
+- **Leadership**: Apply open leadership practices in all community engagement activities and our community-building process.
+- **Inclusivity**: Embed diversity, equity, inclusion and accessibility (EDIA) approaches in all our work.
+- **Respect**: Maintain respectful co-creation processes in the team and the communities we build.
+- **Trust**: Build trust in the community by making implicit knowledge explicit and providing access to resources that enable everyone to discover, display and directly use their knowledge and skills. 
+- **Integrity**: Ensure ethical integrity through participation from community members, especially those impacted by our work.
+
+## Guiding Principles for the the team
+
 - Actively **break down silos** by enabling knowledge exchange across all projects through collaboration and joint efforts.
-- **Build a shared understanding** for the Communities of Practice you manage, challenges you are seeking to address and solutions that have emerged.
-- Actively **create and identify future opportunities** to enable collaboration, integration of open research practices and co-create additional knowledge.
-- Provide **access to resources that empower and enable** each other to discover, display and directly use their knowledge and skills. 
+- **Communicate openly** about Communities of Practice you manage, challenges you are seeking to address and solutions that have emerged.
 - Contribute to the ongoing **professional development of team members** by maximising opportunities for collaborative work, their careers, and open research at large.
 - Create a **safe and non-judgemental environment** to engage each other, celebrate successes, admit errors and draw learnings from our mistakes.
 - Be willing to **work through conflicts to resolution**.
+- Actively **create and identify future opportunities** to enable collaboration, integration of open research practices and co-create practices.
 - Collaborate with individuals and institutions beyond the team that **expand and extend our mission for open Research Community Management**.
 
 To realise these principles, build shared perspectives that underpin these guiding principles (taken from _Bassler, A. et al., "Developing Effective Citizen Engagement: A How-to Guide for Community Leaders." Center for Rural Pennsylvania, 2008_.):
