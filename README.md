@@ -19,7 +19,14 @@ Building communities in data science is crucial for bringing together diverse st
 
 > Research Community Managers empower the diverse stakeholders of a research community to co-create, maintain and sustain data science projects and outputs that they can equitably benefit from.
 
-RCMs at the Turing embed open, inclusive and reproducible research practices in teams, projects and programmes they are involved in. Through collaboration, upskilling and resource development, RCMs build a shared understanding of research goals, roadmap and processes for everyone. They collaborate closely with different stakeholders and make implicit knowledge explicit so that everyone who wants to can participate.
+RCMs at the Turing have the following goals:
+
+* Embed open, inclusive and reproducible research practices
+* Ensure a shared understanding of goals, roadmap, processes
+* Facilitate stakeholder engagement and collaboration
+* Provide technical support and domain expertise
+* Co-create, maintain and communicate project resources
+* Amplify and champion community learnings and achievements
 
 ## About the Team
 
@@ -33,6 +40,7 @@ By sharing knowledge as they develop in different projects, both in terms of sci
 
 RCMs combine a range of socio-technical skills including domain research expertise, scientific communications and stakeholder engagement approaches. 
 Among others, their core responsibilities include ensuring access to skills and resources different people and groups within the project need to meaningfully participate and build something greater than the sum of its part. 
+Through collaboration, upskilling and resource development,they make implicit knowledge explicit so that everyone who wants to can get involved.
 They provide information and processes for enabling members in our communities to move from the position of spectators or users to developers and leaders in the project.
 RCMs facilitate open and collaborative work of others, while often taking care of many background works needed to make tangible and visible work of their communities possible. 
 They embed best practices for ensuring EDIA (Equity, Diversity, Inclusion, Accessibility), collaboration, maintenance, acknowledgement and the impact of community-based work.
@@ -117,16 +125,18 @@ You can also contact [Malvika Sharan](mailto:msharan@turing.ac.uk) for any quest
 - Bridget Nea, Skills Team, [Data Skills Taskforce](https://www.dataskillstaskforce.com/) and Skills Policy Award, The Alan Turing Institute
 
 ## Guiding Principles
-
+ 
+- Prioritise **transparency** and **clarity** through open communication -- this our responsibility and duty towards each others as peers and colleagues.
+- Operationalise **open leadership practices** in all community engagement activities and our community-building process.
 - Maintain **respect, empathy and integrity** in the team and the communities we build.
-- Prioritise **diversity, equity and inclusion** in all our work.
-- **Share knowledge** about the scientific communities you coordinate and the issue you are seeking to address.
-- Actively **create and identify future opportunities** to enable collaboration and integration of open research practices to co-create additional knowledge.
+- Embed **diversity, equity, inclusion and accessibility** approaches in all our work.
+- Actively **break down silos** by enabling knowledge exchange across all projects through collaboration and joint efforts.
+- **Build a shared understanding** for the Communities of Practice you manage, challenges you are seeking to address and solutions that have emerged.
+- Actively **create and identify future opportunities** to enable collaboration, integration of open research practices and co-create additional knowledge.
 - Provide **access to resources that empower and enable** each other to discover, display and directly use their knowledge and skills. 
 - Contribute to the ongoing **professional development of team members** by maximising opportunities for collaborative work, their careers, and open research at large.
 - Create a **safe and non-judgemental environment** to engage each other, celebrate successes, admit errors and draw learnings from our mistakes.
 - Be willing to **work through conflicts to resolution**.
-- Ensure that **transparent reporting practices and effective communications** become a regular and ongoing component of our community-building process.
 - Collaborate with individuals and institutions beyond the team that **expand and extend our mission for open Research Community Management**.
 
 To realise these principles, build shared perspectives that underpin these guiding principles (taken from _Bassler, A. et al., "Developing Effective Citizen Engagement: A How-to Guide for Community Leaders." Center for Rural Pennsylvania, 2008_.):
@@ -137,7 +147,7 @@ To realise these principles, build shared perspectives that underpin these guidi
 
 ## Important Documents for the Team Members
 
-- [Code of Conduct](https://github.com/alan-turing-institute/open-community-building/blob/main/CODE_OF_CONDUCT.md): Please familiarise yourself with the Code of Conduct, and enforcement procedure to help us create a welcoming and safe space for everyone who contributes to the team and this project repository.
+- [Code of Conduct](./CODE_OF_CONDUCT.md): Please familiarise yourself with the Code of Conduct, and enforcement procedure to help us create a welcoming and safe space for everyone who contributes to the team and this project repository.
 - [Project Management](./project-management): Please find details about how we manage the Open Research Community Management team.
 - [Ways of Working](./project-management/ways-of-working.md): This document describes the structure and organisation of the Open Research Community Management Team, clarifying expectations and support structure to help enable your work. The Turing members should also check the [Governance](https://www.turing.ac.uk/about-us/governance) to understand the organisation's structure and policies that apply to them.
 
@@ -156,7 +166,7 @@ Their engagement with *The Turing Way* project and community should help them un
 
 ## References
 
-- _Sharan, Malvika, & Mehonic, Aida. (2022, July 21). Community Managers and Research Application Managers at the Tools, Practices and Systems Programme at The Alan Turing Institute. Zenodo. https://doi.org/10.5281/zenodo.6878124_
+- Sharan, M., Hellon, V., Karoune, E., Lacey, A., Zormpa, E., Lee Steele, A., & Kayumbi, G. (2023). Research Community Management Team at the Turing. Zenodo. doi: [10.5281/zenodo.7848677](https://zenodo.org/record/7848677)
 - _The Turing Way_ Handbook: https://the-turing-way.netlify.app/welcome, GitHub repository: https://github.com/alan-turing-institute/the-turing-way
 
 ## License 
