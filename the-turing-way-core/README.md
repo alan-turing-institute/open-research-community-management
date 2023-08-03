@@ -1,22 +1,17 @@
-# The Turing Way
+# RCMs Participating in The Turing Way
 
-*The Turing Way* ([the-turing-way.netlify.app/welcome](https://the-turing-way.netlify.app/welcome)) is a handbook to reproducible, ethical and collaborative data science.
-As an open source, open collaboration and community developed project, we involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone. 
-Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need at the start of their projects to ensure that they are easy to reproduce at the end.
-The project lead is Kirstie Whitaker and Malvika Sharan is the co-lead investigator.
-
-## Core Members of The Turing Way
-
-All TPS Senior Researchers, Community Managers and Research Application Managers are onboarded as the `Core Staff Members` of *The Turing Way*.
-This means that 5-10% (Full Time Equivalent) of their work should be invested in the development, maintenance and sustainability of *The Turing Way*.
+All RCMs are onboarded as community members in *The Turing Way*.
+As members of TPS, they are obliged to share practices from their work in _The Turing Way_ as chapters, resources or presentations/workshops.
+This can be either generalised for domain independent use or communicated as case studies.
+They should also contribute to the development, maintenance and sustainability of *The Turing Way* overall.
 Some roles, responsibilities and engagement pathways have been described in the [roles for core members](./roles-of-core-members.md) document.
 Also, see the [Ways of Working](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) in *The Turing Way*.
 
-This team also involves `Core Volunteer Members` who are invited from the broader contributors community of *The Turing Way*.
-They take on various leadership roles in the community and engage with the project in "in-kind capacity".
+RCMs should also work with *The Turing Way* RCM to mentor and support the broader contributors community of *The Turing Way*.
+This can be through sharing events and resources from their projects, identifying opportunities for collaboration and supporting their engagement in _The Turing Way_ events, GitHub repository or other activities.
 
 ## How do we use The Turing Way in our work?
 
-The Turing Community Managers facilitate the integration of reproducible, interoperable and collaborative processes in technical as well as the social infrastructure of the institute's research projects.
+The Turing RCMs facilitate the integration of reproducible, interoperable and collaborative processes in technical as well as the social infrastructure of the institute's research projects.
 They use *The Turing Way* as a primary resource to enable access, documentation and sharing of data science and research best practices across the Turing institute and beyond.
 Please find all useful links in the [quick links](./quick-links.md) document.
