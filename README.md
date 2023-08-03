@@ -100,9 +100,7 @@ You can also contact [Malvika Sharan](mailto:msharan@turing.ac.uk) for any quest
 #### Collaborators from TPS/*The Turing Way* projects in Community Roles
 
 - Ayesha Dunk, Skills Team, [AI and Data Science Educators Programme](https://www.turing.ac.uk/data-science-and-ai-educators-programme), The Alan Turing Institute
-- Bridget Nea, Skills Team, [Data Skills Taskforce](https://www.dataskillstaskforce.com/) and Skills Policy Award, The Alan Turing Institute
 - Claudia Fischer, Research Assistant; [Turing Commons](https://turing-commons.netlify.app/), The Alan Turing Institute
-- Sarah Gibson, JupyterHub Community Development Lead, [2i2c](https://2i2c.org/) and [JupyterHub](https://jupyter.org/hub)
 
 *If you are interested in joining this team, please reach out to Malvika Sharan (msharan@turing.ac.uk).*
 
@@ -115,6 +113,8 @@ You can also contact [Malvika Sharan](mailto:msharan@turing.ac.uk) for any quest
 - Achintya Rao, Community Manager
   -  Projects: [GitHub](https://github.com/alan-turing-institute/asg-research-communications/)
     - [AI for Science and Government Research Programme](https://www.turing.ac.uk/research/asg)
+- Sarah Gibson, JupyterHub Community Development Lead, [2i2c](https://2i2c.org/) and [JupyterHub](https://jupyter.org/hub)
+- Bridget Nea, Skills Team, [Data Skills Taskforce](https://www.dataskillstaskforce.com/) and Skills Policy Award, The Alan Turing Institute
 
 ## Guiding Principles
 
