@@ -285,12 +285,13 @@ is not in the scope of this Code of Conduct.
 #### **12.2.1** If the reportee is an employee of the Turing 
 
 The code of Conduct should be considered a norm-setting mechanism for the Open Research 
-Community Building Team before any involvement of HR in the interactions that take place within the team. 
+Community Management Team before any involvement of line managers or HR in the interactions that take place within the team. 
 
-If the reportee is a Turing employee, for instance, Community Managers and senior 
-researchers and the incident is considered out of the scope of this Code of Conduct 
-due to the severity of the matter/case, an HR process (formal or informal), will be started.
-In this case, the report will be passed to HR and/or appropriate personnel under the 
+If the reportee is a Turing employee, for instance, Senior Researcher, Senior Research Community Managers and Research Community Manager, and the incident is considered out of the scope by the report handling mechanism of this Code of Conduct due to the severity of the matter/case, the **employment policies will apply**.
+
+The first step for the community leaders handling the report should escalate the issue to the line manager of the reportee.
+The line manager will be responsible for taking the disciplinary action, such as starting an HR process, formally or informally.
+The report will be passed to the line manager who will follow the
 Turing policies and [the Turing's CoC policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2174&SearchId=0&utm_source=interact&utm_medium=category_search&utm_term=*), as well as enforcement mechanism, will 
 take precedence over this Code of Conduct enforcement.
 
