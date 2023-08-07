@@ -289,7 +289,7 @@ Community Management Team before any involvement of line managers or HR in the i
 
 If the reportee is a Turing employee, for instance, Senior Researcher, Senior Research Community Managers and Research Community Manager, and the incident is considered out of the scope by the report handling mechanism of this Code of Conduct due to the severity of the matter/case, the **employment policies will apply**.
 
-The first step for the community leaders handling the report should escalate the issue to the line manager of the reportee.
+The first step for the community leaders handling the report should be to **escalate the issue to the line manager of the reportee**.
 The line manager will be responsible for taking the disciplinary action, such as starting an HR process, formally or informally.
 The report will be passed to the line manager who will follow the
 Turing policies and [the Turing's CoC policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2174&SearchId=0&utm_source=interact&utm_medium=category_search&utm_term=*), as well as enforcement mechanism, will 
