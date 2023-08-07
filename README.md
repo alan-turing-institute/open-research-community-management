@@ -126,12 +126,12 @@ You can also contact [Malvika Sharan](mailto:msharan@turing.ac.uk) for any quest
 
 ## Operationalising the Turing's Values in community management
  
-- **Transparency**: Prioritise transparency and clarity in all our interactions and work -- this our responsibility and duty towards each other as peers and colleagues.
-- **Leadership**: Apply open leadership practices in all community engagement activities and our community-building process.
-- **Inclusivity**: Embed diversity, equity, inclusion and accessibility (EDIA) approaches in all our work.
-- **Respect**: Maintain respectful co-creation processes in the team and the communities we build.
+- **Transparency**: Prioritise transparency and clarity in all our interactions, collaborations and engagment pathways -- this our responsibility and duty towards each other as peers and the communities we lead.
+- **Leadership**: Apply open leadership practices in our community-building processes and all the community activities we facilitate.
+- **Inclusivity**: Embed equity, diversity, inclusion and accessibility (EDIA) approaches in all our work.
+- **Respect**: Maintain respectful co-creation processes in the team and the communities by providing clear ways to participate, engage and lead.
 - **Trust**: Build trust in the community by making implicit knowledge explicit and providing access to resources that enable everyone to discover, display and directly use their knowledge and skills. 
-- **Integrity**: Ensure ethical integrity through participation from community members, especially those impacted by our work.
+- **Integrity**: Ensure ethical integrity through involvement of community members, especially those impacted by our work.
 
 ## Guiding Principles for the the team
 
