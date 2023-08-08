@@ -43,9 +43,12 @@ description: team meeting
     * Gabin and Anne are attending in person 22nd with Emma online support - will attend online this week. 
     * Emma and Cass will DOI and license for the training materials.
 * [name=Cass] Update on wiki: 
-    * Restricting access to confidential materials ([issue #251](https://github.com/alan-turing-institute/open-research-community-management/issues/251))
-    * Profile pages ([issue #252](https://github.com/alan-turing-institute/open-research-community-management/issues/252))
-    * Anne to review and all to action profile page
+
+### Wiki
+* Restricting access to confidential materials ([issue #251](https://github.com/alan-turing-institute/open-research-community-management/issues/251))
+    * Anne to review suggestions as not present when defined :)    
+*Profile pages ([issue #252](https://github.com/alan-turing-institute/open-research-community-management/issues/252))
+    * All to action profile page
     * Progress in a timely manner :)
 
 ### Briefing notes
@@ -126,6 +129,7 @@ description: team meeting
 
 ### Action points for follow up
 *Please new items to GitHub as a new issue: https://github.com/alan-turing-institute/open-community-building/issues.*
+* Ann to review suggested process for restricting access to confidential materials on the wiki ([issue #251](https://github.com/alan-turing-institute/open-research-community-management/issues/251))
 * Submit your [wiki profile pages - issue #252](https://github.com/alan-turing-institute/open-research-community-management/issues/252)) - All
 * [TPS Research Community Management Team: Communications Processes](https://docs.google.com/document/d/1yBsll1OeiNnzNwLwEHPQB0nVCZDVAs7hsScqeBo_pdo/edit#heading=h.c6bhlbj4hcor) - review and comment
 * [Briefing notes](https://docs.google.com/presentation/d/1rXHSa75o3r_I709jScQoXtakX5_W2IAB-reLzsaTHjs/edit#slide=id.p) - Malvika will send to Kirstie on Wednesday (cc Gabin). Please ensure all are complete and reviewed by Cass before then.
