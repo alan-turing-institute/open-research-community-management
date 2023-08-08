@@ -91,6 +91,7 @@ Scholars has really taken over, has been a busy few weeks with the call closing.
 
 #### Where do you need help?
 * Any advise on how to scope the projects with the scholars- shared document but want to put on GitHub? Get them to tidy and do afterwards.
+* Do I need to change any of my GitHub settings for the scholars to make pull requests? Basically want them to make a pull request every time so I can see
 
 #### Any other topics
 * Can't remember your annual leave
