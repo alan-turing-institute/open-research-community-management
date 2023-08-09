@@ -94,8 +94,8 @@ Scholars has really taken over, has been a busy few weeks with the call closing.
 * Do I need to change any of my GitHub settings for the scholars to make pull requests? Basically want them to make a pull request every time so I can see
 
 #### Any other topics
-* Can't remember your annual leave
-* Jury Duty in January! 
+* Can't remember your annual leave 21 Aug to 4 Sept. 
+* Jury Duty in January! starts 8th Jan - two weeks min. 
 
 ## Date 19 July 2023
 
