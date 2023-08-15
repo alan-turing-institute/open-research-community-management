@@ -30,6 +30,20 @@
 * [30 June 2023](#date-30-June-2023)
 * [07 July 2023](#date-07-July-2023)
 
+## 15 August 2023
+* Delivery plan finialised and sent to KW.
+* EK - to contact EG and discuss KW feedback.
+* Planning for holiday
+  * 17 October for holiday
+  * need to find people to run seminar series (BA facilitator and Theme lead for the chair), ECR meeting (EG or SB to do it), collab cafe (RS or SB).
+  * Seminar series - Oct, Nov and Dec have people. Sept maybe SAIL.
+  * ECR sessions - changing session dates due to clash with the PPIE sessions.
+  * Training sessions - made a copy of the survey from last time and made a feedback section. Added question about on grant writing course,
+  * Sci comm people - communicating with the public and writing grant applications.
+    * EK - maybe CV writing - narrative CVs - https://openresearch.nihr.ac.uk/documents/2-38 - and also Royal society. 
+    * EZ - training on peer review.
+  * ECR in person event planning - 23 Nov - will send out emails first week of September. 
+
 
 ## Date: 07 July 2023
 
