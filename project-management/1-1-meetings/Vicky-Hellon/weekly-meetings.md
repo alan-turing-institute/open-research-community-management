@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [16 August 2023](#date-16-august-2023)
 * [09 August 2023](#date-09-august-2023)
 * [19 July 2023](#date-19-july-2023)
 * [05 July 2023](#date-05-july-2023)
@@ -51,6 +52,41 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 16 August 2023
+
+### Check-in ritual
+All good, feel like August is going quick though!
+
+### Project specific Reflection
+I say this every week but almost there on the final onboarding scholar bits 😅 And just trying to make sure I can prep as much as possible before September. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Met SF and filled her in on health and community management
+
+#### Who helped you this week?
+* WM and KG (legal and data protection) with advice for scholar scheme
+
+#### What did you achieve?
+* Sent out emails to all scholar applicants
+* Wrote a draft of the UKRN blog with Alden and discussed handing over our LNL roles
+* Two Genomic England interviews for TTW Practioners Hub
+* Caught up with MA and AM to start to plan cover when MA is off
+  
+#### What did you struggle with?
+* Clinical AI workshop- hoping we sort tomorrow! 
+
+#### What would you like to work on next week?
+* Finalising scholars docs!!
+* Get up event page for September Knowledge Share
+
+#### Where do you need help?
+* GitHub repository permissions
+
+#### Any other topics
+N/A
 
 ## Date 09 August 2023
 
