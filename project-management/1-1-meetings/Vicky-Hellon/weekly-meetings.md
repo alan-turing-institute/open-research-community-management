@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [09 August 2023](#date-09-august-2023)
 * [19 July 2023](#date-19-july-2023)
 * [05 July 2023](#date-05-july-2023)
 * [28 June 2023](#date-28-june-2023)
@@ -50,6 +51,51 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 09 August 2023
+
+### Check-in ritual
+All good at the moment, just missing the sun 😆
+
+### Project specific Reflection
+Scholars has really taken over, has been a busy few weeks with the call closing. Trying to finalise most of the planning over the next few weeks to ensure we're organised. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* TZ with advice round a community manager (with you!)
+* NJ with background on TR partnership
+
+#### Who helped you this week?
+* SM has been great at supporting the scholar scheme from the Roche side- wasn't sure how much that side would be involved but she will take a leading part which is great. RC also great in panel meeting with advice. 
+
+#### What did you achieve?
+* Have added more to the Turing-Roche GitHub after Malvika's suggestions
+* Attended the UKRN retreat
+* Attended Practioner Hub launch workshop
+* Attended RCM team day
+* Invited attendees to CB's fairness in digital health workshop
+* Panel Meetings for scholar scheme and still working on onboarding docs
+* Orchestrating invites for Clinical AI workshop
+* REG project involvement we will re-visit in September which I think is sensible
+
+#### What did you struggle with?
+* Still some uncertanity round project management
+* Struggling to recruit a speaker for September and October's Knowledge Shares- wanted to be sorted by now but will probs need to add to the to do list for September
+* Clinical AI workshop....
+
+#### What would you like to work on next week?
+* More Practioner Hub interviews
+* UKRN blog post with Alden
+* Finalising scholar onboarding docs
+
+#### Where do you need help?
+* Any advise on how to scope the projects with the scholars- shared document but want to put on GitHub? Get them to tidy and do afterwards.
+* Do I need to change any of my GitHub settings for the scholars to make pull requests? Basically want them to make a pull request every time so I can see
+
+#### Any other topics
+* Can't remember your annual leave 21 Aug to 4 Sept. 
+* Jury Duty in January! starts 8th Jan - two weeks min. 
 
 ## Date 19 July 2023
 
