@@ -115,14 +115,14 @@ Notes:
 
 ### Next Meeting
 
-See the **2023** Goatherding schedule here: https://hackmd.io/@cm-team/goatherd-schedule-2023
+See the **2023** Goatherding schedule here: `redacted`
 
 * Set a document and update the calendar invite
 * **Next week**: **CANCELLED** due to summer holidays
 
 ### Information and Links  
 
-* Link of links: https://hackmd.io/@cm-team/link-of-links
+* Link of links: `redacted`
 * Shared calendar with meeting times: https://calendar.google.com/calendar/u/0?cid=cGtlazVnc2xkcjlwYWRhNjc4MTJyaGtiaW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 * GitHub for the project repo: https://github.com/alan-turing-institute/community-manager-team
 
