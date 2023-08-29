@@ -1,5 +1,43 @@
 ## 1:1 meetings
 
+### 2023-08-02
+- Linkedin: 
+  - Do we want to be in the Turing Enterprise ecosystem?
+  - Respond to AB about how this is happening
+  - MS: Talk to EK & VH about usage first
+- Book Dash: Applciations 
+  - Committee: Keep open the form until the 11th of August
+  - Application form: due Monday, 11 September - can extend to 15 September
+  - Hub form: due Thursday, 31st August - push for it
+  - Communication plan: will send by end of week
+  - Ask people who applied for Committee to record video:
+- TTW Briefing: send it over to CGVP, resolve with
+- Every Friday, month of August will be publishing a blog
+- GSoC: waiting for updates on Foreward, finising in September
+  - Look at the Foreward
+- Sketch out the front page - no holds barred!
+- Book Dash: planning for curating sets different chapters based on their disciplines, computation
+- Reach out to Arya about speaking at the Collab Cafe in September :) 
+- Objective Setting: review materials from last year, 
+  - 1. Core responsibilities: events, calls, etc.
+  - 2. Maintenance - governance work, 
+  - 3. Research tied to open source & community management
+  - 4. Bring another 
+  - Go broad & big, but not to small: actionable. 
+
+### 2023-07-25
+- KW: two longer talks planned for August 9 & 24: MS meeting at 1:30 onwards
+- Objective setting?
+- Inviting people to join Book Dash Committee: Susana, Liz, Batool, Shern, Andrea, Joanna,Melissa, Saranjeet – any others?
+- Discussed with Jim re: REG team & open source desk.
+- TTW briefing: completing draft this week – what will review process look like?
+- CM Team workflow & outputs: completing this week or ongoing?
+- August 21 & 23: preparing for Sophia to be away in August- August 22
+- Force Multiplier project: MS will send info
+- Open Access Week: will send out CH, 
+- August: No shift in calendar (early August maintain, ), but do we want to change the collab cafe?
+- Working Group - Governance document update
+
 ### 2023-07-18
 - Open Access Week & Fireside Chat - date overlap and planning, overlaps 23-29
 - Upcoming Fireside Chats
