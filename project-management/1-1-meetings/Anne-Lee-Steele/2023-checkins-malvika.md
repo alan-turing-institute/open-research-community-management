@@ -20,13 +20,18 @@
       - Documenting need for TTW website & url (tied to sketches in progress below): https://github.com/the-turing-way/the-turing-way/issues/3266
   - Planning for next staff delivery team meeting (with AAA)
   - Planning for next core team meeting (with AAA)
+  - Planning next Community Chats for coming months: check-in with CB, Team infra folks, GSoC
 - Planning for next check-in (tasks)
   - Book Dash Applications for Hub & Applicants: are asking about extending deadlines for both, and do wider promotions on Slack/Twitter/Mastodon next week
   - Sketching out front page of TTW - mock-up
   - Reviewing Foreword: https://github.com/the-turing-way/the-turing-way/pull/2080
   - Browsing with user profile: https://github.com/the-turing-way/the-turing-way/pull/2246
+  - May be writing newsletter again rather than AAA (KW request)
 - Quarterly check-in
   - Reviewing JD?
+  - Reviewing regular tasks: https://hackmd.io/WoPvW29OStuo6_vqRqLz-g
+- Notes from meeting
+  - R-EiR asking about Community Management
 
 ### 2023-08-02
 - Linkedin: 
