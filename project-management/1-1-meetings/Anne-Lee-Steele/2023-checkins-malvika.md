@@ -1,5 +1,33 @@
 ## 1:1 meetings
 
+### 2023-08-29
+- Key updates from 15 Aug - 24 Aug
+  - Widening Participation workshop: collaborated with both Ethics & TPS teams (presented with GK). Lots of interest to connect with TPS, though it's so clearly 
+  - Shadowing with GK: will be attending core delivery meetings for DCE, will ask about attending 
+  - Accessibility WG: will be creating new repository to store notes, working with AAA to apply for funding for LH. Two meetings that discussed division between accessibility policy &. Metadocencia sharing their materials more closely.
+  - Open AI Fireside: most speakers confirmed, ironing out details but there are a few additional follow-ups.
+  - Maintainers Fireside: check-in happening next week
+  - Fruto workshop: this workshop was AMAZING (brought up notion of community-lead design with the team and they were all for it! So many tools that I know could be valuable and useful for my work with TTW)
+  - Github workshop: CSCCE workshop (hosted with DG) on 30th - slides are a WIP, with planning discussions
+  - Discussion with KW - sharing notes & key learnings
+  - GSoC with Ayra: planning on a share-out for 20 September Collab Cafe (slot shared with Team Infrastructure Roles)
+  - TTW blogs: haven't worked out in the way that I would like to (blogs are not completely finished, more-so logs of notes)
+  - TTW documentation
+    - Starting new initiative with Alex to have bi-weekly TTW documentation day 
+    - Slack policy - expanding this chapter: https://github.com/the-turing-way/the-turing-way/pull/3262
+    - Roadmap after shift to Github organisation
+      - Documenting needs after the shift here (will kick-start in September): https://github.com/the-turing-way/the-turing-way/issues/3272
+      - Documenting need for TTW website & url (tied to sketches in progress below): https://github.com/the-turing-way/the-turing-way/issues/3266
+  - Planning for next staff delivery team meeting (with AAA)
+  - Planning for next core team meeting (with AAA)
+- Planning for next check-in (tasks)
+  - Book Dash Applications for Hub & Applicants: are asking about extending deadlines for both, and do wider promotions on Slack/Twitter/Mastodon next week
+  - Sketching out front page of TTW - mock-up
+  - Reviewing Foreword: https://github.com/the-turing-way/the-turing-way/pull/2080
+  - Browsing with user profile: https://github.com/the-turing-way/the-turing-way/pull/2246
+- Quarterly check-in
+  - Reviewing JD?
+
 ### 2023-08-02
 - Linkedin: 
   - Do we want to be in the Turing Enterprise ecosystem?
