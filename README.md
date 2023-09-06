@@ -50,6 +50,16 @@ As a team, RCMs conduct research, build shared frameworks, create opportunities 
 
 *This image was created by Scriberia for The Turing Way community and is used under CC-BY 4.0 licence. [DOI: 10.5281/zenodo.5706310](https://doi.org/10.5281/zenodo.5706310)*
 
+### Learn More About our work
+
+You can find several presentations about the RCM team, their work and from their skills building engagements in this repository shared under the [Team Related Communications](./team-related-comms) directory.
+
+Read some specific examples from our work across individual projects in the following Briefing Notes:
+* [RSS DATA LAB - Health Community](./team-related-comms/briefing-notes/2023-RCM-Briefing_Turing-RSSHealthDataLab_community-EK.pdf)
+* [Turing-Roche Partnership's Community](./team-related-comms/briefing-notes/2023-RCM-Briefing_Turing-Roche_community-VH.pdf)
+* [*The Turing Way* Community](./team-related-comms/briefing-notes/2023-RCM-Briefing_TuringWay_community-ALS.pdf)
+* [AIM-RSF Open Collaboration Community](./team-related-comms/briefing-notes/2023-RCM-Briefing_AIM-RSF-OpenCollab_community-EZ.pdf)
+
 ## Operationalising the Turing's Values in Community Management
  
 - **Transparency**: Prioritise transparency and clarity in all our communications, collaborations and engagement pathways -- this is our responsibility and duty towards each other as peers and the communities we lead.
