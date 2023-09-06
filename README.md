@@ -133,21 +133,18 @@ You can also contact [Malvika Sharan](mailto:msharan@turing.ac.uk) for any quest
 - **Trust**: Build trust in the community by making implicit knowledge explicit and providing access to resources that enable everyone to discover, display and directly use their knowledge and skills. 
 - **Integrity**: Ensure ethical integrity through involvement of community members, especially those impacted by our work.
 
-## Guiding Principles for the the team
+## Guiding Principles for the team
 
-- Actively **break down silos** by enabling knowledge exchange across all projects through collaboration and joint efforts.
-- **Communicate openly** about Communities of Practice you manage, challenges you are seeking to address and solutions that have emerged.
-- Contribute to the ongoing **professional development of team members** by maximising opportunities for collaborative work, their careers, and open research at large.
-- Create a **safe and non-judgemental environment** to engage each other, celebrate successes, admit errors and draw learnings from our mistakes.
-- Be willing to **work through conflicts to resolution**.
-- Actively **create and identify future opportunities** to enable collaboration, integration of open research practices and co-create practices.
-- Collaborate with individuals and institutions beyond the team that **expand and extend our mission for open Research Community Management**.
-
-To realise these principles, build shared perspectives that underpin these guiding principles (taken from _Bassler, A. et al., "Developing Effective Citizen Engagement: A How-to Guide for Community Leaders." Center for Rural Pennsylvania, 2008_.):
-
-- **Change is a fundamental** part of growth and effective change must come from within individuals and groups. 
-- Community engagement/growth **starts by first changing ourselves**, our attitudes, language and the way we view the world around us.
-- Communities are most successful when true partnerships exist and **power or control is delegated and vested effectively** within the community.
+1. **Collaboration**: Actively break down silos by enabling knowledge exchange across all projects through collaboration and joint efforts.
+1. **Communication**: Communicate openly the Communities of Practice you manage, challenges you are seeking to address and solutions that have emerged.
+1. **professionalisation**: Uphold the highest personal and professional standards and share opportunities to co-create knowledge and infrastructure around community management and open research practices as a team.
+1. **Safety**: Create a safe and non-judgemental environment to engage each other, celebrate successes, admit errors and draw learnings from our mistakes.
+1. **Dealing with Conflict**: Be willing to work through conflicts to resolution openly and constructively as well as manage any relevant conflict of interest effectively.
+1. **Open Leadership**: Apply open leadership to foster open spaces for community engagement and and proactively find opportunities to collaborate with individuals and institutions beyond the team that **expand and extend our mission for open Research Community Management**.
+1. **Principle of change**: Embrace change with the perspectives that underpin these guiding principles:
+    * **Change is a fundamental** part of growth and effective change must come from within individuals and groups. 
+    * Community engagement/growth **starts by first changing ourselves**, our attitudes, language and the way we view the world around us.
+    * Communities are most successful when true partnerships exist and **power or control is delegated and vested effectively** within the community.
 
 ## Important Documents for the Team Members
 
