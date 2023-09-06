@@ -58,6 +58,7 @@
 
 ### Check-in ritual
 All good- happy to have some sun back!
+- EK - 🌞
 
 ### Project specific Reflection
 Feels like quite a few balls up in the air at the moment partnership wise but juggling ok!
@@ -76,9 +77,11 @@ Feels like quite a few balls up in the air at the moment partnership wise but ju
 * Started prepping webpage for scholars annoucement- hoping individual calls can be scheduled by the end of the week
 * Finished UKRN blog- should be published soon
 * Connected with some Roche ECR networks- presenting about the scholar scheme at one later in September
+* EK - this all sounds great - well done. 
 
 #### What did you struggle with?
 * Bit nervous about MA being off but feel confident AM will cover well
+* EK - let me know if I can help in anyway while AM is off. 
 
 #### What would you like to work on next week?
 * OR is getting more involved in the partnership so will be onboarding him on thursday with AM
@@ -87,6 +90,7 @@ Feels like quite a few balls up in the air at the moment partnership wise but ju
 
 #### Where do you need help?
 * For Clinical AI Community Scholar do you want to come along to the individual onboarding call?
+*  EK - 15th is the best day for me to attend.  
 * Knowledge share- advise on chasing the speaker!
 
 #### Any other topics
