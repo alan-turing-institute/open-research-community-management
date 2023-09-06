@@ -1,4 +1,4 @@
-# Resources for externally communicating about the Team and our work
+# Resources for externally communicating about the our work
 
 ## Briefing Notes
 
