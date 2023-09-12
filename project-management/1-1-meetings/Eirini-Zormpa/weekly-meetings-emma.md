@@ -29,6 +29,40 @@
 * [6 June 2023](#date-6-June-2023)
 * [30 June 2023](#date-30-June-2023)
 * [07 July 2023](#date-07-July-2023)
+* [15 August 2023](#date-15-August-2023)
+* [5 September 2023](#date-5-September-2023)
+
+## 5 September 2023
+
+**Check-in ritual**
+
+### Project specific Reflection
+Lots of planning, mostly the ECR day, but also Open Invitation Seminars, ECR Lunchtime Sessions and Collab Cafes + training.
+
+### Notes to discuss during 1:1
+- OHS response
+
+#### What did you achieve?
+- presentation for PI meeting today
+- planning for the PM meeting
+- planning for ECR day
+- planning for Open Invitation Seminars
+- opened up registrations for public engagement workshop
+
+#### What did you struggle with?
+- concentration!
+
+#### What would you like to work on next week?
+- lots of important meetings! with PIs and PMs and collaborations from AIM + one more meeting for workshops with external company
+- open up registrations for ECR day
+- send out training survey
+
+#### Where do you need help?
+- reducing workload
+ - further conversation needed after the delivery plan is finalised
+
+#### Any other topics
+- EK attended a great workshop on accessibility for people with visual impairments - check OLS YouTube channel or ask MS
 
 ## 15 August 2023
 * Delivery plan finialised and sent to KW.
