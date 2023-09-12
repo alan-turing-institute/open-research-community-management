@@ -141,6 +141,23 @@
 - Data Justice Conference - problem with booking hotel (currently following up with Gray Dawes). Will follow up with presentation deck this week.
 - Draft 2 of governance document: goal to complete working draft at end of June
 
+### 06-06-2023
+- Quarterly review - feedback
+- Feedback from annual review
+  - Social science - pro! but also weakness! 
+  - Working long hours, and juggling lots of things 
+  - Be confident in cancelling meetings! 
+  - Working groups: were supported in created them, roles is not established, processes are not clear for staff and don't have clear direction
+    - When do you step in and when do you step back?
+    - Tied to ethnographic experience - not sure what to do next
+    - CM is sometimes filling the gap where where community needs help, and then pass it on to the community (but give a framework)
+    - Check-in list with working groups & discussions: this has stalled in the time since
+- Reviewing calendar and schedules
+  - Ongoing recurring calls
+  - Recurring responsibilities
+- Reviewing agendas: core team & core delivery team
+  - 
+
 ### 2023-06-06
 - Agenda: 
   - Start scheduling for each Monday
