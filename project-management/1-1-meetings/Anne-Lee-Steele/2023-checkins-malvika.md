@@ -1,5 +1,20 @@
 ## 1:1 meetings
 
+### 2023-09-12
+- Quarterly review: https://hackmd.io/WoPvW29OStuo6_vqRqLz-g
+  - Reviewing JD: self-review of tasks (in HackMD) and with KW
+  - Reviewing needs/quarterly goals for 2023-2024
+  - Reviewing upcoming project aims: 
+    - 2022 Maintenance: https://hackmd.io/@turingway/maintenance-2022
+    - 2023 Maintenance: https://hackmd.io/@aleesteele/maintenance-2023
+- Other 
+  - Applying for 4 day work week (compressed hours)
+  - Invited to co-organise FOSDEM Open Research track
+  - Invited to contribute to CM paper
+  - Cancelled OOO on Friday, 15 September
+  - Reviewing schedule for September: half-days 18-22, AL 25-3 Oct
+  - Beginning process of reviewing/sketching website: https://design.penpot.app/#/workspace/d14220e8-6daf-8066-8003-1d6afb24d3f4/d14220e8-6daf-8066-8003-1d6b011265ec?page-id=d14220e8-6daf-8066-8003-1d6b011265ed
+
 ### 2023-08-29
 - Key updates from 15 Aug - 24 Aug
   - Widening Participation workshop: collaborated with both Ethics & TPS teams (presented with GK). Lots of interest to connect with TPS, though it's so clearly 
