@@ -31,6 +31,43 @@
 * [07 July 2023](#date-07-July-2023)
 * [15 August 2023](#date-15-August-2023)
 * [5 September 2023](#date-5-September-2023)
+* [12 September 2023](#date-12-September-2023)
+
+## Date: 12 September 2023
+
+**Check-in ritual**
+An ECR asked for help with recruiting participants 💖
+
+### Project specific Reflection
+- Lots of meetings this week - PI meeting to present the plan for the ECR day, internal consortia meetings, first AIM PM meeting
+- Some back-and-forths trying to find speakers for the Open Invitation Seminars in Sep and Oct
+- Registrations for ECR day almost ready to be opened 🙀
+
+### Notes to discuss during 1:1
+- Update on delivery plan
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+BA with the ECR day logistics 💗
+
+#### What did you achieve?
+- Meetings
+- Speakers booked for Open Seminars
+- EIA form for ECR day submitted
+
+#### What did you struggle with?
+
+
+#### What would you like to work on next week?
+- Open ECR day registrations
+- One more push for the public outreach seminar
+- Plan next RSF Collab Cafe
+
+#### Where do you need help?
+
+#### Any other topics
+
 
 ## 5 September 2023
 
