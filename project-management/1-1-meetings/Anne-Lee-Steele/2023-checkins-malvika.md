@@ -10,8 +10,8 @@
 - Other 
   - Applying for 4 day work week (compressed hours)
   - Invited to co-organise FOSDEM Open Research track
-  - Invited to contribute to CM paper
-  - Cancelled OOO on Friday, 15 September
+  - Invited to contribute to CM paper with RS
+  - Cancelled AL on Friday, 15 September
   - Reviewing schedule for September: half-days 18-22, AL 25-3 Oct
   - Beginning process of reviewing/sketching website: https://design.penpot.app/#/workspace/d14220e8-6daf-8066-8003-1d6afb24d3f4/d14220e8-6daf-8066-8003-1d6b011265ec?page-id=d14220e8-6daf-8066-8003-1d6b011265ed
 
