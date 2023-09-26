@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [06 September 2023](#date-06-september-2023)
 * [16 August 2023](#date-16-august-2023)
 * [09 August 2023](#date-09-august-2023)
 * [19 July 2023](#date-19-july-2023)
@@ -52,6 +53,48 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 06 September 2023
+
+### Check-in ritual
+All good- happy to have some sun back!
+- EK - 🌞
+
+### Project specific Reflection
+Feels like quite a few balls up in the air at the moment partnership wise but juggling ok!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Onboarded AB and IT to the partnership
+
+#### Who helped you this week?
+* BGT with recruiting patients for the Clinical AI workshop
+
+#### What did you achieve?
+* Started organising All Hands Lab Meeting for 22nd September
+* Sent newsletter
+* Started prepping webpage for scholars annoucement- hoping individual calls can be scheduled by the end of the week
+* Finished UKRN blog- should be published soon
+* Connected with some Roche ECR networks- presenting about the scholar scheme at one later in September
+* EK - this all sounds great - well done. 
+
+#### What did you struggle with?
+* Bit nervous about MA being off but feel confident AM will cover well
+* EK - let me know if I can help in anyway while AM is off. 
+
+#### What would you like to work on next week?
+* OR is getting more involved in the partnership so will be onboarding him on thursday with AM
+* Scholars onboarding calls will be taking up the majority of time
+* Clinical AI workshop planning call on Friday- hoping we can get most of it sorted- anything else you think we need to do with it? 
+
+#### Where do you need help?
+* For Clinical AI Community Scholar do you want to come along to the individual onboarding call?
+*  EK - 15th is the best day for me to attend.  
+* Knowledge share- advise on chasing the speaker!
+
+#### Any other topics
+N/A
 
 ## Date 16 August 2023
 
