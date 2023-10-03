@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [27 September 2023](#date-27-september-2023)
 * [06 September 2023](#date-06-september-2023)
 * [16 August 2023](#date-16-august-2023)
 * [09 August 2023](#date-09-august-2023)
@@ -53,6 +54,51 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 27 September 2023
+
+### Check-in ritual
+Doing ok- feel like holiday went quick! Mainly been catching up.
+
+### Project specific Reflection
+Lots of activities on at the moment- feels like the partnership research is really ramping up so want to make sure I'm also doing some future planning alongside current bits.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Helped KP with submitting an application for an award for the partnership
+* Onboarded OR into the partnership 
+
+#### Who helped you this week?
+* EK with Clinical AI scholar!
+* CB has been great at meeting with other scholars amongst his busy schedule
+* AD gave me some useful feedback on the all hands meeting
+
+#### What did you achieve?
+* Ran scholar onboarding calls with SM and ensuring they are all settled and set up on systems. Also done some comms to announce them
+* Interviews for the TTW practioners hub and reading draft of case study
+* Organising Clinical AI workshop- questionnaire now gone out
+* Connected with a Roche ECR network- discussion on how to promote scholar activities to them
+* Sent newsletter out
+* Did September Knowledge Share event and organising October's and November's
+* Ran September's all hands meeting
+  
+#### What did you struggle with?
+* Have been so busy that I haven't connected much with the scholars since I onboarded them- going to try and find some time to touch base this week
+
+#### What would you like to work on next week?
+* Organising first cohort call for scholars
+* Potentially plan an application for AI UK booth for partnership
+* KP is organising a partnership strategy day and I have been put down to run a session so need to think about this
+* Knowledge Share follow up
+
+#### Where do you need help?
+* Struggled to make objectives specific!
+* Any other organising for Clinical AI workshop
+  
+#### Any other topics
+N/A
+
 
 ## Date 06 September 2023
 
