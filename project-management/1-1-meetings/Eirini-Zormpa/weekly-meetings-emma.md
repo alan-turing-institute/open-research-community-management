@@ -33,6 +33,17 @@
 * [5 September 2023](#date-5-September-2023)
 * [12 September 2023](#date-12-September-2023)
 
+
+## Date: 03 October 2023
+
+* Meeting with AIM RSF theme 3
+* Off boarding check list
+* 
+
+## Date: 26 September 2023
+* Meeting with EG and EZ to discuss EZ task in Theme 3 delivery plan and how these can be distributed/prioritised going forward. 
+
+
 ## Date: 12 September 2023
 
 **Check-in ritual**
