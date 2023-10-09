@@ -99,9 +99,9 @@
 
 > *If the assigned documentarian, please write meeting notes here*
 #### Skills Policy Award update
-* ==[slides]==
+* [slides] - https://docs.google.com/presentation/d/1eaTiiG9iDCo989z9GmKo2OB-S-qr0Qs8/edit?usp=sharing&ouid=112341831917451198511&rtpof=true&sd=true or see the workshop slides from 2 October 2023 on zenodo - https://doi.org/10.5281/zenodo.8394177
 * Thanks to Alex and Malvika - Team effort!
-* Project came from call for training funding (not funding for research projects)
+* Project came from call for Skills Team funding - previously they had funded training and now research projects on skills.
     * Thinking about skills in the policy landscape
         * Professionalisation around data science roles
         * Widening participation
@@ -122,7 +122,7 @@
     * Commissioned by Government
     * Primarily industry focused
     * Working at senior level, and not grass-roots (like us)
-    * Turing is a partner
+    * Turing is a partner and organiser of the group
 * Alliance for Data Science Professionals
     * Came from Royal Society, then government backing
     * Turing is a partner
@@ -134,7 +134,7 @@
     * Interdisciplinarity - bringing lots of domains together is difficult
     * EDIA
 * The above challenges means we need more specialists in these areas to drive the research and makes the research impactful and high quality!
-* Started thinking from RCM skills (==[skills wheel links]==), then aimed to develop their own skills framework
+* Started thinking from RCM skills ([CSCCE skills wheel](https://www.cscce.org/resources/hiring-becoming-a-community-manager/) and [Community roundtable skills wheel](https://the.cr/skills-framework)), then aimed to develop their own skills framework
 * Core Skill Areas for RCMs
     * If we're in a big team, then our skills will overlap - what are the core skills which will define our role?
         * All data science professionals will have "core", RCMs will have specific focus on communications and engagement
