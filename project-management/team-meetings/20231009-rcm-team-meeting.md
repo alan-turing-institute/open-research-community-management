@@ -99,7 +99,7 @@
 
 > *If the assigned documentarian, please write meeting notes here*
 #### Skills Policy Award update
-* [slides] - https://docs.google.com/presentation/d/1eaTiiG9iDCo989z9GmKo2OB-S-qr0Qs8/edit?usp=sharing&ouid=112341831917451198511&rtpof=true&sd=true or see the workshop slides from 2 October 2023 on zenodo - https://doi.org/10.5281/zenodo.8394177
+* [slides for today](https://docs.google.com/presentation/d/1eaTiiG9iDCo989z9GmKo2OB-S-qr0Qs8/edit?usp=sharing&ouid=112341831917451198511&rtpof=true&sd=true) or see the [workshop slides from 2 October 2023 on zenodo](https://doi.org/10.5281/zenodo.8394177)
 * Thanks to Alex and Malvika - Team effort!
 * Project came from call for Skills Team funding - previously they had funded training and now research projects on skills.
     * Thinking about skills in the policy landscape
