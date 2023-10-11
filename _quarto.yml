@@ -16,6 +16,8 @@ website:
         file: index.qmd
       - text: "Contributing"
         file: website/contributing/index.qmd
+      - text: "Meetings"
+        file: website/meetings/index.qmd
   sidebar:
     - title: "Home"
       style: "docked"
