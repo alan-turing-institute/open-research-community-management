@@ -4,10 +4,18 @@ title: "Contributing"
 
 ## How is the Wiki built?
 
-The Research Community Managers Wiki is built with Quarto.
-Unlike Jupyter Book or RMarkdown, it isn't a package that belongs to a programming language, it's a javascript based Command Line Interface (cli) program that supports embedding multple languages within Quarto documents. 
+The RCM Wiki is built with [Quarto](https://quarto.org), an open-source scientific and technical publishing system. ==**By using quarto on git(hub)**== we are developing and modeling best practice in recording and communicating research in data science. We practice in this way so that we may support our communities in doing the same :).
+
+We invite you to contribute to develop your own skill and practices with these tools.
+
+## Where to start
+
+==**Prerequisits, e.g. git, github accounts. Link to resources**==
+
+<!-- Unlike Jupyter Book or RMarkdown, it isn't a package that belongs to a programming language, it's a javascript based Command Line Interface (cli) program that supports embedding multple languages within Quarto documents.  -->
 
 The Wiki is deployed via GitHub Pages on the `gh-pages` branch. This means if you want create a Pull Request to edit the wiki, you will want to merge any branches with `gh-pages` rather than `main`.
+
 
 ## Do I need to download any software to contribute?
 
@@ -37,7 +45,7 @@ The `index.qmd` at the base of the repository serves the homepage. Any other sec
 ## I'm getting the hang of Quarto - what next?
 Once you are comfortable editing `.qmd` files and slotting them into the `_quarto.yml` file, you can *change the way this wiki looks* by:
 
-1. Cloning the repository to your local SRE desktop
+1. Cloning the repository to your local desktop
 2. Create an switch to the new branch with `git checkout -b mynewbranch`
 3. Edit or create `.qmd` file(s)
 4. Make changes to the `_quarto.yml` file (if needed)
@@ -50,6 +58,14 @@ Once you are comfortable editing `.qmd` files and slotting them into the `_quart
         At the top of the local cloned directory you can run `quarto preview index.qmd` and this will provide you with a `localhost` URL that you can visit and check your changes.
 6. Push the change to GitHub `git push --set-upstream origin mynewbranch`
 7. In the Pull Request ensure that you are merging to the `gh-pages` branch, not the `main` branch.
+
+## Practice here!
+This is an open space to pracice editing this repository :). Feel free to add your name, or favourite pizza topping in the space below and submit a Pull Request! 
+
+* Cass thinks pinenuts make pizza a bit posh! 
+
+
+
 
 ::: callout-note
 ##

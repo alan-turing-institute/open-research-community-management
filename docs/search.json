@@ -32,7 +32,7 @@
     "href": "index.html#welcome-to-the-research-community-managers-wiki",
     "title": "Research Community Managers Wiki",
     "section": "Welcome to the Research Community Managers Wiki",
-    "text": "Welcome to the Research Community Managers Wiki\nResearch Community Managers at the Turing invest in engaging, training and empowering a diverse group of researchers, research engineers, programme management, and business team members by fostering diverse communities of practice. They collaborate closely with others and identify where they can surface implicit knowledge and make information explicitly available so that everyone who wants to can participate. Through the active adoption of open research, reproducibility and collaborative approaches in data science projects, they contribute toward building interconnected systems of open source software, datasets, communities and processes.\nTogether as a team, we ensure that the research that happens at the Institute is created to be maintained, sustained, remixed and reused to make research and innovation more efficient and effective across the national and international data science ecosystem for commercial and public interest technologies alike."
+    "text": "Welcome to the Research Community Managers Wiki\nResearch Community Managers (RCMs) at the Turing invest in engaging, training and scaffolding agency within diverse groups of researchers, research engineers, programme management, and business team members by fostering diverse communities of practice.\nThrough the active adoption of open research, reproducibility and collaborative approaches in research projects, they contribute toward building interconnected systems of open source software, datasets, communities and processes."
   },
   {
     "objectID": "index.html#project-aims",
@@ -46,21 +46,21 @@
     "href": "index.html#current-research-community-managers-team",
     "title": "Research Community Managers Wiki",
     "section": "Current Research Community Managers Team",
-    "text": "Current Research Community Managers Team\n\nArron Lacey"
+    "text": "Current Research Community Managers Team\n\nArron Lacey\nVicky Hellon\nEmma Karoune\nCass Gould van Praag"
   },
   {
     "objectID": "website/contributing/index.html",
     "href": "website/contributing/index.html",
     "title": "Contributing",
     "section": "",
-    "text": "The Research Community Managers Wiki is built with Quarto. Unlike Jupyter Book or RMarkdown, it isn’t a package that belongs to a programming language, it’s a javascript based Command Line Interface (cli) program that supports embedding multple languages within Quarto documents.\nThe Wiki is deployed via GitHub Pages on the gh-pages branch. This means if you want create a Pull Request to edit the wiki, you will want to merge any branches with gh-pages rather than main."
+    "text": "The RCM Wiki is built with Quarto, an open-source scientific and technical publishing system. ==By using quarto on git(hub)== we are developing and modeling best practice in recording and communicating research in data science. We practice in this way so that we may support our communities in doing the same :).\nWe invite you to contribute to develop your own skill and practices with these tools."
   },
   {
     "objectID": "website/contributing/index.html#how-is-the-wiki-built",
     "href": "website/contributing/index.html#how-is-the-wiki-built",
     "title": "Contributing",
     "section": "",
-    "text": "The Research Community Managers Wiki is built with Quarto. Unlike Jupyter Book or RMarkdown, it isn’t a package that belongs to a programming language, it’s a javascript based Command Line Interface (cli) program that supports embedding multple languages within Quarto documents.\nThe Wiki is deployed via GitHub Pages on the gh-pages branch. This means if you want create a Pull Request to edit the wiki, you will want to merge any branches with gh-pages rather than main."
+    "text": "The RCM Wiki is built with Quarto, an open-source scientific and technical publishing system. ==By using quarto on git(hub)== we are developing and modeling best practice in recording and communicating research in data science. We practice in this way so that we may support our communities in doing the same :).\nWe invite you to contribute to develop your own skill and practices with these tools."
   },
   {
     "objectID": "website/contributing/index.html#do-i-need-to-download-any-software-to-contribute",
@@ -138,5 +138,6 @@
     "title": "Meetings Schedule",
     "section": "Team Calendar",
     "text": "Team Calendar\nThere is community manager “Team” account with a mailing list: communitybuilding@turing.ac.uk. Please ask Vicky Hellon to add you, if you are a team member but have not been added there.\n\n\nSubscribe to calendar via this link"
+
   }
 ]
