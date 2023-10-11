@@ -1,11 +1,11 @@
-# 1. Code of Conduct for the Open Research Community Building Team
+# 1. Code of Conduct for the Open Research Community Management Team
 
 > _A code of conduct is a set of rules outlining the norms, roles, and responsibilities or proper practices of an individual party or an organization._
 
 This Code of Conduct document outlines our expectations for 
 participants within the team as well as this online repository (and the 
 ideas, projects, and collaborations that might emerge from it).
-We also provide steps to reporting any concern, uncomfortable situation 
+We also provide steps to reporting any concern, an uncomfortable situation 
 or unacceptable behaviour by other participants. 
 We are committed to providing a welcoming, collaborative and inspiring experience 
 for all members of this team and expect our code of conduct to be honoured.
@@ -19,10 +19,10 @@ diverse, inclusive, and healthy team, as well as the communities we facilitate.
 We encourage everyone in the team to participate in all team activities and work.
 
 We are committed to facilitating Communities of Practice that are connected with 
-each others' work. Although we will fail at times, we seek to treat everyone both as
+each others' work. Although we will fail at times, we seek to treat everyone as
 fairly and equally as possible. Whenever a member has made a mistake, we
 expect them to take responsibility for it. If someone has been harmed or
-offended, it is our responsibility to listen carefully and respectfully, and do
+offended, it is our responsibility to listen carefully and respectfully and do
 our best to right the wrong.
 
 ## 3. Diversity Statement
@@ -39,9 +39,9 @@ visible or invisible disabilities.
 - 4.1 **Be friendly and patient.**
 
 - 4.2 **Be welcoming**: we strive to build a welcoming and supportive team.
-  As community facilitators, we also strive to apply this value in creating 
+  As community facilitators, we also strive to apply this value to creating 
   Communities of Practice that welcome and support members of all backgrounds 
-  and identities, while uphholding our commitment and diversity statement (see 2.).
+  and identities, while upholding our commitment and diversity statement (see 2.).
 
 - 4.3 **Be considerate**: Your work will be used by other people, and you in turn
   will depend on the work of others. Any decision you take will affect users and
@@ -108,10 +108,10 @@ everyone involved.
 If a participant does not abide by the Code of Conduct, we will use the 
 “restorative practices” approach to handle the situation (see [International Institute for Restorative Practices](https://www.iirp.edu/restorative-practices/what-is-restorative-practices)). 
 
-Restorative practice has its roots in indigenous practices 
+The restorative practice has its roots in indigenous practices 
 employed in cultures all over the world.
 This is a way of looking at wrongdoing that focuses on 
-repairing the harm done to people and the relationships rather than on punishing offenders or wrongdoers. 
+repairing the harm done to people and relationships rather than on punishing offenders or wrongdoers. 
 Restorative practices form the basis for “restorative justice,”
 a term coined in 1970 in the context of social work and justice systems.
 
@@ -124,11 +124,11 @@ and make necessary amends.
 
 ### 6.1 Restorative Practice Principles in this Code of Conduct
 
-1. Focuses on harms rather than the intention of wrongdoers.
+1. Focuses on harm rather than the intention of wrongdoers.
 1. Prioritises persons affected and the consequent needs of victims and safety in communities.
 1. Addresses obligations of the wrongdoer resulting from those harms, as well as the team/community’s obligations to both victims and wrongdoers.
-1. Creates opportunity for all individuals in this team, who have a legitimate stake in a given situation, to be heard and their concerns addressed.
-1. Seeks to right the wrongs that have been done so that victims feel safe and valued, and wrongdoers feel restored to the team/community.
+1. Creates an opportunity for all individuals in this team, who have a legitimate stake in a given situation, to be heard and their concerns addressed.
+1. Seeks to right the wrongs that have been done so that victims feel safe and valued, and when possible and safe, wrongdoers feel restored to the team/community.
 1. Uses inclusive, collaborative processes giving fair opportunity to right the wrongs.
 
 ### 6.2. Restorative Disciplines in this Code of Conduct
@@ -137,11 +137,11 @@ and make necessary amends.
 1. Must establish policies and procedures that handle incident reports in a way that strengthens relationships.
 1. Focuses on harms done rather than rules broken.
 1. Gives voice to the person who has been harmed.
-1. Engages in collaborative problem solving.
+1. Engages in collaborative problem-solving.
 1. Empowers change and growth for all involved.
 1. Enhances responsibility for actions and attitudes of all involved.
 
-Restorative Practice Principles and Disciplines should guide the Open Research Community Building Team 
+Restorative Practice Principles and Disciplines should guide the Open Research Community Management Team 
 in creating a safe, friendly and enjoyable space for collaboration and support.
 
 **We will apply restorative practices in report handling and enforcement as described in 
@@ -159,7 +159,7 @@ Restorative Practice Principles are based on Amstutz and Mullet (2005). Restorat
 ## 7. Scope
 
 **7.1** This Code of Conduct applies to all team members participating in the activities, 
-events and processes taking place within the **Open Research Community Building Team**. 
+events and processes taking place within the **Open Research Community Management Team**. 
 Specifically, our Code of Conduct applies to any conduct:
 - in interactions within the team/community
 - at any team activity, communication or event
@@ -175,10 +175,10 @@ a representative at an online or offline event.
 **7.3** This Code of Conduct also applies to individuals engaging with this repository 
 
 for instance, in interactions on GitHub issues and Pull Requests or activities taking 
-place in the context of the **Open Research Community Building Team**.
+place in the context of the **Open Research Community Management Team**.
 
 **7.4** Mediating interaction or communication between reporter and reportee 
-is not in the scope of this Code of Conduct to maintain reproters' confidentiality (see **10.3**).
+is not in the scope of this Code of Conduct to maintain reporters' confidentiality (see **10.3**).
 The collaboration and dialogues based on restorative practices will take place between 
 the reporter and the person handling the Code of Conduct, as well as between the reportee 
 and the person handling the Code of Conduct separately.
@@ -200,7 +200,7 @@ decisions when appropriate.
 Instances of trolling, harassing, abusive, or otherwise unacceptable behaviour should be
 reported to the community leaders responsible for enforcement.
 If noticed by community leaders, incidents should be recorded and shared with one or more 
-members of the Open Research Community Building Team for transparency.
+members of the Open Research Community Management Team for transparency.
 
 All reports will be reviewed and investigated promptly and fairly.
 
@@ -214,15 +214,14 @@ Together we strive to foster an environment where everyone feels valued, respect
 
 If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
 by contacting the Team Lead, Malvika Sharan (email: msharan@turing.ac.uk). Malvika will involve
-the Senior Community Managers, Arron Lacey and Emma Karoune except when any potential conflict of interest
+the Senior Research Community Managers except when any potential conflict of interest
 with any of them may arise.
 
-To report an issue involving the team lead, please email directly to Arron Lacey (email: alacey@turing.ac.uk) and/or
+To report an issue involving the team lead, please email directly to
 Emma Karoune (email: ekaroune@turing.ac.uk).
 
-You can directly contact the Tools, Practices and Systems Programme Director, Kirstie Whitaker. 
-Since she is currently on maternity leave, please contact TPS
-Programme Manager Arielle Bennett (abennett@turing.ac.uk) - who is also our ombudsperson. 
+You can directly contact the Tools, Practices and Systems Programme Director, Kirstie Whitaker (kwhitaker@turing.ac.uk). 
+You can also reach out to our Programme Manager Arielle Bennett (abennett@turing.ac.uk) - who is also our appointed ombudsperson. 
 
 **10.2** In your report please include:
 
@@ -257,9 +256,9 @@ to determine the cause and consequences that violated this Code of Conduct and t
 ### **12.1** If the breach is considered within the scope of this Code of Conduct
 
 Community leaders will reach out to the reporter to ask for further information if the 
-submitted report is not complete or needs some additional context.
-Community leaders will also ensure that person impacted or harmed by the reported incident 
-is safe and identify how they can be further supported.
+the submitted report is not complete or needs some additional context.
+Community leaders will also ensure that the person impacted or harmed by the reported incident 
+is safe and identifies how they can be further supported.
 
 **12.1.1** A meeting with the reportee will be scheduled where the person 
 handling the report will discuss these restorative questions:
@@ -285,15 +284,16 @@ is not in the scope of this Code of Conduct.
 
 #### **12.2.1** If the reportee is an employee of the Turing 
 
-Code of Conduct should be considered as a norm-setting mechanism for the Open Research 
-Community Building Team before any involvement of HR in the interactions that take place within the team. 
+The code of Conduct should be considered a norm-setting mechanism for the Open Research 
+Community Management Team before any involvement of line managers or HR in the interactions that take place within the team. 
 
-If the reportee is a Turing employee, for instance, Community Managers and senior 
-researchers and the incident is considered out of the scope of this Code of Conduct 
-due to the severity of the matter/case, an HR process (formal or informal), will be started.
-In this case, the report will be passed to the HR and/or appropriate personnel under the 
-Turing policies and [the Turing's CoC policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2174&SearchId=0&utm_source=interact&utm_medium=category_search&utm_term=*) as well as enforcement mechanism will 
-take precedent over this Code of Conduct enforcement.
+If the reportee is a Turing employee, for instance, Senior Researcher, Senior Research Community Managers and Research Community Manager, and the incident is considered out of the scope by the report handling mechanism of this Code of Conduct due to the severity of the matter/case, the **employment policies will apply**.
+
+The first step for the community leaders handling the report should be to **escalate the issue to the line manager of the reportee**.
+The line manager will be responsible for taking the disciplinary action, such as starting an HR process, formally or informally.
+The report will be passed to the line manager who will follow the
+Turing policies and [the Turing's CoC policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2174&SearchId=0&utm_source=interact&utm_medium=category_search&utm_term=*), as well as enforcement mechanism, will 
+take precedence over this Code of Conduct enforcement.
 
 All the Turing employees have the obligation to read and understand the [HR/People policies](https://mathison.turing.ac.uk/Interact/Pages/Section/ContentListing.aspx?subsection=3439&utm_source=interact&utm_medium=general_search&utm_term=HR+policies), which include, but not limited to:
 - [Workplace Guidelines](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2427&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
@@ -313,12 +313,12 @@ All the Turing employees have the obligation to read and understand the [HR/Peop
 
 #### **12.2.2** If the reportee is not a Turing Employee
 
-An appropriate (external) authority (such as the reportee's employee or a law enforcement mechanism) will be identified who can respond to the reported incident with the appropriate action.
+An appropriate (external) authority (such as the reportee's employee) will be identified who can respond to the reported incident with the appropriate action.
 The report will be passed to the external authority with an agreement to receive an update from their enforcement process.
 
-An internal resolution will be agreed to provide support for the reporter and the person(s) harmed, as well as the continued participation of the reportee (see **13**).
+An internal resolution will be agreed upon to provide support for the reporter and the person(s) harmed, as well as the continued participation of the reportee (see **13**).
 The resolution or decision made by the external authority may or may not have an impact on the internal resolution.
-A transparency report will be shared with the members of the Open Research Community Building team.
+A transparency report will be shared with the members of the Open Research Community Management team.
 
 ## 13. Resolutions for reports in the scope of this Code of Conduct
 
@@ -331,8 +331,8 @@ clarity around the nature of the violation and an explanation of why the
 behaviour was inappropriate.
 1. an apology to the person harmed or the team/community as a whole - this will be done via the person handling the report.
 1. an action plan for the reportee to improve their awareness and correct future behaviours.
-1. reportee will have no unsolicited interaction with the reporter
-1. reportee will have no unsolicited interaction with reporter (in rare cases, when reporter is not anonymous) and those enforcing the Code of Conduct. This includes avoiding interactions in community spaces as well as external channels like social media.
+1. reportee will have no interaction with the reporter (reporter name will be kept anonymous)
+1. reportee will have no unsolicited interaction with the reporter (in rare cases, when the reporter is not anonymous) and those enforcing the Code of Conduct. This includes avoiding interactions in community spaces as well as external channels like social media.
 1. not publishing the content (code, documents, media or other materials) that violated the Code of Conduct, until necessary changes have been made and agreed upon by the person handling the report.
 1. An imposed suspension, such as asking reportee to “take a week or month off” from the GitHub repo or team activity.
 1. recommended training activity relevant to correcting the behaviour or building awareness/understanding required to right the wrongs.
@@ -346,14 +346,13 @@ They will ask if this resolution is acceptable and must note feedback for the re
 
 The reportee will be contacted via email informing them of the resolution.
 A final meeting may be conducted if necessary.
-
 The person handling the report will maintain records of all reports so that they may be reviewed if stronger measures are required when repeated violations occur by the same individual as well as to improve our Code of Conduct for future participation.
 
 ## 14. Conflict of Interest
 
 All reports will be kept confidential with details shared only with people involved in report handling. 
 If a person handling the report (team lead or programme director) is linked with the ongoing issue, they will declare their Conflict of Interest and remove themselves from any discussion related to the report handling.
-Resolution action may also include identifying appropriate members from within the Open Research Community Building Team if more support for the person handling the report is needed.
+Resolution action may also include identifying appropriate members from within the Open Research Community Management Team if more support for the person handling the report is needed.
 
 ## 15. Attribution & Acknowledgements
 

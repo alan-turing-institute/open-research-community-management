@@ -1,5 +1,13 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [27 September 2023](#date-27-september-2023)
+* [06 September 2023](#date-06-september-2023)
+* [16 August 2023](#date-16-august-2023)
+* [09 August 2023](#date-09-august-2023)
+* [19 July 2023](#date-19-july-2023)
+* [05 July 2023](#date-05-july-2023)
+* [28 June 2023](#date-28-june-2023)
+* [17 May 2023](#date-17-may-2023)
 * [03 May 2023](#date-03-may-2023)
 * [26 April 2023](#date-26-april-2023)
 * [18 April 2023](#date-18-april-2023)
@@ -17,7 +25,7 @@
 * [26 October 2022](#date-26-october-2022)
 * [19 October 2022](#date-19-october-2022)
 * [12 October 2022](#date-12-october-2022)
-* [05 October 2022](#date-5-october-2022)
+* [05 October 2022](#date-05-october-2022)
 * [14 September 2022](#date-14-september-2022)
 * [31 August 2022](#date-31-august-2022)
 * [17 August 2022](#date-17-august-2022)
@@ -46,6 +54,344 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 27 September 2023
+
+### Check-in ritual
+Doing ok- feel like holiday went quick! Mainly been catching up.
+
+### Project specific Reflection
+Lots of activities on at the moment- feels like the partnership research is really ramping up so want to make sure I'm also doing some future planning alongside current bits.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Helped KP with submitting an application for an award for the partnership
+* Onboarded OR into the partnership 
+
+#### Who helped you this week?
+* EK with Clinical AI scholar!
+* CB has been great at meeting with other scholars amongst his busy schedule
+* AD gave me some useful feedback on the all hands meeting
+
+#### What did you achieve?
+* Ran scholar onboarding calls with SM and ensuring they are all settled and set up on systems. Also done some comms to announce them
+* Interviews for the TTW practioners hub and reading draft of case study
+* Organising Clinical AI workshop- questionnaire now gone out
+* Connected with a Roche ECR network- discussion on how to promote scholar activities to them
+* Sent newsletter out
+* Did September Knowledge Share event and organising October's and November's
+* Ran September's all hands meeting
+  
+#### What did you struggle with?
+* Have been so busy that I haven't connected much with the scholars since I onboarded them- going to try and find some time to touch base this week
+
+#### What would you like to work on next week?
+* Organising first cohort call for scholars
+* Potentially plan an application for AI UK booth for partnership
+* KP is organising a partnership strategy day and I have been put down to run a session so need to think about this
+* Knowledge Share follow up
+
+#### Where do you need help?
+* Struggled to make objectives specific!
+* Any other organising for Clinical AI workshop
+  
+#### Any other topics
+N/A
+
+
+## Date 06 September 2023
+
+### Check-in ritual
+All good- happy to have some sun back!
+- EK - 🌞
+
+### Project specific Reflection
+Feels like quite a few balls up in the air at the moment partnership wise but juggling ok!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Onboarded AB and IT to the partnership
+
+#### Who helped you this week?
+* BGT with recruiting patients for the Clinical AI workshop
+
+#### What did you achieve?
+* Started organising All Hands Lab Meeting for 22nd September
+* Sent newsletter
+* Started prepping webpage for scholars annoucement- hoping individual calls can be scheduled by the end of the week
+* Finished UKRN blog- should be published soon
+* Connected with some Roche ECR networks- presenting about the scholar scheme at one later in September
+* EK - this all sounds great - well done. 
+
+#### What did you struggle with?
+* Bit nervous about MA being off but feel confident AM will cover well
+* EK - let me know if I can help in anyway while AM is off. 
+
+#### What would you like to work on next week?
+* OR is getting more involved in the partnership so will be onboarding him on thursday with AM
+* Scholars onboarding calls will be taking up the majority of time
+* Clinical AI workshop planning call on Friday- hoping we can get most of it sorted- anything else you think we need to do with it? 
+
+#### Where do you need help?
+* For Clinical AI Community Scholar do you want to come along to the individual onboarding call?
+*  EK - 15th is the best day for me to attend.  
+* Knowledge share- advise on chasing the speaker!
+
+#### Any other topics
+N/A
+
+## Date 16 August 2023
+
+### Check-in ritual
+All good, feel like August is going quick though!
+
+### Project specific Reflection
+I say this every week but almost there on the final onboarding scholar bits 😅 And just trying to make sure I can prep as much as possible before September. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Met SF and filled her in on health and community management
+
+#### Who helped you this week?
+* WM and KG (legal and data protection) with advice for scholar scheme
+
+#### What did you achieve?
+* Sent out emails to all scholar applicants
+* Wrote a draft of the UKRN blog with Alden and discussed handing over our LNL roles
+* Two Genomic England interviews for TTW Practioners Hub
+* Caught up with MA and AM to start to plan cover when MA is off
+  
+#### What did you struggle with?
+* Clinical AI workshop- hoping we sort tomorrow! 
+
+#### What would you like to work on next week?
+* Finalising scholars docs!!
+* Get up event page for September Knowledge Share
+
+#### Where do you need help?
+* GitHub repository permissions
+
+#### Any other topics
+N/A
+
+## Date 09 August 2023
+
+### Check-in ritual
+All good at the moment, just missing the sun 😆
+
+### Project specific Reflection
+Scholars has really taken over, has been a busy few weeks with the call closing. Trying to finalise most of the planning over the next few weeks to ensure we're organised. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* TZ with advice round a community manager (with you!)
+* NJ with background on TR partnership
+
+#### Who helped you this week?
+* SM has been great at supporting the scholar scheme from the Roche side- wasn't sure how much that side would be involved but she will take a leading part which is great. RC also great in panel meeting with advice. 
+
+#### What did you achieve?
+* Have added more to the Turing-Roche GitHub after Malvika's suggestions
+* Attended the UKRN retreat
+* Attended Practioner Hub launch workshop
+* Attended RCM team day
+* Invited attendees to CB's fairness in digital health workshop
+* Panel Meetings for scholar scheme and still working on onboarding docs
+* Orchestrating invites for Clinical AI workshop
+* REG project involvement we will re-visit in September which I think is sensible
+
+#### What did you struggle with?
+* Still some uncertanity round project management
+* Struggling to recruit a speaker for September and October's Knowledge Shares- wanted to be sorted by now but will probs need to add to the to do list for September
+* Clinical AI workshop....
+
+#### What would you like to work on next week?
+* More Practioner Hub interviews
+* UKRN blog post with Alden
+* Finalising scholar onboarding docs
+
+#### Where do you need help?
+* Any advise on how to scope the projects with the scholars- shared document but want to put on GitHub? Get them to tidy and do afterwards.
+* Do I need to change any of my GitHub settings for the scholars to make pull requests? Basically want them to make a pull request every time so I can see
+
+#### Any other topics
+* Can't remember your annual leave 21 Aug to 4 Sept. 
+* Jury Duty in January! starts 8th Jan - two weeks min. 
+
+## Date 19 July 2023
+
+### Check-in ritual
+Been good to have some breathing room this week for focus time.
+
+### Project specific Reflection
+Trying to get organised before the scholar scheme closes in a couple of weeks.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Queries around scholar scheme
+* AB going to be doing 2 demystifying videos for the partnership
+
+#### Who helped you this week?
+* AL with great quarto training session
+
+#### What did you achieve?
+* Ran info session for scholar scheme and updated FAQ doc
+* Finished community management briefing paper
+* Met with MY and team- deciding how we might be able to work with REG
+* Refreshed partnership publication policy and sent round a reminder to team
+* Have drafted an onboarding document and draft rejection and welcome emails for the scholar scheme
+* Sent newsletter
+* CM goatherder this week
+
+#### What did you struggle with?
+* MA being off- just worried about PM stuff going to be a last minute rush
+* Clinical AI workshop- not much engagement from team for adding names
+
+#### What would you like to work on next week?
+* Updating a few bits on th TR repository- MS has opened some issues with some helpful additions
+* Am catching up with CB about TEA-DH and how partnership might engage 
+* Chatting with TZ about community management with you!
+* Scheduling the panel meeting for the scholar scheme and working out assessment process
+* Want to try and get events up for September and October Knowledge Shares so I don't have to worry about it later
+
+#### Where do you need help?
+* Would love your comments on the community scholar onboarding doc [here](https://docs.google.com/document/d/1BysOEDX2qy7ZYvUWHb2MKXQl3d6Hvv07/edit#heading=h.1pk560se0l3i). 
+If you need any extra context- email doc [here](https://docs.google.com/document/d/1UXUHMpId_LftVEh9Rf3-UKnNzplGpruY70JiLWH-weI/edit) and my brain dump of how to run it [here](https://docs.google.com/document/d/1c8ZaauI-v8-zWPFRxOvfT3itOchzOPIXs9dcyK3G-Ss/edit)
+- EK - yes will look over these for you. 
+#### Any other topics
+- chatted about working with PMs and also clinical ai workshop. 
+
+## Date 05 July 2023
+
+### Check-in ritual
+Just about recovered from my cold last week!
+
+### Project specific Reflection
+Think things will pick up again soon as CH and SM get back from holiday. Still focusing on community scholars but know other stuff will come back onto the radar e.g clinical AI meeting
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Agreed with MS to be part of TTW practioners hub- slightly way of time commitment but will see how we go
+ * resources for case studies
+ * https://docs.google.com/presentation/d/16Ay3xqEcy-yYvh5LHerFKclzvmD1pY5mkNr46dJjhK4/edit#slide=id.g22dbbd969e6_0_34
+ * https://hackmd.io/O1RwUTnmQLGPZmFWbD37ww?view
+
+#### Who helped you this week?
+* Me and EZ did in-person shadowing yesterday- she gave some good feedback on my Q&A webinar slides
+* Skills team helped promote scholar scheme a bit further
+
+#### What did you achieve?
+* Been answering quite a few queries around the scholar scheme
+* EIA all signed off for the scheme
+
+#### What did you struggle with?
+* Being ill- but luckily had quite a quiet week 
+
+#### What would you like to work on next week?
+* Delivering Q&A scholar webinar this afternoon
+* Start drafting onboarding doc for scheme
+* July newsletter
+* Sort out knowledge share for september
+ * EK - good luck with the scholar q and a - hope it all goes well.  
+
+#### Where do you need help?
+* Would like your eyes on the scholar onboarding document once drafted
+ * EK - yes of course :rocket: 
+
+#### Any other topics
+* Me and AC all booked for UKRN retreat so should be good!
+
+
+## Date 28 June 2023
+
+### Check-in ritual
+All good apart from the cold!
+
+### Project specific Reflection
+* Really relieved that the scholar scheme is up! Has given me a lot more breathing room to catch up on other bits.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* CB with prepping for the knowledge share- been good to jointly discuss how to make it a bit more interactive
+* MB and CH with their slides for the scholar Q&A session
+
+#### Who helped you this week?
+* AB with volunteering to do a demystifying video
+* ZS wants to get involved in more stuff community wise which is great- planning a TTW missing data chapter
+* JS from flexigrant and comms been really helpful for the scholar scheme
+
+#### What did you achieve?
+* Launched the scheme!!
+* Knowledge Share event- grateful for a bit of a break in July and August
+* Did EIA for scheme
+* Ran all hands lab meeting on Tuesday
+
+#### What did you struggle with?
+* Still think there may be some teething problems with data protection etc but will see how we go when it starts
+
+#### What would you like to work on next week?
+* Q&A webinar
+* Start planning the scheme in practice
+* Shadowing with EZ
+
+#### Where do you need help?
+* UKRN survey- all fine to just start distributing?
+ * Email comms first about Mathison blog and then into slack. 
+* Clinical AI- for the invite maybe want to put some health programme context?
+* Need to think about REG support for software
+
+#### Any other topics
+N/A
+
+
+## Date 17 May 2023
+
+### Check-in ritual
+Feeling ok, was nice to see everyone at Turing-Roche meeting yesterday and had a drink and a catchup with SM :)
+
+### Project specific Reflection
+Two all day meetings and book dash next week and holiday the week after means I am quite busy! But feeling fairly productive
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* MA with logisitics bits 
+
+#### Who helped you this week?
+* SL with some background around deploying AI in the NHS
+* NS with being very flexible with moving out of Engima
+
+#### What did you achieve?
+* Prepared newsletter
+* TR All Day Strategy Meeting
+* All day CM meeting
+* Prepping Knowledge Share Event
+* Will be meeting with FO on Thursday to discuss AI standards hub link into the workshop 
+
+#### What did you struggle with?
+* Lot of talk at the strategy about comms strategy and events- need to think about how best to manage this with Turing teams etc
+ * EK - we will be writing a health RCM comms strategy so we can include Turing-roche as a key part of this. Let's plan to work on this together.  
+* Knowledge Share speaker not recruited for June yet, hoping to sort this week
+
+* #### What would you like to work on next week?
+* Book Dash Chapter
+* Hosting knowledge share
+* Setting up a further Clinical AI meeting for more planning
+* Starting to organise next All Hands Lab Meeting 
+
+#### Where do you need help?
+* Book Dash next week 
+* Briefing paper?
+
+#### Any other topics
+N/A
 
 ## Date 03 May 2023
 

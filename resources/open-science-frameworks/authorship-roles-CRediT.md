@@ -1,13 +1,20 @@
-# Contributor Roles
+# Contributorship and Authorship Roles
 
-CRediT (Contributor Roles Taxonomy) is a high-level taxonomy to ensure the recognition of authors and different kinds of contributions they make to the development of a research article or outcome.
-I have adopted and extended the CRediT taxonomy for the community management team to guide the inclusion of broad range of contribution types aiming to ensure fair recognition of their work as authors and contributors.
+*Author: Malvika Sharan, Senior Researcher - Tools, Practices and Systems, Lead of Research Community Management Team*
+
+- Cite as: Sharan, M. (2022). Contributorship and Authorship in Research - Tables with diverse set of roles. Zenodo. doi: 10.5281/zenodo.8403386
+
+[CRediT (Contributor Roles Taxonomy)](https://credit.niso.org/) is a high-level taxonomy to ensure the recognition of authors and different kinds of contributions they make to the development of a research article or outcome.
+
+I have adopted and extended the CRediT taxonomy for the Research Community Management team to guide the inclusion of a broad range of contribution types aiming to ensure fair recognition of their work as authors and contributors. All authors are contributors, but not all authors may be authors. However, all contributors should be given the opportunity to author the outputs shared as part of research. 
+The distinction between contributorship and authorship provided here should be used for setting a shared understanding as well as to communicate about opportunities available in the projects for all contributors.
+
 
 ## Direct Contributor Roles for Authorship
 
 | Research stage | Definition | Direct Contributors | CM responsibilities |
 |:-----|:-----------|:-----------------------|:--------|
-| Design | Template, technical recommendation | Project team (at the funding stage) | Set up a version controlled repository. Ensure all stakeholders have created ORCID and are aware of DOI (Digital Object Identifiers) |
+| Design | Technical planning, expert recommendations, supervision or guidance, developing project roadmaps and milestones, tooling and template development | Project team (at the funding stage) | Set up a version controlled repository. Ensure all stakeholders have created ORCID and are aware of DOI (Digital Object Identifiers) |
 | Conceptualisation | Ideas; formulation or evolution of overarching research goals and aims | PI, lead/core research team | Begin developing project charter with the vision defined at the conceptualisation stage |
 | Methodology | Development or design of methodology; creation of models | lead/core research team as well as Community Manager (CM) and Research Software Engineers (RSE) if in team | Enable collaborative spaces such as coworking, team meetings, in-person scoping event, shared documentation and contribution guideline |
 | Software | Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components | lead/core research team, RSE | Ensure that open licensing has been recommended and included in the repository, provide a collaborative process for reference collection |
@@ -29,7 +36,7 @@ I have adopted and extended the CRediT taxonomy for the community management tea
 | Community Engagement  Connecting with members, enabling collaboration, identifying resources etc | CM, PM Team, RAMs | This includes the core responsibilities of the community management |
 | Transparent Communication | Making all communication transparent for the stakeholders | CMs, PM Team, RAMs  - supporting everyone | Establish and maintain processes and platforms for open communication (even when the project is not open) |
 | Equity, Diversity, Inclusion (EDI) and Accessibility | Accessibility of resources, consideration of disability | PI, CMs, PM Team, EDI team/committee - supporting everyone | Embed considerations for EDI and accessibility in all community engagement and research process, platform, contents |
-| Cross-exchange | Worshops, skill building | PI, CM, RAM - supporting everyone | Identify skill gaps and organise skill building and/or knowledge share opportunities. Offer basic technical training regularly, Hold coworking events to allow open discussion, code review, troubleshooting etc. |
+| Cross-exchange | Knowledge share, workshops, skill building events and resources | PI, CM, RAM - supporting everyone | Identify skill gaps and organise skill building and/or knowledge share opportunities. Offer basic technical training regularly, Hold coworking events to allow open discussion, code review, troubleshooting etc. |
 | Ethics review | Ensure that if the research project needs to undergo an ethics review process | RPM, Ethics committee - supporting PI, researchers, CM, RAM | Contribute to the application process |
 | Public engagement | Communications beyond the project and the Turing | CM, community members, communications team, RAMs | Attend and support the project's participation in external and international opportunities. Identify external stakeholders and help establish collaborations. Contribute to designing and delivering high-impact events for the dissemination of project outputs |
 | Engagement with funders and policymakers | Pre-publication review, External advisory board meetings, regular reporting, post-publication reporting, reaching out to the relevant policymakers actively | PI and lead/core research team - supporting everyone | Contribute to communications and collaboration process |
@@ -38,7 +45,7 @@ I have adopted and extended the CRediT taxonomy for the community management tea
 ## Reference
 
 - CRediT - Contributor Roles Taxonomy: https://casrai.org/credit. Reproduced from Brand et al. (2015), Learned Publishing 28(2).
-- — The Turing Way. https://the-turing-way.netlify.app/communication/citable.html?highlight=orcid
+- The Turing Way. https://the-turing-way.netlify.app/communication/citable.html?highlight=orcid
 - The Turing Way Chapters: [https://the-turing-way.netlify.app/welcome.html](https://the-turing-way.netlify.app/welcome.html) - cite as: The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo. doi: 10.5281/zenodo.7625728
   - Project Ownership; Making Research Objects Citable, Tips for Getting Authorship Right and Acknowledging Contributors; Research Infrastructure Roles; Creating project repositories. 
 - [Providing Equitable Opportunities and Credit for Contributors to Results](https://github.com/opensciency/sprint-content/blob/main/open-results/lesson-4-opportunities-and-credits.md) co-authored by Daniela Saderi and Malvika Sharan with reviews from Natasha Batalha and Chris Erdmann, as a part of OpenSciency project, develop at the NASA TOPS OpenCore Sprint 2022: OpenSciency Contributors (2023, February 22). Opensciency - A core open science curriculum by and for the research community. Zenodo. https://doi.org/10.5281/zenodo.7662732

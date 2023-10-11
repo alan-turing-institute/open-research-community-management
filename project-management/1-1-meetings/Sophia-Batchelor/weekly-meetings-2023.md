@@ -1,5 +1,12 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [24 July 2023](#24-July-2023)
+* [19 July 2023](#19-July-2023)
+* [3 July 2023](#3-July-2023)
+* [26 June 2023](#26-June-2023)
+* [19 June 2023](#19-June-2023)
+* [5 June 2023](#5-June-2023)
+* [16 May 2023](#16-May-2023)
 * [2 May 2023](#2-May-2023)
 * [28 February 2023](#28-February-2023)
 * [21 February 2023](#21-February-2023)
@@ -12,6 +19,454 @@
 * [13 December 2022](#date-13-December-2022)
 * [6 December 2022](#date-6-December-2022)
 
+
+
+## 24 July 2023 
+
+### Project Updates
+
+* **PPIE Community**
+	* Cancel and or transfer over next week's meet up (?)
+ 		* will be unable to because we need to introduce the MOOP and I'm unable to hand over the task to someone else this week
+ 	* Scienta Scripta + JG got back to us about workshops - leads would like to schedule 2 workshops
+  		* **would like clarity on budget and funding for a workshop** 
+  	* Meeting set between all of us for later this week   
+* **Fairness in HealthAI Survey**
+	* Meeting scheduled for later this week
+ 	* Agenda points, documents, and prep needs to be done 
+* **MOOP**
+ 	* Discussion re. editors and contribution guidance to happen later this week
+  	* Draft notes need to be removed (and shared somewhere else)
+* **PPIE Website**   
+	* BA met with microsites team, notes need to be reviewed and actions made. 
+ 	* Information needed from BA re. funding, discussion with decision team re. agency vs us.
+  		* **explore where are we able to fold this into our internal resources instead of outsourcing**
+* **GitHub reorganization**
+	* Made the PR to move files out of GitHub and open up the repo
+ 	* Needs reviewing and confirmation re. commit history 
+* **Glossary of Terms Updates**
+	* Made PR to add the Plain Language Summaries of the projects into the Glossary (needs reviewing)
+
+
+
+### What would you like to work on this week?
+> full list outlined based on Monday am's meeting.
+
+* Git Good workshop
+	* final preparation
+ 	* delivery
+  	* debrief and adjustments
+ * RCM meeting
+ * RCM co-working (tasks decided during co-working)
+ * TPS team meeting
+ * Ops group Meeting
+ 	* completing document
+  	* action items decided in meeting
+* HealthAI Fairness Survey meeting
+	* document preparation
+ 	* further actions decided in meeting
+* RCM mandatory attendance Practitioners Hub Keynote Panel
+* CoP Sync up meeting (MOOP)
+	* Prepare notes for meeting
+ 	* Prepare MOOP for meeting
+  	* furter action items decided in meeting        
+* Friday meeting
+* Plan for July + August
+* work packages documentation and preparation
+* JG + Scienta Scripta workshop planning and logistics
+	* Notes, emails, follow up tasks.
+ 	* BA re. budget and operations planning 
+* Prepare for RCM in person day next week
+	* task hand off
+ 	* documentation
+  	* task preparation
+  	* reading documentation in preparation
+  	* watching Quarto workshop and familiaerizing myself with the set up
+* Prepare for PPIE Community Session
+ 	* Send meeting invites
+  	* Finalize agenda
+   	* Prepare MOOP
+   	* Finish newsletter and incorporate into the meeting invite   
+* Prepare for AutSPACEs meeting
+* RCM Shadowing
+	* Watch videos + respond
+ 	* Scope tasks, write scaffold for explanation
+  	* Record videos
+  	* Edit and upload them to the shared folder   
+* Bio for RCM team
+* TPS question asking
+	* Scope out question
+ 	* Ask it
+  	* Link it and respond to Geekbot
+* TPS work sharing
+	* scope out relevant piece of work to share
+	* write up and share   
+* Work with Batool to approve the PR and move files into Sharepoint 
+
+
+
+#### Where do you need help?
+* We have continued the cycle where I am unable to cancel an event and feel like I "have" to complete a task because of external circumstances
+* Next week I will be unable to work on tasks outside of the RCM day, the PPIE session, and the AutSPACEs session.
+* Access to work and HR accomodations
+* Who do I go to when you're on leave?
+* Answers about the budghet questions - I need to plan these workshops and 
+
+
+
+
+### Anything else?
+
+
+
+## 19 July 2023
+
+### Project Updates
+
+* **PPIE Community**
+ 	* Newsletter to be written and sent
+  	* Send out invitation and agenda for the next session
+* **Fairness in HealthAI Survey**
+	* Sessions need to be rescheduled and formalized
+* **MOOP**
+	* Preparing for discussion during next Community Session
+ 	* Discussion re. editors and contribution guidance 
+* **PPIE Website**   
+	* Had meeting with microsites team.
+ 	* Information needed from BA re. funding, discussion with decision team re. agency vs us.
+  	* Brief needs to be mocked up
+  		* **explore where are we able to fold this into our internal resources instead of outsourcing**
+
+### What would you like to work on this week?
+
+* ➡️ MOOP (ongoing task)
+	* ✅ Shift to "design of outline" rather than writing text, to enable contributors to understand where to add content to draft
+ 	* Discussion in document indicates that as a community we need to write the summary 
+* PPIE Newsletter
+	* ➡️ In progress
+ 	* Have got a copy of Arron's Intro to AI talk to be attached 
+* ✅ Set up meeting w. HealthAI team
+	* What needs to be prepared ahead of time for the meeting? (PES, large font size, inclusion/exclusion criteria)
+ 	* Add these to the meeting notes and agenda 
+* Invites for next community session
+	* To be sent as part of the newsletter  
+
+
+
+
+
+### Any other topics
+* I would like to add back in the "who helped you and who did you help" because it's a positive piece that is not currently being captured
+
+
+## 3 July 2023
+
+
+### Project Updates
+
+* **PPIE Community**
+	* Session this week
+ 	* Newsletter to be written and sent
+* **Fairness in HealthAI Survey**
+	* meeting today
+* **Glossary**
+	* worked on the plain lang summaries PR
+  * **PPIE Outputs**
+	* Conference informal write up
+	* "what is data" write up
+	* community maping (MF)
+ 	* MOOP    
+* **AIM RSF GitHub Org**
+	* Moved files from repo
+ 	* plain lang summaries needed to be updated, and then can give the go ahead
+* **PPIE Website**   
+	* Emailed the website team and requested a meeting based off the guidance on Mathison about microsites 
+
+### What would you like to work on this week?
+
+* ✅ July PPIE session prep
+	* Reflection from session is to work closely with speakers to review slides and content beforehand to better match content to the community 
+* ✅ AutSPACEs meet up
+* ➡️ MOOP (ongoing)
+* ➡️ PPIE Newsletter
+	* ✅ into formalized mailing list
+* ✅ Plain Lang Summaries merged (PR [here](https://github.com/aim-rsf/community-management/pull/205))
+	* and added to Glossary (PR [here](https://github.com/aim-rsf/Glossary-of-Terms/pull/69)
+* ✅ GitHub fies organized ready to make the repo public ([PR here](https://github.com/aim-rsf/community-management/pull/214))
+
+#### Where do you need help?
+
+* MOOP mentoring
+
+### Any other topics
+
+* Had a chat with JP re. PPIE at Turing which was super helpful to see where things will fit together. 
+
+
+## 26 June 2023
+
+* MOOP scoping / paper scoping
+* healthAI Fairness survery - are we prepped for next week?
+	* let's leave it off the agenda and then just reserve the second half hour 
+
+### Project Updates
+
+* **PPIE Community**
+	* Session next week -> finalize agenda and send out emails this week
+	* AL is prepped for talking about intro to AI/ML
+ 	* Newsletter to be written - should we formalize it into a mailing list?
+  		* no strong opinions, could be formalized but no bother
+    		* possibly formalizing just the monthly round up email (tinyletter (which has a public archive) or MailChimp)    
+* **Fairness in HealthAI Survey**
+	* check on presentation readiness 
+* **PPIE CoP Resources**
+	* Workshop on friday went super well - no idea how to write it all up in the end
+ 	* ➡️ send out email for session timings, can revise as Wednesdays seemed weird and yet wednesdays seemed to work best. 
+ * **Widening Participation Summer School**
+	* ✅ Git Good workshop slides are done and set up
+* **Glossary**
+	* Add terms from the monthly session to it.
+ 	* Get in touch with Antony re. other Glossary    
+* **PPIE Outputs**
+	* Conference informal write up
+	* "what is data" write up
+	* community maping (MF)
+ 	* MOOP    
+* **AIM RSF GitHub Org**
+	* BA will be making the org public
+ 	* figure out what can be taken out and move it
+  	* where can notes go so that they can be found online   
+
+### What would you like to work on this week?
+
+* ➡️ July PPIE session prep
+* ✅ Mon stakeholder file update
+* ✅ AutSPACEs paper review 
+* ✅ BA re. website
+* ➡️ MOOP
+* ➡️ PPIE Newsletter 
+
+#### Where do you need help?
+
+* MOOP scoping
+* Survey - publishing agregate data only, pseudonymise the responses
+
+
+#### Who did you help this week?
+
+* BA, EZ, BGT with Alt-text
+* JS + SH asked help chairing the friday workshop
+* GK help with prepping for the workshop
+* 
+
+#### Who helped you this week?
+
+* Cass - super helpful with the workshop draft
+* EK - data sharing policy with external researchers 
+
+
+
+## 19 June 2023
+
+#### Focus for this week's 1:1
+* RCM Brief
+	* Document in [gDrive](https://docs.google.com/document/d/1wxnM3gVBlLloln6zc09plc0WEbwElFmY/edit)
+* PPIE Honorarium policy
+	* BGT and DS taking lead/ No need to be looped in. Turing specific policy.
+ 	* give feedback to CoP policy, but don't need to take action. 
+* AC Office visit
+	* best scheduled for a thursday
+ 	* waiting on response 
+* Email Mario re. consortia PPIE
+	* I take lead (cc' BGT) 
+
+### Project Updates
+> updates on the main pieces of work in progress 
+
+* **Fairness in HealthAI Survey**
+	* Coworking for ethics planned for tomorrow
+* **PPIE CoP Resources**
+	* Workshop on friday is getting downsized (low attendance)
+	* ➡️ MOOP planning doc getting scoped (in progress)
+ 	* ➡️ Need to send out email to evaluate timings of Community Sessions
+  	* Next month's PPIE session 
+		* ➡️ "Intro to AI and ML" session
+ 			* ask Arron re. session 
+ 		* ➡️ healthAI Fairness Survey input session (either present sections for feedback, or have general discussion)
+ * **Widening Participation Summer School**
+	* ✅ Safeguarding training last week  
+	* ➡️ Git Good workshops are being drafted : **DUE: Tuesday 20 June**
+* **PPIE Monthly Session Wed 7 June**
+	* Write up from the session planned  
+* **Glossary**
+	* Add terms from the monthly session to it.
+ 	* Get in touch with Antony re. other Glossary    
+* **PPIE Outputs**
+	* Conference informal write up
+	* "what is data" write up
+	* community maping (MF)
+ 	* MOOP    
+* **RCM Brief needed to be addressed** 
+	* https://docs.google.com/document/d/1wxnM3gVBlLloln6zc09plc0WEbwElFmY/edit
+
+### What would you like to work on this week?
+
+* ✅ Git Good workshop for summer school
+* ➡️ Mon stakeholder file update
+* ✅ Bob's Business Training
+* ✅ Start planning for July PPIE session (reach out to AL, plan for health AI survey session)
+* ✅ AIM meeting schedules
+* ✅ healthAI fairness survey 
+* ➡️ "What is Data" write up
+* ✅ MOOP brainstorming
+* ✅ Friday PPIE workshop session
+
+#### Where do you need help?
+
+* Honorarium policy
+	* in hand - BGT and DS taking it forward 
+* AC office visit
+* MOOP scoping
+
+#### Who did you help this week?
+
+* EZ with Alt-text slides
+* CoP researcher connecting them to PPIE folk
+
+#### Who helped you this week?
+
+* EZ with chairing Alt-text conversation
+* BGT with delivery plan
+
+### Any other topics
+
+* Struggling with the added burden of being on crutches/managing pain level and lack of sleep. Trying to avoid taking time off as a lot of big pieces are coming up. 
+
+
+
+
+## 5 June 2023
+
+#### Focus for this week's 1:1
+* Redesign the weekly checkin notes 
+* Plan out week's work and projects 
+
+### Project Updates
+> updates on the main pieces of work in progress 
+
+* **Fairness in HealthAI Survey**
+	* Ethics submission in the works. Meeting last week with the team to sync. 
+* **PPIE CoP Survey**
+	* Ethics for public involvement work in workshops and focus groups 
+		* Next steps: Check in w. Jenna and Steph about if this was the direction they wanted to go in
+		* What is the purpose of the paper 
+			* Qualitative approach
+			- What was your involvement in the community and was it useful 
+			- Learning ppie from each other (there is a paper in here)
+			- Here are case studies as examples for what changed 
+			- Examples of how members of the public gave input 
+			- Framing: why Communities of Practice were useful (submit to participatory medicine journal) 
+			- We can say that all of the consortia have their own ethics for their own projects 
+			- Offering authorship and support for everyone 
+	* Sending a survey about how people got involved in general is okay (don’t need to ethics / publishing the results)
+		- There is not be a paper in there (i.e. no need for ethics) as it's a scoping task 
+	* Are the sessions in Sept -> a "training session" for researchers vs a study/project. 
+* **Widening Participation Summer School**
+	* Git Good workshops are being planned and drafted.  
+* **PPIE Monthly Session Wed 7 June**
+	* Data Wranglers talking about "what is data" 
+	* Write up from the session planned  
+* **Glossary**
+	* It's still a core objective. 
+	* Add terms from the monthly session to it.   
+* **PPIE Outputs**
+	* Conference informal write up
+	* Glossary
+	* "what is data" write up
+	* community maping   
+* **RCM Brief needed to be addressed** 
+	* https://docs.google.com/document/d/1wxnM3gVBlLloln6zc09plc0WEbwElFmY/edit
+
+### What would you like to work on next week?
+
+* ✅ Git Good workshop for summer school 
+* ✅ PPIE Monthly Session 
+* ➡️ "What is Data" write up
+* ✅ Replan for AC office visit 
+* ✅ Sync w. JS + SH about the PPIE CoP survey
+
+#### Where do you need help?
+
+* Strategic plan for what the community looks like. I'm still very confused about what our expected level of responsibility and involvement is. 
+* Relationship management with the community and letting people know why we are withdrawing support.
+
+#### Who did you help this week?
+
+* MM + RS with prepping the slide deck for wednesday 
+
+#### Who helped you this week?
+
+* EZ - was unable to attend the RCM planning meeting so we had an async catch up
+
+### Any other topics
+
+* Feeling incredibly burnt out and with a lack of planned next steps. Hopefully the delivery planning meeting next week will sort out the ambiguous pieces. 
+* Would like to revisit my training and development plan to formalize my time/resource commitments. 
+
+
+## 16 May 2023
+
+### 📍 Check-in 
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+#### Project specific Reflection
+
+**Big Tasks**
+* CoP Plans / PPIE Strategy plans 
+* Need to Reschedule AC
+
+**AutSPACEs**
+* Addressing invitations and reminders: Shared calendar - calendar invites 
+* Address and plan structure for the meet up 
+* Next meet up 1st June - plan for a mini UX exploration
+* The talk from February got good engagement + attendance, can we explore who to invite for talks
+        * Sensory St? Neurodivergent Game of Life? 
+
+**June PPIE Session**
+* Talking about data
+        * Knowledge share: how to explain what data is and how it is used 
+        * Q&A
+        * **Who is the audience:** professional PPIE people, patients & public, PPIE reps 
+* Post meeting: send out to consortia "we had our june meeting, this is what the topic was, this is what we came up with / discussed - would you like to have input/add anything" 
+
+#### Focus for this week's 1:1
+
+* Catch up and scope out work for the next week. 
+* Next PPIE Meeting
+* PPIE Plans 
+* AI Fairness Survey 
+* Planning next meet up 
+
+### 📚 Updates
+
+Returning from sick leave. 
+
+#### What would you like to work on next week?
+
+* ✅ Catch up on emails 
+* ➡️ All Tasks Board update 
+* ✅ plan autspaces meeting 
+* ✅ plan PPIE meeting 
+* ➡️ reschedule Antony 
+
+#### Where do you need help?
+
+* Strategic plan for PPIE priorities 
+
+#### Any other topics
+
+* Can work on ethics submission together 
+* Platform is unlikely
 
 
 ## 2 May 2023

@@ -26,7 +26,197 @@
 * [14 March 2023](#date-14-March-2023)
 * [18 April 2023](#date-18-April-2023)
 * [2 May 2023](#date-2-May-2023)
+* [6 June 2023](#date-6-June-2023)
+* [30 June 2023](#date-30-June-2023)
+* [07 July 2023](#date-07-July-2023)
+* [15 August 2023](#date-15-August-2023)
+* [5 September 2023](#date-5-September-2023)
+* [12 September 2023](#date-12-September-2023)
 
+
+## Date: 03 October 2023
+
+* Meeting with AIM RSF theme 3
+* Off boarding check list
+* 
+
+## Date: 26 September 2023
+* Meeting with EG and EZ to discuss EZ task in Theme 3 delivery plan and how these can be distributed/prioritised going forward. 
+
+
+## Date: 12 September 2023
+
+**Check-in ritual**
+An ECR asked for help with recruiting participants 💖
+
+### Project specific Reflection
+- Lots of meetings this week - PI meeting to present the plan for the ECR day, internal consortia meetings, first AIM PM meeting
+- Some back-and-forths trying to find speakers for the Open Invitation Seminars in Sep and Oct
+- Registrations for ECR day almost ready to be opened 🙀
+
+### Notes to discuss during 1:1
+- Update on delivery plan
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+BA with the ECR day logistics 💗
+
+#### What did you achieve?
+- Meetings
+- Speakers booked for Open Seminars
+- EIA form for ECR day submitted
+
+#### What did you struggle with?
+
+
+#### What would you like to work on next week?
+- Open ECR day registrations
+- One more push for the public outreach seminar
+- Plan next RSF Collab Cafe
+
+#### Where do you need help?
+
+#### Any other topics
+
+
+## 5 September 2023
+
+**Check-in ritual**
+
+### Project specific Reflection
+Lots of planning, mostly the ECR day, but also Open Invitation Seminars, ECR Lunchtime Sessions and Collab Cafes + training.
+
+### Notes to discuss during 1:1
+- OHS response
+
+#### What did you achieve?
+- presentation for PI meeting today
+- planning for the PM meeting
+- planning for ECR day
+- planning for Open Invitation Seminars
+- opened up registrations for public engagement workshop
+
+#### What did you struggle with?
+- concentration!
+
+#### What would you like to work on next week?
+- lots of important meetings! with PIs and PMs and collaborations from AIM + one more meeting for workshops with external company
+- open up registrations for ECR day
+- send out training survey
+
+#### Where do you need help?
+- reducing workload
+ - further conversation needed after the delivery plan is finalised
+
+#### Any other topics
+- EK attended a great workshop on accessibility for people with visual impairments - check OLS YouTube channel or ask MS
+
+## 15 August 2023
+* Delivery plan finialised and sent to KW.
+* EK - to contact EG and discuss KW feedback.
+* Planning for holiday
+  * 17 October for holiday
+  * need to find people to run seminar series (BA facilitator and Theme lead for the chair), ECR meeting (EG or SB to do it), collab cafe (RS or SB).
+  * Seminar series - Oct, Nov and Dec have people. Sept maybe SAIL.
+  * ECR sessions - changing session dates due to clash with the PPIE sessions.
+  * Training sessions - made a copy of the survey from last time and made a feedback section. Added question about on grant writing course,
+  * Sci comm people - communicating with the public and writing grant applications.
+    * EK - maybe CV writing - narrative CVs - https://openresearch.nihr.ac.uk/documents/2-38 - and also Royal society. 
+    * EZ - training on peer review.
+  * ECR in person event planning - 23 Nov - will send out emails first week of September. 
+
+
+## Date: 07 July 2023
+
+### Meeting notes
+* Discussed 
+ * ECR in person document that EZ had prepared and EK had made comments on
+  * EK - now send to KW for comments
+ *  Delivery plan - EK - needs to be finished with EG and then we can work on activities and outputs to go with the deliverables to get agreed by KW.
+ *  Wellbeing - use of wellbeing services at Turing and taking sicknees time off if needed - log in Cezanne or if taken flexibly to send email to get agreement/response from EK. 
+
+
+## Date: 30 June 2023
+
+**Check-in ritual**
+Lovely feedback on the second GitHub workshop 💖
+
+### Project specific Reflection
+- Working on the delivery plan, with a focus on planning the in-person ECR events
+- Version control workshops planning and delivery
+- Planning for ECR session next week on auditing past and scoping in-person event
+
+### Notes to discuss during 1:1
+- Delivery plan
+
+#### Who did you help this week?
+- BM with the EAG prep
+
+#### Who helped you this week?
+- RS and PG helped out with the VC workshops
+- BGT gave me useful tips for working with all-contributors
+
+#### What did you achieve?
+- Version control workshop
+- Progress on planning ECR in-person events and delivery plan
+
+#### What did you struggle with?
+- Delivery plan
+
+#### What would you like to work on next week?
+- final version control sessions
+- last ecr session before the summer
+- planning  (delivery & in-person events)
+- figure out software sustainability for RSF
+
+#### Where do you need help?
+* delivery plan
+
+#### Any other topics
+
+- This space is yours to add to as needed.
+- Is there any particular reading/topic/task we want to explore and bring to our next meetings?
+
+## Date: 6 June 2023
+
+**Check-in ritual**
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+### Project specific Reflection
+I'm mostly focused on ECR things these days: the Lunchtime session last week and thinking about the version control workshops. We also have an in-person meeting with the whole RSF next week to hammer out a delivery plan as well, so that'll be interesting to see. The RSF team is getting smaller with two people leaving, so I'm slightly worried about how that's going to affect the workload of the remaining team members.
+
+### Notes to discuss during 1:1
+- Performance review mostly I think!
+
+#### Who did you help this week?
+- RS with the version control workshop.
+- MC with an event for RSEs this Friday.
+
+#### Who helped you this week?
+- Also RS with the version control workshops 💖 I've really loved working together with her on this!
+- LF with the session I'm running with MC for the RSE event.
+
+#### What did you achieve?
+- Ran the ECR session last week
+- Did some prep with RS on the version control workshops
+- Did some work on the RSE event for this Friday
+- Coaching/mentoring meetings for the management development course and DS & AI educators programme
+
+#### What did you struggle with?
+- Not being on holiday anymore?
+
+#### What would you like to work on next week?
+- Finish the materials for the RSE session
+- Work on my version control workshop
+- Lots of meetings :cry:
+
+#### Where do you need help?
+- I'm alright!
+
+#### Any other topics
+- EK - briefing note try to finish the first draft of this.
+- TTW collaboration cafe chapter - lets work on this next week. 
 
 ## Date: 2 May 2023
 
