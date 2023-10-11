@@ -7,8 +7,10 @@
   - Reviewing upcoming project aims: 
     - 2022 Maintenance: https://hackmd.io/@turingway/maintenance-2022
     - 2023 Maintenance: https://hackmd.io/@aleesteele/maintenance-2023
+- Notes from the discussion
+  - HackMD was super helpful!
 - Other 
-  - Applying for 4 day work week (compressed hours)
+  - Applying for 4 day work week (compressed hours - more in HackMD)
   - Invited to co-organise FOSDEM Open Research track
   - Invited to contribute to CM paper with RS
   - Cancelled AL on Friday, 15 September
