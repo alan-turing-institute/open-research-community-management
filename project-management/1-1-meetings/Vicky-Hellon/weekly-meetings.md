@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [04 October 2023](#date-04-october-2023)
 * [27 September 2023](#date-27-september-2023)
 * [06 September 2023](#date-06-september-2023)
 * [16 August 2023](#date-16-august-2023)
@@ -54,6 +55,49 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 04 October 2023
+
+### Check-in ritual
+A lot going on at the moment so just balancing work with this. 
+
+### Project specific Reflection
+Good amount ticking over at the moment and planning for future activities- upcoming strategy meeting and AI UK booth
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* NF with Clinical AI workshop queries
+
+#### Who helped you this week?
+* SM has been great as always for scholar stuff and planning next knowledge shares
+
+#### What did you achieve?
+* Knowledge Share follow up and recruiting speakers for October
+* Prepped for scholar cohort call and did more scholar comms
+* Went to GEL TTW workshop yesterday
+
+#### What did you struggle with?
+* Bit worried about Clinical AI agenda coming together next week but embracing the chaos!
+* One of the scholars has been a bit flakey but hoping will be sorted by the end of the week
+* Knowledge share speakers a bit slow to respond again!
+
+#### What would you like to work on next week?
+* Prepping impact stats for strategy meeting section- will try and plot out who we're interacting with- then strategy meeting on the 12th
+* Meeting with REG to discuss involvement in partnership
+* First scholars cohort call- will check in with them individually afterwards too
+* AI UK booth application form
+* Prepping newsletter
+* Clinical AI workshop planning
+
+#### Where do you need help?
+* Advise around involving REG
+* Impact for partnership publications- still struggling a bit with comms strategy
+* When is the Turing health webpage updating?
+
+#### Any other topics
+N/A
+
 
 ## Date 27 September 2023
 
