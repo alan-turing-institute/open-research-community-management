@@ -28,31 +28,35 @@ Building communities in data science is crucial for bringing together diverse st
 * Co-create, maintain and communicate project resources
 * Amplify and champion community learnings and achievements
 
+![Illustration showing a person with multiple arms, two holding a group of people showing respect and other arms are pointing to the six goals listed above](resources/images/research-community-manager.jpg)
+
+*This image was created by Scriberia for The Turing Way community and is used under CC-BY 4.0 licence. [DOI: 10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)*
+
 ## About the Team
 
 The TPS Research Programme hosts all RCMs within the **Open Research Community Management** team.
-As community experts, each RCM is allocated to specific projects across different programmes and as a team, they connect those projects as a joint-up system of open source and reproducible software, data, people and processes. 
+As community experts, each RCM is allocated to specific projects across different programs and as a team, they connect those projects as a joint-up system of open source and reproducible software, data, people and processes. 
 By sharing knowledge as they develop in different projects, both in terms of scientific outcomes and socio-technical approaches applied to achieve them, RCMs break down the silos that traditionally exist in a research environment.
 
-![the illustration shows three siloed groups of users, researchers and developers, who are connecting with each other based on commonly useful projects.](https://zenodo.org/api/iiif/v2/867e0f11-b7cb-460e-9c3b-487ac75ada36:1794300f-5dd7-47ac-af5a-007cc1b52bee:community-managers.jpg/full/750,/0/default.jpg)
+![the illustration shows three siloed groups of users, researchers and developers, who are connecting with each other based on commonly useful projects.](resources/images/community-managers.jpg)
 
 *This image was created by Scriberia for The Turing Way community and is used under CC-BY 4.0 licence. [DOI: 10.5281/zenodo.5706310](https://doi.org/10.5281/zenodo.5706310)*
 
 RCMs combine a range of socio-technical skills including domain research expertise, scientific communications and stakeholder engagement approaches. 
-Among others, their core responsibilities include ensuring access to skills and resources different people and groups within the project need to meaningfully participate and build something greater than the sum of its part. 
-Through collaboration, upskilling and resource development,they make implicit knowledge explicit so that everyone who wants to can get involved.
+Among others, their core responsibilities include ensuring access to skills and resources that different people and groups within the project need to meaningfully participate in and build something greater than the sum of its parts. 
+Through collaboration, upskilling and resource development, they make implicit knowledge explicit so that everyone who wants to can get involved.
 They provide information and processes for enabling members in our communities to move from the position of spectators or users to developers and leaders in the project.
 RCMs facilitate open and collaborative work of others, while often taking care of many background works needed to make tangible and visible work of their communities possible. 
 They embed best practices for ensuring EDIA (Equity, Diversity, Inclusion, Accessibility), collaboration, maintenance, acknowledgement and the impact of community-based work.
 As a team, RCMs conduct research, build shared frameworks, create opportunities for skill-building and provide appropriate support systems for each other to exchange best practices from their work.
 
-![People across different communities act as physical bridges between two separate projects and find mutually beneficial solutions. There is no replacement of people in technology.](https://zenodo.org/api/iiif/v2/867e0f11-b7cb-460e-9c3b-487ac75ada36:849be739-8880-41cc-a487-215fb325d91f:people-find-solutions.jpg/full/750,/0/default.jpg)
+![People across different communities act as physical bridges between two separate projects and find mutually beneficial solutions. There is no replacement of people in technology.](resources/images/people-find-solutions.jpg)
 
-*This image was created by Scriberia for The Turing Way community and is used under CC-BY 4.0 licence. [DOI: 10.5281/zenodo.5706310](https://doi.org/10.5281/zenodo.5706310)*
+*This image was created by Scriberia for The Turing Way community and is used under a CC-BY 4.0 licence. [DOI: 10.5281/zenodo.5706310](https://doi.org/10.5281/zenodo.5706310)*
 
 ### Learn More About our work
 
-You can find several presentations about the RCM team, their work and from their skills building engagements in this repository shared under the [Team Related Communications](./team-related-comms) directory.
+You can find several presentations about the RCM team, their work and their skills-building engagements in this repository shared under the [Team Related Communications](./team-related-comms) directory.
 
 Read some specific examples from our work across individual projects in the following Briefing Notes:
 * [RSS DATA LAB - Health Community](./team-related-comms/briefing-notes/2023-RCM-Briefing_Turing-RSSHealthDataLab_community-EK.pdf)
@@ -96,7 +100,7 @@ RCM team members apply open science and FAIR (Findable, accessible, Interoperabl
 Many of the RCMs work on projects under the Health Programme or projects involving sensitive/confidential data, where they ensure and operationalise the principle of "as open as possible, as closed as necessary".
 
 All resources developed to support/facilitate their work as RCMs and as experts from their respective projects will be shared via this repository (by removing any project-specific sensitive information).
-Practices and case studies learned from their work with be shared in *The Turing Way* wherever possible.
+Practices and case studies learned from their work will be shared in *The Turing Way* wherever possible.
 
 The RCM team also hosts members with community-oriented roles currently collaborating with TPS or *The Turing Way*
 
@@ -177,7 +181,7 @@ Their engagement with *The Turing Way* project and community should help them un
 - interconnect their work with other projects and communities in the wider landscape of data science and open research.
 - facilitate openness, collaboration and transparent reporting, even when not all components of their projects can be made public.
 - find support for their community work and in exchange support others' work, especially when it is closely aligned with their projects.
-- enhance their technical understanding required in their work and share them more widely via *The Turing Way* (chapters, tutorials, templates or events).
+- enhance the technical understanding required in their work and share them more widely via *The Turing Way* (chapters, tutorials, templates or events).
 
 ## References
 
