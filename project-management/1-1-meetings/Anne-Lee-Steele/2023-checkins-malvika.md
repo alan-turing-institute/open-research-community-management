@@ -1,5 +1,193 @@
 ## 1:1 meetings
 
+### 2023-09-12
+- Quarterly review: https://hackmd.io/WoPvW29OStuo6_vqRqLz-g
+  - Reviewing JD: self-review of tasks (in HackMD) and with KW
+  - Reviewing needs/quarterly goals for 2023-2024
+  - Reviewing upcoming project aims: 
+    - 2022 Maintenance: https://hackmd.io/@turingway/maintenance-2022
+    - 2023 Maintenance: https://hackmd.io/@aleesteele/maintenance-2023
+- Notes from the discussion
+  - HackMD was super helpful!
+- Other 
+  - Applying for 4 day work week (compressed hours - more in HackMD)
+  - Invited to co-organise FOSDEM Open Research track
+  - Invited to contribute to CM paper with RS
+  - Cancelled AL on Friday, 15 September
+  - Reviewing schedule for September: half-days 18-22, AL 25-3 Oct
+  - Beginning process of reviewing/sketching website: https://design.penpot.app/#/workspace/d14220e8-6daf-8066-8003-1d6afb24d3f4/d14220e8-6daf-8066-8003-1d6b011265ec?page-id=d14220e8-6daf-8066-8003-1d6b011265ed
+
+### 2023-08-29
+- Key updates from 15 Aug - 24 Aug
+  - Widening Participation workshop: collaborated with both Ethics & TPS teams (presented with GK). Lots of interest to connect with TPS, though it's so clearly 
+  - Shadowing with GK: will be attending core delivery meetings for DCE, will ask about attending 
+  - Accessibility WG: will be creating new repository to store notes, working with AAA to apply for funding for LH. Two meetings that discussed division between accessibility policy &. Metadocencia sharing their materials more closely.
+  - Open AI Fireside: most speakers confirmed, ironing out details but there are a few additional follow-ups.
+  - Maintainers Fireside: check-in happening next week
+  - Fruto workshop: this workshop was AMAZING (brought up notion of community-lead design with the team and they were all for it! So many tools that I know could be valuable and useful for my work with TTW)
+  - Github workshop: CSCCE workshop (hosted with DG) on 30th - slides are a WIP, with planning discussions
+  - Discussion with KW - sharing notes & key learnings
+  - GSoC with Ayra: planning on a share-out for 20 September Collab Cafe (slot shared with Team Infrastructure Roles)
+  - TTW blogs: haven't worked out in the way that I would like to (blogs are not completely finished, more-so logs of notes)
+  - TTW documentation
+    - Starting new initiative with Alex to have bi-weekly TTW documentation day 
+    - Slack policy - expanding this chapter: https://github.com/the-turing-way/the-turing-way/pull/3262
+    - Roadmap after shift to Github organisation
+      - Documenting needs after the shift here (will kick-start in September): https://github.com/the-turing-way/the-turing-way/issues/3272
+      - Documenting need for TTW website & url (tied to sketches in progress below): https://github.com/the-turing-way/the-turing-way/issues/3266
+  - Planning for next staff delivery team meeting (with AAA)
+  - Planning for next core team meeting (with AAA)
+  - Planning next Community Chats for coming months: check-in with CB, Team infra folks, GSoC
+- Planning for next check-in (tasks)
+  - Book Dash Applications for Hub & Applicants: are asking about extending deadlines for both, and do wider promotions on Slack/Twitter/Mastodon next week
+  - Sketching out front page of TTW - mock-up
+  - Reviewing Foreword: https://github.com/the-turing-way/the-turing-way/pull/2080
+  - Browsing with user profile: https://github.com/the-turing-way/the-turing-way/pull/2246
+  - May be writing newsletter again rather than AAA (KW request)
+- Quarterly check-in
+  - Reviewing JD?
+  - Reviewing regular tasks: https://hackmd.io/WoPvW29OStuo6_vqRqLz-g
+- Notes from meeting
+  - R-EiR asking about Community Management
+
+### 2023-08-02
+- Linkedin: 
+  - Do we want to be in the Turing Enterprise ecosystem?
+  - Respond to AB about how this is happening
+  - MS: Talk to EK & VH about usage first
+- Book Dash: Applciations 
+  - Committee: Keep open the form until the 11th of August
+  - Application form: due Monday, 11 September - can extend to 15 September
+  - Hub form: due Thursday, 31st August - push for it
+  - Communication plan: will send by end of week
+  - Ask people who applied for Committee to record video:
+- TTW Briefing: send it over to CGVP, resolve with
+- Every Friday, month of August will be publishing a blog
+- GSoC: waiting for updates on Foreward, finising in September
+  - Look at the Foreward
+- Sketch out the front page - no holds barred!
+- Book Dash: planning for curating sets different chapters based on their disciplines, computation
+- Reach out to Arya about speaking at the Collab Cafe in September :) 
+- Objective Setting: review materials from last year, 
+  - 1. Core responsibilities: events, calls, etc.
+  - 2. Maintenance - governance work, 
+  - 3. Research tied to open source & community management
+  - 4. Bring another 
+  - Go broad & big, but not to small: actionable. 
+
+### 2023-07-25
+- KW: two longer talks planned for August 9 & 24: MS meeting at 1:30 onwards
+- Objective setting?
+- Inviting people to join Book Dash Committee: Susana, Liz, Batool, Shern, Andrea, Joanna,Melissa, Saranjeet – any others?
+- Discussed with Jim re: REG team & open source desk.
+- TTW briefing: completing draft this week – what will review process look like?
+- CM Team workflow & outputs: completing this week or ongoing?
+- August 21 & 23: preparing for Sophia to be away in August- August 22
+- Force Multiplier project: MS will send info
+- Open Access Week: will send out CH, 
+- August: No shift in calendar (early August maintain, ), but do we want to change the collab cafe?
+- Working Group - Governance document update
+
+### 2023-07-18
+- Open Access Week & Fireside Chat - date overlap and planning, overlaps 23-29
+- Upcoming Fireside Chats
+  - September: would only plan for after in-person meeting on 27th
+  - October: week of open access event, tied to this (tied to open access) --> knowledge infrastructures & digital public goods (open access!)... hidden aspect of knowledge production! 
+  - November: book dash!
+- KW -> Just drop something into her calendar. Proactively use same time slot!
+- Infrastructure WG: possibility of paid person for infra role?
+  - Can someone help aside from JM or DG? (Nick Barlow - upstreaming, JM research open source)
+  - Can this be shared? [Mozilla Infra Fund](https://foundation.mozilla.org/en/data-futures-lab/grantmaking/infrastructure-fund/)
+  - CZI not open until October, theory of change
+- Pursuit of £££ on behalf of TTW: high-priority policy
+- Next paid role for TTW should be maintainer-focused, open source perhaps?
+- ALS: Write a task list for the REG-open source team
+
+### 2023-07-11
+- Priority: WG documentation for team
+- Reviewing Delivery team meeting - anything else to add?
+- TTW Briefing - due by 25 July - emphasise ethnographic work in this piece, social sciences, connecting with the community, show strengths
+- Communications
+  - Mastodon & Twitter post about newsletter
+  - Updating start.page with all meetings
+- Accessibility WG meeting happened yesterday
+- Book Dash November 2023 tasks
+- Big Data & Society - will sent abstract (due by 17 July) - is there anyone else I can contact?
+- Take toolkit for community research - process design work - can this be something 
+
+### 2023-07-04
+- Reviewing check-ins with KW
+
+### 2023-06-28
+- Outcomes from conferences (DemTech + Data Justice)
+  - Positive reactions to both presentations!! There is HUGE interest in learning from TTW & practitioner perspectives more broadly. But building trust in these communities is a slow process, and lateral connections take time.
+  - Connecting EdTech researchers with Skills team
+  - Connecting with researchers from HCI/human rights/etc - Related to PP team @ ATI.
+  - Writing notes - to publish next week in slack w/ recorded video
+  - Podcast uploaded online: https://www.graduateinstitute.ch/podcast-series
+  - Invited to submit to special issue of Big Data & Society for the DJC
+- Invited to collaborate with JD on research
+- Invited to co-facilitate conversation at Geneva Peace Week on 
+- Invited to co-facilitate OSM discussion on AI-assisted mapping
+- Received invitation to supervise Enrichment student from 16/01/2024 - 12/07/2024 (forwarded email)
+  - Asking SG & EK about their experiences!
+- Received invitation to apply to STS Summer School. Requires line manager sign-off & recommendation (applications due by 26 June). Costs covered during week, but not transit (would cover personally): https://stsprogram.org/summerschool/
+- June Fireside Chat: all 1:1s complete (except for CMO). Excited for this chat!
+- July & August Fireside Chats cancelled.
+- Widening participation workshop - pending engagement for August
+
+### 2023-06-13
+- Widening participation program - I am unable to make the trainings due to the Fireside Chat and conference (29 or 12 June). Is this something I can deproritise while planning for an August break?
+- Fireside Chat - Confirmed with all speakers, AAA is following up in group email
+  - Following up with group about new chapter.
+- Data Justice Conference - problem with booking hotel (currently following up with Gray Dawes). Will follow up with presentation deck this week.
+- Draft 2 of governance document: goal to complete working draft at end of June
+
+### 06-06-2023
+- Quarterly review - feedback
+- Feedback from annual review
+  - Social science - pro! but also weakness! 
+  - Working long hours, and juggling lots of things 
+  - Be confident in cancelling meetings! 
+  - Working groups: were supported in created them, roles is not established, processes are not clear for staff and don't have clear direction
+    - When do you step in and when do you step back?
+    - Tied to ethnographic experience - not sure what to do next
+    - CM is sometimes filling the gap where where community needs help, and then pass it on to the community (but give a framework)
+    - Check-in list with working groups & discussions: this has stalled in the time since
+- Reviewing calendar and schedules
+  - Ongoing recurring calls
+  - Recurring responsibilities
+- Reviewing agendas: core team & core delivery team
+  - 
+
+### 2023-06-06
+- Agenda: 
+  - Start scheduling for each Monday
+- Check-in with KW: happening 8 June
+- Community check-in: happening 9 June
+- Event invitations
+  - UN OSPO: 21 June
+  - ACM-REP 28 June 
+- Fireside Chat: planning in progress
+  - GK to shadow for future events
+  - Invite CM to co-facilitate
+  - JB has confirmed
+  - Save EM for 
+  - Push for new chapter to be released by the timeline (launch!)
+- Slack check-ins -> restarting this week
+- Upcoming conferences
+  - Graduate Institute Democracy & Technology (Geneva, 12-15 June) - invited to present research and participate in podcast (they cover costs)
+  - Data Justice Conference (Cardiff, 19-20) - accepted proposal, in process of booking
+    - AAA: check with budget, book information
+    - MS: Send over slides
+- General tasks
+  - Website: mapping user experience (review of first design?)
+- Reviewing professional development points next week
+- Prioritisation
+  - Fireside Chat
+  - Community health work
+  - Governance data: 
+
 ### 2023-05-18
 - Community Call: preparing agenda & getting form responses
 - Upcoming talks
@@ -14,7 +202,6 @@
   - Leading sessions (extra session on Thursday)
   - Richard Acton Application
   - Writing
-
 - General tasks:
   - Website user experience
   - Mapping TTW: https://hackmd.io/GD_ZBGalRZOtiQjbnlEebg
