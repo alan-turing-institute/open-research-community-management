@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [18 October 2023](#date-18-october-2023)
 * [04 October 2023](#date-04-october-2023)
 * [27 September 2023](#date-27-september-2023)
 * [06 September 2023](#date-06-september-2023)
@@ -55,6 +56,52 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 18 October 2023
+
+### Check-in ritual
+Struggling with workload and personal bits at the mo but think November will be calmer so just need to get through the next couple of weeks
+
+### Project specific Reflection
+Think once Clinical AI workshop is over will have more time to plan a bit more- want to think about the comms strategy and do some work with the scholars in November.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Overall team with prepping stuff for strategy meeting
+
+#### Who helped you this week?
+* CH has been good for reviewing bits like the demo application
+* BS with getting me website stats
+* Been good to discuss with CB and RC plans for getting me more of a perspective on the science
+
+#### What did you achieve?
+* Clinical AI prep
+* Ran first scholars cohort call- timing worked out which I was pleased about
+* Strategy meeting went well and stats I prepared were well recieved 
+* Sent out October newsletter
+* Finalised AI UK Demo application
+* Tweaked publications section on partnership website
+* Helped scholar with video prep
+* Did some reporting for partnership
+
+#### What did you struggle with?
+* Need to work out whats happening with new postdoc next week
+* Not heard back from Roche Knowledge Share speaker again
+
+#### What would you like to work on next week?
+* Finalising Clinical AI workshop
+* Working on my section of the predictive modelling paper
+* Welcoming new postdoc
+
+#### Where do you need help?
+* Would be useful to have you at the comms meeting when its set up
+* Do you know anyone working on casual inference in Health
+* Advice on AI UK tickets for scholars 
+* Clinical AI as discussed already!
+
+#### Any other topics
+N/A
 
 ## Date 04 October 2023
 
