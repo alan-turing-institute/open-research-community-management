@@ -83,7 +83,8 @@ Focus for November will be the Community Scholars which I'm looking forward too.
 
 #### What did you struggle with?
 * Haven't heard back from comms- need to touch base with KP about this, realise its probably part of broader health strategy too
-* November Knowledge share speaker- might just run it with Roche speaker
+  * EK - I've met with the comms lead with KP and SF - I will draft an overall comms strategy for health and then we can spin out a Roche plan/strat from that. I'll share first draft with you so you can input into it. 
+* November Knowledge share speaker- might just run it with Roche speaker.
 
 #### What would you like to work on next week?
 * Further check-ins with the scholars
@@ -93,7 +94,9 @@ Focus for November will be the Community Scholars which I'm looking forward too.
 
 #### Where do you need help?
 * Next steps for Clinical AI paper- would be ideal if NF could take the lead! 👼
+  * EK - I'll chat to clinical Ai folks about whether they can lead on this as I am meeting with them on friday.   
 * Check what is happening with All Hands Meeting on the 4th December- are you available if everything falls through?
+  * EK - I am available but I also suggest KP could chair.  
   
 ## Date 18 October 2023
 
