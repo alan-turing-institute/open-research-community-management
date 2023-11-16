@@ -2,7 +2,26 @@
 
 *Integrating open science practices through community engagement*
 
-The [Tools, Practices and Systems (TPS)](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) programme at The Alan Turing Institute under the leadership of Dr Kirstie Whitaker represents a cross-cutting set of initiatives which seek to build open source infrastructure that is accessible to all and to empower a global, decentralised network of people who connect data with domain experts.
+**Contents**
+- [Background](#background)
+- [RCMs at the Turing have the following goals](rcms-at-the-turing-have-the-following-goals)
+- [About the Team](about-the-team)
+- [Learn More About Our Work](learn-more-about-our-work)
+- [Operationalising the Turing's Values in Community Management](#operationalising-the-turings-values-in-community-management)
+- [RCM Team's Guiding Principles](#rcm-teams-guiding-principles)
+- [Members and Collaborators](#members-and-collaborators)
+ - [TPS Senior Researcher and Team Lead](#tps-senior-researcher-and-team-lead)
+ - [Research Community Managers](#research-community-managers)
+ - [Collaborators from TPS/*The Turing Way* projects in Community Roles](#collaborators-from-tpsthe-turing-way-projects-in-community-roles)
+ - [Previous members](#previous-members)
+- [Important Documents for the Team Members](#important-documents-for-the-team-members)
+- [Working with *The Turing Way*](#working-with-the-turing-way)
+- [References](#references)
+- [License](#license)
+- [Acknowledgement](#acknowledgement)
+   
+
+The [Tools, Practices and Systems (TPS)](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) programme at The Alan Turing Institute, under the leadership of Dr Kirstie Whitaker, represents a cross-cutting set of initiatives which seek to build open source infrastructure that is accessible to all and to empower a global, decentralised network of people who connect data with domain experts.
 
 Led by Dr Malvika Sharan, TPS Senior Researcher for Open Research, TPS hosts the [Open Research Community Management](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) team with all Research Community Managers (RCMs) working across multiple teams, projects and programmes at the Institute.
 
@@ -10,6 +29,7 @@ All members of this team also participate in [*The Turing Way*](https://the-turi
 Part of the Research Community Managers' role is to engage with and contribute to *The Turing Way* as TPS staff members of the project.
 
 Members from within the Turing programmes working in similar positions, as well as members from projects collaborating with TPS/*The Turing Way* outside the Turing, referred to as "collaborators in community roles" in this document, are invited to join this team based on formal project or team-based collaboration.
+
 Anyone interested in the work of this team from outside the Turing or non-collaborators is invited to collaborate with us on *The Turing Way*.
 For further questions and information, please get in touch with Malvika by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 
@@ -54,7 +74,7 @@ As a team, RCMs conduct research, build shared frameworks, create opportunities 
 
 *This image was created by Scriberia for The Turing Way community and is used under a CC-BY 4.0 licence. [DOI: 10.5281/zenodo.5706310](https://doi.org/10.5281/zenodo.5706310)*
 
-### Learn More About our work
+### Learn More About Our Work
 
 You can find several presentations about the RCM team, their work and their skills-building engagements in this repository shared under the [Team Related Communications](./team-related-comms) directory.
 
