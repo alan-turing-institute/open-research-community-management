@@ -6,7 +6,7 @@
 
 [CRediT (Contributor Roles Taxonomy)](https://credit.niso.org/) is a high-level taxonomy to ensure the recognition of authors and different kinds of contributions they make to the development of a research article or outcome.
 
-I have adopted and extended the CRediT taxonomy for the Research Community Management team to guide the inclusion of a broad range of contribution types aiming to ensure fair recognition of their work as authors and contributors. All authors are contributors, but not all authors may be authors. However, all contributors should be given the opportunity to author the outputs shared as part of research. 
+I have adopted and extended the CRediT taxonomy for the Research Community Management team to guide the inclusion of a broad range of contribution types aiming to ensure fair recognition of their work as authors and contributors. All authors are contributors, but not all contributors may be authors. However, all contributors should be given the opportunity to author the outputs shared as part of research. 
 The distinction between contributorship and authorship provided here should be used for setting a shared understanding as well as to communicate about opportunities available in the projects for all contributors.
 
 
