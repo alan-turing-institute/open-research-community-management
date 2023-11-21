@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [22 November 2023](#date-22-november-2023)
 * [08 November 2023](#date-08-november-2023)
 * [18 October 2023](#date-18-october-2023)
 * [04 October 2023](#date-04-october-2023)
@@ -57,6 +58,48 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 22 November 2023
+
+### Check-in ritual
+All ok- things have been less hectic which as been nice! 
+
+### Project specific Reflection
+Have been working with the scholars and doing the usual regular bits- knowledge share, newsletter etc. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* SB with final bits for her scholar event on Monday 
+
+#### Who helped you this week?
+* CB with hosting coffee chat on Nature Medicine paper
+* LJ agreed to be a last minute speaker for the Nov Knowledge Share
+* AC and SM with promoting scholar annoucment and event on the Roche side
+
+#### What did you achieve?
+* Gave a talk on the partnership at the induction event
+* Ran November Knowledge Share
+* Me and AC met with UKRN to reflect on Turing involvement- also handed over role to NP
+* Prepping for All Hands meeting- trialling different format. Am trying to get everything sorted so is smooth to hand over to MA
+* Found a speaker for Dec Scholar Cohort Call 
+
+#### What did you struggle with?
+* Reflecting on scholars and whether I need to create a bit more of a community feel- hard with everyone virtual
+
+#### What would you like to work on next week?
+* Scholar event
+* Chase up all hands and hand over to MA
+* TEA health workshop
+* Then am on leave 30th Nov-4th Dec
+
+#### Where do you need help?
+* Do I need to check in with NF or all good for Clinical AI follow up?
+* Objectives 
+
+#### Any other topics
+N/A
+
 ## Date 08 November 2023
 
 ### Check-in ritual
