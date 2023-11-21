@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [08 November 2023](#date-08-november-2023)
 * [18 October 2023](#date-18-october-2023)
 * [04 October 2023](#date-04-october-2023)
 * [27 September 2023](#date-27-september-2023)
@@ -56,7 +57,47 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+## Date 08 November 2023
 
+### Check-in ritual
+Feeling ok- fairly settled now and enjoying the free time post event.
+
+### Project specific Reflection
+Focus for November will be the Community Scholars which I'm looking forward too.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Welcomed new postdoc AM
+
+#### Who helped you this week?
+* EK with Clinical AI event
+* SM- helped with writing on of our section for predictive modelling paper
+
+#### What did you achieve?
+* Clinical AI event!
+* Ran October Knowledge Share
+* Submitted AI UK demo application
+* Prepared November newsletter
+* Scholar activities- helped SB make translational science event and find speakers, helped KP with honing her video, helped JB with TTW advice, helping EV with community building
+
+#### What did you struggle with?
+* Haven't heard back from comms- need to touch base with KP about this, realise its probably part of broader health strategy too
+  * EK - I've met with the comms lead with KP and SF - I will draft an overall comms strategy for health and then we can spin out a Roche plan/strat from that. I'll share first draft with you so you can input into it. 
+* November Knowledge share speaker- might just run it with Roche speaker.
+
+#### What would you like to work on next week?
+* Further check-ins with the scholars
+* Handing over UKRN role
+* Prepare slides for induction event
+* Preparing December cohort call for scholars
+
+#### Where do you need help?
+* Next steps for Clinical AI paper- would be ideal if NF could take the lead! 👼
+  * EK - I'll chat to clinical Ai folks about whether they can lead on this as I am meeting with them on friday.   
+* Check what is happening with All Hands Meeting on the 4th December- are you available if everything falls through?
+  * EK - I am available but I also suggest KP could chair.  
+  
 ## Date 18 October 2023
 
 ### Check-in ritual
