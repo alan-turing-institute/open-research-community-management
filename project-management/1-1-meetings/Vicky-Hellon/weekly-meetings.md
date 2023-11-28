@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [29 November 2023](#date-29-november-2023)
 * [22 November 2023](#date-22-november-2023)
 * [08 November 2023](#date-08-november-2023)
 * [18 October 2023](#date-18-october-2023)
@@ -58,6 +59,44 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 29 November 2023
+
+### Check-in ritual
+All ok, looking forward to some annual leave this week!
+
+### Project specific Reflection
+JSC and All Hands Meetings coming up so expect some more strategic thinking on the partnership going into the new year.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* SB with stuff for running of her scholar event
+* BM with helping find PhD and internship opportunities for a student he knows
+
+#### Who helped you this week?
+* AM with thinking about what to do with scholars for AI UK
+
+#### What did you achieve?
+* Chasing up final all hands bits and handing over to MB 
+* November Knowledge Share follow up
+* PraxisAuril Award!!
+* First scholar event went really well
+
+#### What did you struggle with?
+* Feeling quite exhausted- ready for the end of the year!
+
+#### What would you like to work on next week?
+(Will be on annual leave for most of it)
+* Drafting December newsletter
+* Prepping for scholar cohort call
+* Meeting with YZ from Roche
+
+#### Where do you need help?
+* Have edited objectives, think ready to go but does KW need to review?
+
+#### Any other topics
+N/A
 
 ## Date 22 November 2023
 
