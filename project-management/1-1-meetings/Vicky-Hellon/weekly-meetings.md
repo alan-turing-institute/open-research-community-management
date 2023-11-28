@@ -82,6 +82,7 @@ JSC and All Hands Meetings coming up so expect some more strategic thinking on t
 * November Knowledge Share follow up
 * PraxisAuril Award!!
 * First scholar event went really well
+* TEA workshop
 
 #### What did you struggle with?
 * Feeling quite exhausted- ready for the end of the year!
