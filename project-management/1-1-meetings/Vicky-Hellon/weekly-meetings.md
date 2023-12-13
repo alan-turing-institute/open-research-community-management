@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [13 December 2023](#date-13-december-2023)
 * [29 November 2023](#date-29-november-2023)
 * [22 November 2023](#date-22-november-2023)
 * [08 November 2023](#date-08-november-2023)
@@ -59,6 +60,49 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 13 December 2023
+
+### Check-in ritual
+Ready for the end of the year 😆
+
+### Project specific Reflection
+Am trying to get everything in a good shape before the end of the year- everyone seemed happy with our years progress in our operational meeting yesterday.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* MA with covering bits whilst she is on leave
+* Briefly reviewed some health community strategy bits/miro board
+  
+#### Who helped you this week?
+* MS with reviewing objectives
+* Met with YZ from Roche at the office which was nice
+
+#### What did you achieve?
+* Ran scholar cohort call- went well
+* Had a meeting with a scholar to plan Jan event
+* Have booked in All Hands' Meetings for March and June which feels like an achievement with the booked up Turing rooms haha
+* Sent out December newsletter
+* Me and SM put a plan in place for actions we need to do with the scholars in January which makes me feel calmer!
+* Made a new org chart for Roche
+* Sorting AI UK bits- Roche tickets and started booth registration
+
+#### What did you struggle with?
+* Navigating some scholar bits but have discussed with SM as mentioned above
+
+#### What would you like to work on next week?
+* Finishing AI UK booth registration and getting a planning document together
+  * EK - ping me if you need any help with anything as I can share my knowledge/docs from AIUK 2023 
+* Setting up Jan Knowledge Share event page
+
+#### Where do you need help?
+* Ok to submit objectives or leave till Jan?
+  * EK - I will speake to MS about this - maybe she will send all to KW at the same time. 
+
+#### Any other topics
+* Can we cancel the catchup on the 3rd Jan unless needed? Yes!
+
 
 ## Date 29 November 2023
 
