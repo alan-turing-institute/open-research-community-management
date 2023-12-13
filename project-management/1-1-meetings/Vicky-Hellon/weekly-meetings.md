@@ -93,13 +93,15 @@ Am trying to get everything in a good shape before the end of the year- everyone
 
 #### What would you like to work on next week?
 * Finishing AI UK booth registration and getting a planning document together
+  * EK - ping me if you need any help with anything as I can share my knowledge/docs from AIUK 2023 
 * Setting up Jan Knowledge Share event page
 
 #### Where do you need help?
 * Ok to submit objectives or leave till Jan?
+  * EK - I will speake to MS about this - maybe she will send all to KW at the same time. 
 
 #### Any other topics
-* Can we cancel the catchup on the 3rd Jan unless needed?
+* Can we cancel the catchup on the 3rd Jan unless needed? Yes!
 
 
 ## Date 29 November 2023
