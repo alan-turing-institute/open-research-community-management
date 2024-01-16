@@ -5,6 +5,425 @@
 * [07 June 2023](#date-07-June-2023)
 * [Template](#template)
 
+### Date:2023-12-14
+
+
+
+#### Who did you help this week?
+
+Replace this text with a one/two-sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+-Malvika
+
+#### What did you achieve?
+* AESIN-Turing joint workshop on Automotive Electronic Systems - 29th November
+* Community building - DCE theme strategy: alignment/plans/convergence. 
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list.
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help on.
+
+#### Any other topics
+* DCE Community building - DCE theme Leads strategy: alignment/plans/convergence.
+* DCE international network: planning engagement approach
+
+
+### Date: 2023-11-23
+
+*You can move points from your reflections to the following sections as needed.* 
+
+#### Who did you help this week?
+
+Replace this text with a one/two-sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+- Malvika
+
+#### What did you achieve?
+* EDM for Call for Workshop for IEEE CAI 2024. Proposal
+* Accreditations : Finalised ToR ( LRF-RAEng_TURING)
+* DCE community book
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list.
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help on.
+
+#### Any other topics
+
+- AESIN workshop final prep: engagement DCE - industry
+- ADViCE launch : community infrastructure
+- DCE decarbonisation AI UK workshop
+-  Oden/Turing collaboration
+
+
+
+
+### date:2023-11-09
+
+*You can move points from your reflections to the following sections as needed.* 
+
+#### Who did you help this week?
+
+Replace this text with a one/two-sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+Replace this text with a one/two-sentence description of who helped you this week and how.
+
+#### What did you achieve?
+* DCE - DCE Journal engagement
+* Engagement DCE - Industry : Nova Systems
+* DCE community discussions: EDI plan
+* On boarding - Buddy systems : DCE - Skills  (Denisa Bianco)
+
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list.
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help on.
+
+#### Any other topics
+
+- AIUK preps : RAM+CM+ theme Leads ( Drew+ Graeme)
+- Theory of Change ( DCE +Chris)
+- LRF interim board
+- DCE community book
+- DCE + TUN follow up / collaboration
+-  AI UK demo
+-  connecting DCE/E&S work
+
+### Date: 2023-10-26
+
+#### Who did you help this week?
+
+Replace this text with a one/two-sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+Replace this text with a one/two-sentence description of who helped you this week and how.
+
+#### What did you achieve?
+* Building bridges DCE - BridgeAI
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list.
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help on.
+
+#### Any other topics
+
+* ADViCE launch prep
+* ADViCe community infrastructure
+* TPS programme reporting (6months)
+* DCE + AISH ( Shakir)
+* Engagement DCE - NOVA Systems: preps
+
+
+### Date:2023-10-12
+
+*You can move points from your reflections to the following sections as needed.* 
+
+#### Who did you help this week?
+
+Replace this text with a one/two-sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+- Malvika
+
+#### What did you achieve?
+* Roadmap for DCE community infrastrcture and priotities
+
+#### What did you struggle with?
+
+* communication DCE - Comms Team .
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help on.
+
+#### Any other topics
+
+- ADViCE community infrastructure: Website.
+- Engagement DCE - BRidgeAI (Domenica D'Arcangelo
+- AIUk proposal
+
+### Date@ 2023-09-28
+*You can move points from your reflections to the following sections as needed.* 
+
+#### Who did you help this week?
+
+Replace this text with a one/two-sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+Replace this text with a one/two-sentence description of who helped you this week and how.
+
+#### What did you achieve?
+* DCE - RiR sceme
+* short Straight project. REcruitment - Shortlisting
+* MarRI-UK final report
+
+#### What did you struggle with?
+
+* Ocean X: a case for non-engagement .
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help on.
+
+#### Any other topics
+
+- Onboarding new DCE programme Coordinator
+- Turing enrichment Programme: connecting Zack
+
+
+
+
+### Date: 2023-09-17
+
+*You can move points from your reflections to the following sections as needed.* 
+
+#### Who did you help this week?
+
+Replace this text with a one/two-sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+Replace this text with a one/two-sentence description of who helped you this week and how.
+
+#### What did you achieve?
+* DCE Theme Leads onboarding
+* Intro to DCE journal
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list.
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help on.
+
+#### Any other topics
+
+- Discussion on existing work on Landscape mapping of skills, in relation to the DCE mapping exercise to come
+
+
+
+### Date:2023-09-03
+
+#### Who did you help this week?
+
+Replace this text with a one/two-sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+Replace this text with a one/two-sentence description of who helped you this week and how.
+
+#### What did you achieve?
+* LRF Report contribution
+* Onboarding DCE RAM
+
+#### What did you struggle with?
+
+* Setting up DCE community infrastructure.
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help on.
+
+#### Any other topic
+
+- AESIN:	Proposed workshop would be a foresight type of workshop to develop a broad research roadmap, looking at the next generation of systems from industry-out perspective, with a 10-15 year timeline.
+- Setting up communication channels and repository for DCE community.
+     
+
+
+### Date:2023-08-24
+
+#### Who did you help this week?
+
+- DCE RF	Zack’s REG force multiplier project 
+
+#### Who helped you this week?
+
+Replace this text with a one/two-sentence description of who helped you this week and how.
+
+#### What did you achieve?
+* TPS + D&S:  Widening participation. Good Git programme
+* 
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list.
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help on.
+
+#### Any other topics
+
+- RAeng + LRF + DCe +Skills : data-centric eng accreditations. First tripartite meeting
+- DCE Turing University Network
+
+
+
+### Date: 2023-08-17
+#### Who did you help this week?
+
+Replace this text with a one/two-sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+Replace this text with a one/two-sentence description of who helped you this week and how.
+
+#### What did you achieve?
+* DCE 2.0 launch  
+* 
+  
+#### What did you struggle with?
+
+* Prioritising DCE's action vs available capacity.
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help on.
+
+#### Any other topics
+
+- AESIN workshop: ‘Future of Automotive Electronics and Software: Towards a Research Roadmap’ preliminary prep.
+- 
+
+
+
+
+
+### Date: 2023-08-10
+
+#### Who did you help this week?
+
+Replace this text with a one/two-sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+Replace this text with a one/two-sentence description of who helped you this week and how.
+
+#### What did you achieve?
+* DCE efforts in MArRI-UK: delivery Report
+* Establishing DCE researchers regular connection to DCE PMU
+* 
+  
+#### What did you struggle with?
+
+* Prioritising DCE's action vs available capacity.
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help on.
+
+#### Any other topics
+
+- AESIN workshop: preliminary prep
+- London International shipping Week.
+- Initial contacts-discussions on projects:
+  -   CETAS – November workshop
+  -   Short Straits – workshop this week
+  -   VICE – work allocation
+  -   Oden (USA) – meeting this week
+
+
+
+
+### Date: 2023-07-20
+
+#### Who did you help this week?
+
+Replace this text with a one/two-sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+Replace this text with a one/two-sentence description of who helped you this week and how.
+
+#### What did you achieve?
+* DCE efforts in MArRI-UK: research on NSO shipbuilding.
+  
+#### What did you struggle with?
+
+* Prioritising DCE's action vs available capacity.
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help on.
+
+#### Any other topics
+
+- This space is yours to add to as needed.
+
+
 ### Date: 2023-07-06
 
 *Specific hightlight* 
