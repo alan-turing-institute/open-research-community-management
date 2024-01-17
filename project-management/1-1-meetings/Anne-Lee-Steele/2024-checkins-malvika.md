@@ -1,0 +1,84 @@
+## 1:1 meetings
+
+## 16 January 2024
+- Current tasks
+	- This week, I am focused on reviewing papers: RCM team (deadline for final review?), RS CM paper, Inclusive events chapter. 
+		- Currently splitting time at Collab Cafe between a few different working groups
+	- Have been testing out new task-tracking system with AAA: https://github.com/orgs/the-turing-way/projects/3/views/1
+	- Archived notes with infra/accessibility wg, will ask same of translation team
+- To discuss with MS: 
+	- Calendar for 2024: https://docs.google.com/spreadsheets/d/1lWCWKAAXSlluo5d78LAjoMS9dfDxB27Y7Fb_wGI9B6Q/edit#gid=577525947
+		- Email with AAA+MS+ALS has notes and questions
+	- OpenUK: did we have an iPad? I can confirm with Emma
+	- TTW Delivery Team meeting transition to TTW - PM meeting
+	- Objectives review: https://docs.google.com/document/d/1B9JaCvYwa5ZlP1vsMA9iHXcB2yFx0n-tuQx5IzS5eoA/edit
+	- FOSDEM travel: should I want until my visa has been confirmed?
+- Notes
+	- Create 2024 folder in open-community-management
+	- Archive 2023 notes from this pad 
+	- Adding Book Dash task -> fragment that into different categories 
+	- Knowledge management, how & where does it fit? 
+		- Does it need a schema or data flow to understand where people are interacting with the repository?
+		- People are depending on the main repository 
+		- ALS & AAA get started with this, sharing with infrastructure team 
+		- What role does the TTW translation team?
+		- In creating new repository
+			- How they can access it? How can this be clear or acceptable? 
+		- ALS: Sent a message to translation & localisation team
+	- OpenUK: don't need anything!
+		- ALS: Ask AAA to get Community Ticket 
+	- FOSDEM: Book personally with option to reimbursement/cancelation option
+	- Newsletter:
+		- Platform research: https://docs.google.com/document/d/1i8KM1IXyWyUQ_hmz8iGezrxwva7oToilyJGyUbWGemA/edit
+		- Switching to ButtonDown
+		- All archives here: https://buttondown.email/turingway/archive/
+	- Eventbrite replacement
+		- Platform research: https://github.com/the-turing-way/the-turing-way/issues/2811#issuecomment-1795805789
+	- ALS: Confirm platform replacement in delivery team channel
+	- Event calendars
+		- Fireside Chats
+		- TTW PH webinars
+		- Onboarding calls - every 2 months
+		- Community Calls (bi-annual) 
+	- Community events committee? 
+		- Prototype with the fireside chat and onboarding 
+		- Community-owned
+		- Relationship to retired working groups: trainers/mentors, reviewers/editors
+			- Need to edit/transform the grid from last year
+			- The people who were doing it before, it wasn't entry into new experience
+			- Very transactional, not rewarding
+			- Fireside chats & training is more 
+		- ALS: Post in community/askaway channel
+		- Onboarding: Danny, Jim, Richard, Susana, Shern 
+		- Fireside Chat: how can we have more of a transparent way of organising these events?
+			- There's a way of nominating speakers and public/community involvement in the process
+			- Is there really even a need for a committee?
+			- Should they be more of a seminar? should they be more of a panel format?
+			- Arielle - pre-organised mixers based on topics 
+			- TTW PH Seminar: catered to Bridge AI network
+		- ALS: Reach out to Marion
+		- 5 years of TTW? Reproducibility 5 years on? From SSI!
+			- Podcast can be live-recorded! Peter could live-record.
+		- ALS: Will bring a few more ideas to the next 1:1
+	- Regular TTW gardening (habit building with ALS!)
+		- Events calendar: 
+		- Github calendar
+		- Start.page
+		- Guide for Accessibility
+		- Pushing for website!
+	- Communications Plan
+		- Banners https://www.canva.com/design/DAFcm01WS-s/Te2XS6vEVAQcTEEVmd3igw/edit
+		- Building communications plan (trial): https://docs.google.com/document/d/1Gf7-0iDl6bNUuukqki4AjAw8NMQDhUBM/edit
+		- Acknowledging the gaps is just as important!
+		- Start collecting events again for different groups to present
+	- Governance
+		- Leadership, working group chairs, delivery team
+	- Objectives Review
+		- Give thumbs up by next week - try to finalise everything else!
+		- Will send to KW next week!
+	- TTW Delivery Team <-> TTW PM Meeting
+		- Planning the schedule for next two sessions
+		- Survival bias!
+		- Stay in coworking session in 1:1 
+		- Informational asymmetry -> working with relationship to AAA
+		- Emotional relationship 
