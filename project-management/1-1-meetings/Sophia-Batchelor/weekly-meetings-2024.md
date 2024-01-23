@@ -21,6 +21,14 @@
 
 #### Where do you need help?
 * Preparing updates for Ops meeting. What is our roadmap for the year?
+  * Roadmap is whatever is left in the delivery plan
+  * Supporting conference, the survey, the monthly community sessions, chapter, community of practice write-up/paper
+  * BGT to lead the shareouts and updates
 * Plan for Theme 5 discussion.
-* Approval of objectives.
+  * The question is about how Theme 5 is to present about the Theme 4 work
+  * Low engagement about Theme 4's outputs
+  * How to make the PPIE activities more visable
 * Planning/scope for PPIE Conference town halls.
+  * Wait for PMs to get in touch and make plans.
+  * Updates to come in the Team Day
+* Approval of objectives.
