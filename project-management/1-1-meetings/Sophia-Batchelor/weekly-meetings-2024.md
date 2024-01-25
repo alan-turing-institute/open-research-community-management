@@ -10,7 +10,8 @@
   * Currently working on pulling out sections that are relevant to members of the public without disabilities and reworking sentences.
   * ETA 2 weeks for working draft
 * **Objectives**
-  * Need updating but currently "in workflow task" so cannot be edited on my side 
+  * Needed updating but currently "in workflow task" so cannot be edited on my side 
+  * BGT "sent back" the first draft in Cezanne so that they can be edited again!
 
 ### What would you like to work on this week?
 * Submit the 2024 objectives 
