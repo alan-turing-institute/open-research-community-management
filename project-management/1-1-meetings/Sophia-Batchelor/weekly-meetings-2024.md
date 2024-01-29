@@ -20,6 +20,11 @@
 * Brainstorming for the PPIE Community Sessions
   * It would be good to hear from the projects
   * Some of the PPIE leads have changed hands, need to track down who the new leads are
+  * BGT meeting SH next Friday
+
+#### Other Updates
+* Giulia also wants to meet PPIE leads
+  * May have an opportunity to identify topics through the conversations 
 
 
 ## 23 January 2024
