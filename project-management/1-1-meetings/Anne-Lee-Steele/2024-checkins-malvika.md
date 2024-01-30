@@ -1,6 +1,11 @@
 ## 1:1 meetings
 
-## 16 January 2024
+## 30-01-2024
+- Accepted for School of Commons programme!
+- Discussed art and science, gap between optimism and practicality, responsibility of facilitating a third space
+- Questions about newsletter (january 2024 - switching to buttondown, sending last message on tinyletter)
+
+## 16-1-2024
 - Current tasks
 	- This week, I am focused on reviewing papers: RCM team (deadline for final review?), RS CM paper, Inclusive events chapter. 
 		- Currently splitting time at Collab Cafe between a few different working groups
