@@ -1,7 +1,31 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
-* [15 January 2024]
+
+## 29 January 2024
+
+### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+* **Inclusive Events Chapter / PPIE Chapter**
+  * "Working" Draft to be reviewed by end of this week
+* ✅ **Genius Within form** sent back to Lucy with details filled in and request for more info
+* ✅ **Objectives** were submitted
+
+### What would you like to work on this week?
+* The Inclusive Events Chapter
+* Introductions for EM
+
+#### Where do you need help?
+* Sickness Review Meeting
+* Brainstorming for the PPIE Community Sessions
+  * It would be good to hear from the projects
+  * Some of the PPIE leads have changed hands, need to track down who the new leads are
+  * BGT meeting SH next Friday
+
+#### Other Updates
+* Giulia also wants to meet PPIE leads
+  * May have an opportunity to identify topics through the conversations 
+
 
 ## 23 January 2024
 
