@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [01 February 2024](#date-01-february-2024)
 * [13 December 2023](#date-13-december-2023)
 * [29 November 2023](#date-29-november-2023)
 * [22 November 2023](#date-22-november-2023)
@@ -60,6 +61,52 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 01 February 2024
+
+### Check-in ritual
+Been a busy few weeks! But grateful for the partnership team helping me get back up to speed
+
+### Project specific Reflection
+Main focus has been catching up with scholars and AIUK bits, amongst normal bits like knowledge share and newsletter.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Scholars with various project bits- EV did her first event, reviewing storyboard for XZ, reviewing video script for KP
+* Onboarded new postdoc FY
+* Spoke to a community member about the partnership and their grant
+
+#### Who helped you this week?
+* MA covered me well, SM also helped pick up some scholar bits whilst I was off
+
+#### What did you achieve?
+* Got REG and partnership team together to discuss interactive demo for AI UK
+* Wrote a post on AIUK for Roche internal comms
+* Goatherding Turing-Roche/Clinical AI paper
+* Ran January Knowledge Share and uploaded video
+* Ran a mini All Hands meeting
+* Set up Feb Knowledge Share papge
+* Planned for AIUK booth both by myself and with SM and MA in a meeting
+
+#### What did you struggle with?
+* Haven't been as prepared for meetings as I normally would be but has been ok!
+* Supporting a scholar with whether to stay in the scheme]
+* Hoping I'll get newsletter training soon- AM has looped me in
+
+#### What would you like to work on next week?
+* Review CM paper- is their a deadline for this?
+* Design and order AIUK bits
+* Sorting out more scholar bits- data protection for XZ video, run through of KP's interview video recording
+* Prepping for Feb scholar cohort call
+* In-person Turing-Roche meeting next week so need to sort agenda and logistics
+
+#### Where do you need help?
+* Florence's LinkedIn blog
+
+#### Any other topics
+* Is health comms plan on hold?
+
 
 ## Date 13 December 2023
 
