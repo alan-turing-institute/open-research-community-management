@@ -106,6 +106,7 @@ Main focus has been catching up with scholars and AIUK bits, amongst normal bits
 
 #### Any other topics
 * Is health comms plan on hold?
+* After AIUK - to do comms plan that includes hiring a part time comms person to assist VH.
 
 
 ## Date 13 December 2023
