@@ -22,17 +22,28 @@
 * Cont. introductions for EM
 * Updated PPIE mailing list
 * Bob's Business
+* Feb PPIE Session
 
 #### Where do you need help?
 * More reviewing once I finish going through the suggestions
-* Updates from chat with SH/CoP (.....MOOP?) 
+  *  Once finished with updates, we'll pop a meeting in and go through it together
+* Updates from chat with SH/CoP (.....MOOP?)
+  * This meeting is happening this week (not last week) so will be pushed to next week 
 
 #### Other Updates and Notes
 * March PPIE Meeting planning
   * conference discussions
-  * invites handover (access to main mailbox?) 
+  * topic/request for sessions, what would you like to learn/hear about in the lead up
+  * invites handover? (access to main mailbox?)
+    * Ask BA (to get confirmation on which task) - possibly redrafting the invites  
 * PPIE-specific town hall will be planned and run in the future to get feedback and input about the conference
 
+### Notes
+* there is a benefit to both curating resources (youtube playlist/other resources) **AND** a "live" session/synchronous experience which gives the option to ask questions
+* Connect with Emma and see if some ECRs would be interested in the opportunity of getting experience in sci-comm and connecting with members of the public
+  * We could make a more targetted call next month once we have some more refined topics to present about (i.e. the topics that folks want to hear about)
+* open the door for suggestions and input about what internal sessions Theme 4 can run to support us for the conference
+  * Pop note in the Ops meeting notes.  
 
 ## 29 January 2024
 
