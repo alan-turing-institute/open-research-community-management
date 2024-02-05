@@ -20,7 +20,8 @@
 * PPIE chapter edits 
 * RCM Paper
 * Cont. introductions for EM
-* Updated PPIE mailing list 
+* Updated PPIE mailing list
+* Bob's Business
 
 #### Where do you need help?
 * More reviewing once I finish going through the suggestions
