@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [09 February 2024](#date-09-february-2024)
 * [01 February 2024](#date-01-february-2024)
 * [13 December 2023](#date-13-december-2023)
 * [29 November 2023](#date-29-november-2023)
@@ -61,6 +62,56 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+## 09 February 2024
+
+### Check-in ritual
+Still busy but hopefully its slowing down a bit.
+
+### Project specific Reflection
+Focus has been on AI UK, scholars and in-person TCGA Turing-Roche meeting
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+I have basically being doing my own TPS drop in sessions ha: (+ meeting with SF and NJ next week)
+  * SA with brainstorming for her own kind of Clinical AI meeting
+  * AA with making a Zoom event
+  * Met with an Enrichment Student who wanted to know more about Turing-Roche and pointed her to some resources
+
+#### Who helped you this week?
+* RC with follow up actions for TCGA meeting
+
+#### What did you achieve?
+* Ran all hands type meeting for TR team on TCGA dataset
+* Started to edit AI UK comms doc- will do more on this soon
+* Attending TR Core meeting
+* Other AI UK bits:
+  * Ordered furniture
+  * Got stickers ready to order
+  * Designed postcards
+  * Meeting with REG for interactive demo
+* Knowledge Share follow up
+* Attended scholar coffee chat and connecting her with REG so we can talk about overlap
+* Caught up with scholars doing podcast project
+* Catch up with Roche comms
+* Comms for Feb Knowledge Share
+
+#### What did you struggle with?
+* Clinical AI paper meeting being cancelled and lack of repsonsbility]
+* No training from comms yet and need to start Feb newsletter
+
+#### What would you like to work on next week?
+* Scholar cohort call and a few other scholar catchups
+* Send out scholar 6 month report
+* Finish off some other AI UK bits
+* Generally catchup 
+
+#### Where do you need help?
+* Blog for scholars conference output- LinkedIn as website not ready?
+
+#### Any other topics
+* Contract change for having every other friday off
+
 
 ## Date 01 February 2024
 
