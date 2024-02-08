@@ -97,8 +97,9 @@ I have basically being doing my own TPS drop in sessions ha: (+ meeting with SF 
 * Comms for Feb Knowledge Share
 
 #### What did you struggle with?
-* Clinical AI paper meeting being cancelled and lack of repsonsbility]
+* Clinical AI paper meeting being cancelled and lack of repsonsbility
 * No training from comms yet and need to start Feb newsletter
+* Bureaucracy around merch ordering
 
 #### What would you like to work on next week?
 * Scholar cohort call and a few other scholar catchups
