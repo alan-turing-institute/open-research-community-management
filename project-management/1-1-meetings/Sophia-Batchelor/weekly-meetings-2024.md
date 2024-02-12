@@ -1,8 +1,33 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [12 February 2024](#12-February-2024)
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+## 12 February 2024
+
+### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+* **Inclusive Events Chapter / PPIE Chapter**
+  * ✅ Suggestion being added to GitHub
+  * Next steps: update links and make a reviewable PR
+  * Next steps: make changes to other files
+* **RCM Paper**
+  * ✅ Draft was finalized last week
+
+### What would you like to work on this week?
+* PPIE chapter edits 
+* Feb PPIE Session notes - summarize and send out
+
+#### Where do you need help?
+* Reviewing PRs once they have been submitted
+
+#### Other Updates and Notes
+* 
+
+### Notes
+*
+
 
 ## 5 February 2024
 
