@@ -9,29 +9,53 @@
 
 ### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
 * **Inclusive Events Chapter / PPIE Chapter**
-  * ✅ Suggestion being added to GitHub
+  * ✅ Suggestions being added to GitHub
   * Next steps: update links and make a reviewable PR
   * Next steps: make changes to other files
 * **RCM Paper**
   * ✅ Draft was finalized last week
 * Blog Post
   * Theme 5 has said that they can advise and steer.  
-
+* **Survey**
+  * Put Giulia in touch with PPIE leads
 
 ### What would you like to work on this week?
-* PPIE chapter edits 
-* Feb PPIE Session notes - summarize and send out
+* PPIE chapter edits (completing the next steps as outlined above)
+* Feb PPIE Session notes
+  * Summarize and send out
+* Get Giulia in touch with PPIE leads
+* MOOP Paper - see if I can find the drafted sections, and the stats 
 
 #### Where do you need help?
 * Reviewing PRs once they have been submitted
-* Scoping the Blog Post 
-
-#### Other Updates and Notes
-* 
+* Scoping the Blog Post
+* Updates about CoP paper??
 
 ### Notes
-*
+* **Blog Post**
+  * Where would it go?
+    * AIM RSF website -> check with Batool if this is up and running
+    * Then explore other options (theme 5 help?)
+  * Who works on it?
+    * Wait to reach out to anyone until we know where we can put it
+    * if they have ideas of where to put it...
+  * Step 1: Check with Batool
+  * Step 2: Write up notes from sessions first and if an outline emerges/ideas/pitch solidify then roll with that
+  * Step 3: Reach out to Theme 5/others 
 
+ * **CoP Paper**
+   * Write a paper based on the postcards
+   * Frame it as a "community of practice as a method" paper
+   * Use the MOOP outline
+     * If I can find the fleshed-out pieces of the MOOP then great!
+     * Bastian and Steph to lead on writing 
+
+* **PPIE session for March**
+  * Finalize note taker for March PPIE session (Batool/Jessie)
+  * What other types of events people have attended
+  * What they really liked about them
+  * How would they like to be "prepared" for attending (both the researchers and also the ppie folk)
+  * Keep folk in the main room if possible
 
 ## 5 February 2024
 
