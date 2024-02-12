@@ -14,6 +14,9 @@
   * Next steps: make changes to other files
 * **RCM Paper**
   * ✅ Draft was finalized last week
+* Blog Post
+  * Theme 5 has said that they can advise and steer.  
+
 
 ### What would you like to work on this week?
 * PPIE chapter edits 
@@ -21,6 +24,7 @@
 
 #### Where do you need help?
 * Reviewing PRs once they have been submitted
+* Scoping the Blog Post 
 
 #### Other Updates and Notes
 * 
