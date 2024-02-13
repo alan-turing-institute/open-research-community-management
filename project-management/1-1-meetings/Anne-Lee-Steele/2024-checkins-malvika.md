@@ -1,5 +1,11 @@
 ## 1:1 meetings
 
+## 13-02-2024
+- Linkedin page: process for review
+- Buttondown platform: confirmation/email for people to transfer accounts
+- Working Group documentation review
+- Community Call
+
 ## 30-01-2024
 - Accepted for School of Commons programme!
 - Discussed art and science, gap between optimism and practicality, responsibility of facilitating a third space
