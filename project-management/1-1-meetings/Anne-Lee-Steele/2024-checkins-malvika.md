@@ -5,6 +5,7 @@
 - Buttondown platform: confirmation/email for people to transfer accounts
 - Working Group documentation review
 - Community Call
+- Scriberia images
 
 ## 30-01-2024
 - Accepted for School of Commons programme!
