@@ -2,15 +2,27 @@
 
 ## 13-02-2024
 - Linkedin page: process for review
+  - MS: I am not sure where this request is coming from, but yes, please create an issue justifying that X and Mastodon have not been very successful after Twitter down fall. Linkedin uses another recommended platform for the RCM work and is aligned with the Turing policy. Tag me if you'd like me to comment!
 - Buttondown platform: confirmation/email for people to transfer accounts
+  - MS: I can't send the email before payment! I can wait for Kit to reply before I purchase and send the request. Please send an email to Kit with the details you shared with us on Slack. 
 - Working Group documentation review
+  - MS: Please send it to me. I am supposed to review it before we add that to GH. 
 - Community Call
+  - MS: Let's have a shared PPT.
 - Scriberia images
+  - MS: Please email back saying we don't need to change colour, but the next time we should keep the colour from the colour pallet.
+    - Opportunity to revisit browsable image gallery idea.
+- Workshops and talks
+  - MS: we should update the cal, have KW agree/disagree on ACM. 
+
+Thank you for all the discussion and work! All the best with the review process
 
 ## 30-01-2024
 - Accepted for School of Commons programme!
+  - MS: Congratulations !
 - Discussed art and science, gap between optimism and practicality, responsibility of facilitating a third space
 - Questions about newsletter (january 2024 - switching to buttondown, sending last message on tinyletter)
+  - MS: Have the newsletter sent from tinyletter, buttondown request should then go out. 
 
 ## 16-1-2024
 - Current tasks
