@@ -5,6 +5,51 @@
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
 
+## 19 February 2024
+
+### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+* **Inclusive Events Chapter / PPIE Chapter**
+  * ➡️ PPIE chapter checklist
+  * Accessibility Working Group meets this week during collab cafe
+* **PPIE Session notes**
+  * Write up
+  * Send out alongside the recording
+* **PPIE March Session**
+  * Session plan
+  * Plan session chair, note taker, and facilitator
+* **Blog Post**
+  * Theme 5 has said that they can advise and steer
+  * Batool can put it on the website  
+* **Survey**
+  * Intros to happen today
+
+### What would you like to work on this week?
+* Email introductions for Guilia
+* Draft email invite for Batool to send out to PPIE community
+  * Include a request for feedback - call for input impact report/stories 
+* Feb PPIE Session notes
+  * Summarize and send out
+  * MVP: send out recording and whatever notes we have
+  * Series A: notes for the session written unordered
+  * Series B: ordered summarized notes from the session
+  * Series C: plain language notes summarized and accessible 
+* PPIE chapter edits
+* Accessibility/Inclusive events chapter edits (collab cafe)
+* MOOP Paper - see if I can find the drafted sections, and the stats 
+
+#### Where do you need help?
+* Reviewing the PPIE notes and organizing them to be sent out
+
+### Notes
+* **March Session**
+  * How to organize PPIE events
+  * What would you like to see in the run up to an event/the conference
+
+* **Community health and Community Guidelines**  
+ * Community health metrics were scoped in November's session asking about what was wanted for the next few sessions
+ * No further actions 
+
+
 ## 12 February 2024
 
 ### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
