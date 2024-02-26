@@ -1,9 +1,83 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [26 February 2024](#26-February-2024)
+* [19 February 2024](#19-February-2024)
 * [12 February 2024](#12-February-2024)
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+## 26 February 2024
+
+### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+* **Inclusive Events Chapter / PPIE Chapter**
+  * ✅ PPIE chapter version PR made
+  * ✅ GitHub issue solves (thanks you BGT, JM, and DG)
+  * ⚠️ PPIE chapter version checklist progress is halted until the chapter content has been reviewed
+  * ✅ Met with AWG last week and we are starting to tease out what the Accessibility chapter version will look like
+* **PPIE Session notes**
+  * ✅ Done and sent out (thanks to BGT and BA)
+  * ➡️ Write up process and add to `community-management` repo to do this week   
+* **PPIE March Session**
+  * Plan session chair, note taker, and facilitator
+    * BGT to chair and lead discussion, Sb note taker and support
+* **Blog Post**
+  * Scope it from the notes
+  * Draft overall narrative
+  * Contact the folks from the meeting to get input
+* **Survey**
+  * Intros with folks last week
+  * 3 more intros to happen today
+
+### What would you like to work on this week?
+* Final introductions for Giulia
+* Update `community-management` with monthly community session notes process
+* MOOP Paper - see if I can find the drafted sections, and the stats
+* Blog Post
+
+#### Where do you need help?
+* List/file of the topics we'll be covering in the monthly sessions
+* Discussion re. narrative and what is wrapped up for the community
+  * Working with theme 5?  
+
+### Notes
+* **Notes from chat w. Malvika**
+  * part of preparing a community for sunsetting is gathering together the knowledge that was uncovered/gathered in my role
+  * How to leave a narrative of:
+    - why we started it
+    - what we achieved 
+    - what the learnings were
+    - what should happen next
+ * the role of sunsetting is to explain how
+   * the purpose of the community has been fulfilled
+   * the stewards of the community will be moving on 
+
+#### Focus for "the year"
+* Chapter distilling the knowledge for running events
+* Academic paper that frames the CoP as a method that folks can learn from
+* Public facing wrap up narrative - where it goes tbd maybe the microsite, maybe the open CM repo
+* Outputs of the consortia
+  * Conference
+
+
+#### Backlog Task
+* Who attended the meetings, what consortia/project
+  * FAIR (where is this info) 
+
+#### Brainstorm of topics
+* **March**: inclusive ppie events/conference
+* **April:** PPIE chapter
+  * Slide Deck summary of the chapter
+  * Breakout rooms as the sections? 
+  * BGT might not be there
+  * would possibly need facilitation   
+* **May:** Science communication/working with PPIE
+* **June:** AI/data session
+* **July:** project shareouts (pitchfest - laying foundation for the potential "PPIE award" at the conference for most accessible etc)
+  * ECRs focus 
+* **August:** prep for conference / why it is the way it is: how to understand scientific presentations
+
+
 
 ## 19 February 2024
 
