@@ -7,6 +7,7 @@
 	- Working group -- had sent to MS by email: https://github.com/the-turing-way/the-turing-way/pull/3499
 	- Access considerations: https://github.com/the-turing-way/the-turing-way/pull/3491
 - Newsletter draft: https://github.com/the-turing-way/newsletter/issues/7
+	- Transfer to Buttondown - confirm logistics
 - Communications updates
 	- Promotion of Book Dash - now online
 	- TTW PH event - now online
