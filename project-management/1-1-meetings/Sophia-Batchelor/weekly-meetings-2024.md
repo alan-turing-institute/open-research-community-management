@@ -1,9 +1,64 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [26 February 2024](#26-February-2024)
+* [19 February 2024](#19-February-2024)
 * [12 February 2024](#12-February-2024)
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+## 26 February 2024
+
+### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+* **Inclusive Events Chapter / PPIE Chapter**
+  * ✅ PPIE chapter version PR made
+  * ✅ GitHub issue solves (thanks you BGT, JM, and DG)
+  * ⚠️ PPIE chapter version checklist progress is halted until the chapter content has been reviewed
+  * ✅ Met with AWG last week and we are starting to tease out what the Accessibility chapter version will look like
+* **PPIE Session notes**
+  * ✅ Done and sent out (thanks to BGT and BA)
+  * ➡️ Write up process and add to `community-management` repo to do this week   
+* **PPIE March Session**
+  * Plan session chair, note taker, and facilitator
+    * BGT to chair and lead discussion, Sb note taker and support
+* **Blog Post**
+  * Scope it from the notes
+  * Draft overall narrative
+  * Contact the folks from the meeting to get input
+* **Survey**
+  * Intros with folks last week
+  * 3 more intros to happen today
+
+### What would you like to work on this week?
+* Final introductions for Giulia
+* Update `community-management` with monthly community session notes process
+* MOOP Paper - see if I can find the drafted sections, and the stats
+
+#### Where do you need help?
+* List/file of the topics we'll be covering in the monthly sessions
+* Discussion re. narrative and what is wrapped up for the community
+  * Working with theme 5?  
+
+### Notes
+* **Notes from chat w. Malvika**
+  * part of preparing a community for sunsetting is gathering together the knowledge that was uncovered/gathered in my role
+  * how to leave a narrative of:
+    - why we started it
+    - what we achieved 
+    - what the learnings were
+    - what should happen next
+ * the role of sunsetting is to explain how
+   * the purpose of the community has been fulfilled
+   * the stewards of the community will be moving on 
+
+* March
+* April
+* May
+* June
+* July
+* August
+
+
 
 ## 19 February 2024
 
