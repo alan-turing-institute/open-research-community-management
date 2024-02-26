@@ -33,6 +33,7 @@
 * Final introductions for Giulia
 * Update `community-management` with monthly community session notes process
 * MOOP Paper - see if I can find the drafted sections, and the stats
+* Blog Post
 
 #### Where do you need help?
 * List/file of the topics we'll be covering in the monthly sessions
@@ -42,7 +43,7 @@
 ### Notes
 * **Notes from chat w. Malvika**
   * part of preparing a community for sunsetting is gathering together the knowledge that was uncovered/gathered in my role
-  * how to leave a narrative of:
+  * How to leave a narrative of:
     - why we started it
     - what we achieved 
     - what the learnings were
@@ -51,12 +52,30 @@
    * the purpose of the community has been fulfilled
    * the stewards of the community will be moving on 
 
-* March
-* April
-* May
-* June
-* July
-* August
+#### Focus for "the year"
+* Chapter distilling the knowledge for running events
+* Academic paper that frames the CoP as a method that folks can learn from
+* Public facing wrap up narrative - where it goes tbd maybe the microsite, maybe the open CM repo
+* Outputs of the consortia
+  * Conference
+
+
+#### Backlog Task
+* Who attended the meetings, what consortia/project
+  * FAIR (where is this info) 
+
+#### Brainstorm of topics
+* **March**: inclusive ppie events/conference
+* **April:** PPIE chapter
+  * Slide Deck summary of the chapter
+  * Breakout rooms as the sections? 
+  * BGT might not be there
+  * would possibly need facilitation   
+* **May:** Science communication/working with PPIE
+* **June:** AI/data session
+* **July:** project shareouts (pitchfest - laying foundation for the potential "PPIE award" at the conference for most accessible etc)
+  * ECRs focus 
+* **August:** prep for conference / why it is the way it is: how to understand scientific presentations
 
 
 
