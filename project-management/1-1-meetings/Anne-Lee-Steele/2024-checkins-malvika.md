@@ -1,11 +1,39 @@
 ## 1:1 meetings
 
+## 27-02-2024
+- Github updates
+	- Reorganising community calls: https://github.com/the-turing-way/the-turing-way/pull/3533
+	- Onboarding & offboarding calls: https://github.com/the-turing-way/the-turing-way/pull/3498
+	- Working group -- had sent to MS by email: https://github.com/the-turing-way/the-turing-way/pull/3499
+	- Access considerations: https://github.com/the-turing-way/the-turing-way/pull/3491
+- Newsletter draft: https://github.com/the-turing-way/newsletter/issues/7
+- Communications updates
+	- Promotion of Book Dash - now online
+	- TTW PH event - now online
+	- Data Hazards - 27 Feb
+	- Electronic Lab Notebooks - 29 Feb
+- Scriberia images - will post in #askaway next week
+
 ## 13-02-2024
 - Linkedin page: process for review
+	- ALS will make issue, MS will respond.
 - Buttondown platform: confirmation/email for people to transfer accounts
 - Working Group documentation review
-- Community Call
+	- Is there anything that we can do for a project log?
+	- Send over to MS ASAP -- with email
+- Community Call: anything to prepare:
+	- MS is making slide deck
+	- Introducing this call, agenda-setting, passing on to working groups to start
+	- Open floor for question/answer
 - Scriberia images
+	- Could be a good internship project? GSoC or GDOC?
+	- https://betterimagesofai.org/
+	- https://alan-turing-institute.github.io/turing-commons/resources/gallery/
+- Upcoming trainings & events
+	- ACM REP 2024 meetings (June 18th-20th, 2024)
+	- DCE Community call
+	- Ireland OSCP: Pen giving this on
+	- csv,CONF is coming soon
 
 ## 30-01-2024
 - Accepted for School of Commons programme!
