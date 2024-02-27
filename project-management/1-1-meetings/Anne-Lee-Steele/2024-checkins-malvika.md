@@ -1,6 +1,7 @@
 ## 1:1 meetings
 
 ## 27-02-2024
+- Two papers: RCM papers
 - Github updates
 	- Reorganising community calls: https://github.com/the-turing-way/the-turing-way/pull/3533
 	- Onboarding & offboarding calls: https://github.com/the-turing-way/the-turing-way/pull/3498
