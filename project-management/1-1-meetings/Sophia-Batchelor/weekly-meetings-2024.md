@@ -7,6 +7,51 @@
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
 
+## 4 March 2024
+
+### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+* **Inclusive Events Chapter / PPIE Chapter**
+  * ⚠️ PPIE chapter version checklist progress is halted until the chapter content has been reviewed
+  * ➡️ AWG planning on meeting in Collab-Cafe this week and in meeting next week to continue discussing what the Accessibility chapter version will look like
+* **PPIE March Session**
+  * Session this week! 
+  * BGT to chair and lead discussion, SB note taker and support
+  * Process documents added to the `community-management` repo
+* **Blog Post**
+  * ✅ Draft overall narrative
+  * ⌛ (wait for first draft of blog post before contacting) Contact the folks from the meeting to get input
+  * Outline draft: https://hackmd.io/@brainonsilicon/H16KoX1Tp 
+* **Survey**
+  * Chatted with Giulia - she sounds all set up for success 🚀
+* **MOOP**
+  * ✅ Added back drafted sections
+  * ✅ Updated community membership stats for Feb 2024
+  * Meeting on March 12 to discuss paperizing it
+
+### What would you like to work on this week?
+* RCM monthly reporting
+* Blog Post
+* AIM Conference Town Hall
+* Community Session
+  * Session notes write-up
+* Collab Cafe
+* Ops Meeting
+* AutSPACEs Meetup
+
+### Where do you need help?
+* RCM reporting
+  * updates from the Citizen Science team are here: https://github.com/alan-turing-institute/tps-team/pull/129/files
+  * Review/compare and add any missing RCM-specific updates (i.e. PR is open for the PPIE chapter)
+
+#### Backlog task
+* RE. Who attended the meetings, what consortia/project
+  * FAIR (where is this info)
+  * Set-up spreadsheet
+  * Ask Batool where the attendance list is stored (zoom room access?) 
+
+### Notes
+
+
 ## 26 February 2024
 
 ### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
