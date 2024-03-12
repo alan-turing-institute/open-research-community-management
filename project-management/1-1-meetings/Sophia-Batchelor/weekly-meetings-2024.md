@@ -26,7 +26,7 @@
   * No updates
 * **MOOP**
   * Meeting on March 12 to discuss paperizing it
-  * Updates the mailing lists/community membership
+  * Updates to the mailing lists/community membership
 
 ### What would you like to work on this week?
 * Session notes write up
@@ -35,10 +35,10 @@
 
 ### Where do you need help?
 * Discussion of formats to send out draft chapter
-  * How to manage community expectations about the lack of accessibility reccomendations
+  * How to manage community expectations about the lack of accessibility recommendations
 
 #### Notes
-* 
+* Ask infra team if we can have a deploy preview of my branch (ie. same as we have deploy preview of branches merging to main)
 
 
 ## 4 March 2024
