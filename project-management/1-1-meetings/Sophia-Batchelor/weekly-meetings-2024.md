@@ -1,11 +1,45 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [12 March 2024](#12-March-2024)
+* [4 March 2024](#4-March-2024)
 * [26 February 2024](#26-February-2024)
 * [19 February 2024](#19-February-2024)
 * [12 February 2024](#12-February-2024)
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+
+## 12 March 2024
+
+### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+* **Inclusive Events Chapter / PPIE Chapter**
+  * AWG meeting yesterday
+    * Discussed a finished review of content for PPIE chapter by March 25
+    * Then to the sections that can be stand-alone added to the Accessibility Guide
+    * Draft to be sent to the community for input
+* **PPIE March Session**
+  * ➡️ Session notes are almost finished and can be sent out shortly
+* **Blog Post**
+  * ➡️ Draft in progress
+* **Survey**
+  * No updates
+* **MOOP**
+  * Meeting on March 12 to discuss paperizing it
+  * Updates to the mailing lists/community membership
+
+### What would you like to work on this week?
+* Session notes write up
+* Blog Post
+* Prep for AI-UK
+
+### Where do you need help?
+* Discussion of formats to send out draft chapter
+  * How to manage community expectations about the lack of accessibility recommendations
+
+#### Notes
+* Ask infra team if we can have a deploy preview of my branch (ie. same as we have deploy preview of branches merging to main)
+
 
 ## 4 March 2024
 
@@ -48,8 +82,6 @@
   * FAIR (where is this info)
   * Set-up spreadsheet
   * Ask Batool where the attendance list is stored (zoom room access?) 
-
-### Notes
 
 
 ## 26 February 2024
