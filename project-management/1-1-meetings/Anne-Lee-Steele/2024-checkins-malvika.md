@@ -1,5 +1,15 @@
 ## 1:1 meetings
 
+## 12-03-2024
+- Reviewing RCM paper
+- Chapter updates: announced Electronic Notebooks, to announce expressions of interest
+- Newsletter – got additional info from AAA to add
+- Documentation to review:
+	- Working group -- had sent to MS by email: https://github.com/the-turing-way/the-turing-way/pull/3499
+	- Onboarding & offboarding calls: https://github.com/the-turing-way/the-turing-way/pull/3498
+	- Reorganising community calls: https://github.com/the-turing-way/the-turing-way/pull/3533
+- Current focus: Access-related content in preparation for inclusive events chapter
+
 ## 27-02-2024
 - Two papers: RCM papers
 - Github updates
