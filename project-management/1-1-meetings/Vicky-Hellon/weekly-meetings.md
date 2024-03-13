@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [15 February 2024](date-15-february-2024)
 * [09 February 2024](#date-09-february-2024)
 * [01 February 2024](#date-01-february-2024)
 * [13 December 2023](#date-13-december-2023)
@@ -62,7 +63,46 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
-## 09 February 2024
+
+## Date 15 February 2024 
+
+### Check-in ritual
+Things have finally calmed down a bit which is good! 
+
+### Project specific Reflection
+Scholars focus again this week and AI UK stuff getting there.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* EG with iPad dimensions for demo
+* SF with new thoughts for the health newsletter
+
+#### Who helped you this week?
+* Ben from website team with getting some bugs fixed
+* FN and LB with chat about REG/Turing-Roche scholar project overlap
+* KG with data protection questions around scholar video projects
+
+#### What did you achieve?
+* Scholar cohort call and sent out 6 month report
+* Dry run session for one of the scholars video projects
+* Follow up with some of the scholars after the cohort call
+* Prepped Feb newsletter (on the old system 😅)
+
+#### What did you struggle with?
+* AI UK artwork but sorted now. Waiting for marketing sign off on merch bits
+  
+#### What would you like to work on next week?
+* Am on holiday from Wednesday- will be prepping the Knowledge Share for when I get back and handing over bits to MA
+
+#### Where do you need help?
+* Trying to find a UKRN replacement for me and AC- any recommendations!?
+* Any comms for Turing-Roche Knowledge Share
+
+#### Any other topics
+N/A
+
+## Date 09 February 2024
 
 ### Check-in ritual
 Still busy but hopefully its slowing down a bit.
