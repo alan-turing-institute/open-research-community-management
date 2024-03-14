@@ -77,10 +77,11 @@ Have been focusing on internal collaboration this week, with all hands and plann
 
 #### Who did you help this week?
 * TB (scholar) and CB with their AI Pathology event- have now decided to postpone which I think is the right thing to do
+  * Expensing food for event needs to be done rather than use inhouse catering as budget is limited.  
 * MB and RD- gave advice on their foundational AI potential All Hands Meetings
 
 #### Who helped you this week?
-* CRS and EG have been great with preparing the AI UK Demo for us- has been a lot of back and forth
+* CRS and EG have been great with preparing the AI UK Demo for us- has been a lot of back and forth 
 * Me and AC found a replacement for our UKRN roles
 
 #### What did you achieve?
@@ -104,6 +105,7 @@ Have been focusing on internal collaboration this week, with all hands and plann
   
 #### Where do you need help?
 * Clinical AI paper- shall I just start writing the report..?
+  * EK - decided with TC and Clinical AI organisers to do workshop summary report instead of paper. 
 * Anything on the senior RCM side
 
 #### Any other topics
