@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [14 March 2024](date-14-march-2024)
 * [15 February 2024](date-15-february-2024)
 * [09 February 2024](#date-09-february-2024)
 * [01 February 2024](#date-01-february-2024)
@@ -63,6 +64,53 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 14 March 2024
+
+### Check-in ritual
+Doing ok, busy again but end of AI UK is in sight haha!
+
+### Project specific Reflection
+Have been focusing on internal collaboration this week, with all hands and planning new meetings. And last few AI UK bits
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* TB (scholar) and CB with their AI Pathology event- have now decided to postpone which I think is the right thing to do
+  * Expensing food for event needs to be done rather than use inhouse catering as budget is limited.  
+* MB and RD- gave advice on their foundational AI potential All Hands Meetings
+
+#### Who helped you this week?
+* CRS and EG have been great with preparing the AI UK Demo for us- has been a lot of back and forth 
+* Me and AC found a replacement for our UKRN roles
+
+#### What did you achieve?
+* Basically finalised AI UK booth bits- sorting out booth slides, sent a doc round with info for all our postdocs and scholars, ordered merch and helped sort pub booking, scheduled LinkedIn health posts
+* Ran Feb Knowledge Share
+* Ran All Hands Meeting
+* Planning for new postdoc community meetings with team and RC
+* Contributed to strategy meetings around partnership KPIs
+* Took part in Practioner Hub event
+* Prepared March newsletter
+* Prepped March Knowledge Share 
+
+#### What did you struggle with?
+* Being the middle ground in the partnership- definitely a new role for me but will be good to have the new challenge of focusing on internal community too
+* Knowledge Share for March went out late, hoping will still get a good amount of attendees
+
+#### What would you like to work on next week?
+* After AI UK we have 2 events coming up (knowledge share and tech talk)
+* Really need to check back in with the scholar projects and also have April Cohort Call
+* Start running co-working sessions for postdocs
+  
+#### Where do you need help?
+* Clinical AI paper- shall I just start writing the report..?
+  * EK - decided with TC and Clinical AI organisers to do workshop summary report instead of paper. 
+* Anything on the senior RCM side
+
+#### Any other topics
+N/A 
+
 
 ## Date 15 February 2024 
 
