@@ -1,5 +1,9 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [15 February 2024](date-15-february-2024)
+* [09 February 2024](#date-09-february-2024)
+* [01 February 2024](#date-01-february-2024)
+* [13 December 2023](#date-13-december-2023)
 * [29 November 2023](#date-29-november-2023)
 * [22 November 2023](#date-22-november-2023)
 * [08 November 2023](#date-08-november-2023)
@@ -59,6 +63,186 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 15 February 2024 
+
+### Check-in ritual
+Things have finally calmed down a bit which is good! 
+
+### Project specific Reflection
+Scholars focus again this week and AI UK stuff getting there.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* EG with iPad dimensions for demo
+* SF with new thoughts for the health newsletter
+
+#### Who helped you this week?
+* Ben from website team with getting some bugs fixed
+* FN and LB with chat about REG/Turing-Roche scholar project overlap
+* KG with data protection questions around scholar video projects
+
+#### What did you achieve?
+* Scholar cohort call and sent out 6 month report
+* Dry run session for one of the scholars video projects
+* Follow up with some of the scholars after the cohort call
+* Prepped Feb newsletter (on the old system 😅)
+
+#### What did you struggle with?
+* AI UK artwork but sorted now. Waiting for marketing sign off on merch bits
+  
+#### What would you like to work on next week?
+* Am on holiday from Wednesday- will be prepping the Knowledge Share for when I get back and handing over bits to MA
+
+#### Where do you need help?
+* Trying to find a UKRN replacement for me and AC- any recommendations!?
+* Any comms for Turing-Roche Knowledge Share
+
+#### Any other topics
+N/A
+
+## Date 09 February 2024
+
+### Check-in ritual
+Still busy but hopefully its slowing down a bit.
+
+### Project specific Reflection
+Focus has been on AI UK, scholars and in-person TCGA Turing-Roche meeting
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+I have basically being doing my own TPS drop in sessions ha: (+ meeting with SF and NJ next week)
+  * SA with brainstorming for her own kind of Clinical AI meeting
+  * AA with making a Zoom event
+  * Met with an Enrichment Student who wanted to know more about Turing-Roche and pointed her to some resources
+
+#### Who helped you this week?
+* RC with follow up actions for TCGA meeting
+
+#### What did you achieve?
+* Ran all hands type meeting for TR team on TCGA dataset
+* Started to edit AI UK comms doc- will do more on this soon
+* Attending TR Core meeting
+* Other AI UK bits:
+  * Ordered furniture
+  * Got stickers ready to order
+  * Designed postcards
+  * Meeting with REG for interactive demo
+* Knowledge Share follow up
+* Attended scholar coffee chat and connecting her with REG so we can talk about overlap
+* Caught up with scholars doing podcast project
+* Catch up with Roche comms
+* Comms for Feb Knowledge Share
+
+#### What did you struggle with?
+* Clinical AI paper meeting being cancelled and lack of repsonsbility
+* No training from comms yet and need to start Feb newsletter
+* Bureaucracy around merch ordering
+
+#### What would you like to work on next week?
+* Scholar cohort call and a few other scholar catchups
+* Send out scholar 6 month report
+* Finish off some other AI UK bits
+* Generally catchup 
+
+#### Where do you need help?
+* Blog for scholars conference output- LinkedIn as website not ready?
+
+#### Any other topics
+* Contract change for having every other friday off
+
+
+## Date 01 February 2024
+
+### Check-in ritual
+Been a busy few weeks! But grateful for the partnership team helping me get back up to speed
+
+### Project specific Reflection
+Main focus has been catching up with scholars and AIUK bits, amongst normal bits like knowledge share and newsletter.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Scholars with various project bits- EV did her first event, reviewing storyboard for XZ, reviewing video script for KP
+* Onboarded new postdoc FY
+* Spoke to a community member about the partnership and their grant
+
+#### Who helped you this week?
+* MA covered me well, SM also helped pick up some scholar bits whilst I was off
+
+#### What did you achieve?
+* Got REG and partnership team together to discuss interactive demo for AI UK
+* Wrote a post on AIUK for Roche internal comms
+* Goatherding Turing-Roche/Clinical AI paper
+* Ran January Knowledge Share and uploaded video
+* Ran a mini All Hands meeting
+* Set up Feb Knowledge Share papge
+* Planned for AIUK booth both by myself and with SM and MA in a meeting
+
+#### What did you struggle with?
+* Haven't been as prepared for meetings as I normally would be but has been ok!
+* Supporting a scholar with whether to stay in the scheme]
+* Hoping I'll get newsletter training soon- AM has looped me in
+
+#### What would you like to work on next week?
+* Review CM paper- is their a deadline for this?
+* Design and order AIUK bits
+* Sorting out more scholar bits- data protection for XZ video, run through of KP's interview video recording
+* Prepping for Feb scholar cohort call
+* In-person Turing-Roche meeting next week so need to sort agenda and logistics
+
+#### Where do you need help?
+* Florence's LinkedIn blog
+
+#### Any other topics
+* Is health comms plan on hold?
+* After AIUK - to do comms plan that includes hiring a part time comms person to assist VH.
+
+
+## Date 13 December 2023
+
+### Check-in ritual
+Ready for the end of the year 😆
+
+### Project specific Reflection
+Am trying to get everything in a good shape before the end of the year- everyone seemed happy with our years progress in our operational meeting yesterday.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* MA with covering bits whilst she is on leave
+* Briefly reviewed some health community strategy bits/miro board
+  
+#### Who helped you this week?
+* MS with reviewing objectives
+* Met with YZ from Roche at the office which was nice
+
+#### What did you achieve?
+* Ran scholar cohort call- went well
+* Had a meeting with a scholar to plan Jan event
+* Have booked in All Hands' Meetings for March and June which feels like an achievement with the booked up Turing rooms haha
+* Sent out December newsletter
+* Me and SM put a plan in place for actions we need to do with the scholars in January which makes me feel calmer!
+* Made a new org chart for Roche
+* Sorting AI UK bits- Roche tickets and started booth registration
+
+#### What did you struggle with?
+* Navigating some scholar bits but have discussed with SM as mentioned above
+
+#### What would you like to work on next week?
+* Finishing AI UK booth registration and getting a planning document together
+  * EK - ping me if you need any help with anything as I can share my knowledge/docs from AIUK 2023 
+* Setting up Jan Knowledge Share event page
+
+#### Where do you need help?
+* Ok to submit objectives or leave till Jan?
+  * EK - I will speake to MS about this - maybe she will send all to KW at the same time. 
+
+#### Any other topics
+* Can we cancel the catchup on the 3rd Jan unless needed? Yes!
+
 
 ## Date 29 November 2023
 
