@@ -11,6 +11,8 @@
 	- PPIE documentation (currently reviewing)
 - Onboarding call - happening wed 27 mar
 - Organising community forum (discussion with AAA)
+- Community Research Toolkit - presenting at 27 march meeting?
+- Annual Review 2023
 
 ## 12-03-2024
 - Reviewing RCM paper
