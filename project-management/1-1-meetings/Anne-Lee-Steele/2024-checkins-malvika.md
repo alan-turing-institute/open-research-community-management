@@ -1,6 +1,18 @@
 ## 1:1 meetings
 
 ## 12-03-2024
+* = focus for this week
+- March 2024 Newsletter*
+- RCM Paper (RS paper)*
+- Uploading TTW reports* 
+- Accessibility work
+	- Accessibility policy draft - draft is complete & ready for review!
+	- Guide for accessibility - draft is ongoing*
+	- PPIE documentation (currently reviewing)
+- Onboarding call - happening wed 27 mar
+- Organising community forum (discussion with AAA)
+
+## 12-03-2024
 - Reviewing RCM paper
 - Chapter updates: announced Electronic Notebooks, to announce expressions of interest
 - Newsletter – got additional info from AAA to add
@@ -9,6 +21,7 @@
 	- Onboarding & offboarding calls: https://github.com/the-turing-way/the-turing-way/pull/3498
 	- Reorganising community calls: https://github.com/the-turing-way/the-turing-way/pull/3533
 - Current focus: Access-related content in preparation for inclusive events chapter
+	- Accessibility working group: 
 
 ## 27-02-2024
 - Two papers: RCM papers
