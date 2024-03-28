@@ -1,18 +1,27 @@
 ## 1:1 meetings
 
 ## 12-03-2024
+
 * = focus for this week
 - March 2024 Newsletter*
-- RCM Paper (RS paper)*
-- Uploading TTW reports* 
+	- End of the month is preferred. We add a deadline for review on the 25th of each month.
+ 	- I will review this: https://github.com/the-turing-way/newsletter/issues/12
+- The buttondown experience has been great! Can't see Jan and Feb drafts. 
+	- Good to know that the Buttondown is easier. It looks good!
+  	- Email the helpdesk for display. 
 - Accessibility work
-	- Accessibility policy draft - draft is complete & ready for review!
+	- Accessibility policy draft - draft is complete & ready for review! Discussion on review
+ 		- MS: good work! Tag people you think should review. Share the PR more openly on Slack.
+   		- Like the idea of open discussion (journal club style) in Collab Cafe.
 	- Guide for accessibility - draft is ongoing*
 	- PPIE documentation (currently reviewing)
-- Onboarding call - happening wed 27 mar
+- Onboarding call - happening wed 27 Mar
 - Organising community forum (discussion with AAA)
-- Community Research Toolkit - not presenting at 27 march meeting, presenting early April
+- Community Research Toolkit - not present at the 27 Mar meeting, presenting in early April
 - Annual Review 2023
+- RCM Paper (RS paper)*  
+- Uploading TTW reports*  
+	- It's already converted in markdown, needs a bit of review and editing but not extensive. 
 
 ## 12-03-2024
 - Reviewing RCM paper
