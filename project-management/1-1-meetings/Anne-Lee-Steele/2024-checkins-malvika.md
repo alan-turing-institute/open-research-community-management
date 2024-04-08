@@ -1,7 +1,15 @@
 ## 1:1 meetings
 
-## 12-03-2024
+# 08-04-2024
+- Collaborations Workshop
+	- Discussion of deadlines for access-related materials
+	- Discussing engagement in events
+- CM RACI matrix: review
+- Review of PM meeting documentation
+- Documentation ready for review
+- Annual Review 2023: is this something I should continue?
 
+## 12-03-2024
 * = focus for this week
 - March 2024 Newsletter*
 	- End of the month is preferred. We add a deadline for review on the 25th of each month.
