@@ -14,7 +14,16 @@
 ## 9 April 2024
 ### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
 * **PPIE Chapter**
+  * KW deadline 2 May 2024
+  * Created word doc
+  * Created google doc
+  * ALS is reviewing 8/9/10 Apr
+  * Stuck unable to detangle the PR/branch issue: meeting planned for 11 Apr 
 * **Inclusive Events Chapter**
+  * Unsure if this is to be included in KW's PR on 2 May 2024
+  * AWG unable to take this forward
+  * PR has been made https://github.com/the-turing-way/the-turing-way/pull/3602
+  * These PRs are still waiting for review: https://github.com/the-turing-way/the-turing-way/pull/3523 and https://github.com/the-turing-way/the-turing-way/pull/3522 (unsure if the second one needs to be resolved or if it needs to wait on a cross reference to content that would be in the Guide for Accessibility) 
 * **PPIE April Session**
 * **Survey**
 * **RCM Team Reporting**
@@ -26,10 +35,11 @@
 * MOOP
 
 ### Where do you need help?
-* Drafting the email to send to the PPIE Community with the drafts 
+* Drafting the email to send to the PPIE Community with the drafts
+* Reminder of what we're been doing for the RCM report
 
 #### Notes
-* 
+* Very unwell, waiting for the referral to neurology
 
 
 ## 12 March 2024
