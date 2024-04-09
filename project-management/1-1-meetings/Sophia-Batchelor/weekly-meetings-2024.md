@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [9 April 2024](#9-April-2024)
 * [12 March 2024](#12-March-2024)
 * [4 March 2024](#4-March-2024)
 * [26 February 2024](#26-February-2024)
@@ -8,6 +9,54 @@
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+
+## 9 April 2024
+### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+* **PPIE Chapter**
+  * KW deadline 2 May 2024
+  * Created word doc
+  * Created google doc
+  * ALS is reviewing 8/9/10 Apr
+  * Stuck unable to detangle the PR/branch issue: meeting planned for 11 Apr 
+* **Inclusive Events Chapter**
+  * Unsure if this is to be included in KW's PR on 2 May 2024
+    * Assume not 😅
+  * AWG may be unable to take this forward
+    * Decision may sit with ALS  
+  * PR has been made https://github.com/the-turing-way/the-turing-way/pull/3602
+  * These PRs are still waiting for review: https://github.com/the-turing-way/the-turing-way/pull/3523 and https://github.com/the-turing-way/the-turing-way/pull/3522 (unsure if the second one needs to be resolved or if it needs to wait on a cross reference to content that would be in the Guide for Accessibility) 
+* **PPIE April Session**
+  * Moved due to illness
+  * Date 17 April
+  * Planned for discussion of the draft
+  * May need support facilitating
+    * BGT, SA?, BA?  
+* **Survey**
+  * Send link alongside email last week 
+* **RCM Team Reporting**
+  * review the Citizen Science tps team report to check some content  
+* **MOOP**
+  * No new updates 
+
+### What would you like to work on this week?
+* Prep for April 17 PPIE Meeting
+  * Run through of the ~5 min CW24 talk
+    * overview of the sections
+  * breakout rooms by the subsections
+    * free form discussion about what would you expect to be in this section (that possibly isn't)
+    * don't expect people to have read the whole thing
+    * pick any of the sections (or feel free to read the whole thing)
+* Send out draft of PPIE chapter for review
+* MOOP
+
+### Where do you need help?
+* Drafting the email to send to the PPIE Community with the drafts
+  * BGT can draft the email -> SB to send a Slack message to BGT and SA group DM  
+* Reminder of what we're been doing for the RCM report
+
+#### Notes
+* Very unwell, waiting for the referral to neurology
 
 
 ## 12 March 2024
