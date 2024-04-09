@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [9 April 2024](#9-April-2024)
 * [12 March 2024](#12-March-2024)
 * [4 March 2024](#4-March-2024)
 * [26 February 2024](#26-February-2024)
@@ -8,6 +9,27 @@
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+
+## 9 April 2024
+### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+* **PPIE Chapter**
+* **Inclusive Events Chapter**
+* **PPIE April Session**
+* **Survey**
+* **RCM Team Reporting**
+* **MOOP**
+
+### What would you like to work on this week?
+* Prep for April 17 PPIE Meeting
+* Send out draft of PPIE chapter for review
+* MOOP
+
+### Where do you need help?
+* Drafting the email to send to the PPIE Community with the drafts 
+
+#### Notes
+* 
 
 
 ## 12 March 2024
