@@ -25,7 +25,12 @@
   * PR has been made https://github.com/the-turing-way/the-turing-way/pull/3602
   * These PRs are still waiting for review: https://github.com/the-turing-way/the-turing-way/pull/3523 and https://github.com/the-turing-way/the-turing-way/pull/3522 (unsure if the second one needs to be resolved or if it needs to wait on a cross reference to content that would be in the Guide for Accessibility) 
 * **PPIE April Session**
+  * Moved due to illness
+  * Date 17 April
+  * Planned for discussion of the draft
+  * May need support facilitating 
 * **Survey**
+  * Send link alongside email last week 
 * **RCM Team Reporting**
 * **MOOP**
 
