@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [18 April 2024](date-18-april-2024)
 * [14 March 2024](date-14-march-2024)
 * [15 February 2024](date-15-february-2024)
 * [09 February 2024](#date-09-february-2024)
@@ -64,6 +65,55 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 18 April 2024
+
+### Check-in ritual
+Been a busy month! Have got on top of things a bit more recently.
+
+### Project specific Reflection
+Has definitely been a bit of a transistionary time for the partnership but again starting to settle down. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Was interviewed about the partnership for the annual report
+* Helped TB and CB with booking a new date for the AI in Pathology event
+* Connected up scholars SB and EV with speakers for their next events
+
+#### Who helped you this week?
+* CH with finding me a Roche speaker for April Knowledge Share
+* AC, LS and EG for being fairly last minute speakers at the scholar cohort call
+* Website team with bugs around event series pages
+
+#### What did you achieve?
+* AI UK!! And created Slack Canvas for new people joining
+* Guest on Code for Thought Podcast
+* Running lab and collaborative meetings
+* Drafted text for partnership structured missingness wikipedia entry
+* March Knowledge Share
+* April Newsletter
+* Generally catching up with scholars- scheduled XZ to film at the office, listened to first draft of podcast, uploaded first animation video to YouTube
+* Ran April Scholar Cohort Call
+* Gave a REG lunchtime tech talk on the partnership
+* Some LinkedIn posts and blog for scholar conference attendance
+* Filled in annual report
+
+#### What did you struggle with?
+* Some push back on new partnership collaborative working- still working it out 
+
+#### What would you like to work on next week?
+* Working out new newsletter system with SF
+* Prepping for April Knowledge Share
+* Planning for May co-working sessions
+* Potentially start draft on early career researcher scheme TTW chapter
+
+#### Where do you need help?
+* Decision on GitHub for partnership 
+
+#### Any other topics
+N/A
+
 
 ## Date 14 March 2024
 
