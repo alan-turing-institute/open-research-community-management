@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [15 April 2024](#15-April-2024)
 * [9 April 2024](#9-April-2024)
 * [12 March 2024](#12-March-2024)
 * [4 March 2024](#4-March-2024)
@@ -9,6 +10,38 @@
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+
+## 15 April 2024
+### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+* **PPIE Chapter**
+  * KW deadline 2 May 2024
+  * ALS has finished reviewing, I'm now making the appropriate changes
+  * Waiting on suggestions from PPIE community! 🎉
+  * "close" for suggestions by next PPIE session (May 8th)
+    * We can always open an "improvements" PR  
+* **Inclusive Events Chapter**
+  * AWG will be taking this forward 
+  * These PRs are still waiting for review: https://github.com/the-turing-way/the-turing-way/pull/3523 and https://github.com/the-turing-way/the-turing-way/pull/3522 (unsure if the second one needs to be resolved or if it needs to wait on a cross reference to content that would be in the Guide for Accessibility) 
+* **PPIE April Session**
+  * This week!
+  * Sydney, Bastian, Sophia facilitating 
+* **Survey**
+  * Will be mentioned in the session this week
+* **MOOP**
+  * Started figuring out the web of where projects are based/institutional links 
+
+### What would you like to work on this week?
+* PPIE session
+  * 5 min session about the chapter 
+* Anne review suggestions
+* any changes to the chapter as an outcome of the PPIE session
+* MOOP 
+
+### Where do you need help?
+* This week is largely task work and depending on Wednesday may need help scoping
+
+#### Notes
 
 
 ## 9 April 2024
