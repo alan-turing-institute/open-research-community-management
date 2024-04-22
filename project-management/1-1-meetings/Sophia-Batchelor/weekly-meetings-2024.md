@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [22 April 2024](#22-April-2024)
 * [15 April 2024](#15-April-2024)
 * [9 April 2024](#9-April-2024)
 * [12 March 2024](#12-March-2024)
@@ -11,6 +12,36 @@
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
 
+# 22 April 2024
+### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+* **PPIE Chapter**
+  * Yay! Feedback was great!
+  * A few of the changes will be made in a v2 (i.e. the checklist)
+    * could be bookdash option
+  * Giulia wants to apply to bookdash with a section for the chapter on (it's in the notes from collab cafe last week)
+    * support her application
+  * Presentation to be done today (sent to Liz for review + BGT) for CW24  
+* **Bookdash**
+  * AWG is keen to do some work on the Inclusive Events Chapter
+  * Giulia wants to apply to bookdash with a section for the chapter on (it's in the notes from collab cafe last week)
+    * support her application
+* **PPIE May Session**
+  * Get overview from Chris B (Turing-Roche)
+  * Send out invites and thank yous for last weeks session
+    * Write up short (5 sentences) about the context of the session and the chapter 
+* **MOOP**
+  * Started figuring out the web of where projects are based/institutional links 
+
+### What would you like to work on this week?
+* Prep for CW 
+  * 5 min session about the chapter
+  * any github merges/PRs/bugs/Prep the chapter and the PR to be merged.  
+* MOOP 
+
+### Where do you need help?
+* Next monday check that the PR is all figured out ahead of CW
+
+#### Notes
 
 ## 15 April 2024
 ### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
