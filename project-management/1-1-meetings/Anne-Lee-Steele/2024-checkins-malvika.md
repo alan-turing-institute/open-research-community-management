@@ -2,8 +2,10 @@
 
 # 23-04-2024
 - Preparation for community forum
-- Community health - presenting tomorrow
+- Community health - presenting tomorrow at RCM team meeting
 - Focus for this week: data protection policy, newsletter, and comms for book dash
+- While MS is on AL: what would you like me to prioritise?
+	- Filing for some AL in May - family is visiting!
 - Progress report
 	- Annual Review 2023 - edited documentation as needed
 	- Documentation post - will add tomorrow
