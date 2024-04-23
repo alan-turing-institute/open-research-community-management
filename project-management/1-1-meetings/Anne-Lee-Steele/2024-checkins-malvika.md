@@ -2,17 +2,22 @@
 
 # 23-04-2024
 - Preparation for community forum
+	- MS: Ping JM & WN asking if they need anything for presentation today. -- ALS: done!
 - Community health - presenting tomorrow at RCM team meeting
+	- MS: I like the angle of the three grand changes from Turing: what can we learn about health (medical understandings, diagnosis), environment (sustainability and well-being), & defense (protection). -- ALS: thanks for this nudge - will do!
 - Focus for this week: data protection policy, newsletter, comms for book dash, accessibility guide draft
 - While MS is on AL: what would you like me to prioritise?
-	- Filing for some AL in May - family is visiting!
+	- MS: Planning for upcoming Fireside Chat with LH - with Society of RSE. Meeting on Thursday
+
+	- ALS: Also filing for some AL in May - family is visiting!
 - Progress report
 	- Annual Review 2023 - edited documentation as needed
 	- Documentation post - will add tomorrow
+		- MS: Making a 'Community Management documentation tracking document' can help you to organise some of the materials you've already created to make them easier to review for the delivery team. -- ALS: thank you for the nudge - will aim to do this throughout this week.
 	- Accessibility policy draft - have tagged needed peopl
-- Navigating upcoming opportunities
-	- MozFest & EASST 4s-web
-	- Ada & other
+- Navigating upcoming opportunities: MozFest & EASST 4s-web
+	- MS: Think through the role that your current work might play with these, in the case of financial support from the Turing. 
+	- ALS: We can review this in a few weeks time when you come back from AL!
 
 # 09-04-2024
 - Collaborations Workshop
