@@ -1,5 +1,17 @@
 ## 1:1 meetings
 
+# 23-04-2024
+- Preparation for community forum
+- Community health - presenting tomorrow
+- Focus for this week: data protection policy, newsletter, and comms for book dash
+- Progress report
+	- Annual Review 2023 - edited documentation as needed
+	- Documentation post - will add tomorrow
+	- Accessibility policy draft - have tagged needed peopl
+- Navigating upcoming opportunities
+	- MozFest & EASST 4s-web
+	- Ada & other
+
 # 09-04-2024
 - Collaborations Workshop
 	- Discussion of deadlines for access-related materials
