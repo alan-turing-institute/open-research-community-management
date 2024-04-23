@@ -14,7 +14,7 @@
 	- Annual Review 2023 - edited documentation as needed
 	- Documentation post - will add tomorrow
 		- MS: Making a 'Community Management documentation tracking document' can help you to organise some of the materials you've already created to make them easier to review for the delivery team. -- ALS: thank you for the nudge - will aim to do this throughout this week.
-	- Accessibility policy draft - have tagged needed peopl
+	- Accessibility policy draft - have tagged needed people
 - Navigating upcoming opportunities: MozFest & EASST 4s-web
 	- MS: Think through the role that your current work might play with these, in the case of financial support from the Turing. 
 	- ALS: We can review this in a few weeks time when you come back from AL!
