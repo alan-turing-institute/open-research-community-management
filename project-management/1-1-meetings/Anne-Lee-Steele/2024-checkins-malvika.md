@@ -9,7 +9,7 @@
 - Progress report
 	- Annual Review 2023 - edited documentation as needed
 	- Documentation post - will add tomorrow
-	- Accessibility policy draft - have tagged needed peopl
+	- Accessibility policy draft - have tagged needed people
 - Navigating upcoming opportunities
 	- MozFest & EASST 4s-web
 	- Ada & other
