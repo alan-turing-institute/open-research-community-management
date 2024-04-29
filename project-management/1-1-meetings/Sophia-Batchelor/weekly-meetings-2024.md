@@ -33,7 +33,7 @@
   * Submitted application
   * Supported Giulia
 * **PPIE May Session**
-  * Invites and session description has been sent
+  * Invites and session description have been sent
   * Waiting for more info re. recording the session
 * **MOOP**
   * No updates this week, just focusing on CW
@@ -42,8 +42,15 @@
 * CW!
 * Prep for PPIE session
 
-### Where do you need help?
+### Notes
 * Final checks for CW PR and presentation.
+* In person day
+  * present on the chapter
+  * ask for input from the larger team (re. blog post, theme 5 promotion)
+  * healthAI survey (get more reponses)
+* send a reminder to fill out the survey
+* Ask Batool to send the survey out in the reminder
+* Openly advertise the survey now
 
 #### Notes
 
