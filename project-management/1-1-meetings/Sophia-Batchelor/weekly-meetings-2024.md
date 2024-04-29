@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [29 April 2024](#29-April-2024)
 * [22 April 2024](#22-April-2024)
 * [15 April 2024](#15-April-2024)
 * [9 April 2024](#9-April-2024)
@@ -11,6 +12,40 @@
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+
+# 22 April 2024
+
+### Tasks this Week 
+**Mon-Thur**
+* Presentation CW24
+* PR live merge CW24
+* Response for BA re. AIM RSF in person day
+* Confirm details for May PPIE session
+**Fri**
+* MOOP
+
+### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+* **PPIE Chapter**
+  * PR to be reviewed in our 1:1
+  * Presentation review/prep
+* **Bookdash**
+  * Submitted application
+  * Supported Giulia
+* **PPIE May Session**
+  * Invites and session description has been sent
+  * Waiting for more info re. recording the session
+* **MOOP**
+  * No updates this week, just focusing on CW
+
+### What would you like to work on this week?
+* CW!
+* Prep for PPIE session
+
+### Where do you need help?
+* Final checks for CW PR and presentation.
+
+#### Notes
 
 # 22 April 2024
 ### Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
