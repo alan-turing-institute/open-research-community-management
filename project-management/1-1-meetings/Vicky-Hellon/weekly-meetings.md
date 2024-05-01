@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [25 April 2024](date-25-april-2024)
 * [18 April 2024](date-18-april-2024)
 * [14 March 2024](date-14-march-2024)
 * [15 February 2024](date-15-february-2024)
@@ -65,6 +66,49 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 25 April 2024
+
+### Check-in ritual
+Been a quieter week for once which has been nice!
+
+### Project specific Reflection
+Been good to take a bit more stock this week- have managed to do some bitty tasks. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Scholars: Recorded some slides for KP, reviewed ZS TTW BookDash application, promoted SB's new event
+
+#### Who helped you this week?
+* BA with GitHub Organisation questions
+* RC with general support for community within the partnership 
+
+#### What did you achieve?
+* Prep meeting with April Knowledge Share speakers (and nice feedback on this!)
+* Added a section on Structured Missingness to the Wikipedia page
+* Made GitHub Organisation
+* Updated partnership publication list on website
+* Submitted my own brief BookDash application
+* Started my TTW early career researcher scheme chapter draft 
+
+#### What did you struggle with?
+* Morale still seems a bit down, need to think about co-working and collaborative meetings going forward
+* Still no newsletter update from comms- me and SF have postponed our co-working session
+  
+#### What would you like to work on next week?
+* Core/Strategy Meeting on Monday
+* April Knowledge Share on Tuesday
+* Hosting a Roche colleague on Thursday
+* Discussing scholar future plans with SM
+* Maybe start May newsletter draft
+
+#### Where do you need help?
+* GitHub Organisation: Reproducible Research Template, license
+* Lot of holiday in May so can we schedule the performance review meeting?
+
+#### Any other topics
+N/A
 
 ## Date 18 April 2024
 
