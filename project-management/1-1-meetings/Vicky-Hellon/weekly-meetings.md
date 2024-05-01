@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [02 May 2024](date-02-may-2024)
 * [25 April 2024](date-25-april-2024)
 * [18 April 2024](date-18-april-2024)
 * [14 March 2024](date-14-march-2024)
@@ -66,6 +67,42 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 02 May 2024
+
+### Check-in ritual
+Feeling ok this week- some nice support from the PDRAs and holiday soon!
+
+### Project specific Reflection
+Strategy meeting was good to reflect on where we are and impact measurement. Rest of the week has been usual events and comms. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Strategy meeting on Monday- advocated for the researchers
+
+#### Who helped you this week?
+* SM with thoughts on scholar scheme future
+  
+#### What did you achieve?
+* Have forked repositories into GitHub organisation and planned a meeting for putting Structured Missingness code up
+* Ran April Knowledge Share- speakers want to connect for a Roche pilot which is great. Uploaded video and follow up
+* Made event pages for May Knowledge Share and two scholar events
+* Scheduled scholar video filming dates
+* Carried on drafting the Ambassador Scheme chapter- hope to try and have a full draft either by the end of the week or early when back from holiday 
+
+#### What did you struggle with?
+* Still uncertainities around measuring impact in the partnership
+
+#### What would you like to work on next week?
+* On holiday!
+* Will be sorting out newsletter and scholar filming when back
+
+#### Where do you need help?
+* Objectives- do I just need to fill in on Cezanne? Have forgotten the process.
+
+#### Any other topics
+N/A
 
 ## Date 25 April 2024
 
