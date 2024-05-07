@@ -26,8 +26,6 @@
   * ➡️ PENDING IN PERSON DAY AIM RSF - Write up blog post for the website?
 
 ### PPIE May Session
-* **Updates:**
-  * None
 * **Next Steps:**
   * ➡️ Run the session
   * ➡️ Write up notes from the session
@@ -42,13 +40,13 @@
   * ➡️ Further direct promotion
 
 ### **MOOP**
-* **Updates:**
-  * None
 * **Next Steps:**
-  * 
+  * finish community mapping
+  * write some words
+  * attendance "lists"
 
 ### What would you like to work on this week?
-* Frameworks to send to Theme 5
+* ✅ Frameworks email to send to Theme 5
   * Get lots of people represented in the video and it'll be a great idea!  
 * Review Objectives (https://hackmd.io/HB1I6thbTHS5eFSIJlG3vw) 
 * MOOP
