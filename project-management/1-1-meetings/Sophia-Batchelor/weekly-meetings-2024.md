@@ -13,6 +13,40 @@
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
 
+# 7 May 2024
+
+## Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+### PPIE Chapter
+* **Updates:**
+  * ✅ Chapter Merged during CW24 🎉
+* **Next Steps:**
+  * ➡️ Open Issues re. the parts to be added and worked on
+  * ➡️ Plan for Bookdash (first week of June)
+  * ➡️ Write up blog post for the website
+
+### PPIE May Session
+* **Updates:**
+  * None
+* **Next Steps:**
+  * ➡️ Run the session
+  * ➡️ Write up notes from the session
+  * ➡️ Add notes to Issue for website
+
+### Survey
+* **Updates:**
+  * ✅ Email sent to Batool and Sydney re. sharing the survey to consortia PPIE 
+* **Next Steps:**
+  * ➡️ Further direct promotion
+
+### **MOOP**
+* **Updates:**
+  * None
+* **Next Steps:**
+  * 
+
+### What would you like to work on this week?
+* MOOP
+
 
 # 29 April 2024
 
