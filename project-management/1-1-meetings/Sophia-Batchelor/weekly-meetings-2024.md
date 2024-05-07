@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [7 May 2024](#7-May-2024)
 * [29 April 2024](#29-April-2024)
 * [22 April 2024](#22-April-2024)
 * [15 April 2024](#15-April-2024)
@@ -22,7 +23,7 @@
 * **Next Steps:**
   * ➡️ Open Issues re. the parts to be added and worked on
   * ➡️ Plan for Bookdash (first week of June)
-  * ➡️ Write up blog post for the website
+  * ➡️ PENDING IN PERSON DAY AIM RSF - Write up blog post for the website?
 
 ### PPIE May Session
 * **Updates:**
@@ -34,7 +35,9 @@
 
 ### Survey
 * **Updates:**
-  * ✅ Email sent to Batool and Sydney re. sharing the survey to consortia PPIE 
+  * ✅ Email sent to Batool and Sydney re. sharing the survey to consortia PPIE
+    * send to PMs so they can distribute
+    * send out as its own email to the Community (on Thursday) 
 * **Next Steps:**
   * ➡️ Further direct promotion
 
@@ -45,8 +48,11 @@
   * 
 
 ### What would you like to work on this week?
+* Frameworks to send to Theme 5
+  * Get lots of people represented in the video and it'll be a great idea!  
+* Review Objectives (https://hackmd.io/HB1I6thbTHS5eFSIJlG3vw) 
 * MOOP
-
+* Community Session
 
 # 29 April 2024
 
