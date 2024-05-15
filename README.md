@@ -26,9 +26,9 @@ Pull this repo and make your edits to files in `/docs`, then:
 5. `git add .` add all changes to the staging area
 6. `git commit -m "[commit message for your changes]"` add a relevant commit message for the changes made
 7. `git push`
-8. View the updated handbook at [https://alan-turing-institute.github.io/environment-and-sustainability-gc-community/](https://alan-turing-institute.github.io/environment-and-sustainability-gc-community/)
+8. View the updated handbook at [https://cassgvp.github.io/open-research-community-management/](https://cassgvp.github.io/open-research-community-management/)
 
-Note there is a workflow [book.yml](/.github/workflows/book.yml) I've tried to get working for this, but haven't managed to crack it yet! It is currently [disabled in the repo settings](https://docs.github.com/en/actions/using-workflows/disabling-and-enabling-a-workflow#disabling-a-workflow)
+Note there is a workflow [build-wiki.yml](/.github/workflows/build-wiki.yml) I've tried to get working for this, but haven't managed to crack it yet! It is currently [disabled in the repo settings](https://docs.github.com/en/actions/using-workflows/disabling-and-enabling-a-workflow#disabling-a-workflow)
 
 ## References
 
