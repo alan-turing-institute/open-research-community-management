@@ -1,0 +1,61 @@
+format: jb-book
+root: index
+parts:
+- caption: Operations
+  chapters:
+  - file: operations/overview.md
+    title: Overview
+  - file: operations/structure.md
+    title: Operational Structure
+  - file: operations/roles-responsibilities.md
+    title: Roles and Responsibilities
+  - file: operations/governance.md
+    title: Governance
+  - file: operations/governance/meetings.md
+    title: Standing meetings
+  - file: operations/governance/reporting.md
+    title: Reporting
+  - file: operations/governance/finance.md
+    title: Finance
+  - file: operations/comms/comms.md
+    title: Communications
+- caption: Community Management
+  chapters:
+  - file: strategy/community-strategy.md
+    title: Community strategy
+  - file: strategy/objectives-srcm.md
+    title: Roadmap
+  - file: stakeholder-mapping/shm-intro.md
+    title: Stakeholder mapping
+    sections:
+    - file: stakeholder-mapping/why-map.md
+      title: Why we map
+    - file: stakeholder-mapping/how-we-map.md
+      title: How we map
+- caption: Projects
+  chapters:
+  - file: projects/index
+    title: List of Projects
+- caption: Resources
+  chapters:
+  - file: resources/index
+    title: List of Resources
+- caption: Community News and Events
+  chapters:
+  - file: news/news
+    title: E&S GC Community News
+  - file: news/events
+    title: Events List
+- caption: Ways of Working
+  chapters:
+  - file: ways-of-working/index
+    title: Our Ways of Working
+  - file: ways-of-working/context
+    title: Context and Background
+  - file: ways-of-working/values
+    title: Values and Principles
+    sections:
+      - file: ways-of-working/values/research-community
+        title: Research Community Management
+      - file: ways-of-working/values/research-application
+        title: Research Application Management

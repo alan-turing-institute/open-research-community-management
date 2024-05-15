@@ -203,6 +203,21 @@ Their engagement with *The Turing Way* project and community should help them un
 - find support for their community work and in exchange support others' work, especially when it is closely aligned with their projects.
 - enhance the technical understanding required in their work and share them more widely via *The Turing Way* (chapters, tutorials, templates or events).
 
+## Updating the wiki
+*Admin should ensure that the github pages settings for the repo are set to build with the source `branch`; branch `gh-pages` `/(root)`.*
+
+Pull this repo and make your edits to files in `/docs`, then:
+1. `pip install -r wiki/requirements.txt`
+2. `jupyter-book build docs`
+3. Follow the onscreen instructions to view a local copy of the html for the book. I use "paste this line directly into your browser bar:" address. Check everything looks good!
+4. `ghp-import -n -p -f wiki/_build/html` to make a branch called `gh-pages` and push the newly built HTML to the `gh-pages` branch.
+5. `git add .` add all changes to the staging area
+6. `git commit -m "[commit message for your changes]"` add a relevant commit message for the changes made
+7. `git push`
+8. View the updated handbook at [https://alan-turing-institute.github.io/environment-and-sustainability-gc-community/](https://alan-turing-institute.github.io/environment-and-sustainability-gc-community/)
+
+Note there is a workflow [book.yml](/.github/workflows/book.yml) I've tried to get working for this, but haven't managed to crack it yet! It is currently [disabled in the repo settings](https://docs.github.com/en/actions/using-workflows/disabling-and-enabling-a-workflow#disabling-a-workflow)
+
 ## References
 
 - Sharan, M., Hellon, V., Karoune, E., Lacey, A., Zormpa, E., Lee Steele, A., & Kayumbi, G. (2023). Research Community Management Team at the Turing. Zenodo. doi: [10.5281/zenodo.7848677](https://zenodo.org/record/7848677)
