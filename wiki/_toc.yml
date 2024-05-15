@@ -1,0 +1,28 @@
+format: jb-book
+root: index
+parts:
+- caption: What RCMs do
+  chapters:
+  - file: background.md
+    title: Background
+  - file: goals.md
+    title: Goals of RCM work
+  - file: briefing-notes.md
+    title: Briefing notes
+  - file: rcm-ttw.md
+    title: Contributing to The Turing Way
+- caption: About the team
+  chapters:
+  - file: team/about-the-team.md
+    title: About the team
+  - file: team/members-collaborators.md
+    title: Members and collaborators
+  - file: team/onboarding.md
+    title: Onboarding
+    sections:
+    - file: meetings.md
+      title: Standing meetings
+- caption: Values and Principles
+  chapters:
+  - file: values-principles.md
+    title: Values and principles
