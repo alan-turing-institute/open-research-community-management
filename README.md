@@ -16,6 +16,7 @@
  - [Previous members](#previous-members)
 - [Important Documents for the Team Members](#important-documents-for-the-team-members)
 - [Working with *The Turing Way*](#working-with-the-turing-way)
+- [Updating the wiki](#updating-the-wiki)
 - [References](#references)
 - [License](#license)
 - [Acknowledgement](#acknowledgement)
