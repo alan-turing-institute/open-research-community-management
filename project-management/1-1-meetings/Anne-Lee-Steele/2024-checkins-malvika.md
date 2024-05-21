@@ -1,5 +1,15 @@
 ## 1:1 meetings
 
+# 21-05-2024
+- New RCM - review of onboarding process
+- Invitation: AIES Symposium
+- Visa letter
+- Fireside Chat
+- Appraisal 2024: documentation
+- Newsletter - due by 25th
+- Data protection
+- Book Dash Planning
+
 # 23-04-2024
 - Preparation for community forum
 	- MS: Ping JM & WN asking if they need anything for presentation today. -- ALS: done!
