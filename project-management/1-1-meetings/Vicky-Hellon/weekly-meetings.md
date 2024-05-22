@@ -1,10 +1,11 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
-* [02 May 2024](date-02-may-2024)
-* [25 April 2024](date-25-april-2024)
-* [18 April 2024](date-18-april-2024)
-* [14 March 2024](date-14-march-2024)
-* [15 February 2024](date-15-february-2024)
+* [23 May 2024](#date-23-may-2024)
+* [02 May 2024](#date-02-may-2024)
+* [25 April 2024](#date-25-april-2024)
+* [18 April 2024](#date-18-april-2024)
+* [14 March 2024](#date-14-march-2024)
+* [15 February 2024](#date-15-february-2024)
 * [09 February 2024](#date-09-february-2024)
 * [01 February 2024](#date-01-february-2024)
 * [13 December 2023](#date-13-december-2023)
@@ -67,6 +68,44 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 22 May 2024
+
+### Check-in ritual
+Feeling ok despite all the instability! Just trying to tie things up before holiday next week
+
+### Project specific Reflection
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Roche colleague FJ attended our lab meeting- seeded some collaboration with a colleague
+* Helped project managers with how we are currently tracking our KPIs and what other trackers we need
+* SN with getting a colleague connected with DSG team
+* Slack poster with a query about missing data- chased up researchers to get him an answer
+* SM researchers with setting up a GitHub repo on Turing-Roche Organisation- question around licensing?
+
+#### Who helped you this week?
+* JF with getting scholar video on big screen 
+
+#### What did you achieve?
+* Reviewed annual report submission for partnership
+* May newsletter
+* Drafted Ambassador Scheme chapter
+* Scholar bits: filming for two projects, planning for AI Pathology Scholar meeting, attending tech talk and translational science method club event
+
+#### What did you struggle with?
+* Still a bit low morale around partnership and missing SM!
+  
+#### What would you like to work on next week?
+* Running Knowledge Share on Tuesday and tying up loose ends before holiday
+* Will be focusing on Book Dash when I get back on the 6th 
+
+#### Where do you need help?
+N/A
+
+#### Any other topics
+Can I submit objectives now?
 
 ## Date 02 May 2024
 
