@@ -2,6 +2,8 @@
 
 *Integrating open science practices through community engagement*
 
+The pages wiki fir this repo is at https://alan-turing-institute.github.io/open-research-community-management/
+
 **Contents**
 - [Important Documents for the Team Members](#important-documents-for-the-team-members)
 - [Updating the wiki](#updating-the-wiki)
