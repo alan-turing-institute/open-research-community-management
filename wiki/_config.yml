@@ -21,7 +21,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/cassgvp/open-research-community-management  # Online location of your book
+  url: http://github.com/alan-turing-institute/open-research-community-management  # Online location of your book
   path_to_book: wiki  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
