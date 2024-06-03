@@ -37,8 +37,7 @@ You can also contact [Malvika Sharan](mailto:msharan@turing.ac.uk) for any quest
     - [Data Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering) (DCE)
 - Cassandra Gould Van Praag, Senior Research Community Manager
   - Project: 
-    - [Turing Research and Innovation Cluster in Digital Twins](https://www.turing.ac.uk/research/harnessing-power-digital-twins/turing-research-and-innovation-cluster-digital-twins) (TRIC:DT)
-      - TPS Team: Trustworthy Systems (Led by Chris Burr)
+    - [Environment and Sustainability Grand Challenge](https://www.turing.ac.uk/research/environment-and-sustainability) (E&S GC)
 - Vicky Hellon, Research Community Manager
   - Project: [GitHub Research](https://github.com/alan-turing-institute/turing-roche-partnership/)
     - [Turing-Roche Strategic Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership)
