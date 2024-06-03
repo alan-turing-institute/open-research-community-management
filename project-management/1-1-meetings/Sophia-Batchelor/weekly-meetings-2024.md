@@ -43,7 +43,7 @@
 * Get back up to speed after a week off (catch up on emails / notifications)
 * Bookdash
 * PPIE Community Session
-* Reasonable Adjustments Training Session? 
+* Reasonable Adjustments Training Session: SB will try to attend as it's an opportunity to understand adjustments in PPIE context
 
 
 # 7 May 2024
