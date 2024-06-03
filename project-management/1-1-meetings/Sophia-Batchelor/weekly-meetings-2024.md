@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [3 June 2024](#3-June-2024)
 * [7 May 2024](#7-May-2024)
 * [29 April 2024](#29-April-2024)
 * [22 April 2024](#22-April-2024)
@@ -13,6 +14,37 @@
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+# 3 June 2024
+
+## Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+### PPIE Chapter
+* **Updates:**
+  * ➡️ Book dash
+* **Next Steps:**
+  * ➡️ Develop summary sections for the chapter (bullet points)
+  * Support Giulia 
+
+### PPIE May Session
+* **Next Steps:**
+  * ➡️ Plan topic for this session: what explanations of AI/data/research "stick" for folks. as in, how has someone explained AI, data, what the project is doing etc in a way that made you understand.
+  * ➡️ Run the session
+  * ➡️ Write up notes from the session
+  * ➡️ Add notes to Issue for website (next week)
+### Chris B Summary Notes
+  * ➡️ Todo!!! 
+
+### **MOOP**
+* **Next Steps:**
+  * write some words
+  * attendance "lists"
+
+### What would you like to work on this week?
+* Get back up to speed after a week off (catch up on emails / notifications)
+* Bookdash
+* PPIE Community Session
+* Reasonable Adjustments Training Session: SB will try to attend as it's an opportunity to understand adjustments in PPIE context
+
 
 # 7 May 2024
 
