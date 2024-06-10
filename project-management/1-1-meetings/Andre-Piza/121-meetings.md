@@ -11,12 +11,15 @@ Check-in ritual
 
 ### Project specific Reflection
 
-*Review your current projects, relation and skill-building that you are working on.*
-(Since last week, review the progress you’ve made towards your goals. Any challenges to mention? Review if we can attract any attention or help highlight your work.)
+* Quick progress - getting up to speed with project.
 
 ### Notes to discuss during 1:1
 
-*You can move points from your reflections to the following sections as needed.*
+* Had meeting with PF about ethics project. Know what I will focus on for this.
+* DB - had discussion about network and how to take forward. Clear now about the ask for the people invited for the network.
+  * have a stakeholder list
+  * draft invitation
+  * have draft blurb about event. Invite to go out this week. 
 
 #### Who did you help this week?
 
@@ -28,8 +31,16 @@ Replace this text with a one/two-sentence description of who helped you this wee
 
 #### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
+* For RSE AHRC capability team:
+  * Distributed a form to attendees.
+  * Ethics form consent.
+  * Stakeholder list
+  * Roadmap
+  * Policy documents - literature review with SSI OS
+    * EK publication  
+  * Design canvas
+* Went to Lancaster last week for workshop - Data/Culture June workshop - Mapreader and newspapers data.
+  * Chance to meet many of the team  
 
 #### What did you struggle with?
 
@@ -43,9 +54,8 @@ Replace this text with a one/two-sentence description of who helped you this wee
 
 #### Where do you need help?
 
-* Replace this text with a bullet point list of what you need help on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Structure/pre for RSE workshop. x 2 or 3. series of workshop with same people.
+  * about 20 people. 
 
 #### Any other topics
 
