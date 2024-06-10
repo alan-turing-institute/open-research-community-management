@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [10 June 2024](#10-June-2024)
 * [3 June 2024](#3-June-2024)
 * [7 May 2024](#7-May-2024)
 * [29 April 2024](#29-April-2024)
@@ -14,6 +15,24 @@
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+# 10 June 2024
+
+## Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+
+### PPIE May Session
+* Summary notes June
+* Summary notes May
+
+### **MOOP**
+* **Next Steps:**
+  * write some words
+  * attendance sumaries
+
+### What would you like to work on this week?
+* Summary notes
+* MOOP
+
 
 # 3 June 2024
 
