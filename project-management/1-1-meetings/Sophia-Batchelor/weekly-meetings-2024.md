@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [10 June 2024](#10-June-2024)
 * [3 June 2024](#3-June-2024)
 * [7 May 2024](#7-May-2024)
 * [29 April 2024](#29-April-2024)
@@ -14,6 +15,28 @@
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+# 10 June 2024
+
+## Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+
+### PPIE Sessions 
+* Summary notes June
+* Summary notes May
+* Chapter and CNC promotion (summary email and/or newsletter)
+
+### **MOOP**
+* **Next Steps:**
+  * write some words
+  * attendance sumaries
+
+### What would you like to work on this week?
+* Summary notes
+* PPIE Paper/MOOP
+
+## Notes
+- clarity needed for Widening Participation Week in Scotland
+- I'm expecting to be busier first week of July (ECR Day) 
 
 # 3 June 2024
 
