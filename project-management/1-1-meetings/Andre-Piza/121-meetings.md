@@ -1,6 +1,6 @@
 # Andre and Emma Catchup meeting notes
 
-* [10 June 20234(#date-10-June-2024)
+* [10 June 2024](#date-10-June-2024)
 * [Template](#template)
 
 
