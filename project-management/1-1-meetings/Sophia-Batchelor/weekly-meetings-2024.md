@@ -20,9 +20,10 @@
 
 ## Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
 
-### PPIE May Session
+### PPIE Sessions 
 * Summary notes June
 * Summary notes May
+* Chapter and CNC promotion (summary email and/or newsletter)
 
 ### **MOOP**
 * **Next Steps:**
@@ -31,8 +32,11 @@
 
 ### What would you like to work on this week?
 * Summary notes
-* MOOP
+* PPIE Paper/MOOP
 
+## Notes
+- clarity needed for Widening Participation Week in Scotland
+- I'm expecting to be busier first week of July (ECR Day) 
 
 # 3 June 2024
 
