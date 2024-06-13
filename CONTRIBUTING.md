@@ -5,9 +5,9 @@ First of all, thanks for taking the time to contribute to this repository! 🎉�
 This repository is a place to share resources for the Open Research Community Building team and we welcome suggestions and contributions, especially drawing from the projects we participate in.
 As an open source repository, we encourage anyone reading this repository to report mistakes and errors, propose changes in our existing resources or suggest new resources.
 
-We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all the activities and projects involved in this event.
+We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all the activities and projects involved in the development and maintenance of this repository and related resources.
 
-Whatever is your interest and availability, there is a way to contribute to this GitHub repository.
+Whatever your interest and availability, there is a way to contribute to this GitHub repository.
 
 🏃 I only have 5 minutes, but I want to know if I can reuse materials from this repository
 ---
