@@ -1,5 +1,21 @@
 ## 1:1 meetings
 
+# 18-06-2024
+- Appraisal 2024: documentation – any updates I need to do on Cezanne?
+- Debrief: Book Dash and Fireside Chat
+- June/July Fireside Chat - discussion with AC?
+- Discussion about working remotely for extended period of time – family discussion (will follow up by email with next steps after verbal)
+	- Registering leave early/mid July
+- Newsletter - due by 25th - ongoing
+- Widening Participation – completing draft of materials by 27 June
+- Code for Thought - discussion planned for 9am on Thursday
+- Team updates -> how will team meetings change with changes in team?
+- Onboarding progress reports
+	- Data protection policies: onboarding
+	- Onboarding call: upcoming 26 June
+	- Outreach for final book dash tasks happening this week: follow-up emails, processing recordings, scriberia images
+	- Annual Review 2023
+
 # 21-05-2024
 - New RCM - review of onboarding process
 - Invitation: AIES Symposium
@@ -18,7 +34,6 @@
 - Focus for this week: data protection policy, newsletter, comms for book dash, accessibility guide draft
 - While MS is on AL: what would you like me to prioritise?
 	- MS: Planning for upcoming Fireside Chat with LH - with Society of RSE. Meeting on Thursday
-
 	- ALS: Also filing for some AL in May - family is visiting!
 - Progress report
 	- Annual Review 2023 - edited documentation as needed
