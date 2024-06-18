@@ -15,6 +15,7 @@
 	- Onboarding call: upcoming 26 June
 	- Outreach for final book dash tasks happening this week: follow-up emails, processing recordings, scriberia images
 	- Annual Review 2023
+	- Guide for Accessibility
 
 # 21-05-2024
 - New RCM - review of onboarding process
