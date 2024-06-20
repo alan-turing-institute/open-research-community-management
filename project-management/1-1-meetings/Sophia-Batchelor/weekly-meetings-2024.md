@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [20 June 2024](#20-June-2024)
 * [10 June 2024](#10-June-2024)
 * [3 June 2024](#3-June-2024)
 * [7 May 2024](#7-May-2024)
@@ -15,6 +16,41 @@
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+# 20 June 2024
+
+## Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+
+### Widening Participation 
+* Scotland session cancelled
+* Met with Ayesha + Cass and then Ayesha + Cass + Anne for planning and prep for the other sessions
+
+### Accessibility Working Group / Accessible Events chapter
+* Updated WG on progress and next tasks: https://annuel2.framapad.org/p/ttw-accessibility-wg
+* Opened issue for the chapter
+* Opened issue and PR for website accessibility content
+* Draft of the Accessibility Guide is tracking for June 27th
+
+### PPIE Sessions 
+* Summary notes June (in progress)
+* Summary notes May (in progress)
+* Chapter and CNC promotion (summary email and/or newsletter)
+
+### **MOOP**
+* **Next Steps:**
+  * write some words
+  * add May and June attendance stats
+
+### What would you like to work on this week?
+* Summary notes
+* PPIE Paper/MOOP
+
+## Notes
+- Been quite unwell past few weeks so have struggled to finish tasks off. I think I'm starting to come right again and energy is coming back a bit.
+- I'm shifting days an hour back to give migraine meds time to take effect and its worked well the past few days
+
+
+
 
 # 10 June 2024
 
