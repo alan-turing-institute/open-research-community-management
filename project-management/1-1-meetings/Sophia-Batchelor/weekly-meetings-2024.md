@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [20 June 2024](#20-June-2024)
 * [10 June 2024](#10-June-2024)
 * [3 June 2024](#3-June-2024)
 * [7 May 2024](#7-May-2024)
@@ -15,6 +16,53 @@
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+# 20 June 2024
+
+## Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+
+### Widening Participation 
+* Scotland session cancelled
+* Met with Ayesha + Cass and then Ayesha + Cass + Anne for planning and prep for the other sessions
+
+### Accessibility Working Group / Accessible Events chapter
+* Updated WG on progress and next tasks: https://annuel2.framapad.org/p/ttw-accessibility-wg
+* Opened issue for the chapter
+* Opened issue and PR for website accessibility content
+* Draft of the Accessibility Guide is tracking for June 27th
+
+### PPIE Sessions 
+* Summary notes June (in progress)
+* Summary notes May (in progress)
+* Chapter and CNC promotion (summary email and/or newsletter)
+
+### **MOOP**
+* **Next Steps:**
+  * write some words
+  * add May and June attendance stats
+ 
+### RCM
+* Briefing notes (released soon)
+* Still supporting the RCM paper (with case studies)
+
+### What would you like to work on in the week ahead?
+* Cezanne check calendar
+* Summary notes
+* PPIE Paper/MOOP
+* RCM monthly progress updates (due Tuesday)
+* Prep for July session (see what Steph has to say)
+  * future of the community
+    * do people want to take it forward?
+    * who would have the capacity to support it? - suggest consideration and asynchronous conversation
+    * what resources and information would be needed if it ends/if someone else continues it? (if we discuss this now - then there's time to work on off/onboarding materials)
+    * Batool to bring this as an agenda item in PMs meeting, separate email to be sent to PMs re. if you are unable to attend, can you discuss this with your team and PPIE reps. 
+
+## Notes
+- Been quite unwell past few weeks so have struggled to finish tasks off. I think I'm starting to come right again and energy is coming back a bit.
+- I'm shifting days an hour back to give migraine meds time to take effect and its worked well the past few days.
+
+
+
 
 # 10 June 2024
 
