@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [28 June 2024](#date-28-june-2024)
 * [13 June 2024](#date-13-june-2024)
 * [23 May 2024](#date-23-may-2024)
 * [02 May 2024](#date-02-may-2024)
@@ -69,6 +70,51 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 28 June 2024
+
+### Check-in ritual
+Doing ok this week- nice to see TPS people!
+
+### Project specific Reflection
+All Hands was the focus this week and also been thinking a bit about the scholars.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* DB with chat about Turing fellows- also will schedule another chat to talk about community management 
+
+#### Who helped you this week?
+* BT and SB with recruiting patients for AI Pathology event
+* FY and RC with scholar predictive modelling animation video
+* CM team with ideas for scholar celebration event
+* CB agreed to be speaker at August Cohort Call
+* NM with DiSC profile chat
+
+#### What did you achieve?
+* Sent June newsletter
+* Ran All Hands Meeting on monday- felt like it went well
+* Put out two new conference blogs from scholars
+* AI Pathology Event planning
+* Reviewed scholar animation video
+
+#### What did you struggle with?
+* Some partnership bits still not connecting up e.g Enrichment students
+* Not heard back from comms re: yearbook- hoping I can just edit a template myself if worse comes to worse
+
+#### What would you like to work on next week?
+* Brainstorming scholar stuff with SM- will be good to catchup as shes been really busy
+* Doing a scholar interview video on Monday
+* More AI Pathology Event planning
+* Partnership Theory of Change discissions- can we move our 1:1?
+
+#### Where do you need help?
+* Interesting to hear about the partnership sitting outside the health grand challenge- intrigued for your thoughts!
+
+#### Any other topics
+N/A
+
+
 
 ## Date 13 June 2024
 
