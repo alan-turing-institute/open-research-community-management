@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [13 June 2024](#date-13-june-2024)
 * [23 May 2024](#date-23-may-2024)
 * [02 May 2024](#date-02-may-2024)
 * [25 April 2024](#date-25-april-2024)
@@ -69,7 +70,47 @@
 -----
 ## 
 
-## Date 22 May 2024
+## Date 13 June 2024
+
+### Check-in ritual
+Doing alright- feeling caught up from holiday now.
+
+### Project specific Reflection
+Focus on the scholars again this week and also thinking about all hands meeting coming up. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Scholars: scheduling next recordings for KP, reviewed SR's predictive modelling animated video, discussing next TSciM event with SB
+* Planning meeting on AI Pathology event with TB and CB
+
+#### Who helped you this week?
+* EK with TTW chapter integration!
+* Comms team ran me through new newsletter platform which I'm excited to use 
+
+#### What did you achieve?
+* Prepped June's newsletter
+* Ran June Cohort Call for scholars
+* Caught up with Roche Comms- AF is doing an event at Roche next week which is interesting
+* Book Dash!
+* Drafted agenda for All Hands and discussing it with team
+  
+#### What did you struggle with?
+* Collaborative meetings balance between too many and too little, something to think about...
+* May's Knowledge Share cancellation... will pick up fresh in September
+
+#### What would you like to work on next week?
+* Carrying on with All Hands prep 
+* AI Pathology event prep
+* Scholars end of scheme prep- planning yearbook, end of scheme celebration event and feedback form
+
+#### Where do you need help?
+* Any ideas for end of scholar scheme event?
+
+#### Any other topics
+N/A
+
+## Date 23 May 2024
 
 ### Check-in ritual
 Feeling ok despite all the instability! Just trying to tie things up before holiday next week
