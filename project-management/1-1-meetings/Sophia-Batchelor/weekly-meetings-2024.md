@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [1 July 2024](#1-July-2024)
 * [20 June 2024](#20-June-2024)
 * [10 June 2024](#10-June-2024)
 * [3 June 2024](#3-June-2024)
@@ -16,6 +17,44 @@
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+# 1 July 2024
+
+## Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+
+### Widening Participation 
+* No further updates beyond planning out activities for the students during RCM co-working 
+
+### PPIE Sessions 
+* Session this week
+* Have been trying to prepare questions and ways to stimulate conversation so that it's not stale.
+  *  Been thinking about asking people what they have enjoyed
+  *  Is this different from other/previous communities you've been a part of
+  *  What would you like to happen
+  *  What is needed for that to happen 
+
+### RCM
+* Gave PPIE updates to H1 reporting 
+* Still supporting the RCM paper (with case studies)
+
+### What would you like to work on in the week ahead?
+* Lots of events this week which will fill up the time
+  * ECR day
+  * PPIE session
+  * Collaboration Cafe
+  * AutSPACEs (would love to sync up about the chapter 
+
+* Cezanne check calendar
+* Summary notes
+* PPIE Paper/MOOP
+* RCM monthly progress updates (due Tuesday)
+* Prep for July session (see what Steph has to say)
+  * future of the community
+    * do people want to take it forward?
+    * who would have the capacity to support it? - suggest consideration and asynchronous conversation
+    * what resources and information would be needed if it ends/if someone else continues it? (if we discuss this now - then there's time to work on off/onboarding materials)
+    * Batool to bring this as an agenda item in PMs meeting, separate email to be sent to PMs re. if you are unable to attend, can you discuss this with your team and PPIE reps.
+   
 
 # 20 June 2024
 
