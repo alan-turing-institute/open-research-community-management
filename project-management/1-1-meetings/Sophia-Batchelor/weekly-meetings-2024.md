@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [8 July 2024](#8-July-2024)
 * [1 July 2024](#1-July-2024)
 * [20 June 2024](#20-June-2024)
 * [10 June 2024](#10-June-2024)
@@ -17,6 +18,23 @@
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+# 8 July 2024
+
+## Health Updates
+* Struggling with migraines since Thursday, so taking it easy
+
+## Upcoming/outstanding tasks
+- Notes from July PPIE CoP session
+  - also notes from May/June still outstanding
+    - just keep names/attendance records, drop the rest as now not useful
+    - CB already has raw notes
+- MOOP
+  - BGT can schedule the meeting with Steph for August 2nd
+- Case studies
+  - struggle with how different AIM consortia approach PPIE and demonstrate meaningful engagement
+  - Suggestion: Make "menu" of PPIE things that we could talk about and ask Beth which bits they recommend to include?
+  - 
 
 # 1 July 2024
 
