@@ -3,6 +3,58 @@
 * [10 June 2024](#date-10-June-2024)
 * [Template](#template)
 
+## TEMPLATE: Date: 2024-07-08
+
+Check-in ritual
+(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
+
+### Project specific Reflection
+
+*Review your current projects, relation and skill-building that you are working on.*
+* Not as much progress as the last weeks. CBW had events and I also had lots of meetings and the event on Friday. Need to make space this week to write A&H RSe workshop plan and report for PF even if requires clearing some meetings.
+
+### Notes to discuss during 1:1
+
+*You can move points from your reflections to the following sections as needed.*
+
+#### Who did you help this week?
+
+EK with the People in Data Event
+
+#### Who helped you this week?
+
+AAA with introduction to Goat Herding.
+
+#### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+* got to a good number of responses for the A&H RSE event in July. Not many people will be in-person, but all that responded so far signed up to contribute.
+
+#### What did you struggle with?
+
+* Reduced capacity: it was a "short" week with events and meetings + part of the team on leave.
+  
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* Report to PF on progress regarding the lit review on indigenous people's data policies. Have a A&H RSE roadmap workshop draft plan ready for DB to comment when he is back from leave.
+ 
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help on.
+* Goat Herding (first time)
+* External perspectives on the A&H RSE roadmap workshop plan.
+
+#### Any other topics
+
+- This space is yours to add to as needed.
+- Is there any particular reading/topic/task we want to explore and bring to our next meetings?
+- Speak to Emma about synergies around Data/Culture, People in Data, Step Up.
+
+*CC BY 4.0 License, reused from the [Whitaker Lab Project Management Repository](https://github.com/WhitakerLab/Onboarding/blob/lab-meetings/Setting-up-your-weekly-meetings.md)*
+
+
+
 
 ## Date: 2024-06-10
 
