@@ -1,17 +1,15 @@
 # Andre and Emma Catchup meeting notes
 
+* [08 July 2024](#date-08-July-2024)
 * [10 June 2024](#date-10-June-2024)
 * [Template](#template)
 
-## TEMPLATE: Date: 2024-07-08
+## Date: 2024-07-08
 
-Check-in ritual
-(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)
 
 ### Project specific Reflection
 
-*Review your current projects, relation and skill-building that you are working on.*
-* Not as much progress as the last weeks. CBW had events and I also had lots of meetings and the event on Friday. Need to make space this week to write A&H RSe workshop plan and report for PF even if requires clearing some meetings.
+* Not as much progress as the last weeks. CBW had events and I also had lots of meetings and the event on Friday. Need to make space this week to write A&H RSE workshop plan and report for PF even if requires clearing some meetings.
 
 ### Notes to discuss during 1:1
 
@@ -19,16 +17,16 @@ Check-in ritual
 
 #### Who did you help this week?
 
-EK with the People in Data Event
+* EK with the People in Data Event
+  * EK - Thanks for your help as a discussion group facilitator!  
 
 #### Who helped you this week?
 
-AAA with introduction to Goat Herding.
+* AAA with introduction to Goat Herding.
 
 #### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* got to a good number of responses for the A&H RSE event in July. Not many people will be in-person, but all that responded so far signed up to contribute.
+* Got to a good number of responses for the A&H RSE event in July. Not many people will be in-person, but all that responded so far signed up to contribute.
 
 #### What did you struggle with?
 
@@ -36,23 +34,25 @@ AAA with introduction to Goat Herding.
   
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* Report to PF on progress regarding the lit review on indigenous people's data policies. Have a A&H RSE roadmap workshop draft plan ready for DB to comment when he is back from leave.
+* Report to PF on progress regarding the lit review on indigenous people's data policies.
+  * EK - I'm impressed you have managed to get this done so quickly, well done ⭐ 
+* Have a A&H RSE roadmap workshop draft plan ready for DB to comment when he is back from leave.
  
 #### Where do you need help?
 
-* Replace this text with a bullet point list of what you need help on.
 * Goat Herding (first time)
 * External perspectives on the A&H RSE roadmap workshop plan.
+  * EK - Let's try to book a meeting for this next week or work async on it.  
 
 #### Any other topics
 
-- This space is yours to add to as needed.
-- Is there any particular reading/topic/task we want to explore and bring to our next meetings?
-- Speak to Emma about synergies around Data/Culture, People in Data, Step Up.
+Things we need to do together:
+- Co-work in RCM community documentation - we decided to us the RCM coworking for this.
+- Speak to EK about synergies around Data/Culture, People in Data, Step Up - have a meeting in august about this.
 
-*CC BY 4.0 License, reused from the [Whitaker Lab Project Management Repository](https://github.com/WhitakerLab/Onboarding/blob/lab-meetings/Setting-up-your-weekly-meetings.md)*
-
+- Our annual leave over summer:
+- AP - 06 - 15 August.
+- EK - 21 Aug to 1 September.
 
 
 
