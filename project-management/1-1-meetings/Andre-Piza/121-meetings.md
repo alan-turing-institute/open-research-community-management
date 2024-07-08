@@ -49,6 +49,7 @@
 Things we need to do together:
 - Co-work in RCM community documentation - we decided to us the RCM coworking for this.
 - Speak to EK about synergies around Data/Culture, People in Data, Step Up - have a meeting in august about this.
+- Chatted about integrating Turing way into our community work.
 
 - Our annual leave over summer:
 - AP - 06 - 15 August.
