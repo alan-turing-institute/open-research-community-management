@@ -1,7 +1,60 @@
 # Andre and Emma Catchup meeting notes
 
+* [08 July 2024](#date-08-July-2024)
 * [10 June 2024](#date-10-June-2024)
 * [Template](#template)
+
+## Date: 2024-07-08
+
+
+### Project specific Reflection
+
+* Not as much progress as the last weeks. CBW had events and I also had lots of meetings and the event on Friday. Need to make space this week to write A&H RSE workshop plan and report for PF even if requires clearing some meetings.
+
+### Notes to discuss during 1:1
+
+*You can move points from your reflections to the following sections as needed.*
+
+#### Who did you help this week?
+
+* EK with the People in Data Event
+  * EK - Thanks for your help as a discussion group facilitator!  
+
+#### Who helped you this week?
+
+* AAA with introduction to Goat Herding.
+
+#### What did you achieve?
+
+* Got to a good number of responses for the A&H RSE event in July. Not many people will be in-person, but all that responded so far signed up to contribute.
+
+#### What did you struggle with?
+
+* Reduced capacity: it was a "short" week with events and meetings + part of the team on leave.
+  
+#### What would you like to work on next week?
+
+* Report to PF on progress regarding the lit review on indigenous people's data policies.
+  * EK - I'm impressed you have managed to get this done so quickly, well done ⭐ 
+* Have a A&H RSE roadmap workshop draft plan ready for DB to comment when he is back from leave.
+ 
+#### Where do you need help?
+
+* Goat Herding (first time)
+* External perspectives on the A&H RSE roadmap workshop plan.
+  * EK - Let's try to book a meeting for this next week or work async on it.  
+
+#### Any other topics
+
+Things we need to do together:
+- Co-work in RCM community documentation - we decided to us the RCM coworking for this.
+- Speak to EK about synergies around Data/Culture, People in Data, Step Up - have a meeting in august about this.
+- Chatted about integrating Turing way into our community work.
+
+- Our annual leave over summer:
+- AP - 06 - 15 August.
+- EK - 21 Aug to 1 September.
+
 
 
 ## Date: 2024-06-10
