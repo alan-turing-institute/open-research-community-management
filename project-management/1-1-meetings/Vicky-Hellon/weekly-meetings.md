@@ -1,5 +1,6 @@
 # Vicky + Emma (previously Malvika) 1:1 Catch-up Minutes
 
+* [11 July 2024](#date-11-july-2024)
 * [28 June 2024](#date-28-june-2024)
 * [13 June 2024](#date-13-june-2024)
 * [23 May 2024](#date-23-may-2024)
@@ -70,6 +71,50 @@
 * [23 November 2021](#date-23-november-2021)
 -----
 ## 
+
+## Date 11 July 2024
+
+### Check-in ritual
+Feeling ok this week but a bit reactive- looking forward to having the AI in Pathology event over and then hopefully some more breathing space.
+
+### Project specific Reflection
+New postdocs starting so need to onboard them to the project- think it will be a bit of a bitty summer and then back into routine properly in September. Still working on scholars stuff too.
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Onboarded EP
+* Helped enrichment team with advise about stipend for their community champions
+* Partnership team with theory of change discussions
+
+#### Who helped you this week?
+* Comms with new newsletter system
+
+#### What did you achieve?
+* Got invited to Future Festival in Slovakia!
+  * EK - This is amazing news! Congrats! Make sure to shout about this in TPS and Turing! :rocket:
+* Did a video interview recording for scholar KP
+* Did some scholar celebration event planning with SM- need to try and carve out some time to work on it as keeps getting pushed
+* AI Pathology Event Planning
+
+#### What did you struggle with?
+* Bit of back and forth with PPIE members that SB and BT helped me sort
+  * EK - Well done fro escalating this issue - this is exactly how to handle it.  
+* Me and AP met for shadowing but were both quite frazzled so have moved it further down the line
+  * Ek - it's fine to make this minimal if you are both busy. 
+
+#### What would you like to work on next week?
+* Try and send out newsletter
+* Deliver AI Pathology Event!
+* Work on some scholar stuff
+
+#### Where do you need help?
+* Think all good- appreciate you helping out with AI in Pathology event
+  * EK - happy to be online helper - looking forward to it. 
+
+#### Any other topics
+N/A
+
 
 ## Date 28 June 2024
 
