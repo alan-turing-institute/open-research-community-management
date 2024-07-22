@@ -1,7 +1,35 @@
 # Andre and Emma Catchup meeting notes
 
-* [10 June 2024](#date-10-June-2024)
-* [Template](#template)
+## Date: 2024-07-22
+
+### Project specific Reflection
+
+* Good progress on both workstrands (RSE Capability and Indigenous Data). 
+
+### Notes to discuss during 1:1
+* RSE capability workshop is next week. Have a first draft of the workshop - feedback welcome.
+* Partnership with Pittsburgh and Brazil developing in the Indigenous data work
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+* AB with the workshop structure, as well as KS.
+  
+#### What did you achieve?
+
+* Got a workshop structure
+* Met potential partners in Pittsburgh - will start a document for joint workshop in Dec 2024
+   
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+#### Where do you need help?
+
+* Think through what it means for A&H to be under D&S
+
+#### Any other topics
 
 
 ## Date: 2024-06-10
