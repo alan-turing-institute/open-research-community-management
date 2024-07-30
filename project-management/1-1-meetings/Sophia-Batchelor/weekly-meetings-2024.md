@@ -1,5 +1,8 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [30 July 2024](#30-July-2024)
+* [8 July 2024](#8-July-2024)
+* [1 July 2024](#1-July-2024)
 * [20 June 2024](#20-June-2024)
 * [10 June 2024](#10-June-2024)
 * [3 June 2024](#3-June-2024)
@@ -16,6 +19,89 @@
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+
+# 30 July 2024
+
+## Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+
+### Widening Participation 
+* Maybe only helping with the London sessions so that I can focus on AIM RSF work.
+
+### PPIE Sessions 
+* Session week after next 
+* Data Wrangler may be able to attend the session
+
+### RCM
+* I'm goathearding
+* Briefing notes coming up but am hoping to repurpose the case studies
+* Less work from RCM team currently yay!
+
+### Paper 
+* BGT has made great progress, I need to add in some sections and details. 
+
+### Case Studies 
+* progressing, need info from consortia
+* now that we have some of it, can start properly drafting
+
+### Other 
+* Bastian will be away 8th to 20th August 
+
+
+# 8 July 2024
+
+## Health Updates
+* Struggling with migraines since Thursday, so taking it easy
+
+## Upcoming/outstanding tasks
+- Notes from July PPIE CoP session
+  - also notes from May/June still outstanding
+    - just keep names/attendance records, drop the rest as now not useful
+    - CB already has raw notes
+- MOOP
+  - BGT can schedule the meeting with Steph for August 2nd
+- Case studies
+  - struggle with how different AIM consortia approach PPIE and demonstrate meaningful engagement
+  - Suggestion: Make "menu" of PPIE things that we could talk about and ask Beth which bits they recommend to include?
+  - 
+
+# 1 July 2024
+
+## Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+
+### Widening Participation 
+* No further updates beyond planning out activities for the students during RCM co-working 
+
+### PPIE Sessions 
+* Session this week
+* Have been trying to prepare questions and ways to stimulate conversation so that it's not stale.
+  *  Been thinking about asking people what they have enjoyed
+  *  Is this different from other/previous communities you've been a part of
+  *  What would you like to happen
+  *  What is needed for that to happen 
+
+### RCM
+* Gave PPIE updates to H1 reporting 
+* Still supporting the RCM paper (with case studies)
+
+### What would you like to work on in the week ahead?
+* Lots of events this week which will fill up the time
+  * ECR day
+  * PPIE session
+  * Collaboration Cafe
+  * AutSPACEs (would love to sync up about the chapter 
+
+* Cezanne check calendar
+* Summary notes
+* PPIE Paper/MOOP
+* RCM monthly progress updates (due Tuesday)
+* Prep for July session (see what Steph has to say)
+  * future of the community
+    * do people want to take it forward?
+    * who would have the capacity to support it? - suggest consideration and asynchronous conversation
+    * what resources and information would be needed if it ends/if someone else continues it? (if we discuss this now - then there's time to work on off/onboarding materials)
+    * Batool to bring this as an agenda item in PMs meeting, separate email to be sent to PMs re. if you are unable to attend, can you discuss this with your team and PPIE reps.
+   
 
 # 20 June 2024
 
