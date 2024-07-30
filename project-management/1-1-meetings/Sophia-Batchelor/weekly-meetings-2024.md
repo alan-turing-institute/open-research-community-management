@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [30 July 2024](#30-July-2024)
 * [8 July 2024](#8-July-2024)
 * [1 July 2024](#1-July-2024)
 * [20 June 2024](#20-June-2024)
@@ -18,6 +19,34 @@
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+
+# 30 July 2024
+
+## Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+
+### Widening Participation 
+* Maybe only helping with the London sessions so that I can focus on AIM RSF work.
+
+### PPIE Sessions 
+* Session week after next 
+* Data Wrangler may be able to attend the session
+
+### RCM
+* I'm goathearding
+* Briefing notes coming up but am hoping to repurpose the case studies
+* Less work from RCM team currently yay!
+
+### Paper 
+* BGT has made great progress, I need to add in some sections and details. 
+
+### Case Studies 
+* progressing, need info from consortia
+* now that we have some of it, can start properly drafting
+
+### Other 
+* Bastian will be away 8th to 20th August 
+
 
 # 8 July 2024
 
