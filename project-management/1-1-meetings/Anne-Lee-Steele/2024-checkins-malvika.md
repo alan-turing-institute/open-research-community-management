@@ -1,5 +1,12 @@
 ## 1:1 meetings
 
+# 30-07-2024
+- Improving communication
+- Senior researcher & PM role
+- Book Dash Accessibility requests
+- Book Dash Community Forum
+- Accessibility WG - recruitment (2+ people)
+
 # 18-06-2024
 - Appraisal 2024: documentation – any updates I need to do on Cezanne?
 - Debrief: Book Dash and Fireside Chat
