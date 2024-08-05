@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [5th August 2024](#5-August-2024)
 * [30 July 2024](#30-July-2024)
 * [8 July 2024](#8-July-2024)
 * [1 July 2024](#1-July-2024)
