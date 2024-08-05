@@ -1,5 +1,6 @@
 # Sophia and Bastian Weekly Meeting Notes 
 
+* [5th August 2024](#5-August-2024)
 * [30 July 2024](#30-July-2024)
 * [8 July 2024](#8-July-2024)
 * [1 July 2024](#1-July-2024)
@@ -19,6 +20,33 @@
 * [5 February 2024](#5-February-2024)
 * [29 January 2024](#29-January-2024)
 * [23 January 2024](#23-January-2024)
+
+# 5 August 2024
+
+## Project Updates [[taskboard]](https://github.com/orgs/aim-rsf/projects/15/views/2)
+* Main update is that I'm a bit stressed that EVERYTHING has a deadline of 4 weeks time.
+  * It feels like Case Studies need to be the first to be focused on as there's drafting back and forth between Beth and I.
+  * Then the paper. But I'm unsure if there is wiggle room within the team for me to push back paper work if I can't get it done. 
+
+### Widening Participation 
+* Maybe only helping with the London sessions so that I can focus on AIM RSF work.
+
+### PPIE Sessions 
+* Session week after next (moved the session back).
+* Working on finding a back up speaker and how to best seed discussion in the room. 
+
+### Paper 
+* Great meeting on Friday.
+* Small deadline of end of August. 
+
+### Case Studies 
+* progressing, need info from consortia - we have a lot of it now. 
+* now that we have some of it, I can start properly drafting this week.
+
+### Other 
+* Bastian will be away 8th to 20th August 
+
+
 
 
 # 30 July 2024
