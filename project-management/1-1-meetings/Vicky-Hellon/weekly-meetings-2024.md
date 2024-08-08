@@ -24,6 +24,7 @@ Doing ok this week- feel like I've got on top of a few things.
 
 ### Project specific Reflection
 Hoping to clear my schedule a bit in the next few weeks so I can do the longer term thinking on strategy etc.
+* EK - I'm (and MS) very happy to help where we can with the strategy/legacy plan fro Turing-Roche so link us in. 
 
 ### Notes to discuss during 1:1
 
@@ -38,6 +39,7 @@ Hoping to clear my schedule a bit in the next few weeks so I can do the longer t
 
 #### What did you achieve?
 * AI in Pathology event- got great feedback
+ * EK - I also heard great feedback from people about this event so well done! 
 * Prepping for Slovakia Future Festival talk
 * Onboarded two new PDRAs- EP and VR
 * Checked in with the scholars- some exciting outputs like the podcast!
@@ -59,6 +61,7 @@ Hoping to clear my schedule a bit in the next few weeks so I can do the longer t
 
 #### Where do you need help?
 * Feedback on Slovakia slides when I've drafted them a bit more
+  * EK - very happy to look at these - exciting talk!
 
 #### Any other topics
 N/A
