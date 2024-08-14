@@ -1,5 +1,6 @@
 # Weekly Meetings with Emma Karoune 2024
 
+* [15 August 2024](#date-15-august-2024)
 * [08 August 2024](#date-08-august-2024)
 * [11 July 2024](#date-11-july-2024)
 * [28 June 2024](#date-28-june-2024)
@@ -16,6 +17,47 @@
 
 -----
 ## 
+## Date 15 August 2024
+
+### Check-in ritual
+Feeling alright this week- definitely seems to have holiday calmed down.
+
+### Project specific Reflection
+Focus on scholars stuff and Slovakia slides. Got some really nice feedback from one of the scholars which made my week!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* EV scholar with tech talk 
+
+#### Who helped you this week?
+* AC with advice on international relations
+* EK with speakers for scholar event! And CH finding me a Roche speaker
+* CB gave a great talk on ethics at scholar cohort call
+
+#### What did you achieve?
+* GitGood Workshop
+* August Scholar Cohort Call
+* Drafted Slovakia slides and wrote a quote for their LinkedIn page
+* Sorted out merch for scholar celebration event
+* Scheduled new co-working and lab meetings till end of year
+* Listened to scholar podcasts and did comms about it on Health LinkedIn
+
+#### What did you struggle with?
+* Hate making slides haha
+
+#### What would you like to work on next week?
+* August newsletter
+* Need to review some scholars bits- conference blogs, Turing Way chapter
+* Help scholar SB with TSciM event
+* Finalise Slovakia slides after leadership review
+
+#### Where do you need help?
+* Slides review!
+
+#### Any other topics
+N/A
+
 
 ## Date 08 August 2024
 
