@@ -1,5 +1,6 @@
 # Weekly Meetings with Emma Karoune 2024
 
+* [08 August 2024](#date-08-august-2024)
 * [11 July 2024](#date-11-july-2024)
 * [28 June 2024](#date-28-june-2024)
 * [13 June 2024](#date-13-june-2024)
@@ -15,6 +16,56 @@
 
 -----
 ## 
+
+## Date 08 August 2024
+
+### Check-in ritual
+Doing ok this week- feel like I've got on top of a few things.
+
+### Project specific Reflection
+Hoping to clear my schedule a bit in the next few weeks so I can do the longer term thinking on strategy etc.
+* EK - I'm (and MS) very happy to help where we can with the strategy/legacy plan fro Turing-Roche so link us in. 
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* TB and CB with AI in Pathology Event!
+* DP with advice on networking at event he is running
+
+#### Who helped you this week?
+* JF with getting new scholar video up on big screen
+* CB with agreeing to talk at Scholar Cohort Call next week
+* SF with newsletter formatting on new system
+
+#### What did you achieve?
+* AI in Pathology event- got great feedback
+ * EK - I also heard great feedback from people about this event so well done! 
+* Prepping for Slovakia Future Festival talk
+* Onboarded two new PDRAs- EP and VR
+* Checked in with the scholars- some exciting outputs like the podcast!
+* Put some scholar conference blogs live and did comms
+* Caught up with SM- finalising planning for celebration event and planning yearbook
+
+#### What did you struggle with?
+* Some scholar stuff a bit behind but hoping they will catchup over summer. Have cohort call next week as a check-in
+* General Turing vibes
+* Comms- worried about yearbook design timelines but will get assets first and see
+
+#### What would you like to work on next week?
+* GitHub workshop delivery!
+* Cohort call on Monday (last one 😭) and scholar tech-talk event on the Tuesday
+* Catching up with AC from international team (much needed)
+* More celebration event planning
+* Continue drafting Slovakia slides
+* Draft August newsletter
+
+#### Where do you need help?
+* Feedback on Slovakia slides when I've drafted them a bit more
+  * EK - very happy to look at these - exciting talk!
+
+#### Any other topics
+N/A
+
 
 ## Date 11 July 2024
 
