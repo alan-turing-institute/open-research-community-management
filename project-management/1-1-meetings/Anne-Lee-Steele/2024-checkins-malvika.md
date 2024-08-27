@@ -1,5 +1,14 @@
 ## 1:1 meetings
 
+# 27-08-2024
+- Book Dash
+- September Fireside Chat - 12 September 2024 - getting ready for promotion!
+- October/November Fireside Chat - suggestion from Esther
+- Community Forum - 3 October 2024
+- Writing updates for review
+- Planning Coworking
+- August Newsletter draft - forthcoming!
+
 # 30-07-2024
 - Improving communication
 - Senior researcher & PM role
