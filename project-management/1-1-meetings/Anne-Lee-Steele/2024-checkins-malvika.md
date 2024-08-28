@@ -5,8 +5,10 @@
 - September Fireside Chat - 12 September 2024 - getting ready for promotion!
 - October/November Fireside Chat - suggestion from Esther
 - Community Forum - 3 October 2024
-- Writing updates for review
-- Planning Coworking
+	- Adding script & information to community handbook about community forum
+- Writing updates for community handbook
+	- Community Health
+	- Community Research
 - August Newsletter draft - forthcoming!
 
 # 30-07-2024
