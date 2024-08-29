@@ -6,10 +6,12 @@
 - October/November Fireside Chat - suggestion from Esther
 - Community Forum - 3 October 2024
 	- Adding script & information to community handbook about community forum
-- Writing updates for community handbook
+- Documentation
 	- Community Health
 	- Community Research
+	- Community Calls: https://github.com/the-turing-way/the-turing-way/pull/3533
 - August Newsletter draft - forthcoming!
+- New RPM placement for TTW - yay!
 
 # 30-07-2024
 - Improving communication
