@@ -1,5 +1,6 @@
 # Weekly Meetings with Emma Karoune 2024
 
+* [05 September 2024](#date-05-september-2024)
 * [15 August 2024](#date-15-august-2024)
 * [08 August 2024](#date-08-august-2024)
 * [11 July 2024](#date-11-july-2024)
@@ -17,6 +18,49 @@
 
 -----
 ## 
+## Date 05 September 2024
+
+### Check-in ritual
+Can't believe summer has gone so quick! Gearing up for a busy September. 
+
+### Project specific Reflection
+Focus on events: Slovakia trip, Roche Innovation day, All Hands Meeting and Scholar Celebration event
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Caught new partnership scientific lead DP up with everything community based
+* Did shadowing with AP- gave advice on Enrichment students and scholars
+* Found DB a Roche speaker for PhD Connect event
+  
+#### Who helped you this week?
+* SM with finalising plans for scholar event- really helpful
+* Turing-Roche team with practice Slovakia talk
+* AC from Roche Comms- planned a piece on my talk for Roche internal site
+
+#### What did you achieve?
+* Sent out August newsletter
+* Scholar bits: put together the yearbook from scratch with additions from each student, reviewed JB's and ZS's TTW chapters, posted various scholar conference blogs on Turing website and Health LinkedIn, helped SB and EV with their final scholar events (TSciM and Tech talk), uploaded DT and FT podcasts to YouTube channel
+* Scholar celebration event prep: finalised agenda, making slides, prepped external speakers
+* Reviewed CDSS paper (do we need to chase NF on this?)
+* Finalised Slovakia slides and memorised talk
+
+#### What did you struggle with?
+* Lot of short term priorities at the moment so not much long term planning
+
+#### What would you like to work on next week?
+* Send off yearbook draft to comms
+* Final scholar interview recording for KP
+* Try and prep Roche innovation day slides
+* Tues-Thurs in Slovakia and off on Friday
+
+#### Where do you need help?
+N/A
+
+#### Any other topics
+* Need to cancel 1:1 next week
+* Senior update?
+
 ## Date 15 August 2024
 
 ### Check-in ritual
@@ -28,7 +72,7 @@ Focus on scholars stuff and Slovakia slides. Got some really nice feedback from 
 ### Notes to discuss during 1:1
 
 #### Who did you help this week?
-* EV scholar with tech talk 
+* EV scholar with tech talk
 
 #### Who helped you this week?
 * AC with advice on international relations
