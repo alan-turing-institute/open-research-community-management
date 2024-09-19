@@ -1,5 +1,18 @@
 ## 1:1 meetings
 
+# 19-09-2024
+- Check-ins with new team-members! Woohoo!
+- Uploaded fireside chat - just have to process some small edits!
+- Documentation updates:
+	- Community Health blog - ready to review with team
+	- Script for community forum documentation
+	- Governance blog - review
+- Upcoming events:
+	- Community Forum - moved dates?
+	- Book Dash deadline
+	- Fireside Chat - planning (?)
+- Newsletter (September 2024)
+
 # 27-08-2024
 - Book Dash
 - September Fireside Chat - 12 September 2024 - getting ready for promotion!
