@@ -2,6 +2,7 @@
 
 # 19-09-2024
 - Check-ins with new team-members! Woohoo!
+- Enrichment students - starting in October 2024
 - Uploaded fireside chat - just have to process some small edits!
 - Documentation updates:
 	- Community Health blog - ready to review with team
