@@ -1,5 +1,6 @@
 # Weekly Meetings with Emma Karoune 2024
 
+* [19 September 2024](#date-19-september-2024)
 * [05 September 2024](#date-05-september-2024)
 * [15 August 2024](#date-15-august-2024)
 * [08 August 2024](#date-08-august-2024)
@@ -18,6 +19,42 @@
 
 -----
 ## 
+## Date 19 September 2024
+
+### Check-in ritual
+Feeling very tired! Looking forward to some re-grouping downtime in October after a manic September
+
+### Project specific Reflection
+Roche Innovation Day, All Hands Meeting and Scholar Celebration Day all coming up in the next week and a half, so focus on these
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* Updating publication tracker and advising TR researchers on OA policy
+
+#### Who helped you this week?
+* ER has said she will sort me a yearbook draft by the end of September which is exciting
+
+#### What did you achieve?
+* Slovakia trip itself, wrote up notes and started to do some of the follow up actions
+* Scholar bits: recording last Hot Seat video and reviewing final edits, podcast comms, reviewed XZ's documentary, reviewed ZS TTW chapter, reviewed SR final video, posted final conference blogs
+* Memorising Roche Innovation Day Slides
+* Agenda and planning for All Hands Meeting
+
+#### What did you struggle with?
+* Just task switching amongst different priorities
+
+#### What would you like to work on next week?
+* All the events! Need to finalise scholar day quite urgently
+* Will also try and get started on the briefing note
+* Also need to write a piece for Roche Comms on the Slovakia trip
+
+#### Where do you need help?
+Will definitely appreciate your eyes on the briefing note once I get started
+
+#### Any other topics
+N/A
+
 ## Date 05 September 2024
 
 ### Check-in ritual
