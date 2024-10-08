@@ -1,6 +1,6 @@
 ## 1:1 meetings
 
-# 19-09-2024
+# 08-10-2024
 - LD check-ins - getting system sorted
 - Enrichment students - starting this week
 - Book Dash - reviws in process
