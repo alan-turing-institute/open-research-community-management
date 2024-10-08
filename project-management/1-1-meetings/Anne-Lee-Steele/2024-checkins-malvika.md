@@ -6,7 +6,9 @@
 - Book Dash - reviws in process
 - Documentation updates
 - Community call - checking in with working groups
-- Remote working - checkin
+	- do we have a facilitator?
+	- documentation/script etc
+- Flexible working 
 
 # 19-09-2024
 - Check-ins with new team-members! Woohoo!
