@@ -8,7 +8,10 @@
 - Community call - checking in with working groups
 	- do we have a facilitator?
 	- documentation/script etc
-- Flexible working 
+- Flexible working form
+- RCM report - due ?
+- TTW report - due ?
+- TTW brief
 
 # 19-09-2024
 - Check-ins with new team-members! Woohoo!
