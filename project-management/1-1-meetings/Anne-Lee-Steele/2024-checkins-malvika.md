@@ -1,6 +1,14 @@
 ## 1:1 meetings
 
 # 19-09-2024
+- LD check-ins - getting system sorted
+- Enrichment students - starting this week
+- Book Dash - reviws in process
+- Documentation updates
+- Community call - checking in with working groups
+- Remote working - checkin
+
+# 19-09-2024
 - Check-ins with new team-members! Woohoo!
 - Enrichment students - starting in October 2024
 - Uploaded fireside chat - just have to process some small edits!
