@@ -2,16 +2,18 @@
 
 # 08-10-2024
 - LD check-ins - getting system sorted
-- Enrichment students - starting this week
-- Book Dash - reviws in process
+	- MS: images are uploaded - brainstorm how to maintain google sheet with alt text, in afterword of book, Hacktoberfest contributions, Github training testing with alt text. Add previous alt text that we have already. Not necessarily re-creating, just being able to add to great. 
+- Enrichment students - starting this week.
+- Book Dash - reviws in process. Sp
+	- MS: Is there a place to post working group updates/projects in the book dash repo? 
 - Documentation updates
 - Community call - checking in with working groups
 	- do we have a facilitator?
 	- documentation/script etc
 - Flexible working form
-- RCM report - due ?
-- TTW report - due ?
-- TTW brief
+- RCM report - due 11 Oct
+- TTW report - due 11 Oct
+- TTW brief - next two weeks (before lunch)
 
 # 19-09-2024
 - Check-ins with new team-members! Woohoo!
