@@ -1,10 +1,14 @@
 ## 1:1 meetings
 
+# 17-10-24
+- LD check-ins - getting system sorted
+- Flexible working
+
 # 08-10-2024
 - LD check-ins - getting system sorted
 	- MS: images are uploaded - brainstorm how to maintain google sheet with alt text, in afterword of book, Hacktoberfest contributions, Github training testing with alt text. Add previous alt text that we have already. Not necessarily re-creating, just being able to add to great. 
 - Enrichment students - starting this week.
-- Book Dash - reviws in process. Sp
+- Book Dash - reviws in process. 
 	- MS: Is there a place to post working group updates/projects in the book dash repo? 
 - Documentation updates
 - Community call - checking in with working groups
