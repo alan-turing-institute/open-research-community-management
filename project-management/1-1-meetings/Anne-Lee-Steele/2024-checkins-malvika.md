@@ -1,7 +1,10 @@
 ## 1:1 meetings
 
 # 17-10-24
-- LD check-ins - getting system sorted
+- Priorities
+	- Community call
+	- Book Dash
+	- Newsletter
 - Flexible working
 
 # 08-10-2024
