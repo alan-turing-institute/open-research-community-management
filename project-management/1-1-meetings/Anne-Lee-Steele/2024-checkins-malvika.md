@@ -2,9 +2,10 @@
 
 # 17-10-24
 - Priorities
-	- Community call
+	- Community forum
 	- Book Dash
 	- Newsletter
+	- Enrichment students
 - Flexible working
 
 # 08-10-2024
