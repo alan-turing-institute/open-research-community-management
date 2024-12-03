@@ -1,5 +1,27 @@
 ## 1:1 meetings
 
+# 03-12-24 
+- annual newsletter (year end review) - send latest by 19th/20th
+  - excel review/annual review for 
+- the turing way brief - send over to MS
+- quarterly report update - make issue and ping MS
+- community forum
+  - email + slack pings to WG chairs
+- collaboration cafe
+- accessibility policy - discussion on 4th december collaboration cafe
+- addresses for communications for merch
+- status of book dash working group -- for organising next week
+- book dash working group - status?
+   - is there a handover process for the chair? can a discussion be planned?
+   - we need to make sure that LD can support WGs in the future
+   - status discussion will happen
+- accessibility working group: think about whether or not to merge with onboarding group
+- pros/cons for new guide for accessibility guide vs integrating into guide for ethics - put forward recommendation (https://github.com/the-turing-way/the-turing-way/issues/3783)
+   - 15 january: have discussion at collaboration cafe (maintenance plan, what kind of support is available, working group, responsibility to rest of book)
+   - important to understand process of creating a new guide in general for broader community & maintenance plan
+- 'onboarding working group' as a separate group or merging with accessibility? don't have an institutional home
+- offboarding documentation
+
 # 17-10-24
 - Priorities
 	- Community forum
