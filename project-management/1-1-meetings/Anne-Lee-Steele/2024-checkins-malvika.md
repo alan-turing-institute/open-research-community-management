@@ -1,5 +1,10 @@
 ## 1:1 meetings
 
+# 20-01-25 
+- Updates on realignment process
+- Prioritisation for January period
+- Adding to updates: https://annuel2.framapad.org/p/ttw-github-update-list
+
 # 03-12-24 
 - annual newsletter (year end review) - send latest by 19th/20th
   - excel review/annual review for 
