@@ -1,5 +1,6 @@
 # Weekly Meetings with Emma Karoune 2024
 
+* [26 September 2024](#date-26-september-2024)
 * [19 September 2024](#date-19-september-2024)
 * [05 September 2024](#date-05-september-2024)
 * [15 August 2024](#date-15-august-2024)
@@ -19,6 +20,46 @@
 
 -----
 ## 
+
+## Date 26 September 2024
+
+### Check-in ritual
+Feeling good to have the Roche talk done and almost at the end of the tunnel for the other events. 
+
+### Project specific Reflection
+Roche talk this week and also supporting scholars last minute to get all their projects finalised before Monday!
+
+### Notes to discuss during 1:1
+
+#### Who did you help this week?
+* AP with advice on a science writer for his workshops
+* Got DP access to Turing-Roche drive
+
+#### Who helped you this week?
+* RC with some extra feedback on ZS TTW chapter
+  
+#### What did you achieve?
+* Made a very quick start on the briefing note
+* Roche Innovation Day talk
+* Wrote a comms piece on my Slovakia trip that was posted on the Roche internal site
+* Connected up Slovakia contacts with relevant Turing ones
+* Scholar stuff: helped ZS integrate her TTW chapter, reviewed all of KPs videos and uploaded to the YouTube channel, some scholars comms on the LinkedIn page, reviewed JB TTW chapter
+* Finalised All Hands agenda
+* Final scholar celebration event prep and reminders
+* Drafted and sent off September newsletter
+
+#### What did you struggle with?
+N/A
+
+#### What would you like to work on next week?
+* Scholar celebration event!
+* Briefing note
+* Finalising scholar yearbook
+
+#### Where do you need help?
+N/A
+
+
 ## Date 19 September 2024
 
 ### Check-in ritual
@@ -48,9 +89,11 @@ Roche Innovation Day, All Hands Meeting and Scholar Celebration Day all coming u
 * All the events! Need to finalise scholar day quite urgently
 * Will also try and get started on the briefing note
 * Also need to write a piece for Roche Comms on the Slovakia trip
+* Newsletter
 
 #### Where do you need help?
-Will definitely appreciate your eyes on the briefing note once I get started
+* Will definitely appreciate your eyes on the briefing note once I get started
+* Connecting up contacts from Slovakia
 
 #### Any other topics
 N/A
