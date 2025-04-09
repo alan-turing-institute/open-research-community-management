@@ -1,8 +1,8 @@
 ---
-name: "Sunsetting"
+name: Sunsetting
 about: Create an issue for each project being closed to document audit and close activities
 title: "[SUNSETTING]"
-labels: 'sunsetting'
+labels: ''
 assignees: ''
 
 ---
@@ -56,4 +56,3 @@ assignees: ''
 ## Github issues and project boards
 - [ ] Close github issues
 - [ ] Update project board
-
