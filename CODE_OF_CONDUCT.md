@@ -206,24 +206,20 @@ All reports will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
-Together we strive to foster an environment where everyone feels valued, respected, and included.
+Together, we strive to foster an environment where everyone feels valued, respected, and included.
 
 ## 10. Reporting Incident
 
 **10.1** Code of Conduct Contact for Reporting
 
 If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
-by contacting the Team Lead, Malvika Sharan (email: msharan@turing.ac.uk). Malvika will involve
-the Senior Research Community Managers except when any potential conflict of interest
+by contacting the Team Lead, Emma Karoune (email: ekaroune@turing.ac.uk). Emma will involve
+the Senior Research Community Managers, except when any potential conflict of interest
 with any of them may arise.
 
-To report an issue involving the team lead, please email directly to
-Emma Karoune (email: ekaroune@turing.ac.uk).
+To report an issue involving the team lead, please email Arielle Bennett (abennett@turing.ac.uk).
 
-You can directly contact the Tools, Practices and Systems Programme Director, Kirstie Whitaker (kwhitaker@turing.ac.uk). 
-You can also reach out to our Programme Manager Arielle Bennett (abennett@turing.ac.uk) - who is also our appointed ombudsperson. 
-
-**10.2** In your report please include:
+**10.2** In your report, please include:
 
 - Your contact information.
 
@@ -237,7 +233,7 @@ You can also reach out to our Programme Manager Arielle Bennett (abennett@turing
 
 **10.3** Confidentiality of Reporter(s)
 
-We will respect the confidentiality of reporter(s) all the time to protect individuals 
+We will respect the confidentiality of reporter(s) at all times to protect individuals 
 who have been harmed. In case the reporter's identity can not be hidden (if easily identified 
 through the details of the report), the person handling the Code of Conduct report will discuss 
 the possible ways to protect reporters from future incidents.
