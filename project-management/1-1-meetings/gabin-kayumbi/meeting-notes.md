@@ -10,7 +10,6 @@
 #### Who did you help this week?
 
 
-
 #### Who helped you this week?
 
 
@@ -18,7 +17,6 @@
 
 
 #### What did you struggle with?
-
 
 
 #### What would you like to work on next week?
