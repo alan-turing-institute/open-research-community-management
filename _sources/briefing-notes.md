@@ -1,9 +1,11 @@
 # Briefing notes
 
-You can find several presentations about the RCM team, their work and their skills-building engagements in this repository shared under the [Team Related Communications](./team-related-comms) directory.
+Selected presentations about the RCM team, its work, and its skills-building engagements are available in the repository's [team-related communications directory](https://github.com/alan-turing-institute/open-research-community-management/tree/main/team-related-comms).
 
-Read some specific examples from our work across individual projects in the following Briefing Notes:
-* [RSS DATA LAB - Health Community](../team-related-comms/briefing-notes/2023-RCM-Briefing_Turing-RSSHealthDataLab_community-EK.pdf)
-* [Turing-Roche Partnership's Community](../team-related-comms/briefing-notes/2023-RCM-Briefing_Turing-Roche_community-VH.pdf)
-* [*The Turing Way* Community](../team-related-comms/briefing-notes/2023-RCM-Briefing_TuringWay_community-ALS.pdf)
-* [AIM-RSF Open Collaboration Community](../team-related-comms/briefing-notes/2023-RCM-Briefing_AIM-RSF-OpenCollab_community-EZ.pdf)
+The following briefing notes document examples from individual projects:
+
+- [*The Turing Way* - ASG Project](https://github.com/alan-turing-institute/open-research-community-management/blob/main/team-related-comms/briefing-notes/2022-ASG-Briefing_0_TuringWay.pdf)
+- [RSS DATA LAB - Health Community](https://github.com/alan-turing-institute/open-research-community-management/blob/main/team-related-comms/briefing-notes/2023-RCM-Briefing_Turing-RSSHealthDataLab_community-EK.pdf)
+- [Turing-Roche Partnership's Community](https://github.com/alan-turing-institute/open-research-community-management/blob/main/team-related-comms/briefing-notes/2023-RCM-Briefing_Turing-Roche_community-VH.pdf)
+- [*The Turing Way* Community](https://github.com/alan-turing-institute/open-research-community-management/blob/main/team-related-comms/briefing-notes/2023-RCM-Briefing_TuringWay_community-ALS.pdf)
+- [AIM-RSF Open Collaboration Community](https://github.com/alan-turing-institute/open-research-community-management/blob/main/team-related-comms/briefing-notes/2023-RCM-Briefing_AIM-RSF-OpenCollab_community-EZ.pdf)
