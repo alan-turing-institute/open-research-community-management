@@ -1,8 +1,8 @@
 # The historic team
 
-> **Historic information:** This page records the former Research Community Management team's remit and approach. It does not describe the current structure of The Alan Turing Institute.
+> **Historic information:** This page records the former Research Community Management team's remit and approach. It does not describe the current structure of The Alan Turing Institute. The RCM role itself continues to be practised in research communities around the world.
 
-The TPS Research Programme hosted the RCMs within the **Open Research Community Management** team.
+The TPS Research Programme hosted the RCMs within the **Open Research Community Management** team, which was established at the Turing in 2022 and operated until 2026. Malvika Sharan led the team from 2022 to 2024, and Emma Karoune led it from 2025 to 2026.
 As community experts, RCMs were allocated to projects across different programmes and connected them as a joint-up system of open-source and reproducible software, data, people, and processes.
 By sharing knowledge developed in different projects, both scientific outcomes and socio-technical approaches, the team worked to break down silos in the research environment.
 
@@ -22,3 +22,27 @@ The team facilitated open and collaborative work, embedded EDIA (Equity, Diversi
 ```{note}
 The team was part of the Tools, Practices and Systems (TPS) research programme at The Alan Turing Institute, which was directed by Kirstie Whitaker.
 ```
+
+## Leadership
+
+| Period | Team lead |
+|---|---|
+| 2022–2024 | Malvika Sharan, TPS Senior Researcher for Open Research |
+| 2025–2026 | Emma Karoune |
+
+Alongside leading the team, Malvika Sharan led *The Turing Way*, *The Turing Way* Practitioners Hub, and the Turing-Crick Partnership, and was a co-Principal Investigator of the Data Science and AI Educators' Programme and of Trustworthy and Ethical Assurance of Digital Twins (TEA-DT), which was led by Christopher Burr.
+
+## RCMs across the Turing
+
+By the later years of the team, RCMs were distributed across Turing Missions and projects, as described on the Turing's [Community Management and Open Research](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) programme page. Their work included:
+
+- identifying the community workflows and processes a project needed and integrating them into its work;
+- presenting about projects and training new audiences in open source, reproducibility, collaborative research, and ethics;
+- welcoming members of Turing project communities into open source working and helping design governance and decision-making processes; and
+- facilitating discussions on research and community best practices throughout the project lifecycle.
+
+See [historic members and collaborators](members-collaborators.md) for the people and projects involved.
+
+## The RCM role continues
+
+The closure of the Turing's team does not mean the end of the role. RCMs continue to work in research projects, institutions, and open communities around the world, and the [paper on professionalising community management](../paper-guide.md) and the [resource library](../resources.md) are intended to support them.
