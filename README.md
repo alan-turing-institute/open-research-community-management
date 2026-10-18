@@ -1,49 +1,53 @@
-[This repo is no longer maintained!]
+# Open Research Community Management
 
-# Open Research Community Management at The Alan Turing Institute
+*Integrating open research practices through community engagement.*
 
-*Integrating open science practices through community engagement*
+> **Project status:** This repository is no longer actively maintained. It preserves resources and working practices developed by the Open Research Community Management team at The Alan Turing Institute.
 
-The pages wiki for this repo is at https://alan-turing-institute.github.io/open-research-community-management/
+The published handbook is available at [alan-turing-institute.github.io/open-research-community-management](https://alan-turing-institute.github.io/open-research-community-management/).
 
-**Contents**
-- [Important Documents for the Team Members](#important-documents-for-the-team-members)
-- [Updating the wiki](#updating-the-wiki)
-- [References](#references)
-- [License](#license)
-- [Acknowledgement](#acknowledgement)
-   
-## Important Documents for the Team Members
+## About this repository
 
-- [Code of Conduct](./CODE_OF_CONDUCT.md): Please familiarise yourself with the Code of Conduct, and enforcement procedure to help us create a welcoming and safe space for everyone who contributes to the team and this project repository.
-- [Project Management](./project-management): Please find details about how we manage the Open Research Community Management team.
-- [Ways of Working](./project-management/ways-of-working.md): This document describes the structure and organisation of the Open Research Community Management Team, clarifying expectations and support structure to help enable your work. The Turing members should also check the [Governance](https://www.turing.ac.uk/about-us/governance) to understand the organisation's structure and policies that apply to them.
+Research Community Managers (RCMs) support open, inclusive, and reproducible research by connecting people, projects, and shared resources. This repository records the team's approaches, guidance, and selected communications.
 
-## Updating the wiki
-*Admin should ensure that the github pages settings for the repo are set to build with the source `branch`; branch `gh-pages` `/(root)`.*
+| Location | Contents |
+| --- | --- |
+| [`wiki/`](./wiki/) | Source for the published Jupyter Book handbook |
+| [`project-management/`](./project-management/) | Team practices, meeting material, and reference resources |
+| [`resources/`](./resources/) | Reusable guides and supporting material |
+| [`team-related-comms/`](./team-related-comms/) | Briefing notes, case studies, and presentations |
+| [`the-turing-way-core/`](./the-turing-way-core/) | Links and guidance for contributing to *The Turing Way* |
 
-Pull this repo and make your edits to files in `/docs`, then:
-1. `pip install -r wiki/requirements.txt`
-2. `jupyter-book build wiki`
-3. Follow the onscreen instructions to view a local copy of the html for the book. I use "paste this line directly into your browser bar:" address. Check everything looks good!
-4. `ghp-import -n -p -f wiki/_build/html` to make a branch called `gh-pages` and push the newly built HTML to the `gh-pages` branch.
-5. `git add .` add all changes to the staging area
-6. `git commit -m "[commit message for your changes]"` add a relevant commit message for the changes made
-7. `git push`
-8. View the updated handbook at [https://cassgvp.github.io/open-research-community-management/](https://cassgvp.github.io/open-research-community-management/)
+Read the [Code of Conduct](./CODE_OF_CONDUCT.md) before participating. The team's [ways of working](./project-management/ways-of-working.md) describe its structure and expectations.
 
-Note there is a workflow [build-wiki.yml](/.github/workflows/build-wiki.yml) I've tried to get working for this, but haven't managed to crack it yet! It is currently [disabled in the repo settings](https://docs.github.com/en/actions/using-workflows/disabling-and-enabling-a-workflow#disabling-a-workflow)
+## Build the handbook locally
 
-## References
+The handbook is a [Jupyter Book](https://jupyterbook.org/) whose source lives in [`wiki/`](./wiki/). Use Python 3.11, the version used by the deployment workflow:
 
-- Sharan, M., Hellon, V., Karoune, E., Lacey, A., Zormpa, E., Lee Steele, A., & Kayumbi, G. (2023). Research Community Management Team at the Turing. Zenodo. doi: [10.5281/zenodo.7848677](https://zenodo.org/record/7848677)
-- _The Turing Way_ Handbook: https://the-turing-way.netlify.app/welcome, GitHub repository: https://github.com/alan-turing-institute/the-turing-way
+```bash
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install -r wiki/requirements.txt
+jupyter-book build wiki
+```
 
-## License 
+Open `wiki/_build/html/index.html` in a browser to review the output. Generated files are ignored and must not be committed.
 
-All content in this repository is [openly licensed](./LICENSE.md) with a CC BY 4.0, which means you're free to use the materials and remix them so long as you ***credit the source***.
-More on CC BY 4.0 license can be found at [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
+## Publish to GitHub Pages
 
-## Acknowledgement
+Changes merged into `main` build and deploy automatically through [the Pages workflow](./.github/workflows/build-wiki.yml). Repository administrators must configure **Settings → Pages → Build and deployment → Source** as **GitHub Actions** once. The workflow publishes a Pages artifact; it does not create or update a `gh-pages` branch.
 
-Our project management documentation and processes are partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr Kirstie Whitaker and the Whitaker Lab repository used under CC BY 4.0.
+## Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for the contribution workflow, documentation conventions, and pull-request checklist. As this is an archive, maintainers may not be able to review or merge new contributions promptly.
+
+## Reference
+
+Sharan, M., Hellon, V., Karoune, E., Lacey, A., Zormpa, E., Lee Steele, A., & Kayumbi, G. (2023). *Research Community Management Team at the Turing*. Zenodo. [10.5281/zenodo.7848677](https://doi.org/10.5281/zenodo.7848677)
+
+The practices here also draw on [*The Turing Way*](https://the-turing-way.netlify.app/welcome) and [Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement).
+
+## License
+
+All content is available under the [Creative Commons Attribution 4.0 International license](./LICENSE.md). You may reuse and adapt it with appropriate attribution; see [Creative Commons](https://creativecommons.org/licenses/by/4.0/) for the license terms.

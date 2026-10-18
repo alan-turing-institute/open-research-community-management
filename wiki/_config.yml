@@ -1,32 +1,28 @@
-# Book settings
-# Learn more at https://jupyterbook.org/customize/config.html
+title: Open Research Community Management
+author: Research Community Managers at The Alan Turing Institute
+copyright: "2023, The Alan Turing Institute"
 
-title: Turing Open Research Community Management
-author: Turing RCMs
-# logo: "assets/images/logo-book.png"
-
-# Force re-execution of notebooks on each build.
-# See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: force
+  execute_notebooks: "off"
 
-# Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
     targetname: book.tex
 
-# Add a bibtex file so that we can create citations
 bibtex_bibfiles:
   - references.bib
 
-# Information about where the book exists on the web
 repository:
-  url: http://github.com/alan-turing-institute/open-research-community-management  # Online location of your book
-  path_to_book: wiki  # Optional path to your book, relative to the repository root
-  branch: main  # Which branch of the repository should be used when creating links (optional)
+  url: https://github.com/alan-turing-institute/open-research-community-management
+  path_to_book: wiki
+  branch: main
 
-# Add GitHub buttons to your book
-# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
   use_issues_button: true
   use_repository_button: true
+  use_edit_page_button: true
+  home_page_in_navbar: true
+
+sphinx:
+  config:
+    html_baseurl: https://alan-turing-institute.github.io/open-research-community-management/

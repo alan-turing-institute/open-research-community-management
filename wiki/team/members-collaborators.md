@@ -10,13 +10,9 @@ Many of the RCMs work on projects under the Health Programme or projects involvi
 All resources developed to support/facilitate their work as RCMs and as experts from their respective projects will be shared via this repository (by removing any project-specific sensitive information).
 Practices and case studies learned from their work will be shared in *The Turing Way* wherever possible.
 
-The RCM team also hosts members with community-oriented roles currently collaborating with TPS or *The Turing Way*
+The RCM team also hosts members with community-oriented roles currently collaborating with TPS or *The Turing Way*.
 
-New members are onboarded by the team lead and added as a contributor to this project repository.
-Please [create an issue for your induction](https://github.com/alan-turing-institute/community-manager-team/issues/new?assignees=&labels=onboarding&template=NEW_MEMBERS.md&title=%5BINDUCTION%5D) (if not already created by the project lead).
-
-If you are not already collaborating with TPS, but are interested in community management, please join *The Turing Way* community.
-You can also contact [Malvika Sharan](mailto:msharan@turing.ac.uk) for any questions or resources regarding community management developed by the team.
+The historic induction process used repository issues. As this archive is no longer actively maintained, contact the current project lead for onboarding in an active project.
 
 ## TPS Senior Researcher and Team Lead
 
@@ -32,7 +28,7 @@ You can also contact [Malvika Sharan](mailto:msharan@turing.ac.uk) for any quest
     - Other Health projects
       - [Turing-RSS Health Data Lab](https://www.turing.ac.uk/research/research-projects/turing-rss-health-data-lab)
       - [DECOVID](https://www.turing.ac.uk/research/research-projects/decovid)
-- Gabin Wilfried Kayumbi, Senior Research Community Manager  
+- Gabin Wilfried Kayumbi, Senior Research Community Manager
   - Project:
     - [Data Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering) (DCE)
 - Cassandra Gould Van Praag, Senior Research Community Manager

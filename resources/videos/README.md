@@ -14,11 +14,10 @@ Please do add any resources and links that you find in addition to what we have 
 * Contact Turing comms team to get professional video production - contact is Dan Whitfield or Sian Fortt. 
 
 ### Making your own video - general guidance
-* See the [recording tips guide from ELIXIR-UK](https://github.com/alan-turing-institute/open-community-building/blob/video-resources-docs/resources/videos/recording-tips.md)
+* See the local [recording tips guide](./recording-tips.md), adapted from ELIXIR-UK resources.
 
 ### Recording tools/software
 * Link to [SSI fellowship video recording guide](https://www.software.ac.uk/fellowship-programme/2022/application-video-guide) - using OBS studio and Zoom.
-* [Recording in powerpoint](https://github.com/alan-turing-institute/open-community-building/blob/video-resources-docs/resources/videos/how-to-record-powerpoint-windows.pdf) - by ELIXIR-UK.
 * [Adobe Express](https://www.adobe.com/express/?sdid=SL4KM9XN&mv=search&ef_id=Cj0KCQjwxIOXBhCrARIsAL1QFCaOkz_ueKsN_5a6bps292Zt68BgNBDFTuB46uss9MpkryzbNR5cC7kaAgV3EALw_wcB:G:s&s_kwcid=AL!3085!3!589020195299!p!!g!!express%20adobe!16624093353!135127940375) is a free video editor that lets you add some simple effects. However you can only edit the video in 30 second intervals so this will not be useful for long videos!
 
 ### Making videos accessible
@@ -57,5 +56,4 @@ More information links:
 
 ## Acknowledgements
 * Thanks for Xènia Pérez Sitjà, Data Stewardship Community Manager at ELIXIR-UK, for allowing us to using and adapting their video making guides.  
-
 

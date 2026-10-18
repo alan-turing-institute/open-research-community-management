@@ -1,4 +1,1 @@
-jupyter-book
-matplotlib
-numpy
-ghp-import
+jupyter-book==0.15.1

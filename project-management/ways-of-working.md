@@ -13,7 +13,7 @@ We may have private repositories if our collaborators and collaborating projects
 
 ## Onboarding
 
-If you're new to the team, please open the [Induction and Onboarding issue](https://github.com/alan-turing-institute/community-manager-team/issues/new/choose) which will talk you through the different actions for your first days or week in the team.
+If you are joining an active project, agree an induction process with its current project lead. The historic repository issues are available for reference in the [issue tracker](https://github.com/alan-turing-institute/open-research-community-management/issues).
 Please make sure that you have been added to the Slack Workspace and given access to all shared resources (HackMD, Google Drive, GitHub) that the RCM team uses.
 
 ## Team Meetings
@@ -50,4 +50,3 @@ All team members commit to
 - In case the project deals with sensitive and confidential data, please create a private repository to share information with the people involved in the project. In addition, please create a public-facing document (such as a webpage, or open repository) and/or a chapter in [*The Turing Way*](https://github.com/alan-turing-institute/the-turing-way) to ensure open and reproducible practices are applied, promoted and shared without sharing confidential information.
 - recording any new updates, exceptions or useful knowledge in project management and core documents needed to facilitate collaboration, such as this GitHub repository and the team report.
 - dedicating their time and expertise to supporting other members and finding ways to build connections with others' projects/work.
-
