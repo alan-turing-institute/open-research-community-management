@@ -36,7 +36,7 @@ Open `wiki/_build/html/index.html` in a browser to review the output. Generated 
 
 ## Publish to GitHub Pages
 
-Changes merged into `main` build and deploy automatically through [the Pages workflow](./.github/workflows/build-wiki.yml). Repository administrators must configure **Settings → Pages → Build and deployment → Source** as **GitHub Actions** once. The workflow publishes a Pages artifact; it does not create or update a `gh-pages` branch.
+Changes merged into `main` build and deploy automatically through [the Pages workflow](./.github/workflows/build-wiki.yml), which publishes the built book to the `gh-pages` branch. Keep **Settings → Pages → Build and deployment** set to **Deploy from a branch**, using `gh-pages` and `/ (root)`.
 
 ## Contributing
 

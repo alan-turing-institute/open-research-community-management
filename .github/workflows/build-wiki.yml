@@ -7,16 +7,14 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: pages
   cancel-in-progress: false
 
 jobs:
-  build:
+  deploy-book:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -34,18 +32,9 @@ jobs:
       - name: Build book
         run: jupyter-book build wiki
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+      # Publishes to the gh-pages branch, which GitHub Pages serves
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          path: wiki/_build/html
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./wiki/_build/html
