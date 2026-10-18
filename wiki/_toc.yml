@@ -25,6 +25,10 @@ parts:
         title: Legacy ways of working
       - file: team/research-outputs
         title: Research outputs
+  - caption: Paper guide
+    chapters:
+      - file: paper-guide
+        title: Guide to the RCM paper
   - caption: Resources
     chapters:
       - file: resources
