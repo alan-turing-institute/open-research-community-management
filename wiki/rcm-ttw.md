@@ -1,6 +1,6 @@
 # Working with *The Turing Way*
 
-All members of the Open Research Community Management team should take time to learn details in [*The Turing Way* core documents](./the-turing-way-core).
+All members of the Open Research Community Management team should take time to learn details in the [*The Turing Way* core documents](https://github.com/alan-turing-institute/open-research-community-management/tree/main/the-turing-way-core).
 All community managers are onboarded as the core staff members of The *Turing Way* as part of their time is allocated to TPS and *The Turing Way*. 
 
 Their engagement with *The Turing Way* project and community should help them understand how they can:
