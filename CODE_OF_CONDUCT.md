@@ -213,9 +213,10 @@ Together, we strive to foster an environment where everyone feels valued, respec
 **10.1** Code of Conduct Contact for Reporting
 
 If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
-by contacting the Team Lead, Emma Karoune (email: ekaroune@turing.ac.uk). Emma will involve
-the Senior Research Community Managers, except when any potential conflict of interest
-with any of them may arise.
+by contacting the Team Lead. The team was led by Malvika Sharan (2022–2024) and Emma Karoune
+(2025–2026), and the most recent contact is Emma Karoune (email: ekaroune@turing.ac.uk). The
+Team Lead will involve the Senior Research Community Managers, except when any potential
+conflict of interest with any of them may arise.
 
 To report an issue involving the team lead, please email Arielle Bennett (abennett@turing.ac.uk).
 

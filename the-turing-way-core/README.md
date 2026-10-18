@@ -1,5 +1,7 @@
 # RCMs Participating in The Turing Way
 
+> **Historic information:** This page describes the expectations for members of the Turing's Open Research Community Management team (2022–2026). RCMs elsewhere are welcome to contribute to *The Turing Way* through its public contribution guidelines.
+
 All RCMs are onboarded as community members in *The Turing Way*.
 As members of TPS, they are obliged to share practices from their work in _The Turing Way_ as chapters, resources or presentations/workshops.
 This can be either generalised for domain independent use or communicated as case studies.

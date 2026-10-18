@@ -2,13 +2,15 @@
 
 *Integrating open research practices through community engagement.*
 
-> **Project status:** This repository is no longer actively maintained. It preserves resources and working practices developed by the Open Research Community Management team at The Alan Turing Institute.
+> **Project status:** This repository is no longer actively maintained, because the Open Research Community Management team at The Alan Turing Institute is no longer active. It preserves resources and working practices developed by that team. The Research Community Manager role itself continues to be practised in research communities around the world.
 
 The published handbook is available at [alan-turing-institute.github.io/open-research-community-management](https://alan-turing-institute.github.io/open-research-community-management/).
 
 ## About this repository
 
-Research Community Managers (RCMs) support open, inclusive, and reproducible research by connecting people, projects, and shared resources. This repository records the team's approaches, guidance, and selected communications.
+Research Community Managers (RCMs) support open, inclusive, and reproducible research by connecting people, projects, and shared resources. This repository records the Turing team's approaches, guidance, and selected communications.
+
+The team was established at The Alan Turing Institute in 2022 and operated until 2026. It was led by Malvika Sharan from 2022 to 2024 and by Emma Karoune from 2025 to 2026.
 
 | Location | Contents |
 | --- | --- |

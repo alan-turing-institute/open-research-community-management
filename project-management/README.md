@@ -1,6 +1,6 @@
 # Project-management resources
 
-> **Historic information:** These materials document past team practices. The repository is no longer actively maintained, so adapt them before using them in an active project.
+> **Historic information:** These materials document the Turing's former RCM team's practices. The team is no longer active and the repository is no longer actively maintained, so adapt them before using them in an active project.
 
 - [Ways of working](./ways-of-working.md) describes the team's structure and expectations.
 - [Team meetings](./team-meetings.md) records the meeting format.
