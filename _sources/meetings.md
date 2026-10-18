@@ -2,9 +2,9 @@
 title: "Team meetings"
 ---
 
-# Legacy team meetings
+# Team meetings
 
-> **Historic information:** The meeting formats and contacts on this page describe a previous team operating model. Adapt them to the needs of your own team and confirm any current arrangements with the relevant project lead.
+> **Note:** The meeting formats and contacts on this page describe a previous team operating model. Adapt them to the needs of your own team and confirm any current arrangements with the relevant project lead.
 
 ## RCM-only team meeting
 

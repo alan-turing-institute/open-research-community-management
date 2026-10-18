@@ -1,6 +1,6 @@
-# Legacy onboarding
+# Onboarding
 
-This page records the Turing's former RCM team's historic onboarding approach. The repository is no longer actively maintained, so information here should be adapted to the current project's policies and contacts.
+This page records the Turing's former RCM team's onboarding approach. The repository is no longer actively maintained, so information here should be adapted to the current project's policies and contacts.
 
 New team members were introduced to:
 

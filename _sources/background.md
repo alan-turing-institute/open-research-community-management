@@ -19,11 +19,11 @@ The Turing's Community Management and Open Research programme page describes RCM
 - make implicit knowledge explicit so that everyone who wants to can participate; and
 - connect research with national and international data science communities, often as research technical professionals.
 
-Read the [Turing's programme page](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) for the Institute's own description, and the [historic team page](team/about-the-team.md) for the projects the Turing's RCMs supported.
+Read the [Turing's programme page](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) for the Institute's own description, and the [team page](team/about-the-team.md) for the projects the Turing's RCMs supported.
 
 ## Where to go next
 
 - Read the [goals of RCM work](goals.md) to see what RCMs set out to achieve.
 - Read the [values and principles](values-principles.md) that shaped how the Turing's RCM team worked.
 - Find out how the team [contributed to *The Turing Way*](rcm-ttw.md).
-- Learn more about [the historic team](team/about-the-team.md).
+- Learn more about [the team](team/about-the-team.md).

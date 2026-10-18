@@ -1,6 +1,6 @@
 # Research outputs
 
-> **Historic information:** This page records research associated with the former Research Community Management team.
+> **Note:** This page records research associated with the former Research Community Management team.
 
 ## Professionalising community management
 

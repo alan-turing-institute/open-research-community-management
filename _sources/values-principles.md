@@ -1,6 +1,6 @@
 # Values and principles
 
-> **Historic information:** This page records the values and principles that guided the Research Community Management team, which was led by Malvika Sharan (2022–2024) and Emma Karoune (2025–2026). They are not a current organisational policy, but RCMs elsewhere can adapt them for their own communities.
+> **Note:** This page records the values and principles that guided the Research Community Management team, which was led by Malvika Sharan (2022–2024) and Emma Karoune (2025–2026). They are not a current organisational policy, but RCMs elsewhere can adapt them for their own communities.
 
 The team described its approach in two parts: how it put the Turing's values into practice in community management, and the principles it used to work together as a team.
 
