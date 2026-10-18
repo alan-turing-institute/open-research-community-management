@@ -1,6 +1,6 @@
-# The historic team
+# The team
 
-> **Historic information:** This page records the former Research Community Management team's remit and approach. It does not describe the current structure of The Alan Turing Institute. The RCM role itself continues to be practised in research communities around the world.
+> **Note:** This page records the former Research Community Management team's remit and approach. It does not describe the current structure of The Alan Turing Institute. The RCM role itself continues to be practised in research communities around the world.
 
 The TPS Research Programme hosted the RCMs within the **Open Research Community Management** team, which was established at the Turing in 2022 and operated until 2026. Malvika Sharan led the team from 2022 to 2024, and Emma Karoune led it from 2025 to 2026.
 As community experts, RCMs were allocated to projects across different programmes and connected them as a joint-up system of open-source and reproducible software, data, people, and processes.
@@ -41,7 +41,7 @@ By the later years of the team, RCMs were distributed across Turing Missions and
 - welcoming members of Turing project communities into open source working and helping design governance and decision-making processes; and
 - facilitating discussions on research and community best practices throughout the project lifecycle.
 
-See [historic members and collaborators](members-collaborators.md) for the people and projects involved.
+See [members and collaborators](members-collaborators.md) for the people and projects involved.
 
 ## The RCM role continues
 
