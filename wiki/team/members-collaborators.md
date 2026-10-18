@@ -1,18 +1,11 @@
-# Members and Collaborators
+# Historic members and collaborators
 
-The **Open Research Community Management** team members, RCMs, are TPS researchers at the Turing who provide community management expertise in the Turing's teams, projects and programmes in the organisation.
-As a core capability of the Turing, the RCM team supports the convening power of the Turing Institute across different interdisciplinary and multi-stakeholder projects.
-They also work closely with other core capabilities including the Research Application Management team, the Skills Team and the Research Engineering Group.
+> **Historic information:** This is an archive of former team members, collaborators, and project affiliations. It is not a current staff directory.
 
-RCM team members apply open science and FAIR (Findable, accessible, Interoperable, Reusable) practices in the development, maintenance and sharing of community/research resources.
-Many of the RCMs work on projects under the Health Programme or projects involving sensitive/confidential data, where they ensure and operationalise the principle of "as open as possible, as closed as necessary".
+The **Open Research Community Management** team brought together TPS researchers who provided community-management expertise in Turing teams, projects, and programmes.
+The team worked with other capabilities, including Research Application Management, Skills, and Research Engineering, and applied open-science and FAIR (Findable, Accessible, Interoperable, and Reusable) practices to community and research resources.
 
-All resources developed to support/facilitate their work as RCMs and as experts from their respective projects will be shared via this repository (by removing any project-specific sensitive information).
-Practices and case studies learned from their work will be shared in *The Turing Way* wherever possible.
-
-The RCM team also hosts members with community-oriented roles currently collaborating with TPS or *The Turing Way*.
-
-The historic induction process used repository issues. As this archive is no longer actively maintained, contact the current project lead for onboarding in an active project.
+Resources and case studies from this work were shared through this repository and, where possible, through *The Turing Way*, with project-specific sensitive information removed.
 
 ## TPS Senior Researcher and Team Lead
 
@@ -48,11 +41,9 @@ The historic induction process used repository issues. As this archive is no lon
     - [AI for Multiple Long Term Conditions Research Support Facility (AIM RSF)](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) - PPIE
     - [AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs)
 
-## Collaborators from TPS/*The Turing Way* projects in Community Roles
+## Collaborators from TPS and *The Turing Way* projects in community roles
 
 - Ayesha Dunk, Skills Team, [AI and Data Science Educators Programme](https://www.turing.ac.uk/data-science-and-ai-educators-programme), The Alan Turing Institute
-
-*If you are interested in joining this team, please reach out to Malvika Sharan (msharan@turing.ac.uk).*
 
 ## Previous members
 

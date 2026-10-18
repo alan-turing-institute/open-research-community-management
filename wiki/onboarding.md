@@ -1,4 +1,4 @@
-# Onboarding
+# Legacy onboarding
 
 This page records the team's historic onboarding approach. The repository is no longer actively maintained, so information here should be adapted to the current project's policies and contacts.
 
