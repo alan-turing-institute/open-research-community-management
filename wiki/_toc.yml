@@ -1,7 +1,7 @@
 format: jb-book
 root: index
 parts:
-  - caption: Research Community Management
+  - caption: RCM Playbook
     chapters:
       - file: background
         title: Background
@@ -11,24 +11,30 @@ parts:
         title: Values and principles
       - file: rcm-ttw
         title: Contributing to The Turing Way
-  - caption: Legacy team information
-    chapters:
       - file: team/about-the-team
-        title: The historic team
+        title: The team
       - file: team/members-collaborators
-        title: Historic members and collaborators
+        title: Members and collaborators
       - file: onboarding
-        title: Legacy onboarding
+        title: Onboarding
       - file: meetings
-        title: Legacy team meetings
+        title: Team meetings
       - file: team/ways-of-working
-        title: Legacy ways of working
+        title: Ways of working
       - file: team/research-outputs
         title: Research outputs
   - caption: Paper guide
     chapters:
       - file: paper-guide
         title: Guide to the RCM paper
+        sections:
+          - file: paper-guide/defining-the-role
+          - file: paper-guide/community-maturation
+          - file: paper-guide/best-practices
+          - file: paper-guide/examples-from-the-turing
+          - file: paper-guide/skills-and-competencies
+          - file: paper-guide/professionalisation
+          - file: paper-guide/supplementary-materials
   - caption: Resources
     chapters:
       - file: resources

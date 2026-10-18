@@ -1,6 +1,6 @@
-# Historic members and collaborators
+# Members and collaborators
 
-> **Historic information:** This is an archive of former team members, collaborators, and project affiliations at the Turing. It is not a current staff directory, and many of the people listed continue to work as RCMs or in related roles.
+> **Note:** This is an archive of former team members, collaborators, and project affiliations at the Turing. It is not a current staff directory, and many of the people listed continue to work as RCMs or in related roles.
 
 The **Open Research Community Management** team brought together TPS researchers who provided community-management expertise in Turing teams, projects, and programmes. It was established at the Turing in 2022 and operated until 2026.
 The team worked with other capabilities, including Research Application Management, Skills, and Research Engineering, and applied open-science and FAIR (Findable, Accessible, Interoperable, and Reusable) practices to community and research resources.
@@ -16,14 +16,8 @@ Resources and case studies from this work were shared through this repository an
     - [Turing-Crick Partnership](https://www.turing.ac.uk/news/alan-turing-institute-and-francis-crick-institute-forge-new-biomedical-data-partnership) - lead
     - [Data Science and AI Educators' Programme](https://www.turing.ac.uk/data-science-and-ai-educators-programme) - co-Principal Investigator
     - Trustworthy and Ethical Assurance of Digital Twins (TEA-DT) - co-Principal Investigator, with the project led by Christopher Burr
-- Emma Karoune (team lead, 2025–2026)
-
-Project and role details below draw on the Turing's [Community Management and Open Research](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) programme page and may not reflect later changes.
-
-## Research Community Managers
-
-- Emma Karoune, Senior Research Community Manager and team lead (2025–2026)
-  - Projects: 
+- Emma Karoune, Senior Research Community Manager, team lead (2025–2026)
+  - Projects:
     - Advancing Biomedical Data Science Careers (ABDC) - Principal Investigator for this MRC-funded project, which started in February 2025
     - [Health Programme/Grand Challenge](https://www.turing.ac.uk/research/transformation-healthcare)
     - [Skills Policy Award](https://github.com/alan-turing-institute/professionalising-data-science-roles) - Skills Team, with Malvika Sharan; this led to co-leading the [People in Data](https://www.turing.ac.uk/research/research-projects/people-data) project
@@ -32,6 +26,11 @@ Project and role details below draw on the Turing's [Community Management and Op
       - [Turing-RSS Health Data Lab](https://www.turing.ac.uk/research/research-projects/turing-rss-health-data-lab)
       - [DECOVID](https://www.turing.ac.uk/research/research-projects/decovid)
       - [AIM RSF](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) - coordinated the AIM ECR network and was Principal Investigator for the last six months of the programme
+
+Project and role details on this page draw on the Turing's [Community Management and Open Research](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research) programme page and may not reflect later changes.
+
+## Research Community Managers
+
 - Denise Bianco, Senior Research Community Manager
   - Project:
     - Advancing Biomedical Data Science Careers (ABDC)
