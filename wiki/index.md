@@ -9,8 +9,8 @@ This handbook preserves resources and practices developed by the Research Commun
 ## Explore the handbook
 
 - Learn about the [background](background.md), [goals](goals.md), and [values and principles](values-principles.md) that informed the team's work.
-- Explore [legacy team information](team/about-the-team.md), including its [ways of working](team/ways-of-working.md), [meeting format](meetings.md), and [research outputs](team/research-outputs.md).
-- Browse the [resource library](resources.md), read selected [briefing notes](briefing-notes.md), and discover how the team contributed to [*The Turing Way*](rcm-ttw.md).
+- Meet the [team](team/about-the-team.md), review its [onboarding guidance](onboarding.md), and find the historic [meeting format](meetings.md).
+- Read selected [briefing notes](briefing-notes.md) and discover how the team contributed to [*The Turing Way*](rcm-ttw.md).
 
 ## Context
 

@@ -4,7 +4,6 @@ Selected presentations about the RCM team, its work, and its skills-building eng
 
 The following briefing notes document examples from individual projects:
 
-- [*The Turing Way* - ASG Project](https://github.com/alan-turing-institute/open-research-community-management/blob/main/team-related-comms/briefing-notes/2022-ASG-Briefing_0_TuringWay.pdf)
 - [RSS DATA LAB - Health Community](https://github.com/alan-turing-institute/open-research-community-management/blob/main/team-related-comms/briefing-notes/2023-RCM-Briefing_Turing-RSSHealthDataLab_community-EK.pdf)
 - [Turing-Roche Partnership's Community](https://github.com/alan-turing-institute/open-research-community-management/blob/main/team-related-comms/briefing-notes/2023-RCM-Briefing_Turing-Roche_community-VH.pdf)
 - [*The Turing Way* Community](https://github.com/alan-turing-institute/open-research-community-management/blob/main/team-related-comms/briefing-notes/2023-RCM-Briefing_TuringWay_community-ALS.pdf)

@@ -11,23 +11,17 @@ parts:
         title: Values and principles
       - file: rcm-ttw
         title: Contributing to The Turing Way
-  - caption: Legacy team information
+  - caption: About the team
     chapters:
       - file: team/about-the-team
-        title: The historic team
+        title: About the team
       - file: team/members-collaborators
-        title: Historic members and collaborators
+        title: Members and collaborators
       - file: onboarding
-        title: Legacy onboarding
+        title: Onboarding
       - file: meetings
-        title: Legacy team meetings
-      - file: team/ways-of-working
-        title: Legacy ways of working
-      - file: team/research-outputs
-        title: Research outputs
+        title: Standing meetings
   - caption: Resources
     chapters:
-      - file: resources
-        title: Resource library
       - file: briefing-notes
         title: Briefing notes

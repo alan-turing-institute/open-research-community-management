@@ -2,7 +2,7 @@
 title: "Meetings Schedule"
 ---
 
-# Legacy team meetings
+# Meetings
 
 > **Historic information:** The schedule and contacts on this page describe a previous team operating model. Confirm all current meeting arrangements with the relevant project lead.
 
