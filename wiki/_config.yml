@@ -25,4 +25,5 @@ html:
 
 sphinx:
   config:
+    myst_heading_anchors: 3
     html_baseurl: https://alan-turing-institute.github.io/open-research-community-management/
