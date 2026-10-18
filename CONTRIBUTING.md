@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for improving this archive of Open Research Community Management resources. Please note that the repository is no longer actively maintained, so contributions may not receive a prompt review.
+Thank you for improving this archive of the Turing's Open Research Community Management resources. Please note that the repository is no longer actively maintained, so contributions may not receive a prompt review.
 
 ## Before you begin
 

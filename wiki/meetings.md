@@ -1,16 +1,14 @@
 ---
-title: "Meetings Schedule"
+title: "Team meetings"
 ---
 
 # Legacy team meetings
 
-> **Historic information:** The schedule and contacts on this page describe a previous team operating model. Confirm all current meeting arrangements with the relevant project lead.
+> **Historic information:** The meeting formats and contacts on this page describe a previous team operating model. Adapt them to the needs of your own team and confirm any current arrangements with the relevant project lead.
 
-## Bi-weekly RCM-only Team Meeting
+## RCM-only team meeting
 
-### Mondays at 4 pm via Zoom
-
-A bi-weekly meeting for the RCM team to share and plan work across the wider team.
+A regular online meeting for the RCM team to share and plan work across the wider team.
 
 ### Typical topics
 
@@ -19,11 +17,9 @@ A bi-weekly meeting for the RCM team to share and plan work across the wider tea
 - Project updates from two team members.
 - Periodic all-team updates, mid-term reflections, and end-of-year reflections.
 
-## Bi-weekly RCM and collaborators meeting
+## RCM and collaborators meeting
 
-### Mondays at 4 pm via Zoom
-
-A bi-weekly meeting that invited RCM-adjacent roles within the Turing.
+A regular online meeting that invited RCM-adjacent roles within the Turing.
 
 ### Typical topics
 
@@ -33,20 +29,18 @@ A bi-weekly meeting that invited RCM-adjacent roles within the Turing.
 - Occasional all-team project updates.
 - RCM support across The Alan Turing Institute.
 
-## Weekly RCM co-working
+## RCM co-working
 
-### Wednesdays at 10 am via Zoom
-
-A weekly Collaboration Cafe-style meeting.
+A regular online Collaboration Cafe-style meeting.
 
 - Participants suggest topics for breakout rooms and then co-work within them.
 - Ideas for breakout-room topics can also come from the [repository issue tracker](https://github.com/alan-turing-institute/open-research-community-management/issues).
 
-## Goatherd schedule
+## Goatherd rotation
 
 ### What is goatherding?
 
-A team member took responsibility for organising the team for one week, including chairing RCM meetings. The responsibility rotated across the team.
+A team member took responsibility for organising the team for a set period, including chairing RCM meetings. The responsibility rotated across the team.
 
 - [Goatherd schedule and HackMDs](https://hackmd.io/@cm-team/goatherd-schedule-2023)
 - [Goatherd checklist](https://hackmd.io/@cm-team/goatherd-checklist)
@@ -58,7 +52,7 @@ Team meeting notes were maintained in HackMD:
 ```{note}
 The following links document the historic meeting process:
 
-- [Team-meeting schedule](https://hackmd.io/@cm-team/goatherd-schedule-2023)
+- [Team-meeting rotation](https://hackmd.io/@cm-team/goatherd-schedule-2023)
 - [Standard meeting template](https://hackmd.io/@cm-team/team-meeting-template)
 - [Community clinic](https://hackmd.io/@cm-team/community-clinic)
 ```

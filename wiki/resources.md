@@ -1,6 +1,6 @@
 # Resource library
 
-> **Historic information:** These materials document the Research Community Management team's past practices. Review and adapt them before using them in an active project.
+> **Historic information:** These materials document the Turing's Research Community Management team's past practices. They remain open for RCMs and communities elsewhere to reuse, but review and adapt them before using them in an active project.
 
 This library brings together reusable guides, reference material, and examples held elsewhere in this repository. The original files remain the canonical record.
 

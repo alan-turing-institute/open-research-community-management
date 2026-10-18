@@ -4,10 +4,10 @@ As a team, we commit to collaborate, support and interconnect our projects with 
 As we continue to grow in our roles as community builders, technical skills, domain expertise and tips and tricks for working effectively in community and research spaces grows with it.
 Team meetings are a space for all members of the group to come together and learn from each other.
 
-Team meetings are held every week.
-Members from collaborating project can choose to attend the meeting each week or biweekly, however they should maintain regular participation for consistency.
+Team meetings are held regularly.
+Members from collaborating projects can choose how often to attend, however they should maintain regular participation for consistency.
 Meetings will be conducted online and remote participation will be considered by default, but when possible and safe to travel, in-person meetings will be organised at The Alan Turing Institute.
-Our [shared calendar](https://calendar.google.com/calendar/u/0?cid=cGtlazVnc2xkcjlwYWRhNjc4MTJyaGtiaW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) will be updated with the times of the meetings, and when meetings are cancelled because they conflict with a relevant event that multiple team members may wish to attend.
+Our [shared calendar](https://calendar.google.com/calendar/u/0?cid=cGtlazVnc2xkcjlwYWRhNjc4MTJyaGtiaW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) will be updated with meeting details, and when meetings are cancelled because they conflict with a relevant event that multiple team members may wish to attend.
 
 **Every team member is expected to participate in the team meetings.**
 This doesn't mean you have to attend every one, but it does mean that you are expected to complete the HackMD with your attendance or apologies, and to add something to share and a question to ask.
@@ -147,7 +147,6 @@ Please also read the **Agenda** section at the end of the HackMD for particular 
 
 ### Participation during team meeting
 
-Our team meetings are one hour long.
 Please arrive on time or let the session chair know if you will be delayed.
 
 #### Review of celebrations, shared resources, and questions
@@ -155,17 +154,17 @@ Please arrive on time or let the session chair know if you will be delayed.
 The chair will read through that week's HackMD, starting with the topics you've shared and then covering the questions and points you'd like the group's thoughts on.
 They will go quite fast through each of these points, but also encourage members of the team to expand on their updates and questions if they would like to.
 
-This part of team meeting should take **around 10-15 minutes**.
+This part of team meeting should take only a short portion of the meeting.
 Everyone is encouraged to add links and resources as "sub-bullet points" (bullet points that are rendered as falling within the original point) before, during and after the meeting.
 
 #### Specific agenda
 
 The meeting will have a specific theme, please suggest themes in the [asks and offers](./asks-and-offers.md) document.
-After the chair has gone through the week's HackMD notes, remaining time (**approx 45 minutes**) will be used for that discussion or presentation.
+After the chair has gone through the week's HackMD notes, the remaining time will be used for that discussion or presentation.
 
 #### Open agenda
 
-If the meeting is "open agenda" then the chair, in collaboration with all present team members, will select key points from the review of the bullet points in the HackMD to discuss in more depth for the remaining **45 minutes**.
+If the meeting is "open agenda" then the chair, in collaboration with all present team members, will select key points from the review of the bullet points in the HackMD to discuss in more depth for the remaining time.
 
 ### After team meeting
 
@@ -179,14 +178,14 @@ Everyone who participated in the meeting is encouraged to [review the pull reque
 
 ### Chairing team meeting
 
-Everyone is expected to chair team meeting on a rotating schedule.
+Everyone is expected to chair team meeting on a rotating basis.
 
 Your responsibilities as chair are to:
 
-1. Circulate the HackMD on the Monday before your team meeting.
+1. Circulate the HackMD before your team meeting.
 2. Plan an agenda for the meeting and check who will be speaking.
 3. Facilitate the conversation during the meeting. This includes making sure that everyone has a chance to participate, and that everyone complies with the [code of conduct](../CODE_OF_CONDUCT.md).
-4. Write a summary and add it to [resources for reference](./resources-for-reference.md) file as a Pull Request by the Monday after team meeting.
+4. Write a summary and add it to [resources for reference](./resources-for-reference.md) file as a Pull Request soon after team meeting.
 
 **The prospect of chairing team meeting might feel really overwhelming!**
 Being in charge of managing the time, coordinating everyone's participation and facilitating a productive conversation is a lot of responsibility :grimacing:
@@ -239,7 +238,7 @@ I believe that **building connections between individual people are the magic th
 
 > *Personal and project related highlights (celebration, success, failures and everything in between).*
 
-If five people come to team meeting, every week for four weeks, and each time they share something interesting, we'll curate 20 content recommendations in just one month.
+If five people come to team meeting, regularly over four meetings, and each time they share something interesting, we'll curate 20 content recommendations in a short time.
 I'm willing to bet that at least 1 in those 20 will be useful for the team.
 So the first reason to ask people to share some information is to do exactly that: **share knowledge**.
 
@@ -247,7 +246,7 @@ People are often uncomfortable celebrating their successes.
 And that is a limitation on the goal of sharing knowledge.
 Both [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) and the [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) can stop people from sharing skills and resources that they know.
 They may not recognise their strengths, or know how much they don't know and therefore keep quite while others speak much more.
-The second goal of sharing something every week is to have **team members build confidence in their expertise**.
+The second goal of sharing something at every meeting is to have **team members build confidence in their expertise**.
 Everyone has something to contribute.
 
 And finally, it feels really good to celebrate others' achievements!

@@ -2,6 +2,8 @@
 
 This document provides the structure and organisation of the Open Research Community Management (RCM) Team, clarifying expectations and support structure enabling their work.
 
+> **Historic information:** The team was established at The Alan Turing Institute in 2022 and operated until 2026. It was led by Malvika Sharan from 2022 to 2024 and by Emma Karoune from 2025 to 2026. The reporting lines below were written during Malvika Sharan's leadership and have not been updated for the 2025 handover.
+
 ## Working Open
 
 As members of the RCM Team, we are dedicated to working as openly as possible. 
@@ -18,7 +20,7 @@ Please make sure that you have been added to the Slack Workspace and given acces
 
 ## Team Meetings
 
-All members attend team meetings weekly to discuss their projects, exchange ideas and deep dive into specific topics for community building, management and engagement.
+All members attend team meetings regularly to discuss their projects, exchange ideas and deep dive into specific topics for community building, management and engagement.
 Please read the details in the [Team Meeting](./team-meetings.md) document.
 
 ## Reporting
@@ -26,7 +28,7 @@ Please read the details in the [Team Meeting](./team-meetings.md) document.
 - Malvika Sharan reports to Kirstie Whitaker.
 - Research Community Managers report to Malvika Sharan (SRCMs), Emma Karoune (Health RCMs) and other TPS Senior Researchers based on the projects (DCE, TRIC:DT, AIM-RSF, Environment and Sustainability)
 - Senior Research Community Managers join the RCM strategy meetings with Malvika and Kirstie Whitaker, TPS Director, to develop strategies such as for RCM processes, information sharing and skills development (through line management or informal mentoring) for the RCM team.
-- Some members from collaborating projects may be invited to join the RCM team (such as from the Skills team), but they will report to their respective line managers. These members join the RCM team meetings biweekly.
+- Some members from collaborating projects may be invited to join the RCM team (such as from the Skills team), but they will report to their respective line managers. These members join the RCM team meetings regularly.
 
 ## Working with *The Turing Way* 
 
@@ -44,7 +46,7 @@ Also, see the [Ways of Working](https://github.com/alan-turing-institute/the-tur
 All team members commit to
 - abiding by the Code of Conduct and following the contribution guidelines when participating in the Open Research Community Management team.
 - participate in the team meetings by contributing to the meeting document, chairing a meeting, presenting reflections from their work and finding opportunities to collaborate.
-- participate in *The Turing Way* project and events (such as Collaboration Cafe, Weekly Coworking Calls and Book Dash), whenever possible.
+- participate in *The Turing Way* project and events (such as Collaboration Cafe, Coworking Calls and Book Dash), whenever possible.
 - making the implicit explicit by documenting their work as a community manager and researcher to share with other team members via *The Turing Way*. 
 - Share resources/documents from their work openly through online repositories, websites or other creative ways. 
 - In case the project deals with sensitive and confidential data, please create a private repository to share information with the people involved in the project. In addition, please create a public-facing document (such as a webpage, or open repository) and/or a chapter in [*The Turing Way*](https://github.com/alan-turing-institute/the-turing-way) to ensure open and reproducible practices are applied, promoted and shared without sharing confidential information.
