@@ -1,6 +1,6 @@
 # Impact evidence and resources
 
-> **Note:** This list gathers the sources behind the [impact of RCMs](impact.md), as given in the Turing RCM team's reports between 2022 and 2024. Links may have moved or expired since then. Entries marked "Zenodo" are open deposits. The Turing Way project reports and the team's briefing notes are not included in full.
+> **Note:** This document uses RCM team's quarterly reports between 2022 and 2024. The Turing Way project reports and the team's briefing notes are not included in full in this document. Links may have moved or expired since then. Entries marked "Zenodo" are open deposits. 
 
 ## A. Team home and shared repositories
 
