@@ -21,41 +21,54 @@ A regular online meeting for the RCM team to share and plan work across the wide
 
 A regular online meeting that invited RCM-adjacent roles within the Turing.
 
-### Typical topics
+### Typical topics and formats
 
-- Problem-solving clinic.
+- Problem-solving clinic, where different members brought specific challenges they were facing and explored solutions as a team.
 - Community-management skills development.
-- Project updates from team members.
-- Occasional all-team project updates.
-- RCM support across The Alan Turing Institute.
+- Project updates from specific team members and quarterly all-team project updates.
+- Regular 'team days' to discuss status and improvements for RCM support strategy and future plans for the team.
+- Regular online Collaboration Cafe-style meetings.
+  - Participants suggest topics for breakout rooms and then co-work within them.
+  - Ideas for breakout-room topics can also come from the team issue trackers.
 
-## RCM co-working
+## RCM team shared organisation responsibilities
 
-A regular online Collaboration Cafe-style meeting.
+A team member took responsibility for organising the team for a set period, including chairing RCM meetings.
+The responsibility rotated across the team.
 
-- Participants suggest topics for breakout rooms and then co-work within them.
-- Ideas for breakout-room topics can also come from the [repository issue tracker](https://github.com/alan-turing-institute/open-research-community-management/issues).
+These "chairs" were referred to as Goatherds.
+The idea of the name comes from a Terry Pratchet quote.
+Adopted at the TPS and continued for the RCM team, we encouraged these daily organisation to be shared than to be driven by single person. 
+ 
+> For sheep are stupid, and have to be driven. But goats are intelligent, and need to be led.” ― Terry Pratchett, Small Gods 
 
-## Goatherd rotation
+### Main responsibilities
 
-### What is goatherding?
+This is your week to engage the RCM team on the topic of your interest. Ask questions, share resources and make sure that everyone is prepared for the team meeting.
 
-A team member took responsibility for organising the team for a set period, including chairing RCM meetings. The responsibility rotated across the team.
-
-- [Goatherd schedule and HackMDs](https://hackmd.io/@cm-team/goatherd-schedule-2023)
-- [Goatherd checklist](https://hackmd.io/@cm-team/goatherd-checklist)
-
-## Meeting notes
-
-Team meeting notes were maintained in HackMD:
-
-```{note}
-The following links document the historic meeting process:
-
-- [Team-meeting rotation](https://hackmd.io/@cm-team/goatherd-schedule-2023)
-- [Standard meeting template](https://hackmd.io/@cm-team/team-meeting-template)
-- [Community clinic](https://hackmd.io/@cm-team/community-clinic)
-```
+- [ ] **Friday**: Review the goatherder schedule for the assigned meeting type ("TPS CM meeting" or "Theme").
+- [ ] **Friday**: Personally check in with the speakers and make sure they know what they will be presenting next wednesday.
+- [ ] **Monday**: Send a summary of the meeting agenda on slack to #tps-rcms-internal (TPS CM meeting) or #tps-rcms-and-collabs (Theme Disucssussion). Flag any actions, e.g. to add agenda items or add project updates share out.
+    - [ ] Include a link to the hackmd for that week.
+- [ ] **Monday (co-working)**: Chair the co-working call 
+    - [ ] Ask what people want to work on (folks will often have discussed between them in advance and have suggestions, or they will come to the call ready to contribute anywhere)
+    - [ ] Make zoom breakout rooms as required
+    - [ ] ANY OTHER CHAIRS ACTIONS? Pomodoro? Calling back to main room?
+    - [ ] If "Theme Discussion" meeting there will be a space for project updates. Read these out during the meeting, and invite short questions to the project owner. Allow a maximum of 20 minutes for project updates, leaving 40 minutes for the main presentation/discussion.
+- [ ] **Wednesday (team meeting)**: Chair the team meeting call and ensure notes are taken.
+    - [ ] If "Theme Discussion" meeting there will be a space for project updates. Read these out during the meeting, and invite short questions to the project owner. Allow a maximum of 20 minutes for project updates, leaving 40 minutes for the main presentation/discussion.
+    - [ ] Chair the themed discussion, invite the speaker to talk, or ask team what they want to discuss if open agenda/clinic
+    - [ ] Check notes are being taken.
+    - [ ] Make zoom breakout rooms as required
+    - [ ] ANY OTHER CHAIRS ACTIONS? Pomodoro? Calling back to main room?
+- [ ] **Thursday**: Push / copy call notes hackmd to [project resources](https://github.com/alan-turing-institute/open-research-community-management/tree/main/project-management/team-meetings)
+    - [ ] Modify syntax of "info" section to quote block
+    - [ ] Redact confidential or identifiable informaton whch was not offered directly by the person identified.
+    - [ ] Redact zoom links and meeting id etc.
+    - [ ] Redact links to list-of-links and goatherd schedule at the bottom (redacted as this links to previous meeting notes which have not been reviewed for confidentiality)
+    - [ ] Tag previous and next weeks goatherd for PR review
+- [ ] **Thursday or after PR merged**: Share link to notes on the appropriate slack channel for the meeting. Flag any actions/issues.
+- [ ] **Thursday**: Let the next goatherder know that you are passing the responsibility to them - tag them on slack or connect during co-working.
 
 ## Team calendar
 
