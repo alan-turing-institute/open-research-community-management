@@ -154,11 +154,6 @@ Other contributions include a successful Research England grant for Hidden REF, 
 7. **Make everything reusable:** repositories, templates, case-study frameworks, and onboarding surveys.
 8. **Offer institute-wide services** such as drop-ins, Collaboration Cafés, and training to extend reach beyond funded projects.
 
-## Evidence still to collect
-
-- Several outcomes were unresolved when the reports were written, including the Arcadia Fund bid, People in Data senior RCM recruitment, the MRC award approval, and the Clinical AI curriculum.
-- To make causal claims, collect comparison data prospectively.
-
 ## Related pages
 
 - [Goals of RCM work](goals.md) lists the six goals that these impacts deliver.
