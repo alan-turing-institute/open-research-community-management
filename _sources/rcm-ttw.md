@@ -15,10 +15,6 @@ Engagement with *The Turing Way* project and community helps RCMs to:
 - find support for their community work and, in exchange, support others' work, especially when it is closely aligned with their projects; and
 - enhance the technical understanding required in their work and share it more widely via *The Turing Way* (chapters, tutorials, templates, or events).
 
-## *The Turing Way* at the Turing
-
-The Turing's programme page describes *The Turing Way* as the main reference for the RCM team. Anne Lee Steele was the Research Community Manager who facilitated collaborations across *The Turing Way* communities. Malvika Sharan also led *The Turing Way* Practitioners Hub, which was part of the Innovate UK BridgeAI programme, and Arielle Bennett, TPS Senior Researcher for Open Source Practices, worked on the hub.
-
 ## Related pages
 
 - The [*The Turing Way* quick links](https://github.com/alan-turing-institute/open-research-community-management/blob/main/the-turing-way-core/quick-links.md) and [core-member roles](https://github.com/alan-turing-institute/open-research-community-management/blob/main/the-turing-way-core/roles-of-core-members.md) describe contribution pathways.
