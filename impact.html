@@ -1,0 +1,892 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>Impact of RCMs &#8212; Open Research Community Management</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'impact';</script>
+    <link rel="canonical" href="https://alan-turing-institute.github.io/open-research-community-management/impact.html" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Values and principles" href="values-principles.html" />
+    <link rel="prev" title="Goals of RCM work" href="goals.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="index.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">Open Research Community Management</p>
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="index.html">
+                    Open Research Community Management
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">RCM Playbook</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="background.html">Background</a></li>
+<li class="toctree-l1"><a class="reference internal" href="goals.html">Goals of RCM work</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Impact of RCMs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="values-principles.html">Values and principles</a></li>
+<li class="toctree-l1"><a class="reference internal" href="rcm-ttw.html">Contributing to The Turing Way</a></li>
+<li class="toctree-l1"><a class="reference internal" href="team/about-the-team.html">The team</a></li>
+<li class="toctree-l1"><a class="reference internal" href="team/members-collaborators.html">Members and collaborators</a></li>
+<li class="toctree-l1"><a class="reference internal" href="onboarding.html">Onboarding</a></li>
+<li class="toctree-l1"><a class="reference internal" href="meetings.html">Team meetings</a></li>
+<li class="toctree-l1"><a class="reference internal" href="team/ways-of-working.html">Ways of working</a></li>
+<li class="toctree-l1"><a class="reference internal" href="team/research-outputs.html">Research outputs</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Paper guide</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1 has-children"><a class="reference internal" href="paper-guide.html">Guide to the RCM paper</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="paper-guide/defining-the-role.html">Defining the role</a></li>
+<li class="toctree-l2"><a class="reference internal" href="paper-guide/community-maturation.html">Assessing and planning a community</a></li>
+<li class="toctree-l2"><a class="reference internal" href="paper-guide/best-practices.html">Embedding best practices</a></li>
+<li class="toctree-l2"><a class="reference internal" href="paper-guide/examples-from-the-turing.html">Examples from the Turing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="paper-guide/skills-and-competencies.html">Writing roles and building skills</a></li>
+<li class="toctree-l2"><a class="reference internal" href="paper-guide/professionalisation.html">Making the case for RCM roles</a></li>
+<li class="toctree-l2"><a class="reference internal" href="paper-guide/supplementary-materials.html">Supplementary materials</a></li>
+</ul>
+</details></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Resources</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="resources.html">Resource library</a></li>
+<li class="toctree-l1"><a class="reference internal" href="impact-resources.html">Impact evidence and resources</a></li>
+<li class="toctree-l1"><a class="reference internal" href="briefing-notes.html">Briefing notes</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/alan-turing-institute/open-research-community-management" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/alan-turing-institute/open-research-community-management/edit/main/wiki/impact.md" target="_blank"
+   class="btn btn-sm btn-source-edit-button dropdown-item"
+   title="Suggest edit"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="btn__text-container">Suggest edit</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/alan-turing-institute/open-research-community-management/issues/new?title=Issue%20on%20page%20%2Fimpact.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/impact.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Impact of RCMs</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#summary">Summary</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-the-team-evolved">How the team evolved</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-operating-model-that-worked">The operating model that worked</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stronger-more-engaged-communities-around-projects">1. Stronger, more engaged communities around projects</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reusable-knowledge-and-open-infrastructure">2. Reusable knowledge and open infrastructure</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#funding-leverage-and-strategic-positioning">3. Funding, leverage, and strategic positioning</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#skills-training-and-capacity-building">4. Skills, training, and capacity building</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#research-outputs-and-responsible-data-sharing">5. Research outputs and responsible data sharing</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#professionalising-the-role-and-shaping-the-field">6. Professionalising the role and shaping the field</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#headline-numbers">Headline numbers</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-made-the-impact-possible">What made the impact possible</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#conditions-that-limited-impact">Conditions that limited impact</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#recommendations-for-institutions">Recommendations for institutions</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#evidence-still-to-collect">Evidence still to collect</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#related-pages">Related pages</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="impact-of-rcms">
+<h1>Impact of RCMs<a class="headerlink" href="#impact-of-rcms" title="Permalink to this heading">#</a></h1>
+<blockquote>
+<div><p><strong>Note:</strong> This page synthesises what the Turing’s Research Community Management team reported between 2022 and September 2024, drawing on eight periodic team reports. Figures are as reported by the team, are not independently verified, and are not all attributable to RCMs alone. No comparison with projects that had no RCM is available, so treat the examples as evidence of what is possible, not as proof of cause.</p>
+</div></blockquote>
+<p>An RCM team creates value for an institution in six ways. Each section below states the value, then gives examples from the Turing so that you can make the case for RCMs in your own organisation.</p>
+<section id="summary">
+<h2>Summary<a class="headerlink" href="#summary" title="Permalink to this heading">#</a></h2>
+<p>The team grew from a handful of project-embedded community managers into a recognised core capability of about nine people, working across health, environment, engineering, AI adoption, arts and humanities, and open-science programmes. Its reports support five conclusions:</p>
+<ol class="arabic simple">
+<li><p><strong>RCMs make projects and partnerships more visible, connected, and reusable.</strong></p></li>
+<li><p><strong>RCMs convert project know-how into institution-wide and public assets</strong>, mostly published openly with DOIs.</p></li>
+<li><p><strong>RCMs help win and shape funding</strong> by writing community and skills work packages or serving as co-investigators.</p></li>
+<li><p><strong>RCMs build credibility for the role itself</strong> through frameworks, position papers, and advisory roles.</p></li>
+<li><p><strong>Impact depends on institutional conditions</strong>: sponsorship, remit, lead time for approvals, and stable funding.</p></li>
+</ol>
+</section>
+<section id="how-the-team-evolved">
+<h2>How the team evolved<a class="headerlink" href="#how-the-team-evolved" title="Permalink to this heading">#</a></h2>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Period</p></th>
+<th class="head"><p>Shape of the team</p></th>
+<th class="head"><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Q1 2022</p></td>
+<td><p>Lead, 2 senior CMs, and 4 CMs; 2 more hired for AIM-RSF in May and June</p></td>
+<td><p>Embedded in EDoN, Turing-RSS Health Data Lab and DECOVID, Turing-Roche, ASG, The Turing Way, and AIM-RSF</p></td>
+</tr>
+<tr class="row-odd"><td><p>Q2–Q3 2022</p></td>
+<td><p>Lead, 2 senior CMs, and 5 CMs</p></td>
+<td><p>Fortnightly strategy meetings, the “goat-herder” coordination format, and a shared GitHub repository and outputs sheet</p></td>
+</tr>
+<tr class="row-even"><td><p>Q4 2022–Q1 2023</p></td>
+<td><p>Same, minus the ASG CM, whose contract ended in February 2023</p></td>
+<td><p>Named a <strong>core capability</strong> in the Turing 2.0 strategy alongside the RAM team</p></td>
+</tr>
+<tr class="row-odd"><td><p>Apr–Sep 2023</p></td>
+<td><p>Lead, 3 Senior RCMs (Health, TRIC:DT, DCE), and 4 RCMs</p></td>
+<td><p>The EDoN senior RCM left in July 2023, and the AIM-RSF Open Collaboration CM left in November 2023</p></td>
+</tr>
+<tr class="row-even"><td><p>Oct 2023–Mar 2024</p></td>
+<td><p>Lead, 3 Senior RCMs, and 3 RCMs</p></td>
+<td><p>The Environment and Sustainability Grand Challenge senior RCM post was filled internally</p></td>
+</tr>
+<tr class="row-odd"><td><p>Apr–Sep 2024</p></td>
+<td><p>Lead, 5 Senior RCMs (Health, E&amp;S, DCE, BridgeAI, Arts and Humanities), and 3 RCMs</p></td>
+<td><p>One RCM was promoted to Senior RCM, and there was a brief secondment from the research engineering group</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<section id="the-operating-model-that-worked">
+<h3>The operating model that worked<a class="headerlink" href="#the-operating-model-that-worked" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Embedded RCMs plus a central layer.</strong> Each RCM reported to a project or programme, with a team lead and a senior tier. The senior tier met fortnightly on strategy, the whole team met weekly for updates and co-working, and periodic team days covered important but non-urgent work.</p></li>
+<li><p><strong>Shared infrastructure.</strong> RCMs shared processes through a public GitHub repository, a centralised outputs sheet, a team wiki, and The Turing Way.</p></li>
+<li><p><strong>Pairing with other roles.</strong> Working with Research Application Managers (RAMs) and research engineers was productive project by project, for example on Data Safe Haven, ADViCE, and the E&amp;S stakeholder map. No institution-level agreement was reached in 2023, and by 2024 the team was drafting a workflow to make the case for resourcing “RCM–RAM pairs”.</p></li>
+<li><p><strong>Structured onboarding.</strong> The team used surveys for projects planning to hire an RCM, onboarding manuals, a community-research toolkit for new RCMs, and line-management and mentoring chains within programmes.</p></li>
+</ul>
+</section>
+</section>
+<section id="stronger-more-engaged-communities-around-projects">
+<h2>1. Stronger, more engaged communities around projects<a class="headerlink" href="#stronger-more-engaged-communities-around-projects" title="Permalink to this heading">#</a></h2>
+<p><strong>Value:</strong> Projects and partnerships reach more of the right people, keep them engaged, and become visible externally.</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Initiative</p></th>
+<th class="head"><p>What RCMs enabled</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Turing-Roche Strategic Partnership</p></td>
+<td><p>Slack grew from about 430 to 954 members and the newsletter from 185 to 300+ subscribers. The Knowledge Share series drew 240+ sign-ups at launch and 43–54 organisations per event later. A Community Scholars scheme supported 10 PhD students. The partnership won the <strong>Praxis Auril Strategic Partnership Award (2023)</strong>, with community management highlighted in the entry.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Clinical AI Interest Group</p></td>
+<td><p>Membership grew from about 300 to nearly 1,000, with about 100 attendees per monthly meeting, two summer schools, a spin-off AI for Women’s Health group, and town halls on upskilling with 100+ attendees from regulators, the NHS, and industry.</p></td>
+</tr>
+<tr class="row-even"><td><p>AIM-RSF (NIHR-funded research support facility)</p></td>
+<td><p>An ECR committee, in-person conferences, an R workshop series, and a PPIE Community of Practice of 150+ members across 27 projects. A co-created plain-language glossary and a Zenodo community made outputs findable.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Data-Centric Engineering</p></td>
+<td><p>DCE 2.0 launched with the Lloyd’s Register Foundation, an accreditation initiative with the Royal Academy of Engineering, and an invitation to chair IEEE CAI 2025.</p></td>
+</tr>
+<tr class="row-even"><td><p>Environment and Sustainability</p></td>
+<td><p>A public stakeholder map attracted DEFRA interest, and the Climate Informatics 2024 conference drew 150+ registrations with open-by-design submissions and artefact evaluation.</p></td>
+</tr>
+<tr class="row-odd"><td><p>BridgeAI, Data/Culture, People in Data</p></td>
+<td><p>Advisor community calls, an SME case-study programme, a UK-wide group of 25+ arts and humanities and RSE leaders, and a first working group of 20 partner organisations.</p></td>
+</tr>
+<tr class="row-even"><td><p>Data Safe Haven and SATRE</p></td>
+<td><p>A Collaboration Café with 40+ trusted research environment experts and a community-governed specification repository.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Lesson:</strong> Track engagement quality, not only totals. Roche Knowledge Share attendance fell from about 200 to about 90 per event even as Slack membership grew.</p>
+</section>
+<section id="reusable-knowledge-and-open-infrastructure">
+<h2>2. Reusable knowledge and open infrastructure<a class="headerlink" href="#reusable-knowledge-and-open-infrastructure" title="Permalink to this heading">#</a></h2>
+<p><strong>Value:</strong> Solutions built for one project become assets that other projects, and the public, can adopt without starting from scratch.</p>
+<ul class="simple">
+<li><p><strong>Process and governance templates:</strong> project and repository templates, the all-contributors bot, project-scoping templates, onboarding manuals, and surveys that prepare projects to host an RCM.</p></li>
+<li><p><strong>Formats that spread:</strong> the Collaboration Café was adopted by AIM-RSF, Scivision, the Environmental Data Science Book, and SATRE. A case-study framework and a stakeholder-mapping workflow with data-protection review were published on Zenodo.</p></li>
+<li><p><strong>Turing Way chapters:</strong> academic-industry partnerships, ambassador schemes, inclusive events, public involvement, RCM chapters, and containerised workflows. Lessons from sensitive or closed projects were shared as generic, transferable chapters.</p></li>
+<li><p><strong>Tools and demos:</strong> the ADViCE knowledge base, an interactive explainer on structured missingness, and the AIM glossary website.</p></li>
+</ul>
+<p><strong>Lesson:</strong> Make everything reusable by default. Open-by-default working gave the team external visibility and made outputs easy to build on.</p>
+</section>
+<section id="funding-leverage-and-strategic-positioning">
+<h2>3. Funding, leverage, and strategic positioning<a class="headerlink" href="#funding-leverage-and-strategic-positioning" title="Permalink to this heading">#</a></h2>
+<p><strong>Value:</strong> Community and skills work packages make bids stronger, and RCMs help turn programme goals into fundable, deliverable plans.</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Funding</p></th>
+<th class="head"><p>Role of RCMs</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>The Turing Way Practitioners Hub</p></td>
+<td><p>£122,003 (FY22-23), £362,074 underwritten (FY23-24), and £560,449 (2024 onwards); funded a technical writer, a researcher, a research project manager, and a senior RCM.</p></td>
+</tr>
+<tr class="row-odd"><td><p>People in Data (EPSRC)</p></td>
+<td><p>£1.7M over three years; the community-building work package was written by an RCM, who was also Co-I (0.3 FTE).</p></td>
+</tr>
+<tr class="row-even"><td><p>Skills Policy Award</p></td>
+<td><p>£64k; produced the RCM skills framework, personas, a workshop of 40–45+ experts, and a two-part podcast.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Data Science Without Borders (Wellcome)</p></td>
+<td><p>About £5M over three years, with an RCM as Co-I leading the open-science working group. The Turing later discontinued the partnership in 2024.</p></td>
+</tr>
+<tr class="row-even"><td><p>MRC Biomedical Data Science Leadership Award</p></td>
+<td><p>Invited to full application and reported as awarded in 2024, pending internal approval.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Other contributions include a successful Research England grant for Hidden REF, a UKRI community work package for TEA-DT, and community roles in UKRI health AI bids.</p>
+<p><em>These are headline values of projects the team contributed to, not RCM-attributable income.</em></p>
+</section>
+<section id="skills-training-and-capacity-building">
+<h2>4. Skills, training, and capacity building<a class="headerlink" href="#skills-training-and-capacity-building" title="Permalink to this heading">#</a></h2>
+<p><strong>Value:</strong> Researchers, students, and partners gain practical open research skills, and new audiences enter the research ecosystem.</p>
+<ul class="simple">
+<li><p><strong>Community management training</strong> for 16 staff in 2022, with Slack-based follow-up.</p></li>
+<li><p><strong>AI and Data Science Educators Programme</strong>, run with the Skills team, with 50+ international participants.</p></li>
+<li><p><strong>Open, FAIR, and reproducible research workshops</strong> for doctoral programmes, enrichment students, and a Data Study Group course (35+ students).</p></li>
+<li><p><strong>Widening Participation summer schools</strong> that introduced under-represented teenagers to Git and GitHub, supported by a reusable open curriculum.</p></li>
+<li><p><strong>Peer and ECR support:</strong> lunchtime series, grant-writing and narrative CV workshops, PPIE skills sessions for public contributors, and mentoring of enrichment students.</p></li>
+<li><p><strong>Training for project leaders</strong>, piloted with senior postdocs and infrastructure staff.</p></li>
+</ul>
+</section>
+<section id="research-outputs-and-responsible-data-sharing">
+<h2>5. Research outputs and responsible data sharing<a class="headerlink" href="#research-outputs-and-responsible-data-sharing" title="Permalink to this heading">#</a></h2>
+<p><strong>Value:</strong> RCMs coordinate people and processes so that research is published, reproducible, and ethically managed.</p>
+<ul class="simple">
+<li><p>They coordinated or co-authored papers including <em>Learning from data with structured missingness</em> (<em>Nature Machine Intelligence</em>, 2023), three Bioacoustic Markers papers (2022) with later publications in <em>Nature Machine Intelligence</em> and <em>Scientific Data</em> (2024), and two Ten Simple Rules papers.</p></li>
+<li><p>They drove FAIR data deposition for DECOVID and Bioacoustic Markers.</p></li>
+<li><p>In EDoN, they supported containerised, reproducible environments, an ethics application that became a reference for others, and PPIE panels whose turnout more than doubled in the second round.</p></li>
+</ul>
+</section>
+<section id="professionalising-the-role-and-shaping-the-field">
+<h2>6. Professionalising the role and shaping the field<a class="headerlink" href="#professionalising-the-role-and-shaping-the-field" title="Permalink to this heading">#</a></h2>
+<p><strong>Value:</strong> Recognised roles, skills frameworks, and evidence help institutions hire, fund, and retain research technical professionals.</p>
+<ul class="simple">
+<li><p><strong>Frameworks and papers:</strong> an RCM skills framework compared against the Alliance for Data Science standards, Data Science Team Personas (230+ downloads within months), the position paper <a class="reference external" href="https://arxiv.org/abs/2409.00108"><em>Professionalising Community Management Roles in Interdisciplinary Research Projects</em></a>, and <a class="reference external" href="https://arxiv.org/abs/2407.00345"><em>Unicorns Do Not Exist</em></a> on employing community managers in open source.</p></li>
+<li><p><strong>Panel and advisory roles:</strong> EPSRC and NWO review panels, an ELIXIR focus group on professionalising careers, and the Hidden REF committee.</p></li>
+<li><p><strong>Policy input:</strong> written evidence to the House of Lords LLM inquiry, input to the Royal Society’s <em>Science in the age of AI</em>, and responses to the UNESCO call for open science practices.</p></li>
+<li><p><strong>External uptake:</strong> Cancer Research UK, the Oxford Big Data Institute, and Genomics England asked for advice on setting up similar roles.</p></li>
+<li><p><strong>Institutional recognition:</strong> the team was named a <strong>core capability</strong> in the Turing 2.0 strategy in 2023, and featured in the 2023–24 annual report.</p></li>
+</ul>
+</section>
+<section id="headline-numbers">
+<h2>Headline numbers<a class="headerlink" href="#headline-numbers" title="Permalink to this heading">#</a></h2>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Measure</p></th>
+<th class="head"><p>Value as reported</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Reporting span</p></td>
+<td><p>January 2022 to September 2024 (8 periodic reports)</p></td>
+</tr>
+<tr class="row-odd"><td><p>Team size</p></td>
+<td><p>About 8 (2022) to about 9 including the lead (2024), with 3–4 departures along the way</p></td>
+</tr>
+<tr class="row-even"><td><p>Turing-Roche Slack members</p></td>
+<td><p>About 430 (2022) to 954 (March 2024)</p></td>
+</tr>
+<tr class="row-odd"><td><p>Turing-Roche newsletter</p></td>
+<td><p>185 to 300+ subscribers</p></td>
+</tr>
+<tr class="row-even"><td><p>Clinical AI Interest Group members</p></td>
+<td><p>About 300 (Q1 2023) to about 1,000 (March 2024)</p></td>
+</tr>
+<tr class="row-odd"><td><p>PPIE Community of Practice</p></td>
+<td><p>150+ members across 27 projects</p></td>
+</tr>
+<tr class="row-even"><td><p>Turing Way talks and workshops</p></td>
+<td><p>19 in Q3 2022; about 70 in 2023 (project-wide)</p></td>
+</tr>
+<tr class="row-odd"><td><p>Practitioners Hub</p></td>
+<td><p>Cohort 1 (2023): 5 case studies and a showcase attended by 80; Cohort 2 (2024): 40 Experts in Residence and 20 companies</p></td>
+</tr>
+<tr class="row-even"><td><p>Funding secured (headline)</p></td>
+<td><p>See <a class="reference internal" href="#funding-leverage-and-strategic-positioning"><span class="std std-doc">funding, leverage, and strategic positioning</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><p>Skills Policy outputs</p></td>
+<td><p>A workshop of 40–45+ experts; personas with 230+ downloads</p></td>
+</tr>
+<tr class="row-even"><td><p>Widening Participation</p></td>
+<td><p>3 groups (2023) and 4 weekly sessions (2024)</p></td>
+</tr>
+<tr class="row-odd"><td><p>Awards</p></td>
+<td><p>Praxis Auril Strategic Partnership Award; KEA finalist</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="what-made-the-impact-possible">
+<h2>What made the impact possible<a class="headerlink" href="#what-made-the-impact-possible" title="Permalink to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p><strong>Embedding in a funded project with a named community and clear goals.</strong> Turing-Roche, the Practitioners Hub, and Clinical AI produced the strongest results.</p></li>
+<li><p><strong>Open-by-default working.</strong> Public repositories, Zenodo deposits, and recordings made outputs reusable.</p></li>
+<li><p><strong>A shared handbook and a flagship community.</strong> The Turing Way let the team share lessons from closed projects as generic chapters.</p></li>
+<li><p><strong>A central team layer.</strong> A lead, fortnightly senior meetings, team days, and a shared repository spread templates, onboarding, and peer review.</p></li>
+<li><p><strong>Links to Skills, Communications and Events, research engineering, and research application management teams.</strong> These turned community activity into training, publicity, and technical delivery.</p></li>
+<li><p><strong>Senior sponsorship.</strong> Programme leads who asked for RCMs, and funders who named community in awards, correlated with the visible wins.</p></li>
+</ol>
+</section>
+<section id="conditions-that-limited-impact">
+<h2>Conditions that limited impact<a class="headerlink" href="#conditions-that-limited-impact" title="Permalink to this heading">#</a></h2>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Issue</p></th>
+<th class="head"><p>What happened</p></th>
+<th class="head"><p>What to do</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Approval timelines</p></td>
+<td><p>A scholar scheme took 8–10 months to approve, and a data-sharing agreement was delayed by about six months.</p></td>
+<td><p>Budget lead time, involve legal and data-protection staff early, and reuse approved templates.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Leadership buy-in and authority</p></td>
+<td><p>Some RCMs had limited influence over project direction.</p></td>
+<td><p>Define remit, decision rights, and reporting lines at hiring.</p></td>
+</tr>
+<tr class="row-even"><td><p>Capacity</p></td>
+<td><p>Requests exceeded capacity, and a mentorship request was declined.</p></td>
+<td><p>Scope by project, and offer drop-ins and institute-wide cafés.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Attrition</p></td>
+<td><p>Three RCMs left, citing project uncertainty and better external offers.</p></td>
+<td><p>Offer a career ladder and plan handovers.</p></td>
+</tr>
+<tr class="row-even"><td><p>Funding and strategy shocks</p></td>
+<td><p>In 2024, roles rolled off or were paused, a partnership was discontinued, and recruitment was frozen.</p></td>
+<td><p>Do not make RCM roles depend on a single programme.</p></td>
+</tr>
+<tr class="row-odd"><td><p>RCM and RAM alignment</p></td>
+<td><p>No institution-level pairing model was agreed in 2023.</p></td>
+<td><p>Define complementary roles before projects begin.</p></td>
+</tr>
+<tr class="row-even"><td><p>Data protection</p></td>
+<td><p>Publicly indexed meeting notes were found, locked, and audited.</p></td>
+<td><p>Include tool and data-handling standards in the RCM toolkit.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Resistance to open practice</p></td>
+<td><p>Some teams did not take up support.</p></td>
+<td><p>Pair training with incentives and leadership endorsement.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="recommendations-for-institutions">
+<h2>Recommendations for institutions<a class="headerlink" href="#recommendations-for-institutions" title="Permalink to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p><strong>Position RCMs as research technical professionals</strong> with a skills framework, a career ladder (RCM, Senior RCM, lead), and a clear remit.</p></li>
+<li><p><strong>Embed RCMs in projects with explicit community goals and sponsor support</strong>, and add a central team for standards, mentoring, and shared infrastructure.</p></li>
+<li><p><strong>Fund a pooled core</strong> so that the capability survives changes in programmes.</p></li>
+<li><p><strong>Build in setup time</strong> for legal, data-protection, and finance approvals.</p></li>
+<li><p><strong>Pair RCMs with research application managers and research software engineers</strong>, and document the workflow before the project starts.</p></li>
+<li><p><strong>Measure outcomes early.</strong> Move from counts of events and members to indicators such as collaborations formed, funding leveraged, reuse of outputs, retention of community members, and partner satisfaction.</p></li>
+<li><p><strong>Make everything reusable:</strong> repositories, templates, case-study frameworks, and onboarding surveys.</p></li>
+<li><p><strong>Offer institute-wide services</strong> such as drop-ins, Collaboration Cafés, and training to extend reach beyond funded projects.</p></li>
+</ol>
+</section>
+<section id="evidence-still-to-collect">
+<h2>Evidence still to collect<a class="headerlink" href="#evidence-still-to-collect" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Several outcomes were unresolved when the reports were written, including the Arcadia Fund bid, People in Data senior RCM recruitment, the MRC award approval, and the Clinical AI curriculum.</p></li>
+<li><p>To make causal claims, collect comparison data prospectively.</p></li>
+</ul>
+</section>
+<section id="related-pages">
+<h2>Related pages<a class="headerlink" href="#related-pages" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p><a class="reference internal" href="goals.html"><span class="doc std std-doc">Goals of RCM work</span></a> lists the six goals that these impacts deliver.</p></li>
+<li><p><a class="reference internal" href="values-principles.html"><span class="doc std std-doc">Values and principles</span></a> describes how the team worked.</p></li>
+<li><p><a class="reference internal" href="team/about-the-team.html"><span class="doc std std-doc">The team</span></a> and <a class="reference internal" href="team/members-collaborators.html"><span class="doc std std-doc">members and collaborators</span></a> describe who did the work.</p></li>
+<li><p><a class="reference internal" href="team/research-outputs.html"><span class="doc std std-doc">Research outputs</span></a> records the team’s publications.</p></li>
+<li><p>The <a class="reference internal" href="paper-guide.html"><span class="doc std std-doc">guide to the RCM paper</span></a> maps the paper’s guidance on defining, skilling, and professionalising the role.</p></li>
+<li><p><a class="reference internal" href="impact-resources.html"><span class="doc std std-doc">Impact evidence and resources</span></a> lists the sources, publications, talks, and links behind this page.</p></li>
+<li><p>The <a class="reference internal" href="resources.html"><span class="doc std std-doc">resource library</span></a> lists templates and materials.</p></li>
+</ul>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="goals.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Goals of RCM work</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="values-principles.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Values and principles</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#summary">Summary</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-the-team-evolved">How the team evolved</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-operating-model-that-worked">The operating model that worked</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stronger-more-engaged-communities-around-projects">1. Stronger, more engaged communities around projects</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reusable-knowledge-and-open-infrastructure">2. Reusable knowledge and open infrastructure</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#funding-leverage-and-strategic-positioning">3. Funding, leverage, and strategic positioning</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#skills-training-and-capacity-building">4. Skills, training, and capacity building</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#research-outputs-and-responsible-data-sharing">5. Research outputs and responsible data sharing</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#professionalising-the-role-and-shaping-the-field">6. Professionalising the role and shaping the field</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#headline-numbers">Headline numbers</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-made-the-impact-possible">What made the impact possible</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#conditions-that-limited-impact">Conditions that limited impact</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#recommendations-for-institutions">Recommendations for institutions</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#evidence-still-to-collect">Evidence still to collect</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#related-pages">Related pages</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Research Community Managers at The Alan Turing Institute
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2023, The Alan Turing Institute.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

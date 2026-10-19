@@ -24,6 +24,7 @@ Read the [Turing's programme page](https://www.turing.ac.uk/research/research-pr
 ## Where to go next
 
 - Read the [goals of RCM work](goals.md) to see what RCMs set out to achieve.
+- See the [impact of RCMs](impact.md) for what the role delivered in practice.
 - Read the [values and principles](values-principles.md) that shaped how the Turing's RCM team worked.
 - Find out how the team [contributed to *The Turing Way*](rcm-ttw.md).
 - Learn more about [the team](team/about-the-team.md).
