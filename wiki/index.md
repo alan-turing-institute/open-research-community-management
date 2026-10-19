@@ -10,7 +10,7 @@ This handbook preserves the resources and practices developed by the Open Resear
 
 ## Explore the handbook
 
-- Use the [RCM Playbook](background.md), which brings together the background, goals, values, and principles of RCM work, how the team [contributed to *The Turing Way*](rcm-ttw.md), and [team information](team/about-the-team.md), [ways of working](team/ways-of-working.md), [onboarding](onboarding.md), [meeting format](meetings.md), and [research outputs](team/research-outputs.md).
+- Use the [RCM Playbook](background.md), which brings together the background, goals, [impact](impact.md), values, and principles of RCM work, how the team [contributed to *The Turing Way*](rcm-ttw.md), and [team information](team/about-the-team.md), [ways of working](team/ways-of-working.md), [onboarding](onboarding.md), [meeting format](meetings.md), and [research outputs](team/research-outputs.md).
 - Use the [guide to the RCM paper](paper-guide.md) to find the sections relevant to practical tasks.
 - Browse the [resource library](resources.md) and read selected [briefing notes](briefing-notes.md).
 

@@ -35,3 +35,7 @@ The [briefing notes](briefing-notes.md) provide further examples of individual p
 
 - [Homebrew installation on Apple Silicon](https://github.com/alan-turing-institute/open-research-community-management/blob/main/resources/homebrew-applesilicon-installation-guide.md) is a historic technical setup guide.
 - [Community-management word cloud data](https://github.com/alan-turing-institute/open-research-community-management/blob/main/resources/wordcloud/cm-words.csv) is available as a CSV file.
+
+## Impact evidence
+
+- [Impact evidence and resources](impact-resources.md) lists the publications, talks, project repositories, policy contributions, and media behind the [impact of RCMs](impact.md).
