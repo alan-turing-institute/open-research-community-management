@@ -1,35 +1,35 @@
 # Impact of RCMs
 
-> **Note:** This page synthesises the Turing's Research Community Management team's quarterly reports from 2022 and 2024. The Turing Way project reports and the team's briefing notes are not included in full.
+> **Note:** This page synthesises the Turing's Research Community Management team's quarterly reports from 2021 and 2024. The Turing Way project reports and the team's briefing notes are not included in full.
 
-An RCM team creates value for an institution in six ways. Each section below states the value, then gives examples from the Turing so that you can make the case for RCMs in your own organisation.
+An RCM team created value for an institution in six ways. Each section below states the value, then gives examples from the Turing.
 
 ## Summary
 
 The team grew from a handful of project-embedded community managers into a recognised core capability of about nine people, working across health, environment, engineering, AI adoption, arts and humanities, and open-science programmes. Its reports support five conclusions:
 
-1. **RCMs make projects and partnerships more visible, connected, and reusable.**
-2. **RCMs convert project know-how into institution-wide and public assets**, mostly published openly with DOIs.
-3. **RCMs help win and shape funding** by writing community and skills work packages or serving as co-investigators.
-4. **RCMs build credibility for the role itself** through frameworks, position papers, and advisory roles.
-5. **Impact depends on institutional conditions**: sponsorship, remit, lead time for approvals, and stable funding.
+1. **RCMs made projects and partnerships more visible, connected, and reusable.**
+2. **RCMs converted project know-how into institution-wide and public assets**, mostly published openly with DOIs.
+3. **RCMs helped win and shape funding** by writing community and skills work packages or serving as co-investigators.
+4. **RCMs buily credibility for the role itself** through frameworks, position papers, and advisory roles.
+5. **Impact depended ultimate on institutional conditions**: sponsorship, remit, lead time for approvals, and stable funding.
 
 ## How the team evolved
 
 | Period | Shape of the team | Notes |
 |---|---|---|
-| Q1 2022 | Lead, 2 senior CMs, and 4 CMs; 2 more hired for AIM-RSF in May and June | Embedded in EDoN, Turing-RSS Health Data Lab and DECOVID, Turing-Roche, ASG, The Turing Way, and AIM-RSF |
-| Q2–Q3 2022 | Lead, 2 senior CMs, and 5 CMs | Fortnightly strategy meetings, the "goat-herder" coordination format, and a shared GitHub repository and outputs sheet |
-| Q4 2022–Q1 2023 | Same, minus the ASG CM, whose contract ended in February 2023 | Named a **core capability** in the Turing 2.0 strategy alongside the RAM team |
-| Apr–Sep 2023 | Lead, 3 Senior RCMs (Health, TRIC:DT, DCE), and 4 RCMs | The EDoN senior RCM left in July 2023, and the AIM-RSF Open Collaboration CM left in November 2023 |
+| Q1 2022 | Lead, 2 senior CMs, and 4 CMs; EDoN, Turing-RSS Health Data Lab and DECOVID, Turing-Roche, ASG, The Turing Way, and AIM-RSF hired roles in 2021-2022 |
+| Q2–Q3 2022 | Lead, 2 senior CMs, and 5 CMs | Team formalised themselves through fortnightly strategy meetings, weekly team coordination, knowledge based in a shared GitHub repository and internal information management |
+| Q4 2022–Q1 2023 | Team remained stable except one role ended due to project's conclusion | Named a **core capability** in the Turing 2.0 strategy alongside the RAM team |
+| Apr–Sep 2023 | Lead, 3 Senior RCMs (Health, TRIC:DT, DCE), and 4 RCMs | The EDoN project concluded, AIM-RSF Open Collaboration CM left in November 2023 |
 | Oct 2023–Mar 2024 | Lead, 3 Senior RCMs, and 3 RCMs | The Environment and Sustainability Grand Challenge senior RCM post was filled internally |
 | Apr–Sep 2024 | Lead, 5 Senior RCMs (Health, E&S, DCE, BridgeAI, Arts and Humanities), and 3 RCMs | One RCM was promoted to Senior RCM, and there was a brief secondment from the research engineering group |
 
 ### The operating model that worked
 
-- **Embedded RCMs plus a central layer.** Each RCM reported to a project or programme, with a team lead and a senior tier. The senior tier met fortnightly on strategy, the whole team met weekly for updates and co-working, and periodic team days covered important but non-urgent work.
+- **Embedded RCMs plus a central layer.** Each RCM reported to a project or programme, with a team lead and a senior RCM tier that managed different RCMs. The senior tier met fortnightly on strategy, the whole team met weekly for updates and co-working, and periodic team days covered important but non-urgent work.
 - **Shared infrastructure.** RCMs shared processes through a public GitHub repository, a centralised outputs sheet, a team wiki, and The Turing Way.
-- **Pairing with other roles.** Working with Research Application Managers (RAMs) and research engineers was productive project by project, for example on Data Safe Haven, ADViCE, and the E&S stakeholder map. No institution-level agreement was reached in 2023, and by 2024 the team was drafting a workflow to make the case for resourcing "RCM–RAM pairs".
+- **Pairing with other roles.** Working with Research Application Managers (RAMs) and research engineers was productive project by project, for example on Data Safe Haven, ADViCE, and the E&S stakeholder map. No institution-level coordination for these groups existed, though internal efforts were there to align scopes.
 - **Structured onboarding.** The team used surveys for projects planning to hire an RCM, onboarding manuals, a community-research toolkit for new RCMs, and line-management and mentoring chains within programmes.
 
 ## 1. Stronger, more engaged communities around projects
@@ -46,7 +46,7 @@ The team grew from a handful of project-embedded community managers into a recog
 | BridgeAI, Data/Culture, People in Data | Advisor community calls, an SME case-study programme, a UK-wide group of 25+ arts and humanities and RSE leaders, and a first working group of 20 partner organisations. |
 | Data Safe Haven and SATRE | A Collaboration Café with 40+ trusted research environment experts and a community-governed specification repository. |
 
-**Lesson:** Track engagement quality, not only totals. Roche Knowledge Share attendance fell from about 200 to about 90 per event even as Slack membership grew.
+**Lesson:** The team tracked engagement types and numbers - quality was not always captured except for through event event specific feedback which were not centralised.
 
 ## 2. Reusable knowledge and open infrastructure
 
@@ -134,14 +134,14 @@ Other contributions include a successful Research England grant for Hidden REF, 
 
 | Issue | What happened | What to do |
 |---|---|---|
-| Approval timelines | A scholar scheme took 8–10 months to approve, and a data-sharing agreement was delayed by about six months. | Budget lead time, involve legal and data-protection staff early, and reuse approved templates. |
-| Leadership buy-in and authority | Some RCMs had limited influence over project direction. | Define remit, decision rights, and reporting lines at hiring. |
+| Approval timelines | A scholar scheme took several months to approve, and a data-sharing agreement was delayed by about six months. | Budget lead time, involve legal and data-protection staff early, and reuse approved templates. |
+| Leadership buy-in and authority | Some RCMs had limited influence over project direction and were brought in after decisions were made without community involvement. | Define remit, decision rights, and reporting lines at hiring. |
 | Capacity | Requests exceeded capacity, and a mentorship request was declined. | Scope by project, and offer drop-ins and institute-wide cafés. |
-| Attrition | Three RCMs left, citing project uncertainty and better external offers. | Offer a career ladder and plan handovers. |
-| Funding and strategy shocks | In 2024, roles rolled off or were paused, a partnership was discontinued, and recruitment was frozen. | Do not make RCM roles depend on a single programme. |
-| RCM and RAM alignment | No institution-level pairing model was agreed in 2023. | Define complementary roles before projects begin. |
-| Data protection | Publicly indexed meeting notes were found, locked, and audited. | Include tool and data-handling standards in the RCM toolkit. |
-| Resistance to open practice | Some teams did not take up support. | Pair training with incentives and leadership endorsement. |
+| Attrition | Three RCMs left, citing project uncertainty of their roles due to institutional strategy change and better external offers. | Offer a career ladder and plan handovers. |
+| Funding and strategy shocks | In 2024, roles rolled off or were paused, a partnership was discontinued, and recruitment was frozen. | Do not make RCM roles depend on programmes, instead have institutional plans. |
+| RCM and other specialised role alignment | No institution-level model was agreed and the members were navigating their partnership in projects. it worked when members had collaborative approach, however in some cases there were different goals being pursued by members with different soecialisations. | Define complementary roles before projects begin. |
+| Data protection | Several programmes though planned to publish their work or had their research output published, other resources were not always auditable. | Include tool and data-handling standards in the RCM toolkit. |
+| Resistance to open practice | Some teams did not take up support to make their work open or contribute d best practices to The Turing Aay. | Pair training with incentives and leadership endorsement. |
 
 ## Recommendations for institutions
 
