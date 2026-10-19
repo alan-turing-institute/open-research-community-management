@@ -1,6 +1,6 @@
 # Impact of RCMs
 
-> **Note:** This page synthesises what the Turing's Research Community Management team reported between 2022 and September 2024, drawing on eight periodic team reports. Figures are as reported by the team, are not independently verified, and are not all attributable to RCMs alone. No comparison with projects that had no RCM is available, so treat the examples as evidence of what is possible, not as proof of cause.
+> **Note:** This page synthesises the Turing's Research Community Management team's quarterly reports from 2022 and 2024. The Turing Way project reports and the team's briefing notes are not included in full.
 
 An RCM team creates value for an institution in six ways. Each section below states the value, then gives examples from the Turing so that you can make the case for RCMs in your own organisation.
 
