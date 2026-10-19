@@ -22,4 +22,5 @@ The Turing's programme page describes the wider aim of RCM work as ensuring that
 ## Related pages
 
 - The [guide to the RCM paper](paper-guide/examples-from-the-turing.md) explains how the paper presents these goals and how to adapt them for a community-management team.
+- The [impact of RCMs](impact.md) summarises what these goals delivered for projects, partnerships, funding, and the field.
 - The [values and principles](values-principles.md) describe how the team aimed to work towards these goals.

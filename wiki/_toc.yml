@@ -7,6 +7,8 @@ parts:
         title: Background
       - file: goals
         title: Goals of RCM work
+      - file: impact
+        title: Impact of RCMs
       - file: values-principles
         title: Values and principles
       - file: rcm-ttw
@@ -39,5 +41,7 @@ parts:
     chapters:
       - file: resources
         title: Resource library
+      - file: impact-resources
+        title: Impact evidence and resources
       - file: briefing-notes
         title: Briefing notes
